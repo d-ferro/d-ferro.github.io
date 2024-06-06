@@ -14,7 +14,7 @@ name                     : &name "Your Name"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "d-ferro/d-ferro.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -28,6 +28,7 @@ author:
   location         : "Barcelona"
   employer         : "Universitat Pompeu Fabra"
   uri              : "https://producciocientifica.upf.edu/CawDOS/jsf/seleccionActividades/seleccionActividades.jsf?id=5c2826f71fcdeb4b&idioma=ca&tipo=activ&elmeucv=N" # URL
+  uri              : "https://gin.g-node.org/56fe"
   email            : "demetrio.ferro@upf.edu" #"none@example.org" 
 
   # Academic websites
