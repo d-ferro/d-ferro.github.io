@@ -28,7 +28,7 @@ DOI: [10.32470/CCN.2023.1122-0](https://2023.ccneuro.org/view_paper8951.html?Pap
 Demetrio Ferro, Jochem van Kempen, Michael Boyd, Stefano Panzeri, Alexander Thiele<br/>
 _Proceedings of the National Academy of Sciences_, 118 (12), e2022097118, 2021 <br/>
 DOI:[10.1073/pnas.2022097118](https://doi.org/10.1073/pnas.2022097118)
-[[code]](https://gin.g-node.org/56Fe/V1-V4-LFPs-and-Visual-Attention) [[pdf]](https://www.biorxiv.org/content/10.1101/2020.06.09.142190v1.full.pdf)
+[[code]](https://gin.g-node.org/56Fe/V1-V4-LFPs-and-Visual-Attention) [[pdf]](https://www.pnas.org/doi/reader/10.1073/pnas.2022097118)
 
 
 [Directed information exchange between cortical layers in macaque V1 and V4 and its modulation by selective attention](https://www.biorxiv.org/content/10.1101/2020.06.09.142190v1)<br/>
