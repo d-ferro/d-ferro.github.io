@@ -6,7 +6,7 @@ excerpt: 'The problem of finding nearest neighbours in terms of Euclidean distan
 date: 2016
 venue: '2016 International Joint Conference on Neural Networks (IJCNN)'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://ieeexplore.ieee.org/abstract/document/7727873/)'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/7727873/'
 citation: 'Ferro, D., Gripon, V. and Jiang, X., 2016, July. Nearest neighbour search using binary neural networks. In 2016 International Joint Conference on Neural Networks (IJCNN) (pp. 5106-5112). IEEE.'
 ---
 
