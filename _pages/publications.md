@@ -38,7 +38,7 @@ DOI:[10.1101/2020.06.09.142190](https://doi.org/10.1101/2020.06.09.142190)
 [[pdf]](https://www.biorxiv.org/content/10.1101/2020.06.09.142190v1.full.pdf)
 
 [Effects of attention on visual processing between cortical layers and cortical areas V1 and V4](https://hdl.handle.net/11572/246290) <br />
-Demetrio Ferro, *_University of Trento, (IRIS)_*, 1-172, 2019<br />
+Demetrio Ferro, _University of Trento, (IRIS)_, 1-172, 2019<br />
 DOI: [10.15168/11572_246290](https://dx.doi.org/10.15168/11572_246290)
 [[pdf]](https://iris.unitn.it/retrieve/e3835195-f568-72ef-e053-3705fe0ad821/DFerro-Thesis-final-updated-reviews-ok.pdf)
 
