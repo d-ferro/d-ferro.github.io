@@ -14,12 +14,12 @@ main:
         
  # - title: "Blog Posts"
  #   url: /year-archive/
+  
+  - title: "Repository"
+    url: /gnode/
     
   - title: "CV"
     url: /cv/
-
-  - title: "Gnode"
-    url: /gnode/
     
  # - title: "Guide"
  #   url: /markdown/
