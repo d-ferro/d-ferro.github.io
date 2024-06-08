@@ -5,7 +5,7 @@ permalink: /gnode/
 author_profile: true
 ---
 
-text
+text 
 
 {% include base_path %}
 
