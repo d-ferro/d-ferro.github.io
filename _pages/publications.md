@@ -8,7 +8,7 @@ author_profile: true
 You can also find my articles on [Google Scholar](https://scholar.google.com/citations?hl=en&user=rb2l4DcAAAAJ&hl=en).  
 For any request or further information contact me at *demetrio.ferro[at]upf[dot]edu*.  
 
-=====
+
 
 [Gaze-centered gating and re-activation of value encoding in orbitofrontal cortex](https://www.biorxiv.org/content/10.1101/2023.04.20.537677v3.abstract)<br/>
 Demetrio Ferro, Tyler Cash-Padgett, Maya Zhe-Wang, Benjamin Hayden, Rubén Moreno Bote<br/>
