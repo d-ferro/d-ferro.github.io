@@ -1,9 +1,11 @@
 ---
 layout: archive
-title: "Portfolio"
-permalink: /portfolio/
+title: "Repositories"
+permalink: /gnode/
 author_profile: true
 ---
+
+text
 
 {% include base_path %}
 
