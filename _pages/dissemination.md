@@ -7,4 +7,3 @@ author_profile: true
 
 Dissemination
 
-{% include base_path %}
