@@ -39,7 +39,7 @@ Neuroscience de la Timone (<i>INT</i>), Feb. 2020 (Marseille, FR). [talk]
 <h3>Barccsyn 2021</h3>
 <b>D. Ferro</b>, A. Rifé-Mata, T. Cash-Padgett, M. Z. Wang, B. Y. Hayden, R. Moreno-Bote,
 “Is your gaze your aim? Eye position in reward gambling and the role of orbitofrontal cortex in
-encoding the value of visually cued offers.”, Barccsyn, July 2021 (Barcelona, ES).
+encoding the value of visually cued offers.”, Barcelona Computational, Cognitive and Systems Neuroscience (<i>Barccsyn</i>), July 2021 (Barcelona, ES). [poster]
 
 <h3>SENC 2021</h3>
 <b>D. Ferro</b>, A. Rifé-Mata, T. Cash-Padgett, M. Z. Wang, B. Y. Hayden, R. Moreno-Bote,
@@ -54,7 +54,7 @@ orbito-frontal cortex.”, Cosyne, March 2022 (Lisbon and Cascais, PT). [poster]
 <h3>Barccsyn 2022</h3>
 <b>D. Ferro</b>, A. Rifé-Mata, T. Cash-Padgett, M. Z. Wang, B. Y. Hayden, R. Moreno-Bote,
 “Imagining what was there: Looking at an absent offer location modulates neural response in
-orbito-frontal cortex.”, Barccsyn, May 2022 (Barcelona, ES).
+orbito-frontal cortex.”, Barcelona Computational, Cognitive and Systems Neuroscience (<i>Barccsyn</i>), May 2022 (Barcelona, ES).
 
 <h3>MSBFIINE 2022</h3>
 <b>D. Ferro</b>, A. Rifé-Mata, T. Cash-Padgett, M. Z. Wang, B. Y. Hayden, R. Moreno-Bote,
