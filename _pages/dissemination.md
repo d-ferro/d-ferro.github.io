@@ -8,7 +8,7 @@ author_profile: true
 <h3>SfN 2017</h3>
 A. Thiele, <b>D. Ferro</b>, M. Boyd and S. Panzeri, “Layer dependent attentional modulation of
 broad and narrow spiking cells in primate V1 ”, Annual Meeting of the Society for Neuroscience
-(<i>SfN</i>), 2017 (Washington, DC, USA). [poster] <a href="https://www.sfn.org/-/media/SfN/Documents/Annual-Meeting/FinalProgram/NS2017/Daily-Books-2017/AM17-Book4-Mon.ashx?la=en&hash=63BEBEAD7B7F8079F517EDD630B0D54723CE72FC" target="_blank">[programme]</a> 
+(<i>SfN</i>), 2017 (Washington, DC, USA). [poster] <a href="/abstracts/ProgrammeSFN2017.pdf" type="application/pdf" target="_blank">[programme]</a> 
 <a href="/abstracts/AbstractSFN2017.pdf" type="application/pdf" target="_blank">[abstract]</a>
 
 
