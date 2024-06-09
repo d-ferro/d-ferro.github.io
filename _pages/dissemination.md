@@ -7,19 +7,19 @@ author_profile: true
 
 <h3>SfN 2017</h3>
 A. Thiele, <b>D. Ferro</b>, M. Boyd and S. Panzeri, “Layer dependent attentional modulation of
-broad and narrow spiking cells in primate V1 ”, Annual Meeting of the Society for Neuroscience
+broad and narrow spiking cells in primate V1”, Annual Meeting of the Society for Neuroscience
 (<i>SfN</i>), 2017 (Washington, DC, USA). [poster] <a href="/abstracts/ProgrammeSFN2017.pdf" type="application/pdf" target="_blank">[programme]</a> 
 <a href="/abstracts/AbstractSFN2017.pdf" type="application/pdf" target="_blank">[abstract]</a>
 
 
 <h3>Unitn 2017</h3>
 <b>D. Ferro</b>, J. van Kempen, M. Boyd, S. Panzeri, A. Thiele, “Effects of attention on visual
-processing between cortical layers and cortical areas V1 and V4 ”. Ten Years of Mind/Brain
+processing between cortical layers and cortical areas V1 and V4”. Ten Years of Mind/Brain
 Sciences Conference at the University of Trento, 2017 (Rovereto, IT). [poster]
 
 <h3>Neural Coding 2018</h3>
 <b>D. Ferro</b>, J. van Kempen, M. Boyd, S. Panzeri, A. Thiele, “Effects of attention on visual
-processing between cortical layers and cortical areas V1 and V4 ”. Neural Coding Conference at the University of Turin, 2018 (Turin, IT) [poster].
+processing between cortical layers and cortical areas V1 and V4”. Neural Coding Conference at the University of Turin, 2018 (Turin, IT) [poster].
 
 <h3>Unitn 2019</h3>
 <b>D. Ferro</b>, J. van Kempen, M. Boyd, S. Panzeri, A. Thiele, “Effects of attention on visual
@@ -29,7 +29,7 @@ at the University of Trento, 2019 (Rovereto, IT). [poster]
 <h3>SfN 2019</h3>
 <b>D. Ferro</b>, J. van Kempen, M. Boyd, S. Panzeri, A. Thiele, “Effects of attention on Granger
 causal interactions between cortical layers and cortical areas V1 and V4”, Annual Meeting of
-the Society for Neuroscience (<i>SfN</i>), 2019 (Chicago, IL, USA). [poster]
+the Society for Neuroscience (<i>SfN</i>), 2019 (Chicago, IL, USA). <a href="/abstracts/PosterSfN2019.pdf" type="application/pdf">[poster]
 
 <h3>INT 2020</h3>
 <b>D. Ferro</b>, J. van Kempen, M. Boyd, S. Panzeri, A. Thiele, “Effects of attention on Gran-
