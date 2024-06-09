@@ -29,7 +29,8 @@ at the University of Trento, 2019 (Rovereto, IT). [poster]
 <h3>SfN 2019</h3>
 <b>D. Ferro</b>, J. van Kempen, M. Boyd, S. Panzeri, A. Thiele, “Effects of attention on Granger
 causal interactions between cortical layers and cortical areas V1 and V4”, Annual Meeting of
-the Society for Neuroscience (<i>SfN</i>), 2019 (Chicago, IL, USA). <a href="/abstracts/PosterSfN2019.pdf" type="application/pdf">[poster]
+the Society for Neuroscience (<i>SfN</i>), 2019 (Chicago, IL, USA). <a href="/abstracts/PosterSfN2019.pdf" type="application/pdf">[poster]</a><a href="/abstracts/ProgrammeSFN2017.pdf" type="application/pdf" target="_blank">[programme]</a> 
+<a href="/abstracts/AbstractSFN2017.pdf" type="application/pdf" target="_blank">[abstract]</a>
 
 <h3>INT 2020</h3>
 <b>D. Ferro</b>, J. van Kempen, M. Boyd, S. Panzeri, A. Thiele, “Effects of attention on Gran-
