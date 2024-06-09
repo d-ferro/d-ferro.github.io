@@ -5,9 +5,6 @@ permalink: /dissemination/
 author_profile: true
 ---
 
-Dissemination
-
-
 SfN 2017
 (Poster)
 A. Thiele, D. Ferro, M. Boyd and S. Panzeri, “Layer dependent attentional modulation of
