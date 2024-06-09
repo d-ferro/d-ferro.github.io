@@ -9,7 +9,7 @@ SfN 2017
 (Poster)
 A. Thiele, D. Ferro, M. Boyd and S. Panzeri, “Layer dependent attentional modulation of
 broad and narrow spiking cells in primate V1 ”, Annual Meeting of the Society for Neuroscience
-(SfN ), 2017 (Washington, DC, USA).
+(SfN ), 2017 (Washington, DC, USA). [ref](https://www.sfn.org/-/media/SfN/Documents/Annual-Meeting/FinalProgram/NS2017/Daily-Books-2017/AM17-Book4-Mon.ashx?la=en&hash=63BEBEAD7B7F8079F517EDD630B0D54723CE72FC)
 
 Unitn 2017
 (Poster)
@@ -31,14 +31,14 @@ at the University of Trento, 2019 (Rovereto, IT).
 SfN 2019
 (Poster)
 D. Ferro, J. van Kempen, M. Boyd, S. Panzeri, A. Thiele, “Effects of attention on Granger
-causal interactions between cortical layers and cortical areas V1 and V4 ”, Annual Meeting of
-the Society for Neuroscience (SfN ), 2019 (Chicago, IL, USA).
+causal interactions between cortical layers and cortical areas V1 and V4”, Annual Meeting of
+the Society for Neuroscience (_SfN_), 2019 (Chicago, IL, USA).
 
 INT 2020
 (Talk)
 D. Ferro, J. van Kempen, M. Boyd, S. Panzeri, A. Thiele, “Effects of attention on Gran-
-ger causal interactions between cortical layers and cortical areas V1 and V4 ”, Institut de
-Neuroscience de la Timone (INT ), Feb. 2020 (Marseille, FR).
+ger causal interactions between cortical layers and cortical areas V1 and V4”, Institut de
+Neuroscience de la Timone (_INT_), Feb. 2020 (Marseille, FR).
 
 Barccsyn 2021
 (Poster)
