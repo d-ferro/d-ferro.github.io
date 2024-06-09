@@ -23,8 +23,7 @@ Sciences Conference at the University of Trento, 2017 (Rovereto, IT).
 NeuCod 2018
 (Poster)
 D. Ferro, J. van Kempen, M. Boyd, S. Panzeri, A. Thiele, “Effects of attention on visual
-processing between cortical layers and cortical areas V1 and V4 ”. Ten Years of Mind/Brain
-Sciences Conference at the University of Turin, 2018 (Turin, IT).
+processing between cortical layers and cortical areas V1 and V4 ”. Neural Coding Conference at the University of Turin, 2018 (Turin, IT).
 
 Unitn 2019
 (Poster)
