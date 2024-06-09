@@ -7,7 +7,7 @@ main:
   #  url: /talks/    
   
   - title: "Dissemination"
-  - url: /dissemination/
+    url: /dissemination/
 
   - title: "Teaching"
     url: /teaching/    
