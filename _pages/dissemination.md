@@ -95,5 +95,6 @@ R. Moreno Bote, <b>D. Ferro</b> and J. Ramirez-Ruiz. "Theories of intrinsically 
 <b>D. Ferro</b>, T. Cash-Padgett, M. Z. Wang, B. Y. Hayden, R. Moreno-Bote,
 “Economic decision-making in the brain: how does gaze relate to the activity of orbitofrontal
 cortex neurons? ”, International Conference on Thinking (<i>ICT2024</i>), June 2024 (Milan, IT). [talk]
+</td>
 </tr>
 </table>
