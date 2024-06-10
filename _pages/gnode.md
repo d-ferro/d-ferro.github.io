@@ -5,7 +5,7 @@ permalink: /gnode/
 author_profile: true
 ---
 
- <iframe src="https://www.w3schools.com" title="W3Schools Free Online Web Tutorials"></iframe> 
+ <iframe src="https://gin.g-node.org/56Fe" title="Gnode"></iframe> 
 
 
 
