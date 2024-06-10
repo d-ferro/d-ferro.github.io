@@ -64,7 +64,7 @@ orbito-frontal cortex.”, Barcelona Computational, Cognitive and Systems Neuros
 <tr style="border:none !important;">
  <td style="border:none !important; text-align:center !important;"><h3>MSBFIINE 2022</h3></td>
  <td style="border:none !important;"><b>D. Ferro</b>, A. Rifé-Mata, T. Cash-Padgett, M. Z. Wang, B. Y. Hayden, R. Moreno-Bote, “Recalling what was there: Eye position in reward gambling and the role of orbito-frontal cortex
-in encoding the value of visually cued offers”, Multi-Scale Brain Function India-Italy Network of Excellence (<i>MSBFIINE</i>), Dec 2022 (Varenna, IT). [talk]
+in encoding the value of visually cued offers”, Multi-Scale Brain Function India-Italy Network of Excellence (<i>MSBFIINE</i>), Dec 2022 (Varenna, IT). [talk] <a href="abstracts/ProgrammeMSBFIINE2022.pdf" type="application/pdf" target="_blank">[programme]</a> <a href="/abstracts/AbstractMSBFIINE2022.pdf" type="application/pdf" target="_blank">[abstract]</a>
 </td>
 </tr>
 <tr style="border:none !important;">
@@ -87,9 +87,7 @@ cortex ”, HBP Summit 2023, March 2023 (Marseille, FR). [poster]
 <tr style="border:none !important;">
  <td style="border:none !important; text-align:center !important;"><h3>ICT 2024</h3></td>
  <td style="border:none !important;">R. Moreno Bote, <b>D. Ferro</b> and J. Ramirez-Ruiz. "Theories of intrinsically motivated behavior: comparing Empowerment, Free Energy Principle and Maximum Occupancy Principle", International Conference on Thinking (<i>ICT2024</i>), June 2024 (Milan, IT). [poster] </br>
-<b>D. Ferro</b>, T. Cash-Padgett, M. Z. Wang, B. Y. Hayden, R. Moreno-Bote,
-“Economic decision-making in the brain: how does gaze relate to the activity of orbitofrontal
-cortex neurons? ”, International Conference on Thinking (<i>ICT2024</i>), June 2024 (Milan, IT). [talk]
+<b>D. Ferro</b>, T. Cash-Padgett, M. Z. Wang, B. Y. Hayden, R. Moreno-Bote, “Economic decision-making in the brain: how does gaze relate to the activity of orbitofrontal cortex neurons?”, International Conference on Thinking (<i>ICT2024</i>), June 2024 (Milan, IT). [talk]
 </td>
 </tr>
 </table>
