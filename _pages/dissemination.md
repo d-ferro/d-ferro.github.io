@@ -8,13 +8,13 @@ author_profile: true
 <table style="border:none !important;">
 <tr style="border:none !important;">
  <td style="border:none !important; text-align:center !important;"><h3>ICT 2024</h3></td>
- <td style="border:none !important;">R. Moreno Bote, <b>D. Ferro</b> and J. Ramirez-Ruiz. "Theories of intrinsically motivated behavior: comparing Empowerment, Free Energy Principle and Maximum Occupancy Principle", International Conference on Thinking (<i>ICT2024</i>), June 2024 (Milan, IT). [poster]</td>
-</tr>
-<tr style="border:none !important;">
-<td style="border:none !important; text-align:center !important;"><h3>ICT 2024</h3></td><td>
+ <td style="border:none !important; text-align:center !important;"><h3>ICT 2024</h3></td><td>
 <b>D. Ferro</b>, T. Cash-Padgett, M. Z. Wang, B. Y. Hayden, R. Moreno-Bote, “Economic decision-making in the brain: how does gaze relate to the activity of orbitofrontal cortex neurons?”, International Conference on Thinking (<i>ICT2024</i>), June 2024 (Milan, IT). [talk]
 </td>
 </tr>
+<tr style="border:none !important;">
+<td style="border:none !important;">R. Moreno Bote, <b>D. Ferro</b> and J. Ramirez-Ruiz. "Theories of intrinsically motivated behavior: comparing Empowerment, Free Energy Principle and Maximum Occupancy Principle", International Conference on Thinking (<i>ICT2024</i>), June 2024 (Milan, IT). [poster]</td>
+ </tr>
 <tr style="border:none !important;">
  <td style="border:none !important; text-align:center !important;"><h3>CCN 2023</h3></td>
  <td style="border:none !important;"><b>D. Ferro</b>, A. Rifé-Mata, T. Cash-Padgett, M. Z. Wang, B. Y. Hayden, R. Moreno-Bote, “The role of gaze for value encoding and recollection in orbitofrontal cortex ”, CCN, August 2023 (Oxford, UK). [poster]
