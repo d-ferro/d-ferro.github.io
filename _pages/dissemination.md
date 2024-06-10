@@ -73,7 +73,6 @@ in encoding the value of visually cued offers”, MSBFIINE, Dec 2022 (Varenna, I
 </td>
 </tr>
 <tr style="border:none !important;"><td style="border:none !important; text-align:center !important;"><h3>HBP Summit 2022</h3></td><td style="border:none !important;">
-<h3>HPB Summit 2023</h3> 
 <b>D. Ferro</b>, A. Rifé-Mata, T. Cash-Padgett, M. Z. Wang, B. Y. Hayden, R. Moreno-Bote,
 “Looking at previous cue sites reactivates value coding for serial evaluation in orbitofrontal
 cortex ”, HBP Summit 2023, March 2023 (Marseille, FR). [poster]
