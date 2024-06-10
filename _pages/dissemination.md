@@ -69,7 +69,7 @@ orbito-frontal cortex.”, Barcelona Computational, Cognitive and Systems Neuros
 <tr style="border:none !important;"><td style="border:none !important; text-align:center !important;"><h3>MSBFIINE 2022</h3></td><td style="border:none !important;">
 <b>D. Ferro</b>, A. Rifé-Mata, T. Cash-Padgett, M. Z. Wang, B. Y. Hayden, R. Moreno-Bote,
 “Recalling what was there: Eye position in reward gambling and the role of orbito-frontal cortex
-in encoding the value of visually cued offers”, MSBFIINE, Dec 2022 (Varenna, IT). [talk]
+in encoding the value of visually cued offers”, Multi-Scale Brain Function India-Italy Network of Excellence (<i>MSBFIINE</i>), Dec 2022 (Varenna, IT). [talk]
 </td>
 </tr>
 <tr style="border:none !important;"><td style="border:none !important; text-align:center !important;"><h3>HBP Summit 2022</h3></td><td style="border:none !important;">
