@@ -43,7 +43,7 @@ processing between cortical layers and cortical areas V1 and V4”. Neural Codin
 <tr style="border:none !important;">
  <td style="border:none !important; text-align:center !important;"><h3>Barccsyn 2021</h3></td>
  <td style="border:none !important;"><b>D. Ferro</b>, A. Rifé-Mata, T. Cash-Padgett, M. Z. Wang, B. Y. Hayden, R. Moreno-Bote, “Is your gaze your aim? Eye position in reward gambling and the role of orbitofrontal cortex in encoding the value of visually cued offers.”, Barcelona Computational, Cognitive and Systems Neuroscience (<i>Barccsyn</i>), July 2021 (Barcelona, ES). [poster]
- </td style="border:none !important;">
+ </td>
 </tr>
 <tr style="border:none !important;">
  <td style="border:none !important; text-align:center !important;"><h3>SENC 2021</h3></td>
