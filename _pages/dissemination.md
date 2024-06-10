@@ -21,7 +21,7 @@ author_profile: true
 <tr style="border:none !important;">
  <td style="border:none !important; text-align:center !important;"><h3>Neural Coding 2018</h3></td>
  <td style="border:none !important;"><b>D. Ferro</b>, J. van Kempen, M. Boyd, S. Panzeri, A. Thiele, “Effects of attention on visual
-processing between cortical layers and cortical areas V1 and V4”. Neural Coding Conference at the University of Turin, 2018 (Turin, IT) [poster] <a href="/abstracts/ProgrammeNEUCOD2018.pdf" type="application/pdf" target="_blank">[programme]</a>. 
+processing between cortical layers and cortical areas V1 and V4”. Neural Coding Conference at the University of Turin, 2018 (Turin, IT) <a href="/abstracts/ProgrammeNEUCOD2018.pdf" type="application/pdf" target="_blank">[programme]</a>. 
  </td>
 </tr>
 <tr style="border:none !important;">
