@@ -71,14 +71,8 @@ orbito-frontal cortex.”, Barcelona Computational, Cognitive and Systems Neuros
 </td>
 </tr>
 <tr style="border:none !important;">
- <td style="border:none !important; text-align:center !important;"><h3>Unitn 2019</h3></td>
- <td style="border:none !important;"><b>D. Ferro</b>, J. van Kempen, M. Boyd, S. Panzeri, A. Thiele, “Effects of attention on visual processing between cortical layers and cortical areas V1 and V4.” PhD Doctoral student Day at the University of Trento, 2019 (Rovereto, IT). <a href="/abstracts/AbstractDSDAY2019.pdf" type="application/pdf" target="_blank">[abstract]</a> <a href="/abstracts/PosterDSDAY2019.pdf" type="application/pdf" target="_blank">[poster]</a>
-</td>
-</tr>
- </tr>
-<tr style="border:none !important;">
  <td style="border:none !important; text-align:center !important;"><h3>Unitn 2018</h3></td>
- <td style="border:none !important;"><b>D. Ferro</b>, J. van Kempen, M. Boyd, S. Panzeri, A. Thiele, “Effects of attention on visual processing between cortical layers and cortical areas V1 and V4.” PhD Doctoral student Day at the University of Trento, 2018 (Rovereto, IT). <a href="/abstracts/AbstractDSDAY2018.pdf" type="application/pdf" target="_blank">[abstract]</a> <a href="/abstracts/PosterDSDAY2018.pdf" type="application/pdf" target="_blank">[poster]</a>
+ <td style="border:none !important;"><b>D. Ferro</b>, J. van Kempen, M. Boyd, S. Panzeri, A. Thiele, “Effects of attention on visual processing between cortical layers and cortical areas V1 and V4.” PhD Doctoral student Day at the University of Trento, 2019 (Rovereto, IT). <a href="/abstracts/AbstractDSDAY2019.pdf" type="application/pdf" target="_blank">[abstract]</a> <a href="/abstracts/PosterDSDAY2019.pdf" type="application/pdf" target="_blank">[poster]</a>
 </td>
 </tr>
 <tr style="border:none !important;">
@@ -87,11 +81,10 @@ orbito-frontal cortex.”, Barcelona Computational, Cognitive and Systems Neuros
  </td>
 </tr>
 <tr style="border:none !important;">
-<td style="border:none !important; text-align:center !important;"><h3>Unitn 2017</h3></td>
-  <td style="border:none !important;"><b>D. Ferro</b>, J. van Kempen, M. Boyd, S. Panzeri, A. Thiele, “Effects of attention on visual
- processing between cortical layers and cortical areas V1 and V4”. Ten Years of Mind/Brain
- Sciences Conference at the University of Trento, 2017 (Rovereto, IT). [poster] <a href="https://www.youtube.com/watch?v=3ef0lfZhoxY" target="_blank">[programme]</a>
-  </td>
+ <td style="border:none !important; text-align:center !important;"><h3>Unitn 2017</h3></td>
+ <td style="border:none !important;"><b>D. Ferro</b>, J. van Kempen, M. Boyd, S. Panzeri, A. Thiele, “Effects of attention on visual processing between cortical layers and cortical areas V1 and V4.” Ten Years of Mind/Brain
+ Sciences Conference at the University of Trento, 2017 (Rovereto, IT). <a href="/abstracts/AbstractDSDAY2018.pdf" type="application/pdf" target="_blank">[abstract]</a> <a href="/abstracts/PosterDSDAY2018.pdf" type="application/pdf" target="_blank">[poster]</a>
+</td>
 </tr>
 <tr style="border:none !important;">
  <td style="border:none !important; text-align:center !important;"><h3>SfN 2017</h3></td>
