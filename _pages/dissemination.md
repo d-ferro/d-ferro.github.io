@@ -61,7 +61,7 @@ orbito-frontal cortex.”, Barcelona Computational, Cognitive and Systems Neuros
 </tr>
 <tr style="border:none !important;">
  <td style="border:none !important; text-align:center !important;"><h3>INT 2020</h3></td>
- <td style="border:none !important;"><b>D. Ferro</b>, J. van Kempen, M. Boyd, S. Panzeri, A. Thiele, “Effects of attention on Granger causal interactions between cortical layers and cortical areas V1 and V4”, Institut de Neuroscience de la Timone (<i>INT</i>), Feb. 2020 (Marseille, FR). [talk] <a href="/abstracts/ProgrammeINT2020.pdf" type="application/pdf" target="_blank">[programme]</a> 
+ <td style="border:none !important;"><b>D. Ferro</b>, J. van Kempen, M. Boyd, S. Panzeri, A. Thiele, “Effects of attention on Granger causal interactions between cortical layers and cortical areas V1 and V4”, Institut de Neuroscience de la Timone (<i>INT</i>), Feb. 2020 (Marseille, FR). <a href="/abstracts/PresentationINT2020.pdf" type="application/pdf" target="_blank">[talk]</a> <a href="/abstracts/ProgrammeINT2020.pdf" type="application/pdf" target="_blank">[programme]</a> 
 </td>
 </tr>
 <tr style="border:none !important;">
