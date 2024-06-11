@@ -10,7 +10,7 @@ For any request or further information contact me at *demetrio.ferro[at]upf[dot]
 
 [Gaze-centered gating, reactivation, and reevaluation of value in orbitofrontal cortex](https://)<br/>
 Demetrio Ferro, Tyler Cash-Padgett, Maya Zhe-Wang, Benjamin Hayden, Rubén Moreno Bote<br/>
-_Nature Communications_, 2024 <br/>
+_In preparation_, 2024 <br/>
 DOI:[10.1101/2020.06.09.142190](https://doi.org/10.1101/2023.04.20.537677)
 [[pdf]](https://www.biorxiv.org/content/10.1101/2023.04.20.537677v3.full.pdf)
 
