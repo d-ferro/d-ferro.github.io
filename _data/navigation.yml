@@ -11,6 +11,7 @@ main:
     
   - title: "Repositories"
     url: https://gin.g-node.org/56fe 
+    target: _blank
     
   - title: "CV"
     url: /cv2/
