@@ -49,9 +49,14 @@ orbito-frontal cortex.”, Barcelona Computational, Cognitive and Systems Neuros
  <td style="border:none !important;"><b>D. Ferro</b>, A. Rifé-Mata, T. Cash-Padgett, M. Z. Wang, B. Y. Hayden, R. Moreno-Bote, “Imagining what was there: Looking at an absent offer location modulates neural response in orbito-frontal cortex.”, Cosyne, March 2022 (Lisbon and Cascais, PT). [poster]
 </td>
 </tr>
+  <tr style="border:none !important;">
+ <td style="border:none !important; text-align:center !important;"><h3>COREDEM 2021</h3></td>
+ <td style="border:none !important;"><b>D. Ferro</b>, A. Rifé-Mata, T. Cash-Padgett, M. Z. Wang, B. Y. Hayden, R. Moreno-Bote, “Is your gaze your aim? Eye position in reward gambling [...] in encoding the value of visually cued offers.”, COREDEM (Human Brain Project, WP2), Nov. 2021 (Barcelona, ES). <a href="/abstracts/ProgrammeCOREDEM2021.pdf" type="application/pdf" target="_blank">[programme]</a> <a href="/abstracts/PresentationCOREDEM2021.pdf" type="application/pdf" target="_blank">[talk]</a>
+</td>
+</tr>
 <tr style="border:none !important;">
  <td style="border:none !important; text-align:center !important;"><h3>SENC 2021</h3></td>
- <td style="border:none !important;"><b>D. Ferro</b>, A. Rifé-Mata, T. Cash-Padgett, M. Z. Wang, B. Y. Hayden, R. Moreno-Bote, “Is your gaze your aim? Eye position in reward gambling [...] in encoding the value of visually cued offers.”, Sociedad Española de neurociencia (SENC), Nov. 2021 (Lleida, ES). [talk][poster]
+ <td style="border:none !important;"><b>D. Ferro</b>, A. Rifé-Mata, T. Cash-Padgett, M. Z. Wang, B. Y. Hayden, R. Moreno-Bote, “Is your gaze your aim? Eye position in reward gambling [...] in encoding the value of visually cued offers.”, Sociedad Española de neurociencia (SENC), Nov. 2021 (Lleida, ES). <a href="/abstracts/ProgrammeBSYN2021.pdf" type="application/pdf" target="_blank">[programme]</a> <a href="/abstracts/AbstractBSYN2021.pdf" type="application/pdf" target="_blank">[abstract]</a> <a href="/abstracts/PosterBSYN2021.pdf" type="application/pdf" target="_blank">[poster]</a>
 </td>
 </tr>
 <tr style="border:none !important;">
@@ -61,13 +66,12 @@ orbito-frontal cortex.”, Barcelona Computational, Cognitive and Systems Neuros
 </tr>
 <tr style="border:none !important;">
  <td style="border:none !important; text-align:center !important;"><h3>INT 2020</h3></td>
- <td style="border:none !important;"><b>D. Ferro</b>, J. van Kempen, M. Boyd, S. Panzeri, A. Thiele, “Effects of attention on Granger causal interactions between cortical layers and cortical areas V1 and V4”, Institut de Neuroscience de la Timone (<i>INT</i>), Feb. 2020 (Marseille, FR). <a href="/abstracts/PresentationINT2020.pdf" type="application/pdf" target="_blank">[talk]</a> <a href="/abstracts/ProgrammeINT2020.pdf" type="application/pdf" target="_blank">[programme]</a> 
+ <td style="border:none !important;"><b>D. Ferro</b>, J. van Kempen, M. Boyd, S. Panzeri, A. Thiele, “Effects of attention on Granger causal interactions between cortical layers and cortical areas V1 and V4”, Institut de Neuroscience de la Timone (<i>INT</i>), Feb. 2020 (Marseille, FR). <a href="/abstracts/ProgrammeINT2020.pdf" type="application/pdf" target="_blank">[programme]</a> <a href="/abstracts/PresentationINT2020.pdf" type="application/pdf" target="_blank">[talk]</a>
 </td>
 </tr>
 <tr style="border:none !important;">
  <td style="border:none !important; text-align:center !important;"><h3>SfN 2019</h3></td>
- <td style="border:none !important;"><b>D. Ferro</b>, J. van Kempen, M. Boyd, S. Panzeri, A. Thiele, “Effects of attention on Granger causal interactions between cortical layers and cortical areas V1 and V4”, Annual Meeting of the Society for Neuroscience (<i>SfN</i>), 2019 (Chicago, IL, USA). <a href="/abstracts/PosterSfN2019.pdf" type="application/pdf" target="_blank">[poster]</a> <a href="/abstracts/ProgrammeSFN2019.pdf" type="application/pdf" target="_blank">[programme]</a> 
-<a href="/abstracts/AbstractSFN2019.pdf" type="application/pdf" target="_blank">[abstract]</a>
+ <td style="border:none !important;"><b>D. Ferro</b>, J. van Kempen, M. Boyd, S. Panzeri, A. Thiele, “Effects of attention on Granger causal interactions between cortical layers and cortical areas V1 and V4”, Annual Meeting of the Society for Neuroscience (<i>SfN</i>), 2019 (Chicago, IL, USA). <a href="/abstracts/ProgrammeSFN2019.pdf" type="application/pdf" target="_blank">[programme]</a> <a href="/abstracts/AbstractSFN2019.pdf" type="application/pdf" target="_blank">[abstract]</a>  <a href="/abstracts/PosterSfN2019.pdf" type="application/pdf" target="_blank">[poster]</a>
 </td>
 </tr>
 <tr style="border:none !important;">
