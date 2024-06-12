@@ -27,8 +27,8 @@ author_profile: true
 </td>
 </tr>
 <tr style="border:none !important;">
- <td style="border:none !important; text-align:center !important;"><h3>HBP Summit 2022</h3></td><td style="border:none !important;">
-<b>D. Ferro</b>, A. Rifé-Mata, T. Cash-Padgett, M. Z. Wang, B. Y. Hayden, R. Moreno-Bote,“Looking at previous cue sites reactivates value coding for serial evaluation in orbitofrontal cortex ”, HBP Summit 2023, March 2023 (Marseille, FR). <a href="/abstracts/ProgrammeHBPMRS2023.pdf" type="application/pdf" target="_blank">[programme]</a> <a href="/abstracts/AbstractHBPMRS2023.pdf" type="application/pdf" target="_blank">[abstract]</a> 
+ <td style="border:none !important; text-align:center !important;"><h3>HBP Summit 2023</h3></td><td style="border:none !important;">
+<b>D. Ferro</b>, A. Rifé-Mata, T. Cash-Padgett, M. Z. Wang, B. Y. Hayden, R. Moreno-Bote,“Looking at previous cue sites reactivates value coding for serial evaluation in orbitofrontal cortex ”, HBP Summit 2023, March 2023 (Marseille, FR). <a href="/abstracts/ProgrammeHBPMRS2023.pdf" type="application/pdf" target="_blank">[programme]</a> <a href="/abstracts/PosterHBPMRS2023.pdf" type="application/pdf" target="_blank">[poster]</a> 
 </td>
 </tr>
 <tr style="border:none !important;">
