@@ -46,7 +46,7 @@ orbito-frontal cortex.”, Barcelona Computational, Cognitive and Systems Neuros
 </tr>
 <tr style="border:none !important;">
  <td style="border:none !important; text-align:center !important;"><h3>Cosyne 2022</h3></td>
- <td style="border:none !important;"><b>D. Ferro</b>, A. Rifé-Mata, T. Cash-Padgett, M. Z. Wang, B. Y. Hayden, R. Moreno-Bote, “Imagining what was there: Looking at an absent offer location modulates neural response in orbito-frontal cortex.”, Cosyne, March 2022 (Lisbon and Cascais, PT). <a href="/abstracts/ProgrammeCOSYNE2022.pdf" type="application/pdf" target="_blank">[programme]</a> <a href="/abstracts/PosterCOSYNE2022.pdf" type="application/pdf" target="_blank">[talk]</a>
+ <td style="border:none !important;"><b>D. Ferro</b>, A. Rifé-Mata, T. Cash-Padgett, M. Z. Wang, B. Y. Hayden, R. Moreno-Bote, “Imagining what was there: Looking at an absent offer location modulates neural response in orbito-frontal cortex.”, Cosyne, March 2022 (Lisbon and Cascais, PT). <a href="/abstracts/ProgrammeCOSYNE2022.pdf" type="application/pdf" target="_blank">[programme]</a> <a href="/abstracts/PosterCOSYNE2022.pdf" type="application/pdf" target="_blank">[poster]</a>
 </td>
 </tr>
   <tr style="border:none !important;">
