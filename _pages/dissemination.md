@@ -41,7 +41,7 @@ in encoding the value of visually cued offers”, Multi-Scale Brain Function Ind
 <tr style="border:none !important;">
  <td style="border:none !important; text-align:center !important;"><h3>Barccsyn 2022</h3></td>
  <td style="border:none !important;"><b>D. Ferro</b>, A. Rifé-Mata, T. Cash-Padgett, M. Z. Wang, B. Y. Hayden, R. Moreno-Bote, “Imagining what was there: Looking at an absent offer location modulates neural response in
-orbito-frontal cortex.”, Barcelona Computational, Cognitive and Systems Neuroscience (<i>Barccsyn</i>), May 2022 (Barcelona, ES).
+orbito-frontal cortex.”, Barcelona Computational, Cognitive and Systems Neuroscience (<i>Barccsyn</i>), May 2022 (Barcelona, ES). <a href="/abstracts/AbstractBSYN2022.pdf" type="application/pdf" target="_blank">[abstract]</a> <a href="/abstracts/PosterBSYN2022.pdf" type="application/pdf" target="_blank">[poster]</a>
 </td>
 </tr>
 <tr style="border:none !important;">
@@ -66,7 +66,7 @@ orbito-frontal cortex.”, Barcelona Computational, Cognitive and Systems Neuros
 </tr>
 <tr style="border:none !important;">
  <td style="border:none !important; text-align:center !important;"><h3>Barccsyn 2021</h3></td>
- <td style="border:none !important;"><b>D. Ferro</b>, A. Rifé-Mata, T. Cash-Padgett, M. Z. Wang, B. Y. Hayden, R. Moreno-Bote, “Is your gaze your aim? Eye position in reward gambling and the role of orbitofrontal cortex in encoding the value of visually cued offers.”, Barcelona Computational, Cognitive and Systems Neuroscience (<i>Barccsyn</i>), July 2021 (Barcelona, ES). <a href="/abstracts/ProgrammeBSYN2021.pdf" type="application/pdf" target="_blank">[programme]</a> <a href="/abstracts/PosterBSYN2021.pdf" type="application/pdf" target="_blank">[poster]</a>
+ <td style="border:none !important;"><b>D. Ferro</b>, A. Rifé-Mata, T. Cash-Padgett, M. Z. Wang, B. Y. Hayden, R. Moreno-Bote, “Is your gaze your aim? Eye position in reward gambling and the role of orbitofrontal cortex in encoding the value of visually cued offers.”, Barcelona Computational, Cognitive and Systems Neuroscience (<i>Barccsyn</i>), July 2021 (Barcelona, ES). <a href="/abstracts/AbstractBSYN2021.pdf" type="application/pdf" target="_blank">[abstract]</a> <a href="/abstracts/PosterBSYN2021.pdf" type="application/pdf" target="_blank">[poster]</a>
  </td>
 </tr>
 <tr style="border:none !important;">
