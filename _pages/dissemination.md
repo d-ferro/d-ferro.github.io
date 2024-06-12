@@ -61,7 +61,7 @@ orbito-frontal cortex.”, Barcelona Computational, Cognitive and Systems Neuros
 </tr>
  <tr style="border:none !important;">
  <td style="border:none !important; text-align:center !important;"><h3>SINC² 2021</h3></td>
- <td style="border:none !important;"><b>D. Ferro</b>, A. Rifé-Mata, T. Cash-Padgett, M. Z. Wang, B. Y. Hayden, R. Moreno-Bote, “Is your gaze your aim? Eye position in reward gambling and the role of orbitofrontal cortex in encoding the value of visually cued offers.”, Sociedad Española de neurociencia (SENC), Nov. 2021 (Lleida, ES). <a href="/abstracts/ProgrammeBSYN2021.pdf" type="application/pdf" target="_blank">[programme]</a> <a href="/abstracts/AbstractBSYN2021.pdf" type="application/pdf" target="_blank">[abstract]</a> <a href="/abstracts/PosterBSYN2021.pdf" type="application/pdf" target="_blank">[poster]</a>
+ <td style="border:none !important;"><b>D. Ferro</b>, A. Rifé-Mata, T. Cash-Padgett, M. Z. Wang, B. Y. Hayden, R. Moreno-Bote, “Is your gaze your aim? Eye position in reward gambling and the role of orbitofrontal cortex in encoding the value of visually cued offers.”, Spanish Network for the Interaction between Computational and Cognitive Neuroscience (SINC²), Nov. 2021 (Lleida, ES). <a href="/abstracts/ProgrammeSINC22021.pdf" type="application/pdf" target="_blank">[programme]</a> <a href="/abstracts/PresentationSINC22021.pdf" type="application/pdf" target="_blank">[talk]</a> 
 </td>
 </tr>
 <tr style="border:none !important;">
