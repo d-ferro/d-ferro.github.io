@@ -2,7 +2,7 @@
 layout: archive
 title: "Dissemination"
 permalink: /dissemination/
-author_profile: true
+author_profile: true 
 ---
 
 <table style="border:none !important;">
