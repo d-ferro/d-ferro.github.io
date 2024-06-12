@@ -17,7 +17,7 @@ author_profile: true
  </tr>
 <tr style="border:none !important;">
  <td style="border:none !important; text-align:center !important;"><h3>CCN 2023</h3></td>
- <td style="border:none !important;"><b>D. Ferro</b>, A. Rifé-Mata, T. Cash-Padgett, M. Z. Wang, B. Y. Hayden, R. Moreno-Bote, “The role of gaze for value encoding and recollection in orbitofrontal cortex ”, CCN, August 2023 (Oxford, UK). [poster]
+ <td style="border:none !important;"><b>D. Ferro</b>, A. Rifé-Mata, T. Cash-Padgett, M. Z. Wang, B. Y. Hayden, R. Moreno-Bote, “The role of gaze for value encoding and recollection in orbitofrontal cortex ”, Conference on Cognitive Computational Neuroscience (<i>CCN</i>), August 2023 (Oxford, UK). [poster]
 </td>
 </tr>
 <tr style="border:none !important;">
