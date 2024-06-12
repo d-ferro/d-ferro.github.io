@@ -23,7 +23,7 @@ author_profile: true
 </tr>
 <tr style="border:none !important;">
  <td style="border:none !important; text-align:center !important;"><h3>HBP WP2 2023</h3></td>
- <td style="border:none !important;"><b>D. Ferro</b>, A. Rifé-Mata, T. Cash-Padgett, M. Z. Wang, B. Y. Hayden, R. Moreno-Bote, “Gaze-centered gating and re-activation of value encoding in orbitofrontal cortex ”, HBP Work Package 2 Meeting, June 2023 (Barcelona, ES). [talk]
+ <td style="border:none !important;"><b>D. Ferro</b>, A. Rifé-Mata, T. Cash-Padgett, M. Z. Wang, B. Y. Hayden, R. Moreno-Bote, “Gaze-centered gating and re-activation of value encoding in orbitofrontal cortex ”, HBP Work Package 2 Meeting, June 2023 (Barcelona, ES). <a href="/abstracts/ProgrammeHBPBCN2023.pdf" type="application/pdf" target="_blank">[programme]</a> [talk]
 </td>
 </tr>
 <tr style="border:none !important;">
