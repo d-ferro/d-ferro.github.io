@@ -106,7 +106,7 @@ orbito-frontal cortex.”, Barcelona Computational, Cognitive and Systems Neuros
 <table style="border:none !important;">
 <tr style="border:none !important;">
  <td style="border:none !important; text-align:center !important;"><h3>Barccsyn 2024</h3></td>
- <td style="border:none !important;"><bBarcelona Computational, Cognitive and Systems Neuroscience (<i>Barccsyn</i>), May 2024 (Barcelona, ES). <a href="/abstracts/ProgrammeNEUCOD2018.pdf" type="application/pdf" target="_blank">[programme]</a>
+ <td style="border:none !important;">Barcelona Computational, Cognitive and Systems Neuroscience (<i>Barccsyn</i>), May 2024 (Barcelona, ES). <a href="/abstracts/ProgrammeNEUCOD2018.pdf" type="application/pdf" target="_blank">[programme]</a>
  </td>
 </tr>
 <tr style="border:none !important;">
