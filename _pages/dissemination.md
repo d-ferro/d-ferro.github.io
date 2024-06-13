@@ -101,12 +101,22 @@ orbito-frontal cortex.”, Barcelona Computational, Cognitive and Systems Neuros
  </tr>
 </table>
 
-<h3>Participations</h3>
+<h1>Participations</h1>
 
 <table style="border:none !important;">
 <tr style="border:none !important;">
+ <td style="border:none !important; text-align:center !important;"><h3>Barccsyn 2024</h3></td>
+ <td style="border:none !important;"><bBarcelona Computational, Cognitive and Systems Neuroscience (<i>Barccsyn</i>), May 2024 (Barcelona, ES). <a href="/abstracts/ProgrammeNEUCOD2018.pdf" type="application/pdf" target="_blank">[programme]</a>
+ </td>
+</tr>
+<tr style="border:none !important;">
+ <td style="border:none !important; text-align:center !important;"><h3>Barccsyn 2022</h3></td>
+ <td style="border:none !important;"><b>D. Barcelona Computational, Cognitive and Systems Neuroscience (<i>Barccsyn</i>), May 2023 (Barcelona, ES). <a href="/abstracts/ProgrammeNEUCOD2018.pdf" type="application/pdf" target="_blank">[programme]</a>
+ </td>
+</tr>
+<tr style="border:none !important;">
  <td style="border:none !important; text-align:center !important;"><h3>Neural Coding 2018</h3></td>
- <td style="border:none !important;"><b>D. Ferro</b>, J. van Kempen, M. Boyd, S. Panzeri, A. Thiele, “Effects of attention on visual processing between cortical layers and cortical areas V1 and V4”. Neural Coding Conference at the University of Turin, 2018 (Turin, IT) <a href="/abstracts/ProgrammeNEUCOD2018.pdf" type="application/pdf" target="_blank">[programme]</a>
+ <td style="border:none !important;">Neural Coding Conference at the University of Turin, 2018 (Turin, IT) <a href="/abstracts/ProgrammeNEUCOD2018.pdf" type="application/pdf" target="_blank">[programme]</a>
  </td>
 </tr>
 </table>
