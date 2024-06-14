@@ -115,8 +115,13 @@ orbito-frontal cortex.”, Barcelona Computational, Cognitive and Systems Neuros
  </td>
 </tr>
  <tr style="border:none !important;">
- <td style="border:none !important; text-align:center !important;"><h3>Barccsyn 2023</h3></td>
+ <td style="border:none !important; text-align:center !important;"><h3>HBP PFC 2023</h3></td>
  <td style="border:none !important;">Anatomy and function of the prefrontal cortex across species (Human Brain Project), March 2023 (Paris, FR). <a href="/abstracts/ProgrammeHBPPFC2023.pdf" type="application/pdf" target="_blank">[programme]</a>
+ </td>
+</tr>
+ <tr style="border:none !important;">
+ <td style="border:none !important; text-align:center !important;"><h3>HBP PFC 2023</h3></td>
+ <td style="border:none !important;"> COREDEM (Human Brain Project, WP2), July 2022 (Paris, FR). <a href="/abstracts/ProgrammeHBPCDM2022.pdf" type="application/pdf" target="_blank">[programme]</a>
  </td>
 </tr>
 <tr style="border:none !important;">
