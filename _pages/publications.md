@@ -11,11 +11,12 @@ For any request or further information contact me at *demetrio[dot]ferro[at]upf[
 [Gaze-centered gating, reactivation, and reevaluation of value in orbitofrontal cortex](https://)<br/>
 Demetrio Ferro, Tyler Cash-Padgett, Maya Zhe-Wang, Benjamin Hayden, Rubén Moreno Bote<br/>
 _In preparation_, 2024 <br/>
-DOI:[10.1101/2020.06.09.142190](https://doi.org/10.1101/2023.04.20.537677)
+DOI:[10.1101/2020.06.09.142190](https://doi.org/10.1101/2023.04.20.537677) [[data and code]](https://doi.org/10.12751/g-node.evlnq5)
 [[pdf]](https://www.biorxiv.org/content/10.1101/2023.04.20.537677v3.full.pdf)
 
 [Model of gaze centred activation and reactivation of value encoding in orbitofrontal cortex.](https://search.kg.ebrains.eu/instances/a2dce812-1d4b-4fc5-a69f-96005288c12e)<br/>
-Ferro, D., Hayden, B.Y., and Moreno-Bote, R., 2023. Ebrains Knowledgegraph. 
+Ferro, D., Hayden, B.Y., and Moreno-Bote, R., 
+_Ebrains Knowledgegraph_, 2023. 
 
 [Gaze-centered gating and re-activation of value encoding in orbitofrontal cortex](https://www.biorxiv.org/content/10.1101/2023.04.20.537677v3.abstract)<br/>
 Demetrio Ferro, Tyler Cash-Padgett, Maya Zhe-Wang, Benjamin Hayden, Rubén Moreno Bote<br/>
@@ -34,7 +35,7 @@ DOI: [10.32470/CCN.2023.1122-0](https://2023.ccneuro.org/view_paper8951.html?Pap
 Demetrio Ferro, Jochem van Kempen, Michael Boyd, Stefano Panzeri, Alexander Thiele<br/>
 _Proceedings of the National Academy of Sciences_, 118 (12), e2022097118, 2021 <br/>
 DOI:[10.1073/pnas.2022097118](https://doi.org/10.1073/pnas.2022097118)
-[[code]](https://gin.g-node.org/56Fe/V1-V4-LFPs-and-Visual-Attention) [[pdf]](https://www.pnas.org/doi/reader/10.1073/pnas.2022097118)
+[[data and code]](https://gin.g-node.org/56Fe/V1-V4-LFPs-and-Visual-Attention) [[pdf]](https://www.pnas.org/doi/reader/10.1073/pnas.2022097118)
 
 
 [Directed information exchange between cortical layers in macaque V1 and V4 and its modulation by selective attention](https://www.biorxiv.org/content/10.1101/2020.06.09.142190v1)<br/>
