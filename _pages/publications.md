@@ -14,7 +14,7 @@ _In preparation_, 2024 <br/>
 DOI:[10.1101/2020.06.09.142190](https://doi.org/10.1101/2023.04.20.537677)
 [[pdf]](https://www.biorxiv.org/content/10.1101/2023.04.20.537677v3.full.pdf)
 
-[Model of gaze centred activation and reactivation of value encoding in orbitofrontal cortex.](https://search.kg.ebrains.eu/instances/a2dce812-1d4b-4fc5-a69f-96005288c12e)
+[Model of gaze centred activation and reactivation of value encoding in orbitofrontal cortex.](https://search.kg.ebrains.eu/instances/a2dce812-1d4b-4fc5-a69f-96005288c12e)<br/>
 Ferro, D., Hayden, B.Y., and Moreno-Bote, R., 2023. Ebrains Knowledgegraph. 
 
 [Gaze-centered gating and re-activation of value encoding in orbitofrontal cortex](https://www.biorxiv.org/content/10.1101/2023.04.20.537677v3.abstract)<br/>
