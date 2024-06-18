@@ -9,24 +9,24 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 For any request or further information contact me at *demetrio[dot]ferro[at]upf[dot]edu*.  
 
 [Gaze-centered gating, reactivation, and reevaluation of value in orbitofrontal cortex](https://)<br/>
-Demetrio Ferro, Tyler Cash-Padgett, Maya Zhe-Wang, Benjamin Hayden, Rubén Moreno Bote<br/>
+Demetrio Ferro, Tyler Cash-Padgett, Maya Zhe-Wang, Benjamin Y. Hayden, Rubén Moreno Bote<br/>
 _In preparation_, 2024 <br/>
 DOI:[10.1101/2020.06.09.142190](https://doi.org/10.1101/2023.04.20.537677) [[data and code]](https://doi.org/10.12751/g-node.evlnq5)
 [[pdf]](https://www.biorxiv.org/content/10.1101/2023.04.20.537677v3.full.pdf)
 
 [Model of gaze centred activation and reactivation of value encoding in orbitofrontal cortex.](https://search.kg.ebrains.eu/instances/a2dce812-1d4b-4fc5-a69f-96005288c12e)<br/>
-Ferro, D., Hayden, B.Y., and Moreno-Bote, R., <br/>
+Demetrio Ferro, Benjamin Y. Hayden and Rubén Moreno-Bote <br/>
 _Ebrains Knowledgegraph_, 2023. <br/>
 
 [Gaze-centered gating and re-activation of value encoding in orbitofrontal cortex](https://www.biorxiv.org/content/10.1101/2023.04.20.537677v3.abstract)<br/>
-Demetrio Ferro, Tyler Cash-Padgett, Maya Zhe-Wang, Benjamin Hayden, Rubén Moreno Bote<br/>
+Demetrio Ferro, Tyler Cash-Padgett, Maya Zhe-Wang, Benjamin Y. Hayden, Rubén Moreno Bote<br/>
 _bioRxiv_, 2023 <br/>
 DOI:[10.1101/2020.06.09.142190](https://doi.org/10.1101/2023.04.20.537677)
 [[pdf]](https://www.biorxiv.org/content/10.1101/2023.04.20.537677v3.full.pdf)
 
 
 [The role of gaze for value encoding and recollection in orbitofrontal cortex](https://2023.ccneuro.org/view_paper8951.html?PaperNum=1122)<br/>
-Demetrio Ferro, Anna Rifé Mata, Tyler Cash-Padgett, Maya Zhe-Wang, Benjamin Hayden, Rubén Moreno Bote<br/>
+Demetrio Ferro, Anna Rifé Mata, Tyler Cash-Padgett, Maya Zhe-Wang, Benjamin Y. Hayden, Rubén Moreno Bote<br/>
 _Conference on Cognitive Computational Neuroscience (CCN)_, 1-3, Oxford (UK), 2023 <br/>
 DOI: [10.32470/CCN.2023.1122-0](https://2023.ccneuro.org/view_paper8951.html?PaperNum=1122)
 [[pdf]](https://2023.ccneuro.org/proceedings/0000615.pdf?s=W&pn=1122)
