@@ -13,7 +13,7 @@ author_profile: true
 </tr>
 <tr style="border:none !important;">
 <td style="border:none !important; text-align:center !important;"><h3>ICT 2024</h3></td>
-<td style="border:none !important;">R. Moreno Bote, <b>D. Ferro</b> and J. Ramirez-Ruiz. "Theories of intrinsically motivated behavior: comparing Empowerment, Free Energy Principle and Maximum Occupancy Principle", International Conference on Thinking (<i>ICT2024</i>), June 2024 (Milan, IT). <a href="/abstracts/ProgrammeICT2024.pdf" type="application/pdf" target="_blank">[programme]</a> [poster]
+<td style="border:none !important;">R. Moreno Bote, <b>D. Ferro</b> and J. Ramirez-Ruiz. "Theories of intrinsically motivated behavior: comparing Empowerment, Free Energy Principle and Maximum Occupancy Principle", International Conference on Thinking (<i>ICT2024</i>), June 2024 (Milan, IT). <a href="/abstracts/ProgrammeICT2024.pdf" type="application/pdf" target="_blank">[programme]</a>  <a href="/abstracts/PosterICT2024.pdf" type="application/pdf" target="_blank">[poster]</a>
 </td>
  </tr>
 <tr style="border:none !important;">
