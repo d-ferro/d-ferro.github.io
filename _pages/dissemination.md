@@ -8,7 +8,7 @@ author_profile: true
 <table style="border:none !important;">
 <tr style="border:none !important;">
  <td style="border:none !important; text-align:center !important;"><h3>ICT 2024</h3></td>
- <td style="border:none !important;"><b>D. Ferro</b>, T. Cash-Padgett, M. Z. Wang, B. Y. Hayden, R. Moreno-Bote, “Economic decision-making in the brain: how does gaze relate to the activity of orbitofrontal cortex neurons?”, International Conference on Thinking (<i>ICT2024</i>), June 2024 (Milan, IT). <a href="/abstracts/ProgrammeICT2024.pdf" type="application/pdf" target="_blank">[programme]</a> [talk]
+ <td style="border:none !important;"><b>D. Ferro</b>, T. Cash-Padgett, M. Z. Wang, B. Y. Hayden, R. Moreno-Bote, “Economic decision-making in the brain: how does gaze relate to the activity of orbitofrontal cortex neurons?”, International Conference on Thinking (<i>ICT2024</i>), June 2024 (Milan, IT). <a href="/abstracts/ProgrammeICT2024.pdf" type="application/pdf" target="_blank">[programme]</a> <a href="/abstracts/TalkICT2024.pdf" type="application/pdf" target="_blank">[talk]</a>
 </td>
 </tr>
 <tr style="border:none !important;">
