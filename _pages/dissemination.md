@@ -125,7 +125,7 @@ orbito-frontal cortex.”, Barcelona Computational, Cognitive and Systems Neuros
  </td>
 </tr>
  <tr style="border:none !important;">
- <td style="border:none !important; text-align:center !important;"><h3>Neural Coding 2018</h3></td>
+ <td style="border:none !important; text-align:center !important;"><h3>Slow Dyn 2017</h3></td>
  <td style="border:none !important;">Experimental and Theoretical Analysis of Cortical Dynamics Workshop, 2017 (Rovereto, IT) <a href="https://www.humanbrainproject.eu/en/follow-hbp/events/experimental-and-theoretical-analysis-cortical-dynamics-workshop" type="application/pdf" target="_blank">[programme]</a>
  </td>
 </tr>
