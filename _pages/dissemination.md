@@ -124,4 +124,9 @@ orbito-frontal cortex.”, Barcelona Computational, Cognitive and Systems Neuros
  <td style="border:none !important;">Neural Coding Conference at the University of Turin, 2018 (Turin, IT) <a href="/abstracts/ProgrammeNEUCOD2018.pdf" type="application/pdf" target="_blank">[programme]</a>
  </td>
 </tr>
+ <tr style="border:none !important;">
+ <td style="border:none !important; text-align:center !important;"><h3>Neural Coding 2018</h3></td>
+ <td style="border:none !important;">Experimental and Theoretical Analysis of Cortical Dynamics Workshop, 2017 (Rovereto, IT) <a href="https://www.humanbrainproject.eu/en/follow-hbp/events/experimental-and-theoretical-analysis-cortical-dynamics-workshop" type="application/pdf" target="_blank">[programme]</a>
+ </td>
+</tr>
 </table>
