@@ -116,7 +116,7 @@ orbito-frontal cortex.”, Barcelona Computational, Cognitive and Systems Neuros
 </tr>
  <tr style="border:none !important;">
  <td style="border:none !important; text-align:center !important;"><h3>HBP WP2 2023</h3></td>
- <td style="border:none !important;"> COREDEM (Human Brain Project, WP2), July 2022 (Paris, FR). <a href="/abstracts/ProgrammeHBPCDM2022.pdf" type="application/pdf" target="_blank">[programme]</a>
+ <td style="border:none !important;"> COREDEM (Human Brain Project, Work Package 2), July 2022 (Paris, FR). <a href="/abstracts/ProgrammeHBPCDM2022.pdf" type="application/pdf" target="_blank">[programme]</a>
  </td>
 </tr>
 <tr style="border:none !important;">
