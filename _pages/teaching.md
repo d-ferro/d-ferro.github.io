@@ -1,4 +1,4 @@
-<h1>Participation</h1>
+<h1>Academic activities</h1>
 
 <table style="border:none !important;">
 <tr style="border:none !important;">
