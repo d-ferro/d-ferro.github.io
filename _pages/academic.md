@@ -31,12 +31,12 @@ author_profile: true
 <table style="border:none !important;">
 <tr style="border:none !important; vertical-align:top !important; text-align: top !important">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:4%"><h3 style="margin-top:0 !important;">SCI COMM 2023</h3></td>
- <td style="border:none !important;"><b>Scientific Communication: speech, written essays, presentations analysis and delivery. </b><br/>Universitat Pompeu Fabra, Biomedical Engineering Degree<br/>2023 (Barcelona, ES). <a href="https://aulaglobal.upf.edu/course/info.php?id=56148&lang=en" target="_blank">[info]</a>
+ <td style="border:none !important;"><b>Scientific Communication: speech, written essays, presentations analysis and delivery. </b><br/>Universitat Pompeu Fabra, Biomedical Engineering Degree<br/>2023 (Barcelona, ES). <a style="color:#444" href="https://aulaglobal.upf.edu/course/info.php?id=56148&lang=en" target="_blank">[info]</a>
  </td>
 </tr>
  <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:4%"><h3 style="margin-top:0 !important;">SCI COMM 2022</h3></td>
- <td style="border:none !important;"><b>Scientific Communication: speech, written essays, presentations analysis and delivery. </b><br/>Universitat Pompeu Fabra, Biomedical Engineering Degree <br/>2022 (Barcelona, ES). <a href="https://aulaglobal.upf.edu/course/info.php?id=56148&lang=en" target="_blank">[info]</a>
+ <td style="border:none !important;"><b>Scientific Communication: speech, written essays, presentations analysis and delivery. </b><br/>Universitat Pompeu Fabra, Biomedical Engineering Degree <br/>2022 (Barcelona, ES). <a style="color:#444" href="https://aulaglobal.upf.edu/course/info.php?id=56148&lang=en" target="_blank">[info]</a>
  </td>
 </tr> 
 </table>
@@ -45,12 +45,12 @@ author_profile: true
 <table style="border:none !important;">
 <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:4%"><h3 style="margin-top:0 !important;">TFG BME 2024</h3></td>
- <td style="border:none !important;"><b>Chair of the committee for Bachelor degree theses dissertations</b> (Treballs de fi de Grau, TFG), <br/>Universitat Pompeu Fabra, Biomedical Engineering Gratudations, <br/>Session: Neuroscience, 15-17 July 2024 (Barcelona, ES). <a href="/abstracts/Programme-UPF-BME-2024.pdf" type="application/pdf" target="_blank">[programme]</a>
+ <td style="border:none !important;"><b>Chair of the committee for Bachelor degree theses dissertations</b> (Treballs de fi de Grau, TFG), <br/>Universitat Pompeu Fabra, Biomedical Engineering Gratudations, <br/>Session: Neuroscience, 15-17 July 2024 (Barcelona, ES). <a style="color:#444" href="/abstracts/Programme-UPF-BME-2024.pdf" type="application/pdf" target="_blank">[programme]</a>
  </td>
 </tr>
  <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:4%"><h3 style="margin-top:0 !important">TFM BME 2022</h3></td>
- <td style="border:none !important;"><b>Chair of the committee for Master degree theses dissertations</b> (Treballs de fi de Masters, TFM), <br/>Universitat Pompeu Fabra, Biomedical Engineering Gratudations, <br/>Session: Neuroscience, 11 July 2022 (Barcelona, ES). <a href="/abstracts/Programme-UPF-BME-2024.pdf" type="application/pdf" target="_blank">[programme]</a>
+ <td style="border:none !important;"><b>Chair of the committee for Master degree theses dissertations</b> (Treballs de fi de Masters, TFM), <br/>Universitat Pompeu Fabra, Biomedical Engineering Gratudations, <br/>Session: Neuroscience, 11 July 2022 (Barcelona, ES). <a style="color:#444" href="/abstracts/Programme-UPF-BME-2024.pdf" type="application/pdf" target="_blank">[programme]</a>
  </td>
 </tr>
 </table>
