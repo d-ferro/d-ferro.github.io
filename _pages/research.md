@@ -1,9 +1,10 @@
 ---
 layout: archive
 title: ""
-permalink: /dissemination/
+permalink: /research/
 author_profile: true 
 ---
+<div style="border:none !important; text-align:right !important; width:200px !important; padding-right:16px !important;"><h3 style="margin-top:20px">Research Activities</h3></div>
 
 <div style="border:none !important; text-align:right !important; width:200px !important; padding-right:16px !important;"><h3 style="margin-top:20px">Talks & Posters</h3></div>
 
