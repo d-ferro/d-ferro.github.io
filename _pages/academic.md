@@ -5,7 +5,7 @@ permalink: /academic/
 author_profile: true
 --- 
 
-<h3>Academic Activities</h3>
+<div style="width:auto; text-align:center"><h3>Academic Activities</h3></div>
 <div style="width:200px; text-align:right; padding-right:30px"><h3>Supervision</h3></div>
 <table style="border:none !important;">
  <tr style="border:none !important; vertical-align:top !important; text-align: top !important">
