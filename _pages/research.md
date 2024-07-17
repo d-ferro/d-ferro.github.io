@@ -4,7 +4,6 @@ title: ""
 permalink: /research/
 author_profile: true 
 ---
-<h3>Research Activities</h3>
 
 <div style="border:none !important; text-align:right !important; width:200px !important; padding-right:16px !important;"><h3 style="margin-top:20px">Talks & Posters</h3></div>
 
