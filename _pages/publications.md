@@ -56,7 +56,7 @@ DOI:<a href="https://2023.ccneuro.org/view_paper8951.html?PaperNum=1122" target=
  <td style="border:none !important; text-align:center !important; vertical-align:top !important"><h3 style="margin-top:0 !important">2020</h3></td>
  <td style="border:none !important;"><a href="https://www.biorxiv.org/content/10.1101/2020.06.09.142190v1"><b>Directed information exchange between cortical layers in macaque V1 and V4 and its modulation by selective attention</b></a> <br/>
    Demetrio Ferro, Jochem van Kempen, Michael Boyd, Stefano Panzeri, Alexander Thiele<br/>
-  <i>bioRxiv</i>i>, 2020 <br/>
+  <i>bioRxiv</i>, 2020 <br/>
   DOI:<a href="https://doi.org/10.1101/2020.06.09.142190">10.1101/2020.06.09.142190</a>; PDF:<a href="https://www.biorxiv.org/content/10.1101/2020.06.09.142190v1.full.pdf" type="application/pdf" target="_blank">bioRxiv</a>
  </td>
 </tr>
