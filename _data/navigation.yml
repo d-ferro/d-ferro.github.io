@@ -1,12 +1,12 @@
 # main links links
 main:
-  - title: "Home"
+  - title: "🏠"
     url: /
     
   - title: "Publications"
     url: /publications/
     
-  - title: "Dissemination"
+  - title: "Research activities"
     url: /dissemination/
 
   - title: "Academic Activities"
