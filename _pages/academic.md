@@ -1,4 +1,3 @@
-ok 
 
 <h1>Academic activities</h1>
 
