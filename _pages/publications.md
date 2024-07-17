@@ -9,7 +9,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 For any request or further information contact me at *demetrio[dot]ferro[at]upf[dot]edu*. 
 
 <table style="border:none !important;">
-<tr style="border:none !important;">
+<tr style="border:none !important; text-align:center !important; vertical-align:top !important">
  <td style="border:none !important; text-align:center !important; vertical-align:top !important"><h3>2024</h3></td>
  <td style="border:none !important;"><a href="https://doi.org/10.1038/s41467-024-50214-2" target="_blank"><b>Gaze-centered gating, reactivation, and reevaluation of value in orbitofrontal cortex</b></a><br/>
 Demetrio Ferro, Tyler Cash-Padgett, Maya Zhe-Wang, Benjamin Y. Hayden, Rubén Moreno Bote<br/>
