@@ -74,7 +74,7 @@ DOI:<a href="https://2023.ccneuro.org/view_paper8951.html?PaperNum=1122" target=
  <td style="border:none !important; text-align:center !important; vertical-align:top !important"><h3 style="margin-top:0 !important">2016</h3></td>
  <td style="border:none !important;"><a href="https://ieeexplore.ieee.org/abstract/document/7727873/"><b>Nearest neighbour search using binary neural networks</b></a> <br/>
   Demetrio Ferro, Vincent Gripon, Xiaoran Jiang.<br />
-  <i>International Joint Conference on Neural Networks (IJCNN), IEEE</i>, 5106-5112, 2016
+  <i>International Joint Conference on Neural Networks (IJCNN), IEEE</i>, 5106-5112, 2016<br/>
   DOI:<a href="https://doi.org/10.1109/IJCNN.2016.7727873" target="_blank">10.1109/IJCNN.2016.7727873</a>; PDF:<a href="http://www.vincent-gripon.com/files/conf/2016-IJCNN.pdf" type="application/pdf" target="_blank">IEEE</a>
  </td>
 </tr>
