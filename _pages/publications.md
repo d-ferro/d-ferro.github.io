@@ -4,7 +4,7 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
-
+ 
 <h3>Publications</h3>
 
 <span style="font-size:.75em">You can also find my articles on <a href="https://scholar.google.com/citations?hl=en&user=rb2l4DcAAAAJ&hl=en" target="_blank">Scholar</a>.  
