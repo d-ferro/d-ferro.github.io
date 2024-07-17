@@ -6,7 +6,7 @@ author_profile: true
 --- 
 
 
-<div style="width:200px; text-align:right; padding-right:30px"><h3>Supervision</h3>
+<div style="width:200px; text-align:right; padding-right:30px"><h3>Supervision</h3></div>
 <table style="border:none !important;">
  <tr style="border:none !important; vertical-align:top !important; text-align: top !important">
  <td style="border:none !important; text-align:center !important; width:200px !important"><h3 style="margin-top:0 !important">Bachelor Thesis</h3></td>
@@ -28,7 +28,7 @@ author_profile: true
 </tr> 
 </table>
 
-<div style="width:200px; text-align:right; padding-right:30px"><h3>Teaching</h3>
+<div style="width:200px; text-align:right; padding-right:30px"><h3>Teaching</h3></div>
 <table style="border:none !important;">
 <tr style="border:none !important; vertical-align:top !important; text-align: top !important">
  <td style="border:none !important; text-align:right !important; width:200px !important"><h3 style="margin-top:0 !important; padding-right:30px">SCI COMM 2023</h3></td>
@@ -42,7 +42,7 @@ author_profile: true
 </tr> 
 </table>
 
-<div style="width:200px; text-align:right; padding-right:30px"><h3>Examination</h3>
+<div style="width:200px; text-align:right; padding-right:30px"><h3>Examination</h3></div>
 <table style="border:none !important;">
 <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:200px !important"><h3 style="margin-top:0 !important; padding-right:30px">TFG BME 2024</h3></td>
