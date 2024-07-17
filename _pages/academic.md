@@ -9,12 +9,12 @@ author_profile: true
 <table style="border:none !important;">
 <tr style="border:none !important; vertical-align:top !important; text-align: top !important">
  <td style="border:none !important; text-align:center !important; width:200px !important"><h3 style="margin-top:0 !important">SCI COMM 2023</h3></td>
- <td style="border:none !important;">Universitat Pompeu Fabra Biomedical Engineering, <br/>Scientific Communication: speech, written essays, presentations analysis and delivery. <br/>2023 (Barcelona, ES). <a href="https://aulaglobal.upf.edu/course/info.php?id=56148&lang=en" target="_blank">[info]</a>
+ <td style="border:none !important;">Universitat Pompeu Fabra, Biomedical Engineering Degree, <br/>Scientific Communication: speech, written essays, presentations analysis and delivery. <br/>2023 (Barcelona, ES). <a href="https://aulaglobal.upf.edu/course/info.php?id=56148&lang=en" target="_blank">[info]</a>
  </td>
 </tr>
  <tr style="border:none !important;">
  <td style="border:none !important; text-align:center !important; width:200px !important"><h3 style="margin-top:0 !important">SCI COMM 2022</h3></td>
- <td style="border:none !important;">Universitat Pompeu Fabra Biomedical Engineering, <br/>Scientific Communication: speech, written essays, presentations analysis and delivery. <br/>2022 (Barcelona, ES). <a href="https://aulaglobal.upf.edu/course/info.php?id=56148&lang=en" target="_blank">[info]</a>
+ <td style="border:none !important;">Universitat Pompeu Fabra, Biomedical Engineering Degree, <br/>Scientific Communication: speech, written essays, presentations analysis and delivery. <br/>2022 (Barcelona, ES). <a href="https://aulaglobal.upf.edu/course/info.php?id=56148&lang=en" target="_blank">[info]</a>
  </td>
 </tr> 
 </table>
