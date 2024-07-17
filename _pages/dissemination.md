@@ -96,7 +96,9 @@ orbito-frontal cortex.”, Barcelona Computational, Cognitive and Systems Neuros
  </tr>
 </table>
 <h1> </h1>
-<h1>Participation</h1>
+
+
+<h2 style="margin-top:20px">Participations</h2>
 
 <table style="border:none !important;">
 <tr style="border:none !important;">
