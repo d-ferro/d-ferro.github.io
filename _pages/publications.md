@@ -16,13 +16,13 @@ For any request or further information contact me at *demetrio[dot]ferro[at]upf[
  <td style="border:none !important; text-align:center !important;"><h3>2024</h3></td>
  <td style="border:none !important;"><a href="https://doi.org/10.1038/s41467-024-50214-2" target="_blank"><b>Gaze-centered gating, reactivation, and reevaluation of value in orbitofrontal cortex</b></a><br/>
 Demetrio Ferro, Tyler Cash-Padgett, Maya Zhe-Wang, Benjamin Y. Hayden, Rubén Moreno Bote<br/>
-_In preparation_, 2024 <br/>
+<i>In preparation</i>, 2024 <br/>
 DOI:<a href="https://doi.org/10.1038/s41467-024-50214-2" target="_blank">10.1038/s41467-024-50214-2</a> - data and code: <a href="https://doi.org/10.12751/g-node.evlnq5">g-node</a> - pdf <a href="https://www.biorxiv.org/content/10.1101/2023.04.20.537677v3.full.pdf">biorxiv</a>
  </td>
 </tr>
 <tr style="border:none !important;">
- <td style="border:none !important; text-align:center !important;"><h3>Barccsyn 2024</h3></td>
- <td style="border:none !important;">Barcelona Computational, Cognitive and Systems Neuroscience (<i>Barccsyn</i>), May 2024 (Barcelona, ES). <a href="/abstracts/ProgrammeBSYN2024.pdf" type="application/pdf" target="_blank">[programme]</a>
+ <td style="border:none !important; text-align:center !important;"><h3>2023</h3></td>
+ <td style="border:none !important;"><a href="Model of gaze centred activation and reactivation of value encoding in orbitofrontal cortex."><b>Model of gaze-centred activation and reactivation of value encoding in orbitofrontal cortex.</b></a>
  </td>
 </tr>
 <tr style="border:none !important;">
@@ -54,7 +54,7 @@ DOI:<a href="https://doi.org/10.1038/s41467-024-50214-2" target="_blank">10.1038
 
 
 
-[Model of gaze centred activation and reactivation of value encoding in orbitofrontal cortex.](https://search.kg.ebrains.eu/instances/a2dce812-1d4b-4fc5-a69f-96005288c12e)<br/>
+[]()<br/>
 Demetrio Ferro, Benjamin Y. Hayden and Rubén Moreno-Bote <br/>
 _Ebrains Knowledgegraph_, 2023. <br/>
 
