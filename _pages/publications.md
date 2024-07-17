@@ -9,8 +9,8 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 For any request or further information contact me at *demetrio[dot]ferro[at]upf[dot]edu*. 
 
 <table style="border:none !important;">
-<tr style="border:none !important; text-align:center !important; vertical-align:top !important">
- <td style="border:none !important; text-align:center !important; vertical-align:top !important"><h3 style="vertical-align:top !important">2024</h3></td>
+<tr style="border:none !important; text-align:center !important;">
+ <td style="border:none !important; text-align:center !important; vertical-align:top !important"><h3 style="margin-top:0 !important">2024</h3></td>
  <td style="border:none !important;"><a href="https://doi.org/10.1038/s41467-024-50214-2" target="_blank"><b>Gaze-centered gating, reactivation, and reevaluation of value in orbitofrontal cortex</b></a><br/>
 Demetrio Ferro, Tyler Cash-Padgett, Maya Zhe-Wang, Benjamin Y. Hayden, Rubén Moreno Bote<br/>
 <i>In preparation</i>, 2024 <br/> 
@@ -18,14 +18,14 @@ DOI:<a href="https://doi.org/10.1038/s41467-024-50214-2" target="_blank">10.1038
  </td>
 </tr>
 <tr style="border:none !important;">
- <td style="border:none !important; text-align:center !important;"><h3>2023</h3></td>
+ <td style="border:none !important; text-align:center !important;"><h3 style="margin-top:0 !important">2023</h3></td>
  <td style="border:none !important;"><a href="https://search.kg.ebrains.eu/instances/a2dce812-1d4b-4fc5-a69f-96005288c12e"><b>Model of gaze-centred activation and reactivation of value encoding in orbitofrontal cortex.</b></a> <br/>
   Demetrio Ferro, Benjamin Y. Hayden and Rubén Moreno-Bote <br/>
   <i>Ebrains Knowledgegraph, 2023. </i>
  </td>
 </tr>
 <tr style="border:none !important;">
- <td style="border:none !important; text-align:center !important;"><h3>Barccsyn 2023</h3></td>
+ <td style="border:none !important; text-align:center !important;"></td>
  <td style="border:none !important;">Barcelona Computational, Cognitive and Systems Neuroscience (<i>Barccsyn</i>), May 2023 (Barcelona, ES). <a href="/abstracts/ProgrammeBSYN2023.pdf" type="application/pdf" target="_blank">[programme]</a>
  </td>
 </tr>
