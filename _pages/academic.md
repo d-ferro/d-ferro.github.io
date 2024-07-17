@@ -15,7 +15,7 @@ author_profile: true
 </tr>
 <tr style="border:none !important; vertical-align:top !important; text-align: top !important">
  <td style="border:none !important; text-align:right !important; width:200px !important; padding-right:30px"><h3 style="margin-top:0 !important">Internship</h3></td>
- <td style="border:none !important;"><b>Student: Marcel Socoró Garrigosa;</b>, Sept - Dec 2023.<br/> Universitat Pompeu Fabra, Biomedical Engineering Degree <br/>
+ <td style="border:none !important;"><b>Student: Marcel Socoró Garrigosa</b>, Sept - Dec 2023.<br/> Universitat Pompeu Fabra, Biomedical Engineering Degree <br/>
   Analysis of behavioral and ephys neural data from Allen brain institute.
  </td>
 </tr>
