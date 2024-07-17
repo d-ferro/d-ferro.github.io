@@ -20,29 +20,27 @@ author_profile: true
  </tr>
 <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:200px !important; padding-right:16px !important;vertical-align:top !important"><h3 style="margin-top:0 !important">CCN 2023</h3></td>
- <td style="border:none !important;"><b>D. Ferro</b>, A. Rifé-Mata, T. Cash-Padgett, M. Z. Wang, B. Y. Hayden, R. Moreno-Bote, “The role of gaze for value encoding and recollection in orbitofrontal cortex ”, Conference on Cognitive Computational Neuroscience (<i>CCN</i>), August 2023 (Oxford, UK). <a href="/abstracts/ProgrammeCCN2023.pdf" type="application/pdf" target="_blank">[programme]</a> <a href="/abstracts/AbstractCCN2023.pdf" type="application/pdf" target="_blank">[abstract]</a> <a href="/abstracts/PosterCCN2023.pdf" type="application/pdf" target="_blank">[poster]</a>
+ <td style="border:none !important;"><b>D. Ferro</b>, A. Rifé-Mata, T. Cash-Padgett, M. Z. Wang, B. Y. Hayden, R. Moreno-Bote, “The role of gaze for value encoding and recollection in orbitofrontal cortex”, Conference on Cognitive Computational Neuroscience (<i>CCN</i>), August 2023 (Oxford, UK). <a href="/abstracts/ProgrammeCCN2023.pdf" type="application/pdf" target="_blank">[programme]</a> <a href="/abstracts/AbstractCCN2023.pdf" type="application/pdf" target="_blank">[abstract]</a> <a href="/abstracts/PosterCCN2023.pdf" type="application/pdf" target="_blank">[poster]</a>
 </td>
 </tr>
 <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:200px !important; padding-right:16px !important;vertical-align:top !important"><h3 style="margin-top:0 !important">HBP WP2 2023</h3></td>
- <td style="border:none !important;"><b>D. Ferro</b>, A. Rifé-Mata, T. Cash-Padgett, M. Z. Wang, B. Y. Hayden, R. Moreno-Bote, “Gaze-centered gating and re-activation of value encoding in orbitofrontal cortex ”, HBP Work Package 2 Meeting, June 2023 (Barcelona, ES). <a href="/abstracts/ProgrammeHBPBCN2023.pdf" type="application/pdf" target="_blank">[programme]</a> [talk]
+ <td style="border:none !important;"><b>D. Ferro</b>, A. Rifé-Mata, T. Cash-Padgett, M. Z. Wang, B. Y. Hayden, R. Moreno-Bote, “Gaze-centered gating and re-activation of value encoding in orbitofrontal cortex”, HBP Work Package 2 Meeting, June 2023 (Barcelona, ES). <a href="/abstracts/ProgrammeHBPBCN2023.pdf" type="application/pdf" target="_blank">[programme]</a> [talk]
 </td>
 </tr>
 <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:200px !important; padding-right:16px !important;vertical-align:top !important"><h3 style="margin-top:0 !important">HBP Summit 2023</h3></td><td style="border:none !important;">
-<b>D. Ferro</b>, A. Rifé-Mata, T. Cash-Padgett, M. Z. Wang, B. Y. Hayden, R. Moreno-Bote,“Looking at previous cue sites reactivates value coding for serial evaluation in orbitofrontal cortex ”, HBP Summit 2023, March 2023 (Marseille, FR). <a href="/abstracts/ProgrammeHBPMRS2023.pdf" type="application/pdf" target="_blank">[programme]</a> <a href="/abstracts/PosterHBPMRS2023.pdf" type="application/pdf" target="_blank">[poster]</a> 
+<b>D. Ferro</b>, A. Rifé-Mata, T. Cash-Padgett, M. Z. Wang, B. Y. Hayden, R. Moreno-Bote,“Looking at previous cue sites reactivates value coding for serial evaluation in orbitofrontal cortex”, HBP Summit 2023, March 2023 (Marseille, FR). <a href="/abstracts/ProgrammeHBPMRS2023.pdf" type="application/pdf" target="_blank">[programme]</a> <a href="/abstracts/PosterHBPMRS2023.pdf" type="application/pdf" target="_blank">[poster]</a> 
 </td>
 </tr>
 <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:200px !important; padding-right:16px !important;vertical-align:top !important"><h3 style="margin-top:0 !important">MSBFIINE 2022</h3></td>
- <td style="border:none !important;"><b>D. Ferro</b>, A. Rifé-Mata, T. Cash-Padgett, M. Z. Wang, B. Y. Hayden, R. Moreno-Bote, “Recalling what was there: Eye position in reward gambling and the role of orbito-frontal cortex
-in encoding the value of visually cued offers”, Multi-Scale Brain Function India-Italy Network of Excellence (<i>MSBFIINE</i>), Dec 2022 (Varenna, IT). <a href="/abstracts/ProgrammeMSBFIINE2022.pdf" type="application/pdf" target="_blank">[programme]</a> <a href="/abstracts/AbstractMSBFIINE2022.pdf" type="application/pdf" target="_blank">[abstract]</a> [talk]
+ <td style="border:none !important;"><b>D. Ferro</b>, A. Rifé-Mata, T. Cash-Padgett, M. Z. Wang, B. Y. Hayden, R. Moreno-Bote, “Recalling what was there: Eye position in reward gambling and the role of orbito-frontal cortex in encoding the value of visually cued offers”, Multi-Scale Brain Function India-Italy Network of Excellence (<i>MSBFIINE</i>), Dec 2022 (Varenna, IT). <a href="/abstracts/ProgrammeMSBFIINE2022.pdf" type="application/pdf" target="_blank">[programme]</a> <a href="/abstracts/AbstractMSBFIINE2022.pdf" type="application/pdf" target="_blank">[abstract]</a> [talk]
 </td>
 </tr>
 <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:200px !important; padding-right:16px !important;vertical-align:top !important"><h3 style="margin-top:0 !important">Barccsyn 2022</h3></td>
- <td style="border:none !important;"><b>D. Ferro</b>, A. Rifé-Mata, T. Cash-Padgett, M. Z. Wang, B. Y. Hayden, R. Moreno-Bote, “Imagining what was there: Looking at an absent offer location modulates neural response in
-orbito-frontal cortex.”, Barcelona Computational, Cognitive and Systems Neuroscience (<i>Barccsyn</i>), May 2022 (Barcelona, ES). <a href="/abstracts/AbstractBSYN2022.pdf" type="application/pdf" target="_blank">[abstract]</a> <a href="/abstracts/PosterCOSYNE2022.pdf" type="application/pdf" target="_blank">[poster]</a>
+ <td style="border:none !important;"><b>D. Ferro</b>, A. Rifé-Mata, T. Cash-Padgett, M. Z. Wang, B. Y. Hayden, R. Moreno-Bote, “Imagining what was there: Looking at an absent offer location modulates neural response in orbito-frontal cortex.”, Barcelona Computational, Cognitive and Systems Neuroscience (<i>Barccsyn</i>), May 2022 (Barcelona, ES). <a href="/abstracts/AbstractBSYN2022.pdf" type="application/pdf" target="_blank">[abstract]</a> <a href="/abstracts/PosterCOSYNE2022.pdf" type="application/pdf" target="_blank">[poster]</a>
 </td>
 </tr>
 <tr style="border:none !important;">
