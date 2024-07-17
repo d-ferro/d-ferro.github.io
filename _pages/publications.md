@@ -8,7 +8,7 @@ author_profile: true
 <h3>Publications</h3>
 
 <p style="font-size:.75em">You can also find my articles on <a href="https://scholar.google.com/citations?hl=en&user=rb2l4DcAAAAJ&hl=en" target="_blank">Scholar</a>.  
-For any request or further information contact me at <i>demetrio[dot]ferro[at]upf[dot]edu</i>. </p>
+For any request or further information contact me at <i>demetrio[dot]ferro[at]upf[dot]edu</i>.</p>
 
 <table style="border:none !important;">
 <!-- 2024 -->
@@ -31,7 +31,7 @@ DOI:<a href="https://2023.ccneuro.org/view_paper8951.html?PaperNum=1122" target=
 </tr>
 <tr style="border:none !important;">
  <td style="border:none !important; text-align:center !important; vertical-align:top !important"><h3 style="margin-top:0 !important"></h3></td>
- <td style="border:none !important;"><a href="https://search.kg.ebrains.eu/instances/a2dce812-1d4b-4fc5-a69f-96005288c12e" target="_blank"><b>Model of gaze-centred activation and reactivation of value encoding in orbitofrontal cortex</b></a> <br/>
+ <td style="border:none !important;"><a href="https://search.kg.ebrains.eu/instances/a2dce812-1d4b-4fc5-a69f-96005288c12e" target="_blank"><b>Model of gaze-centered activation and reactivation of value encoding in orbitofrontal cortex</b></a> <br/>
   <b>Demetrio Ferro</b>, Benjamin Y. Hayden and Rubén Moreno-Bote <br/>
   <i>Ebrains Knowledgegraph</i>, 2023.
  </td>
