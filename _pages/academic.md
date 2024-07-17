@@ -46,12 +46,12 @@ author_profile: true
 <table style="border:none !important;">
 <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:200px !important; padding-right:30px"><h3 style="margin-top:0 !important;">TFG BME 2024</h3></td>
- <td style="border:none !important;">Universitat Pompeu Fabra, Biomedical Engineering Gratudations, <br/><b>Chair of the committee for Bachelor degree theses dissertations</b> (Treballs de fi de Grau, TFG), <br/>Session: Neuroscience, 15-17 July 2024 (Barcelona, ES). <a href="/abstracts/Programme-UPF-BME-2024.pdf" type="application/pdf" target="_blank">[programme]</a>
+ <td style="border:none !important;"><b>Chair of the committee for Bachelor degree theses dissertations</b> (Treballs de fi de Grau, TFG), <br/>Universitat Pompeu Fabra, Biomedical Engineering Gratudations, <br/>Session: Neuroscience, 15-17 July 2024 (Barcelona, ES). <a href="/abstracts/Programme-UPF-BME-2024.pdf" type="application/pdf" target="_blank">[programme]</a>
  </td>
 </tr>
  <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:200px !important; padding-right:30px"><h3 style="margin-top:0 !important">TFM BME 2022</h3></td>
- <td style="border:none !important;">Universitat Pompeu Fabra, Biomedical Engineering Graduations, <br/><b>Chair of the committee for Master degree theses dissertations</b> (Treballs de fi de Masters, TFM), <br/>Session: Neuroscience, 11 July 2022 (Barcelona, ES). <a href="/abstracts/Programme-UPF-BME-2024.pdf" type="application/pdf" target="_blank">[programme]</a>
+ <td style="border:none !important;"><b>Chair of the committee for Master degree theses dissertations</b> (Treballs de fi de Masters, TFM), <br/>Universitat Pompeu Fabra, Biomedical Engineering Gratudations, <br/>Session: Neuroscience, 11 July 2022 (Barcelona, ES). <a href="/abstracts/Programme-UPF-BME-2024.pdf" type="application/pdf" target="_blank">[programme]</a>
  </td>
 </tr>
 </table>
