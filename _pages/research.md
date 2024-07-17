@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: false 
 ---
 <div style="border:none !important; text-align:right !important; width:200px !important; padding-right:16px !important;"><h3 style="margin-top:20px">Research Activities</h3></div>
-
+On this page I have listed all Conferences I have attended, listing Talks & Posters I have presented, and participation only.
 <div style="border:none !important; text-align:right !important; width:200px !important; padding-right:16px !important;"><h3 style="margin-top:20px">Talks & Posters</h3></div>
 
 <table style="border:none !important;">
