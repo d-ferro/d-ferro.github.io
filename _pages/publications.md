@@ -24,7 +24,7 @@ DOI:<a href="https://doi.org/10.1038/s41467-024-50214-2" target="_blank">10.1038
  <td style="border:none !important;"><a href="https://2023.ccneuro.org/view_paper8951.html?PaperNum=1122" target="_blank"><b>The role of gaze for value encoding and recollection in orbitofrontal cortex</b></a><br/>
  Demetrio Ferro, Anna Rifé Mata, Tyler Cash-Padgett, Maya Zhe-Wang, Benjamin Y. Hayden, Rubén Moreno Bote<br/>
   <i>Conference on Cognitive Computational Neuroscience (CCN)</i>, 1-3, Oxford (UK), 2023 <br/>
-DOI:<a href="https://2023.ccneuro.org/view_paper8951.html?PaperNum=1122" target"_blank">10.32470/CCN.2023.1122-0</a>; PDF: <a href="https://2023.ccneuro.org/proceedings/0000615.pdf?s=W&pn=1122" type="application/pdf" target="_blank">CCNeuro</a>
+DOI:<a href="https://2023.ccneuro.org/view_paper8951.html?PaperNum=1122" target="_blank">10.32470/CCN.2023.1122-0</a>; PDF: <a href="https://2023.ccneuro.org/proceedings/0000615.pdf?s=W&pn=1122" type="application/pdf" target="_blank">CCNeuro</a>
  </td>
 </tr>
 <tr style="border:none !important;">
