@@ -2,7 +2,7 @@
 layout: archive
 title: ""
 permalink: /research/
-author_profile: true 
+author_profile: false 
 ---
 <div style="border:none !important; text-align:right !important; width:200px !important; padding-right:16px !important;"><h3 style="margin-top:20px">Research Activities</h3></div>
 
@@ -10,7 +10,7 @@ author_profile: true
 
 <table style="border:none !important;">
 <tr style="border:none !important;">
- <td style="border:none !important; text-align:right !important; width:200px !important; padding-right:16px !important;"><h3 style="margin-top:0 !important">ICT 2024</h3></td>
+ <td style="border:none !important; text-align:right !important; width:200px !important; padding-right:16px !important; vertical-align:top !important"><h3 style="margin-top:0 !important">ICT 2024</h3></td>
  <td style="border:none !important;"><b>D. Ferro</b>, T. Cash-Padgett, M. Z. Wang, B. Y. Hayden, R. Moreno-Bote, “Economic decision-making in the brain: how does gaze relate to the activity of orbitofrontal cortex neurons?”, International Conference on Thinking (<i>ICT2024</i>), June 2024 (Milan, IT). <a href="/abstracts/ProgrammeICT2024.pdf" type="application/pdf" target="_blank">[programme]</a> <a href="/abstracts/TalkICT2024.pdf" type="application/pdf" target="_blank">[talk]</a>
 </td>
 </tr>
