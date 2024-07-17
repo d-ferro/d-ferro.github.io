@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Academic"
+permalink: /academic/
+author_profile: true
+---
+
 List of 
 <h1>Academic activities</h1>
 
