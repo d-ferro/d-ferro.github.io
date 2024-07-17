@@ -3,7 +3,7 @@ layout: archive
 title: "Academic"
 permalink: /academic/
 author_profile: true
----
+--- 
 
 <h3>Teaching activities</h3>
 <table style="border:none !important;">
