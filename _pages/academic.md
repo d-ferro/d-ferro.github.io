@@ -5,6 +5,29 @@ permalink: /academic/
 author_profile: true
 --- 
 
+
+<h3>Supervision</h3>
+<table style="border:none !important;">
+ <tr style="border:none !important; vertical-align:top !important; text-align: top !important">
+ <td style="border:none !important; text-align:center !important; width:200px !important"><h3 style="margin-top:0 !important">Bachelor Thesis</h3></td>
+ <td style="border:none !important;">Universitat Pompeu Fabra, Biomedical Engineering Degree, <br/>Student: Pau Boncompte Carré; Period: Jan - July 2023.<br/>
+  Analysis of behavioral and ephys neural data from Allen brain institute.
+ </td>
+</tr>
+<tr style="border:none !important; vertical-align:top !important; text-align: top !important">
+ <td style="border:none !important; text-align:center !important; width:200px !important"><h3 style="margin-top:0 !important">Internship</h3></td>
+ <td style="border:none !important;">Universitat Pompeu Fabra, Biomedical Engineering Degree, <br/>Student: Marcel Socoró Garrigosa; Period: Sept - Dec 2023.<br/>
+  Analysis of behavioral and ephys neural data from Allen brain institute.
+ </td>
+</tr>
+ <tr style="border:none !important;">
+ <td style="border:none !important; text-align:center !important; width:200px !important"><h3 style="margin-top:0 !important">Internship</h3></td>
+ <td style="border:none !important;">Universitat Pompeu Fabra, Biomedical Engineering Degree, <br/>Student: Pau Garriga Marsans; Period: June - Aug 2023.<br/>
+  Analysis of behavioral and ephys neural data from Allen brain institute.
+ </td>
+</tr> 
+</table>
+
 <h3>Teaching activities</h3>
 <table style="border:none !important;">
 <tr style="border:none !important; vertical-align:top !important; text-align: top !important">
