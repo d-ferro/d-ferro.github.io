@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PostDoctoral researcher in the group of Theoretical and Computational Neuroscience (<a href="https://www.upf.edu/web/tcn" target="_blank">TCN</a>), within the Center for Brain and Computation (<a href="https://www.upf.edu/web/cbc" target="_blank">CBC</a>) within the Department of Engineering of Information and Communication Technologies (<a href="https://www.upf.edu/web/etic" target="_blanK">ETIC</a>), at the University Pompeu Fabra (UPF), in Barcelona. 
+I am a Postdoctoral researcher in the Theoretical and Computational Neuroscience (<a href="https://www.upf.edu/web/tcn" target="_blank">TCN</a>) group at the Center for Brain and Computation (<a href="https://www.upf.edu/web/cbc" target="_blank">CBC</a>) within the Department of Engineering of Information and Communication Technologies (<a href="https://www.upf.edu/web/etic" target="_blanK">ETIC</a>), at the University Pompeu Fabra (<a href="https://www.upf.edu/" target="_blanK">UPF</a>), in Barcelona. 
 
 My research focuses on exploring the connections between neural physiology and the computational mechanisms involved in sensory information processing, transmission, and storage, to achieve cognitive and behavioral goals. Specifically, I aim to investigate the interplay between focal attentional selection of visual features and the spatial patterns associated with motor action planning in reward expectation. This involves analyzing gaze patterns to differentiate between overt visual sampling for enhanced foveal processing and reward expectation based on target motion direction.
 
