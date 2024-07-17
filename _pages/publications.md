@@ -5,14 +5,55 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on [Google Scholar](https://scholar.google.com/citations?hl=en&user=rb2l4DcAAAAJ&hl=en).  
-For any request or further information contact me at *demetrio[dot]ferro[at]upf[dot]edu*.  
 
-[Gaze-centered gating, reactivation, and reevaluation of value in orbitofrontal cortex](https://)<br/>
+<h1>Publications</h1>
+
+You can also find my articles on [Google Scholar](https://scholar.google.com/citations?hl=en&user=rb2l4DcAAAAJ&hl=en).  
+For any request or further information contact me at *demetrio[dot]ferro[at]upf[dot]edu*. 
+
+<table style="border:none !important;">
+<tr style="border:none !important;">
+ <td style="border:none !important; text-align:center !important;"><h3>2024</h3></td>
+ <td style="border:none !important;">[Gaze-centered gating, reactivation, and reevaluation of value in orbitofrontal cortex](https://)<br/>
 Demetrio Ferro, Tyler Cash-Padgett, Maya Zhe-Wang, Benjamin Y. Hayden, Rubén Moreno Bote<br/>
 _In preparation_, 2024 <br/>
 DOI:[10.1101/2020.06.09.142190](https://doi.org/10.1101/2023.04.20.537677) [[data and code]](https://doi.org/10.12751/g-node.evlnq5)
 [[pdf]](https://www.biorxiv.org/content/10.1101/2023.04.20.537677v3.full.pdf)
+ </td>
+</tr>
+<tr style="border:none !important;">
+ <td style="border:none !important; text-align:center !important;"><h3>Barccsyn 2024</h3></td>
+ <td style="border:none !important;">Barcelona Computational, Cognitive and Systems Neuroscience (<i>Barccsyn</i>), May 2024 (Barcelona, ES). <a href="/abstracts/ProgrammeBSYN2024.pdf" type="application/pdf" target="_blank">[programme]</a>
+ </td>
+</tr>
+<tr style="border:none !important;">
+ <td style="border:none !important; text-align:center !important;"><h3>Barccsyn 2023</h3></td>
+ <td style="border:none !important;">Barcelona Computational, Cognitive and Systems Neuroscience (<i>Barccsyn</i>), May 2023 (Barcelona, ES). <a href="/abstracts/ProgrammeBSYN2023.pdf" type="application/pdf" target="_blank">[programme]</a>
+ </td>
+</tr>
+ <tr style="border:none !important;">
+ <td style="border:none !important; text-align:center !important;"><h3>HBP PFC 2023</h3></td>
+ <td style="border:none !important;">Anatomy and function of the prefrontal cortex across species (Human Brain Project), March 2023 (Paris, FR). <a href="/abstracts/ProgrammeHBPPFC2023.pdf" type="application/pdf" target="_blank">[programme]</a>
+ </td>
+</tr>
+ <tr style="border:none !important;">
+ <td style="border:none !important; text-align:center !important;"><h3>HBP WP2 2023</h3></td>
+ <td style="border:none !important;"> COREDEM (Human Brain Project, Work Package 2), July 2022 (Paris, FR). <a href="/abstracts/ProgrammeHBPCDM2022.pdf" type="application/pdf" target="_blank">[programme]</a>
+ </td>
+</tr>
+<tr style="border:none !important;">
+ <td style="border:none !important; text-align:center !important;"><h3>Neural Coding 2018</h3></td>
+ <td style="border:none !important;">Neural Coding Conference at the University of Turin, 2018 (Turin, IT) <a href="/abstracts/ProgrammeNEUCOD2018.pdf" type="application/pdf" target="_blank">[programme]</a>
+ </td>
+</tr>
+ <tr style="border:none !important;">
+ <td style="border:none !important; text-align:center !important;"><h3>Slow Dyn 2017</h3></td>
+ <td style="border:none !important;">Experimental and Theoretical Analysis of Cortical Dynamics Workshop, 2017 (Rovereto, IT) <a href="https://www.humanbrainproject.eu/en/follow-hbp/events/experimental-and-theoretical-analysis-cortical-dynamics-workshop" type="application/pdf" target="_blank">[programme]</a>
+ </td>
+</tr>
+</table>
+
+
 
 [Model of gaze centred activation and reactivation of value encoding in orbitofrontal cortex.](https://search.kg.ebrains.eu/instances/a2dce812-1d4b-4fc5-a69f-96005288c12e)<br/>
 Demetrio Ferro, Benjamin Y. Hayden and Rubén Moreno-Bote <br/>
