@@ -41,7 +41,7 @@ DOI:<a href="https://2023.ccneuro.org/view_paper8951.html?PaperNum=1122" target=
  <td style="border:none !important;"><a href="https://www.biorxiv.org/content/10.1101/2023.04.20.537677v3" target="_blank"><b>Gaze-centered gating and re-activation of value encoding in orbitofrontal cortex</b></a><br/>
   <b>Demetrio Ferro</b>, Tyler Cash-Padgett, Maya Zhe-Wang, Benjamin Y. Hayden, Rubén Moreno Bote<br/>
   <i>bioRxiv</i>, 2023 <br/>
-  DOI:<a href="https://doi.org/10.1101/2020.06.09.142190" target="_blank">10.1101/2020.06.09.142190</a>; Data and code: <a href="https://doi.org/10.12751/g-node.evlnq5" target="_blank">g-node</a>; PDF: <a href="https://www.biorxiv.org/content/10.1101/2023.04.20.537677v3.full.pdf" type="application/pdf"  target="_blank">bioRxiv</a>
+  DOI: <a href="https://doi.org/10.1101/2020.06.09.142190" target="_blank">10.1101/2020.06.09.142190</a>; Data and code: <a href="https://doi.org/10.12751/g-node.evlnq5" target="_blank">g-node</a>; PDF: <a href="https://www.biorxiv.org/content/10.1101/2023.04.20.537677v3.full.pdf" type="application/pdf"  target="_blank">bioRxiv</a>
  </td>
 </tr>
 <!-- 2021-->
@@ -50,7 +50,7 @@ DOI:<a href="https://2023.ccneuro.org/view_paper8951.html?PaperNum=1122" target=
  <td style="border:none !important;"><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2022097118"><b>Directed information exchange between cortical layers in macaque V1 and V4 and its modulation by selective attention</b></a> <br/>
      <b>Demetrio Ferro</b>, Jochem van Kempen, Michael Boyd, Stefano Panzeri, Alexander Thiele<br/>
      <i>Proceedings of the National Academy of Sciences</i>, 118 (12), e2022097118, 2021<br/>
-  DOI:<a href="https://doi.org/10.1073/pnas.2022097118" target="_blank">10.1073/pnas.2022097118</a>; Data and code:<a href="https://gin.g-node.org/56Fe/V1-V4-LFPs-and-Visual-Attention" target="_blank">repository</a>; PDF:<a href="https://www.pnas.org/doi/reader/10.1073/pnas.2022097118" type="application/pdf" target="_blank">PNAS</a>
+  DOI: <a href="https://doi.org/10.1073/pnas.2022097118" target="_blank">10.1073/pnas.2022097118</a>; Data and code: <a href="https://gin.g-node.org/56Fe/V1-V4-LFPs-and-Visual-Attention" target="_blank">repository</a>; PDF: <a href="https://www.pnas.org/doi/reader/10.1073/pnas.2022097118" type="application/pdf" target="_blank">PNAS</a>
  </td>
 </tr>
  <!-- 2020-->
@@ -59,7 +59,7 @@ DOI:<a href="https://2023.ccneuro.org/view_paper8951.html?PaperNum=1122" target=
  <td style="border:none !important;"><a href="https://www.biorxiv.org/content/10.1101/2020.06.09.142190v1"><b>Directed information exchange between cortical layers in macaque V1 and V4 and its modulation by selective attention</b></a> <br/>
    <b>Demetrio Ferro</b>, Jochem van Kempen, Michael Boyd, Stefano Panzeri, Alexander Thiele<br/>
   <i>bioRxiv</i>, 2020 <br/>
-  DOI:<a href="https://doi.org/10.1101/2020.06.09.142190">10.1101/2020.06.09.142190</a>; PDF:<a href="https://www.biorxiv.org/content/10.1101/2020.06.09.142190v1.full.pdf" type="application/pdf" target="_blank">bioRxiv</a>
+  DOI: <a href="https://doi.org/10.1101/2020.06.09.142190">10.1101/2020.06.09.142190</a>; PDF: <a href="https://www.biorxiv.org/content/10.1101/2020.06.09.142190v1.full.pdf" type="application/pdf" target="_blank">bioRxiv</a>
  </td>
 </tr>
  <!-- 2019-->
