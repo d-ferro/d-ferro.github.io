@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true 
 ---
 <div style="border:none !important; text-align:right !important; width:200px !important; padding-right:16px !important;"><h3 style="margin-top:20px">Research Activities</h3></div>
-On this page I have listed all conferences and events attended, listing talks & posters  presented, and participation only.
+
 <div style="border:none !important; text-align:right !important; width:200px !important; padding-right:16px !important;"><h3 style="margin-top:20px">Talks & Posters</h3></div>
 
 <table style="border:none !important;">
@@ -101,7 +101,7 @@ orbito-frontal cortex.”, Barcelona Computational, Cognitive and Systems Neuros
 <h1> </h1>
 
 
-<div style="border:none !important; text-align:right !important; width:200px !important; padding-right:16px !important;"><h3 style="margin-top:20px">Participation</h3></div>
+<div style="border:none !important; text-align:right !important; width:200px !important; padding-right:16px !important;"><h3 style="margin-top:20px">Attended</h3></div>
 
 <table style="border:none !important;">
 <tr style="border:none !important;">
