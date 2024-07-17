@@ -8,12 +8,12 @@ author_profile: true
 <h3>Teaching activities</h3>
 <table style="border:none !important;">
 <tr style="border:none !important;">
- <td style="border:none !important; text-align:center !important;"><h3>SCI COMM 23</h3></td>
+ <td style="border:none !important; text-align:center !important;"><h3>SCI COMM 2023</h3></td>
  <td style="border:none !important;">Universitat Pompeu Fabra Biomedical Engineering, </br>Scientific Communication: speech analysis and delivery, written essays analysis and delivery, presentations analysis and delivery, 2022 (Barcelona, ES). <a href="/abstracts/Programme-UPF-BME-2024.pdf" type="application/pdf" target="_blank">[programme]</a>
  </td>
 </tr>
  <tr style="border:none !important;">
- <td style="border:none !important; text-align:center !important;"><h3>SCI COMM 22</h3></td>
+ <td style="border:none !important; text-align:center !important;"><h3>SCI COMM 2022</h3></td>
  <td style="border:none !important;">Universitat Pompeu Fabra Biomedical Engineering, </br>Scientific Communication: speech analysis and delivery, written essays analysis and delivery, presentations analysis and delivery, 2022 (Barcelona, ES). <a href="/abstracts/Programme-UPF-BME-2024.pdf" type="application/pdf" target="_blank">[programme]</a>
  </td>
 </tr>
