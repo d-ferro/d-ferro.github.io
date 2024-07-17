@@ -7,8 +7,8 @@ author_profile: true
 
 <h3>Publications</h3>
 
-You can also find my articles on [Google Scholar](https://scholar.google.com/citations?hl=en&user=rb2l4DcAAAAJ&hl=en).  
-For any request or further information contact me at *demetrio[dot]ferro[at]upf[dot]edu*. 
+<span style="font-size:.75em">You can also find my articles on [Google Scholar](https://scholar.google.com/citations?hl=en&user=rb2l4DcAAAAJ&hl=en).  
+For any request or further information contact me at <i>demetrio[dot]ferro[at]upf[dot]edu</i>. </span>
 
 <table style="border:none !important;">
 <!-- 2024 -->
