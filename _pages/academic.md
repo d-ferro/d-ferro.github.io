@@ -1,4 +1,4 @@
-
+List of 
 <h1>Academic activities</h1>
 
 <table style="border:none !important;">
