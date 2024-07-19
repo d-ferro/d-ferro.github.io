@@ -15,7 +15,7 @@ For any request or further information contact me at <i>demetrio[dot]ferro[at]up
 <tr style="border:none !important;">
  <td style="border:none !important; text-align:center !important; vertical-align:top !important"><h3 style="margin-top:0 !important">2024</h3></td>
  <td style="border:none !important;"><a style="color:#444" href="https://doi.org/10.1038/s41467-024-50214-2" target="_blank"><b>Gaze-centered gating, reactivation, and reevaluation of economic value in orbitofrontal cortex</b></a><br/>
-<b>Demetrio Ferro</b>, Tyler Cash-Padgett, Maya Zhe-Wang, <a href="https://www.haydenlab.com/">Benjamin Y. Hayden</a>, Rubén Moreno Bote<br/>
+<b>Demetrio Ferro</b>, Tyler Cash-Padgett, Maya Zhe-Wang, <a style="color:#444" href="https://www.haydenlab.com/" target="_blank">Benjamin Y. Hayden</a>, Rubén Moreno Bote<br/>
 <i>In preparation</i>, 2024 <br/> 
 DOI:<a style="color:#444" href="https://doi.org/10.1038/s41467-024-50214-2" target="_blank">10.1038/s41467-024-50214-2</a>; Data and code: <a style="color:#444" href="https://doi.org/10.12751/g-node.evlnq5">repository</a>; PDF: <a style="color:#444" href="https://www.biorxiv.org/content/10.1101/2023.04.20.537677v3.full.pdf" type="application/pdf" target="_blank">biorxiv</a>
  </td>
