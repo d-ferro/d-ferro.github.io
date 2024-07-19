@@ -48,7 +48,7 @@ DOI:<a style="color:#444" href="https://2023.ccneuro.org/view_paper8951.html?Pap
 <tr style="border:none !important;">
  <td style="border:none !important; text-align:center !important; vertical-align:top !important"><h3 style="margin-top:0 !important">2021</h3></td>
  <td style="border:none !important;"><a style="color:#444" href="https://www.pnas.org/doi/abs/10.1073/pnas.2022097118"><b>Directed information exchange between cortical layers in macaque V1 and V4 and its modulation by selective attention</b></a> <br/>
-     <b>Demetrio Ferro</b>, Jochem van Kempen, Michael Boyd, Stefano Panzeri, <a style="color:#444" href="https://www.staff.ncl.ac.uk/alex.thiele/" target="blank">Alexander Thiele</a><br/>
+     <b>Demetrio Ferro</b>, Jochem van Kempen, Michael Boyd, <a style="color:#444" href="https://www.iit.it/people-details/-/people/stefano-panzeri" target="_blank">Stefano Panzeri</a>, <a style="color:#444" href="https://www.staff.ncl.ac.uk/alex.thiele/" target="blank">Alexander Thiele</a><br/>
      <i>Proceedings of the National Academy of Sciences</i>, 118 (12), e2022097118, 2021<br/>
   DOI: <a style="color:#444" href="https://doi.org/10.1073/pnas.2022097118" target="_blank">10.1073/pnas.2022097118</a>; Data and code: <a style="color:#444" href="https://gin.g-node.org/56Fe/V1-V4-LFPs-and-Visual-Attention" target="_blank">repository</a>; PDF: <a style="color:#444" href="https://www.pnas.org/doi/reader/10.1073/pnas.2022097118" type="application/pdf" target="_blank">PNAS</a>
  </td>
