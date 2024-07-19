@@ -41,7 +41,7 @@ DOI:<a style="color:#444" href="https://2023.ccneuro.org/view_paper8951.html?Pap
  <td style="border:none !important;"><a style="color:#444" href="https://www.biorxiv.org/content/10.1101/2023.04.20.537677v3" target="_blank"><b>Gaze-centered gating and re-activation of value encoding in orbitofrontal cortex</b></a><br/>
   <b>Demetrio Ferro</b>, Tyler Cash-Padgett, Maya Zhe-Wang, Benjamin Y. Hayden, Rubén Moreno Bote<br/>
   <i>bioRxiv</i>, 2023 <br/>
-  DOI: <a style="color:#444" href="https://doi.org/10.1101/2020.06.09.142190" target="_blank">10.1101/2020.06.09.142190</a>; Data and code: <a style="color:#444" href="https://doi.org/10.12751/g-node.evlnq5" target="_blank">g-node</a>; PDF: <a style="color:#444" href="https://www.biorxiv.org/content/10.1101/2023.04.20.537677v3.full.pdf" type="application/pdf"  target="_blank">bioRxiv</a>
+  DOI: <a style="color:#444" href="https://doi.org/10.1101/2020.06.09.142190" target="_blank">10.1101/2020.06.09.142190</a>; Data and code: <a style="color:#444" href="https://doi.org/10.12751/g-node.evlnq5" target="_blank">repository</a>; PDF: <a style="color:#444" href="https://www.biorxiv.org/content/10.1101/2023.04.20.537677v3.full.pdf" type="application/pdf"  target="_blank">bioRxiv</a>
  </td>
 </tr>
 <!-- 2021-->
