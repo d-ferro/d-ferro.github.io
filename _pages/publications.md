@@ -67,7 +67,7 @@ DOI:<a style="color:#444" href="https://2023.ccneuro.org/view_paper8951.html?Pap
  <td style="border:none !important; text-align:center !important; vertical-align:top !important"><h3 style="margin-top:0 !important">2019</h3></td>
  <td style="border:none !important;"><a style="color:#444" href="https://hdl.handle.net/11572/246290"><b>Effects of attention on visual processing between cortical layers and cortical areas V1 and V4</b></a> <br/>
   <b>Demetrio Ferro</b>, <i>University of Trento, Institutional Research Information System (IRIS)</i>, 1-172, 2019<br />
-  DOI:<a style="color:#444" href="https://dx.doi.org/10.15168/11572_246290" target="_blank">10.15168/11572_246290</a>; PDF:<a style="color:#444" href="https://iris.unitn.it/retrieve/e3835195-f568-72ef-e053-3705fe0ad821/DFerro-Thesis-final-updated-reviews-ok.pdf" type="application/pdf" target="_blank">IRIS</a>
+  DOI:<a style="color:#444" href="https://dx.doi.org/10.15168/11572_246290" target="_blank">10.15168/11572_246290</a>; PDF: <a style="color:#444" href="https://iris.unitn.it/retrieve/e3835195-f568-72ef-e053-3705fe0ad821/DFerro-Thesis-final-updated-reviews-ok.pdf" type="application/pdf" target="_blank">IRIS</a>
  </td>
 </tr>
 
@@ -77,7 +77,7 @@ DOI:<a style="color:#444" href="https://2023.ccneuro.org/view_paper8951.html?Pap
  <td style="border:none !important;"><a style="color:#444" href="https://ieeexplore.ieee.org/abstract/document/7727873/"><b>Nearest neighbour search using binary neural networks</b></a> <br/>
   <b>Demetrio Ferro</b>, Vincent Gripon, Xiaoran Jiang.<br />
   <i>International Joint Conference on Neural Networks (IJCNN), IEEE</i>, 5106-5112, 2016<br/>
-  DOI:<a style="color:#444" href="https://doi.org/10.1109/IJCNN.2016.7727873" target="_blank">10.1109/IJCNN.2016.7727873</a>; PDF:<a style="color:#444" href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7727873" type="application/pdf" target="_blank">IEEE</a>
+  DOI:<a style="color:#444" href="https://doi.org/10.1109/IJCNN.2016.7727873" target="_blank">10.1109/IJCNN.2016.7727873</a>; PDF: <a style="color:#444" href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7727873" type="application/pdf" target="_blank">IEEE</a>
  </td>
 </tr>
 </table>
