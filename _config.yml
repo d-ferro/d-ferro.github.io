@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Demetrio Ferro, PhD"
-  pronouns         : "he/him"# example: "she/her"  
+  pronouns         : "(he/him)"# example: "she/her"  
   bio              : "Computational, Cognitive Neuroscience"
   location         : "Barcelona"
   employer         : "Universitat Pompeu Fabra"
