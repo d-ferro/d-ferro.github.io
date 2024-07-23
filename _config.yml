@@ -10,8 +10,8 @@
 locale                   : "en-US"
 title                    : "                 "
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Demetrio Ferro"
+description              : &description "Postdoctoral Researcher"
 url                      : https://d-ferro.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "d-ferro/d-ferro.github.io"
@@ -36,7 +36,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=rb2l4DcAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0003-4969-1415"
-  semantic         : # URL
+  semantic         : "https://www.semanticscholar.org/author/Demetrio-Ferro/2064696553/" # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=ferro+demetrio"
   researchgate     : "https://www.researchgate.net/profile/Demetrio-Ferro"
   scopus           : "https://www.scopus.com/authid/detail.uri?origin=AuthorProfile&authorId=57221351783"
@@ -59,7 +59,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/demetrio-ferro/"# Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
