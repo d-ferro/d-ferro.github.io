@@ -23,4 +23,4 @@ redirect_from:
 
 <blockquote class="twitter-tweet" data-media-max-width="560"><p style="font-size:.75em" lang="en" dir="ltr">My research will be presented at the International Conference on Thinking 2024 (<a href="https://ict2024.com/" target="_blank">ICT2024</a>)<br/> Organized by Centro Congressi Internazionale (<a href="https://www.ccicongress.com/" target="_blank">CCI</a>) at Milano Bicocca University (<a href="en.unimib.it/" target="_blank">UniMB</a>), in Milan, Italy. <br/>
 Session 17E: Decision Making, Talk #65, Room U6-23, Programme P.27<br/>
-  &mdash; Demetrio Ferro, <a href="https://d-ferro.github.io/abstracts/ProgrammeICT2024.pdf#page=14" target="_blank" type="appication/pdf">June 10-12, 2024</a></p></blockquote></p>
+  &mdash; Demetrio Ferro, <a href="https://d-ferro.github.io/abstracts/ProgrammeICT2024.pdf#page=14" target="_blank" type="appication/pdf">June 12, 2024</a></p></blockquote></p>
