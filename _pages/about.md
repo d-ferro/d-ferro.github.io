@@ -18,10 +18,9 @@ redirect_from:
 <p style="font-size:.75em">Beyond my research pursuits, I have a passion for the outdoors. Whether it is swimming regularly, embarking on hiking or climbing adventures, or indulging in some therapeutic gardening, I thrive on connecting with nature. I am also committed to the environmental cause, having actively participated in divulgative discussions and volunteered in clean-up initiatives at natural sites.</p>
 
 <h3>Updates</h3>
-<div style="">
 <blockquote class="twitter-tweet" data-media-max-width="560"><p style="font-size:.75em" lang="en" dir="ltr">My research is out on <a href="https://twitter.com/NatureComms?ref_src=twsrc%5Etfw">@NatureComms</a>!🎉<a href="https://t.co/W1oNUzcZpQ">https://t.co/W1oNUzcZpQ</a><br>We found that gaze👀 plays a crucial role in <a href="https://twitter.com/hashtag/decisionmaking?src=hash&amp;ref_src=twsrc%5Etfw">#decisionmaking</a>, allowing dynamic encoding for offer evaluation in the orbitofrontal cortex🧠. Sincerely grateful to coauthors <a href="https://twitter.com/MorenoBote?ref_src=twsrc%5Etfw">@MorenoBote</a>, <a href="https://twitter.com/NeuroPolarbear?ref_src=twsrc%5Etfw">@NeuroPolarbear</a>, and supporters!<br/> &mdash; Demetrio Ferro <a href="https://twitter.com/Isotope56/status/1815366925846708510?ref_src=twsrc%5Etfw">July 22, 2024</a></p></blockquote> 
 
 <blockquote class="twitter-tweet" data-media-max-width="560"><p style="font-size:.75em" lang="en" dir="ltr">My research will be presented in a Talk💬 at the International Conference on Thinking 2024 (<a href="https://ict2024.com/" target="_blank">ICT2024</a>)<br/> Organized by Centro Congressi Internazionale (<a href="https://www.ccicongress.com/" target="_blank">CCI</a>) at Milano Bicocca University (<a href="https://en.unimib.it/" target="_blank">UniMiB</a>), in Milan, Italy. <br/>
 Session 17E: Decision Making, Talk N.65, Room U6-23, Programme P.27<br/>
   &mdash; Demetrio Ferro, <a href="https://d-ferro.github.io/files/ProgrammeICT2024.pdf#page=14" target="_blank" type="appication/pdf">June 12, 2024</a></p></blockquote>
-</div>
+
