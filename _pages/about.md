@@ -16,5 +16,6 @@ redirect_from:
 
 <p style="font-size:.75em">Beyond my research pursuits, I have a passion for the outdoors. Whether it is swimming regularly, embarking on hiking or climbing adventures, or indulging in some therapeutic gardening, I thrive on connecting with nature. I am also committed to the environmental cause, having actively participated in divulgative discussions and volunteered in clean-up initiatives at natural sites.</p>
 
-
+<p style="font-size:.75em">
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">My research is out on <a href="https://twitter.com/NatureComms?ref_src=twsrc%5Etfw">@NatureComms</a>!🎉<a href="https://t.co/W1oNUzcZpQ">https://t.co/W1oNUzcZpQ</a><br>We found that gaze👀 plays a crucial role in <a href="https://twitter.com/hashtag/decisionmaking?src=hash&amp;ref_src=twsrc%5Etfw">#decisionmaking</a>, allowing dynamic encoding for offer evaluation in the orbitofrontal cortex🧠. Sincerely grateful to coauthors <a href="https://twitter.com/MorenoBote?ref_src=twsrc%5Etfw">@MorenoBote</a>, <a href="https://twitter.com/NeuroPolarbear?ref_src=twsrc%5Etfw">@NeuroPolarbear</a>, and supporters!</p>&mdash; Demetrio Ferro (@Isotope56) <a href="https://twitter.com/Isotope56/status/1815366925846708510?ref_src=twsrc%5Etfw">July 22, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+</p>
