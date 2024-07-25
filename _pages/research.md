@@ -6,8 +6,12 @@ author_profile: true
 ---
 
 <div style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;"><h3 style="margin-top:20px">In progress</h3></div>
-- <b>Project 1) Perceived wealth and sensory difficulty in risky decision making.</b> Behavioral and neural effects of perceived wealth and sensory task difficulty.<br/>
-- <b>Project 2) Layer- and frequency-specific task engagement modulation in the visual cortex.</b> Classification of local field potentials evoked by visual stimuli in different task demands.<br/>
+<p style="font-size:.75em"><b>Project 1) Perceived wealth and sensory difficulty in risky decision making.</b><br/>
+Behavioral and neural effects of perceived wealth and sensory task difficulty.<br/>
+ <br/>
+<b>Project 2) Layer- and frequency-specific task engagement modulation in the visual cortex.</b>
+<br/>Classification of local field potentials evoked by visual stimuli in different task demands.<br/>
+</p>
 
 <div style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;"><h3 style="margin-top:20px">Talks & Posters</h3></div>
 
