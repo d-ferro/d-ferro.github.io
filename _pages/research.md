@@ -5,8 +5,8 @@ permalink: /research/
 author_profile: true 
 ---
 
-<div style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;"><h3 style="margin-top:20px">In progress</h3>
-<p style="font-size:.75em"><b>Project 1) Perceived wealth and sensory difficulty in risky decision making.</b><br/>
+<div style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;"><h3 style="margin-top:20px">In progress</h3></div>
+<div style="border:none !important; text-align:right !important; width:100% !important; padding-left:20% !important;><p style="font-size:.75em"><b>Project 1) Perceived wealth and sensory difficulty in risky decision making.</b><br/>
 Behavioral and neural effects of perceived wealth and sensory task difficulty.<br/>
  <br/>
 <b>Project 2) Layer- and frequency-specific task engagement modulation in the visual cortex.</b>
