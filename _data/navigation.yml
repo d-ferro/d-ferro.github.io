@@ -13,7 +13,7 @@ main:
     url: /academic/    
     
   - title: "Repositories"
-    url: https://gin.g-node.org/56fe 
+    url: /gnode/  #https://gin.g-node.org/56fe 
     target: _blank
     
   - title: "CV"
