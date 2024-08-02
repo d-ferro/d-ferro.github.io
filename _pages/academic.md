@@ -10,21 +10,27 @@ author_profile: true
  <tr style="border:none !important; vertical-align:top !important; text-align: top !important">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:4%; vertical-align:top !important"><h3 style="margin-top:0 !important">Bachelor Thesis</h3></td>
  <td style="border:none !important;"><b>Student: Pau Boncompte Carré</b>, Jan - July 2024.<br/> Universitat Pompeu Fabra, Biomedical Engineering Degree<br/>
-  Analysis of behavioral and ephys neural data from Allen brain institute.
+  Analysis of behavioral and neural data from Allen brain institute.
  </td>
 </tr>
 <tr style="border:none !important; vertical-align:top !important; text-align: top !important">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:4%; vertical-align:top !important"><h3 style="margin-top:0 !important">Internship</h3></td>
  <td style="border:none !important;"><b>Student: Marcel Socoró Garrigosa</b>, Sept - Dec 2023.<br/> Universitat Pompeu Fabra, Biomedical Engineering Degree <br/>
-  Analysis of behavioral and ephys neural data from Allen brain institute.
+  Analysis of behavioral and neural data from Allen brain institute.
  </td>
 </tr>
  <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:4%; vertical-align:top !important"><h3 style="margin-top:0 !important">Internship</h3></td>
  <td style="border:none !important;"><b>Student: Pau Garriga Marsans</b>, June - Aug 2023.<br/> Universitat Pompeu Fabra, Biomedical Engineering Degree <br/>
-  Analysis of behavioral and ephys neural data from Allen brain institute.
+  Analysis of behavioral and neural data from Allen brain institute.
  </td>
 </tr> 
+  <tr style="border:none !important; vertical-align:top !important; text-align: top !important">
+ <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:4%; vertical-align:top !important"><h3 style="margin-top:0 !important">Bachelor Thesis</h3></td>
+ <td style="border:none !important;"><b>Student: Anna Rifé Mata</b>, Sept. 2020 - Feb. 2021.<br/> Universitat Pompeu Fabra, Biomedical Engineering Degree<br/>
+  Analysis of behavioral and neural data for decision-making tasks.
+ </td>
+</tr>
 </table>
 
 <div style="width:20%; text-align:right; padding-right:4%"><h3>Teaching</h3></div>
