@@ -21,7 +21,7 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
 <table style="border:none !important;">
 <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important; vertical-align:top !important"><h3 style="margin-top:0 !important">ICT 2024</h3></td>
- <td style="border:none !important;"><b>D. Ferro</b>, T. Cash-Padgett, M. Z. Wang, B. Y. Hayden, R. Moreno-Bote, “Economic decision-making in the brain: how does gaze relate to the activity of orbitofrontal cortex neurons?”, International Conference on Thinking (<i>ICT2024</i>), June 2024 (Milan, IT). <a style="color:#444" href="/files/ProgrammeICT2024.pdf" type="application/pdf" target="_blank">[programme]</a> <a style="color:#444" href="/files/TalkICT2024.pdf" type="application/pdf" target="_blank">[talk]</a>
+ <td style="border:none !important;"><b>D. Ferro</b>, T. Cash-Padgett, M. Z. Wang, B. Y. Hayden, R. Moreno-Bote, “Economic decision-making in the brain: how does gaze relate to the activity of orbitofrontal cortex neurons?”, International Conference on Thinking (<i>ICT2024</i>), June 2024 (Milan, IT). <a style="color:#444" href="/files/ProgrammeICT2024.pdf#page=14" type="application/pdf" target="_blank">[programme]</a> <a style="color:#444" href="/files/TalkICT2024.pdf" type="application/pdf" target="_blank">[talk]</a>
 </td>
 </tr>
 <tr style="border:none !important;">
