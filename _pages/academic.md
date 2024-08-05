@@ -56,7 +56,7 @@ author_profile: true
 </tr>
  <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:4%; vertical-align:top !important"><h3 style="margin-top:0 !important">TFM BME 2022</h3></td>
- <td style="border:none !important;"><b>Chair of the committee for Master degree theses dissertations</b> (Treballs de fi de Masters, TFM), <br/>Universitat Pompeu Fabra, Biomedical Engineering Gratudations, <br/>Session: Neuroscience, 11 July 2022 (Barcelona, ES). <a style="color:#444" href="/files/Programme-UPF-BME-2024.pdf" type="application/pdf" target="_blank">[programme]</a>
+ <td style="border:none !important;"><b>Chair of the committee for Master degree theses dissertations</b> (Treballs de fi de Masters, TFM), <br/>Universitat Pompeu Fabra, Biomedical Engineering Gratudations, <br/>Session: Neuroscience, 11 July 2022 (Barcelona, ES). <a style="color:#444" href="/files/ProgrammeTFM2022.pdf" type="application/pdf" target="_blank">[programme]</a>
  </td>
 </tr>
 </table>
