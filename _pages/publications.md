@@ -33,7 +33,8 @@ DOI:<a style="color:#444" href="https://2023.ccneuro.org/view_paper8951.html?Pap
  <td style="border:none !important; text-align:center !important; vertical-align:top !important"><h3 style="margin-top:0 !important"></h3></td>
  <td style="border:none !important;"><a style="color:#444" href="https://search.kg.ebrains.eu/instances/a2dce812-1d4b-4fc5-a69f-96005288c12e" target="_blank"><b>Model of gaze-centered activation and reactivation of value encoding in orbitofrontal cortex</b></a> <br/>
   <b>Demetrio Ferro</b>, Benjamin Y. Hayden and Rubén Moreno-Bote <br/>
-  <i>Ebrains Knowledgegraph</i>, 2023.
+  <i>Ebrains Knowledgegraph</i>, 2023.<br/>
+  DOI: <a href="https://search.kg.ebrains.eu/instances/a2dce812-1d4b-4fc5-a69f-96005288c12e" target="blank">10.12751/g-node.72yf9s</a>; Data and code: <a href="https://10.12751/g-node.72yf9s">repository</a>
  </td>
 </tr>
 <tr style="border:none !important;">
