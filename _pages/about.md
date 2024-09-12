@@ -17,10 +17,14 @@ redirect_from:
 
 <p style="font-size:.75em">Beyond my research pursuits, I have a passion for the outdoors. Whether it is swimming regularly, embarking on hiking or climbing adventures, or indulging in some therapeutic gardening, I thrive on connecting with nature. I am also committed to the environmental cause, having actively participated in divulgative discussions and volunteered in clean-up initiatives at natural sites.</p>
 
-<h3>Updates</h3>
+<h4>Updates</h4>
 <blockquote class="twitter-tweet" data-media-max-width="560"><p style="font-size:.75em" lang="en" dir="ltr">My research is out on <a href="https://twitter.com/NatureComms?ref_src=twsrc%5Etfw">@NatureComms</a>!🎉<a href="https://t.co/W1oNUzcZpQ">https://t.co/W1oNUzcZpQ</a><br>We found that gaze👀 plays a crucial role in <a href="https://twitter.com/hashtag/decisionmaking?src=hash&amp;ref_src=twsrc%5Etfw">#decisionmaking</a>, allowing dynamic encoding for offer evaluation in the orbitofrontal cortex🧠. Sincerely grateful to coauthors <a href="https://twitter.com/MorenoBote?ref_src=twsrc%5Etfw">@MorenoBote</a>, <a href="https://twitter.com/NeuroPolarbear?ref_src=twsrc%5Etfw">@NeuroPolarbear</a>, and supporters!<br/> &mdash; Demetrio Ferro <a href="https://twitter.com/Isotope56/status/1815366925846708510?ref_src=twsrc%5Etfw">July 22, 2024</a></p></blockquote> 
 
 <blockquote class="twitter-tweet" data-media-max-width="560"><p style="font-size:.75em" lang="en" dir="ltr">My research will be presented in a Talk💬 at the International Conference on Thinking 2024 (<a href="https://ict2024.com/" target="_blank">ICT2024</a>)<br/> Organized by Centro Congressi Internazionale (<a href="https://www.ccicongress.com/" target="_blank">CCI</a>) at Milano Bicocca University (<a href="https://en.unimib.it/" target="_blank">UniMiB</a>), in Milan, Italy. <br/>
 Session 17E: Decision Making, Talk N.65, Room U6-23, Programme P.27<br/>
   &mdash; Demetrio Ferro, <a href="https://d-ferro.github.io/files/ProgrammeICT2024.pdf#page=14" target="_blank" type="appication/pdf">June 12, 2024</a></p></blockquote>
+
+<h4>News Outlet 📰</h4>
+
+<blockquote class="twitter-tweet" data-media-max-width="560"><p style="font-size:.75em" lang="en" dir="ltr">My research is out on <a href="https://www.upf.edu/c/portal/update_language?p_l_id=230627930&redirect=%2Fweb%2Ffocus%2Fnoticies%2F-%2Fasset_publisher%2FqOocsyZZDGHL%2Fcontent%2Fid%2F244381810%2F&languageId=en_US" target="_blank">Universitat Pompeu Fabra News</a>,<a href="https://www.eurekalert.org/news-releases/771144" target="_blank">Eurekalert! (American Association for the Advancement of Science)</a>, <a href="https://medicalxpress.com/news/2021-04-function-cortical-brain-cells-modulated.html?src_id=alt" target="_blank">Medical Xpress (Science X Network)</a>, <a href="https://bioengineer.org/the-structure-and-function-of-cortical-brain-cells-modulated-by-attention/" target="_blank">Bioengineer.org</a>, <a href="https://www.news-medical.net/news/20210408/Study-shows-how-signal-propagation-circuit-is-modulated-by-attention.aspx" target="_blank">News-Medical Life Sciences (AZO Network)</a>.</p></blockquote>
 
