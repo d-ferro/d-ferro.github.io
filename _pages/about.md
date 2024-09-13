@@ -30,5 +30,7 @@ Session 17E: Decision Making, Talk N.65, Room U6-23, Programme P.27<br/>
   <a href="https://www.upf.edu/c/portal/update_language?p_l_id=230627930&redirect=%2Fweb%2Ffocus%2Fnoticies%2F-%2Fasset_publisher%2FqOocsyZZDGHL%2Fcontent%2Fid%2F244381810%2F&languageId=en_US" target="_blank">Universitat Pompeu Fabra News</a>,<br/>
   <a href="https://www.eurekalert.org/news-releases/771144" target="_blank">Eurekalert! (American Association for the Advancement of Science)</a>, <br/>
   <a href="https://medicalxpress.com/news/2021-04-function-cortical-brain-cells-modulated.html?src_id=alt" target="_blank">Medical Xpress (Science X Network)</a>, <br/> 
-  <a href="https://bioengineer.org/the-structure-and-function-of-cortical-brain-cells-modulated-by-attention/" target="_blank">Bioengineer.org</a>, <a href="https://www.news-medical.net/news/20210408/Study-shows-how-signal-propagation-circuit-is-modulated-by-attention.aspx" target="_blank">News-Medical Life Sciences (AZO Network)</a>.</p></blockquote>
+  <a href="https://bioengineer.org/the-structure-and-function-of-cortical-brain-cells-modulated-by-attention/" target="_blank">Bioengineer.org</a>, <a href="https://www.news-medical.net/news/20210408/Study-shows-how-signal-propagation-circuit-is-modulated-by-attention.aspx" target="_blank">News-Medical Life Sciences (AZO Network)</a>.
+<br/>
+  &mdash; Demetrio Ferro, March 23, 2021</p></blockquote>
 
