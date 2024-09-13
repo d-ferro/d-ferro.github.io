@@ -24,7 +24,11 @@ redirect_from:
 Session 17E: Decision Making, Talk N.65, Room U6-23, Programme P.27<br/>
   &mdash; Demetrio Ferro, <a href="https://d-ferro.github.io/files/ProgrammeICT2024.pdf#page=14" target="_blank" type="appication/pdf">June 12, 2024</a></p></blockquote>
 
-<h4>News Outlet 📰</h4>
 
-<blockquote class="twitter-tweet" data-media-max-width="560"><p style="font-size:.75em" lang="en" dir="ltr"><a href="https://www.upf.edu/c/portal/update_language?p_l_id=230627930&redirect=%2Fweb%2Ffocus%2Fnoticies%2F-%2Fasset_publisher%2FqOocsyZZDGHL%2Fcontent%2Fid%2F244381810%2F&languageId=en_US" target="_blank">Universitat Pompeu Fabra News</a>,<a href="https://www.eurekalert.org/news-releases/771144" target="_blank">Eurekalert! (American Association for the Advancement of Science)</a>, <a href="https://medicalxpress.com/news/2021-04-function-cortical-brain-cells-modulated.html?src_id=alt" target="_blank">Medical Xpress (Science X Network)</a>, <a href="https://bioengineer.org/the-structure-and-function-of-cortical-brain-cells-modulated-by-attention/" target="_blank">Bioengineer.org</a>, <a href="https://www.news-medical.net/news/20210408/Study-shows-how-signal-propagation-circuit-is-modulated-by-attention.aspx" target="_blank">News-Medical Life Sciences (AZO Network)</a>.</p></blockquote>
+<blockquote class="twitter-tweet" data-media-max-width="560"><p style="font-size:.75em" lang="en" dir="ltr">
+  My interiew about "The effects of attention in V1 and V4 laminar layers" is out on:
+  <a href="https://www.upf.edu/c/portal/update_language?p_l_id=230627930&redirect=%2Fweb%2Ffocus%2Fnoticies%2F-%2Fasset_publisher%2FqOocsyZZDGHL%2Fcontent%2Fid%2F244381810%2F&languageId=en_US" target="_blank">Universitat Pompeu Fabra News</a>,<br/>
+  <a href="https://www.eurekalert.org/news-releases/771144" target="_blank">Eurekalert! (American Association for the Advancement of Science)</a>, <br/>
+  <a href="https://medicalxpress.com/news/2021-04-function-cortical-brain-cells-modulated.html?src_id=alt" target="_blank">Medical Xpress (Science X Network)</a>, <br/> 
+  <a href="https://bioengineer.org/the-structure-and-function-of-cortical-brain-cells-modulated-by-attention/" target="_blank">Bioengineer.org</a>, <a href="https://www.news-medical.net/news/20210408/Study-shows-how-signal-propagation-circuit-is-modulated-by-attention.aspx" target="_blank">News-Medical Life Sciences (AZO Network)</a>.</p></blockquote>
 
