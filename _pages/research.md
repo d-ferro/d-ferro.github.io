@@ -112,6 +112,11 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
 <div style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;"><h3 style="margin-top:20px">Attended Events</h3></div>
 
 <table style="border:none !important;">
+ <tr style="border:none !important;">
+ <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">CASES II</h3></td>
+ <td style="border:none !important;"> CASES (Citizen science And SciEntific reSearch)</a>, an <a href="https://eutopia-university.eu/">EUTOPIA Impact and Dissemination Unit</a> seminar, Sept 2024 (Barcelona, ES). <a style="color:#444" href="/files/CASESUPF2024.pdf" type="application/pdf" target="_blank">[certificate]</a>
+ </td>
+</tr>
 <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">Barccsyn 2024</h3></td>
  <td style="border:none !important;">Barcelona Computational, Cognitive and Systems Neuroscience (<i>Barccsyn</i>), May 2024 (Barcelona, ES). <a style="color:#444" href="/files/ProgrammeBSYN2024.pdf" type="application/pdf" target="_blank">[programme]</a>
@@ -140,6 +145,34 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
  <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">Slow Dyn 2017</h3></td>
  <td style="border:none !important;">Experimental and Theoretical Analysis of Cortical Dynamics Workshop, 2017 (Rovereto, IT) <a style="color:#444" href="https://www.humanbrainproject.eu/en/follow-hbp/events/experimental-and-theoretical-analysis-cortical-dynamics-workshop" type="application/pdf" target="_blank">[programme]</a>
+ </td>
+</tr>
+</table>
+
+
+
+
+<div style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;"><h3 style="margin-top:20px">Organized Events</h3></div>
+
+<table style="border:none !important;">
+ <tr style="border:none !important;">
+ <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">Barccssyn 2024</h3></td>
+ <td style="border:none !important;"> Retreat of the Barcelona Computational, Cognitive and Systems Neuroscience (<i>Barccsyn</i>)  community, Nov 2024 (Sant Feliu de Guixols, ES).
+ </td>
+</tr>
+ <tr style="border:none !important;">
+ <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">Barccssyn 2022</h3></td>
+ <td style="border:none !important;"> Retreat of the Barcelona Computational, Cognitive and Systems Neuroscience (<i>Barccsyn</i>) community, Nov 2024 (Sant Feliu de Guixols, ES).
+ </td>
+</tr>
+ <tr style="border:none !important;">
+ <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">Lab Fair 2018</h3></td>
+ <td style="border:none !important;"> Lab fair of the Center for Mind/Brain Sciences (<i>Cimec</i>), Nov 2018 (Rovereto, IT).
+ </td>
+</tr>
+ <tr style="border:none !important;">
+ <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">Brown Bag 2017-18</h3></td>
+ <td style="border:none !important;"> Informal, lunchtime, weekly meetings at the Center for Mind/Brain Sciences (<i>Cimec</i>), Nov 2018 (Rovereto, IT).
  </td>
 </tr>
 </table>
