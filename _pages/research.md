@@ -177,7 +177,7 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
 </tr>
  <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">Brown Bag 2017-18</h3></td>
- <td style="border:none !important;"> Informal, lunchtime, weekly meetings at the Center for Mind/Brain Sciences (<i>Cimec</i>), March 2017 - April 2018 (Rovereto, IT).
+ <td style="border:none !important;"> <a style="color:#444" href="https://d-ferro.github.io/files/CimecStudentKit2016-2017.pdf#page=25" type="application/pdf" target="_blank">Brown Bag</a> informal, lunchtime, weekly meetings at the Center for Mind/Brain Sciences (<i>Cimec</i>), March 2017 - April 2018 (Rovereto, IT).
  </td>
 </tr>
 </table>
