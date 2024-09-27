@@ -114,7 +114,7 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
 <table style="border:none !important;">
  <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">CASES 2024</h3></td>
- <td style="border:none !important;"> CASES (Citizen science And SciEntific reSearch)</a>, an <a href="https://eutopia-university.eu/">EUTOPIA</a> impact and dissemination seminar, Sept 2024 (Barcelona, ES). <a style="color:#444" href="/files/CASESUPF2024.pdf" type="application/pdf" target="_blank">[certificate]</a>
+ <td style="border:none !important;"> CASES (Citizen science And SciEntific reSearch), an <a href="https://eutopia-university.eu/">EUTOPIA</a> impact and dissemination seminar, Sept 2024 (Barcelona, ES). <a style="color:#444" href="/files/CASESUPF2024.pdf" type="application/pdf" target="_blank">[certificate]</a>
  </td>
 </tr>
 <tr style="border:none !important;">
@@ -163,6 +163,11 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
  <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">Barccssyn 2022</h3></td>
  <td style="border:none !important;"> The <a style="color:#444" href="https://www.crm.cat/7th-computational-neuroscience-retreat/" type="application/pdf" target="_blank">7th Retreat</a> of the <i>Barccsyn</i> community, Feb 2022 (Sant Feliu de Guixols, ES).
+ </td>
+</tr>
+  <tr style="border:none !important;">
+ <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">COREDEM 2021</h3></td>
+ <td style="border:none !important;"> The <a style="color:#444" href="https://d-ferro.github.io/files/ProgrammeCOREDEM2021.pdf" type="application/pdf" target="_blank">COREDEM</a> (HBP WP2) Meeting, Nov 2021 (Barcelona, ES).
  </td>
 </tr>
  <tr style="border:none !important;">
