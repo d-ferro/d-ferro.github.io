@@ -144,7 +144,7 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
 </tr>
  <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">Slow Dyn 2017</h3></td>
- <td style="border:none !important;">Experimental and Theoretical Analysis of Cortical Dynamics Workshop, 2017 (Rovereto, IT) <a style="color:#444" href="https://www.humanbrainproject.eu/en/follow-hbp/events/experimental-and-theoretical-analysis-cortical-dynamics-workshop" type="application/pdf" target="_blank">[programme]</a>
+ <td style="border:none !important;">Experimental and Theoretical Analysis of Cortical Dynamics Workshop, 2017 (Rovereto, IT) <a style="color:#444" href="https://d-ferro.github.io/files/SlowDyn2017.pdf" type="application/pdf" target="_blank">[programme]</a>
  </td>
 </tr>
 </table>
