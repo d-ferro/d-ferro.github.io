@@ -167,7 +167,7 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
 </tr>
   <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">COREDEM 2021</h3></td>
- <td style="border:none !important;"> The <a style="color:#444" href="https://d-ferro.github.io/files/ProgrammeCOREDEM2021.pdf" type="application/pdf" target="_blank">COREDEM</a> (HBP WP2) Meeting, Nov 2021 (Barcelona, ES).
+ <td style="border:none !important;"> The <a style="color:#444" href="https://d-ferro.github.io/files/ProgrammeCOREDEM2021.pdf" type="application/pdf" target="_blank">COREDEM</a> (Human Brain Project, Work Package 2) Meeting, Nov 2021 (Barcelona, ES).
  </td>
 </tr>
  <tr style="border:none !important;">
