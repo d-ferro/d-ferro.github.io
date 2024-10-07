@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Demetrio Ferro, PhD"
+title                    : "Demetrio Ferro"
 title_separator          : "-"
 name                     : &name "Demetrio Ferro"
 description              : &description "Postdoctoral Researcher"
@@ -22,7 +22,7 @@ repository               : "d-ferro/d-ferro.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Demetrio Ferro, PhD"
+  name             : "Demetrio Ferro"
   pronouns         : "(he/him)"# example: "she/her"  
   bio              : "Computational, Cognitive Neuroscience"
   location         : "Barcelona"
