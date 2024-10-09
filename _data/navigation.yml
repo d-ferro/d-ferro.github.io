@@ -16,7 +16,7 @@ main:
     url: /repositories/
     
   - title: "CV"
-    url: /files/CV-FERRO.pdf
+    url: /cv/ #/files/CV-FERRO.pdf
 
     
 #  - title: "Repositories"
