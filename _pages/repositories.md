@@ -11,47 +11,47 @@ author_profile: true
  <div style="margin-top:-8px; font-size:.75em"><a href="https://gin.g-node.org/56Fe/Layer-and-frequency-specific-task-engagement"><b style="font-size:1em">Layer-and-frequency-specific-task-engagement</b> <br> </a>
   This repository is about the classification of local field potentials data across different laminar layers <br>and spectral frequency bands for different task engagement conditions during a change detection task. <br>
   <a href="https://gin.g-node.org/56Fe/Layer-and-frequency-specific-task-engagement">GIN</a> | <a href="https://gin.g-node.org/56Fe/Layer-and-frequency-specific-task-engagement">HTTPS</a> | <a href="https://gin.g-node.org/56Fe/Layer-and-frequency-specific-task-engagement">SSH</a> | DOI: <a href="https://doi.gin.g-node.org/10.12751/g-node.sdxr1v/">10.12751/g-node.sdxr1v</a> | <a href="https://gin.g-node.org/56Fe/">@56Fe</a>
- </div> <br style="font-size:1em">
+ </div> <br style="font-size:0em">
 
 <a href="https://gin.g-node.org/56Fe/Layer-and-frequency-specific-task-engagement"><img style="width:80px; float:left; margin-right: 2%; width: 80px; float: left; margin-left:3%; border: .15em solid #EEE; border-radius:.5em;" src="https://gin.g-node.org/repo-avatars/11343"> </a>
  <div style="margin-top:-8px; font-size:.75em"><a href="https://gin.g-node.org/56Fe/Layer-and-frequency-specific-task-engagement"><b style="font-size:1em">Layer-and-frequency-specific-task-engagement</b> <br> </a>
   This repository is about the analysis of behavioral and neural data about perceived wealth and difficulty in decision-making. <br>
   <a href="https://gin.g-node.org/56Fe/Layer-and-frequency-specific-task-engagement">GIN</a> | <a href="https://gin.g-node.org/56Fe/Layer-and-frequency-specific-task-engagement">HTTPS</a> | <a href="https://gin.g-node.org/56Fe/Layer-and-frequency-specific-task-engagement">SSH</a> | DOI: <a href="https://doi.gin.g-node.org/10.12751/g-node.sdxr1v/">10.12751/g-node.sdxr1v</a> | <a href="https://gin.g-node.org/56Fe/">@56Fe</a>
- </div> <br style="font-size:1em">
+ </div> <br style="font-size:0em">
 
-<a href="https://gin.g-node.org/56Fe/Layer-and-frequency-specific-task-engagement"><img style="width:80px; float:left; margin-right: 2%; width: 80px; float: left; margin-left:3%; border: .15em solid #EEE; border-radius:.5em;" src="https://gin.g-node.org/repo-avatars/9295"> </a>
+<a href="https://gin.g-node.org/56Fe/Layer-and-frequency-specific-task-engagement"><img style="width:80px; float:left; margin-bottom:20px; margin-right: 2%; width: 80px; float: left; margin-left:3%; border: .15em solid #EEE; border-radius:.5em;" src="https://gin.g-node.org/repo-avatars/9295"> </a>
  <div style="margin-top:-8px; font-size:.75em"><a href="https://gin.g-node.org/56Fe/Layer-and-frequency-specific-task-engagement"><b style="font-size:1em">Layer-and-frequency-specific-task-engagement</b> <br> </a>
   Data and code for: Ferro et al., 2024, Gaze-centered gating, reactivation, and reevaluation of economic value in orbitofrontal cortex. <i>Nature Communications</i> 15, 6163. Data contains eye gaze and spiking data during risky decision-making tasks. Code runs characterization of psychometric, gaze behavioral and neural encoding of economic value gaze-centered analyses of neural encoding at task-relevant epochs, including task delays for value reactivation and reevaluation. <br>
   <a href="https://gin.g-node.org/56Fe/Layer-and-frequency-specific-task-engagement">GIN</a> | <a href="https://gin.g-node.org/56Fe/Layer-and-frequency-specific-task-engagement">HTTPS</a> | <a href="https://gin.g-node.org/56Fe/Layer-and-frequency-specific-task-engagement">SSH</a> | DOI: <a href="https://doi.gin.g-node.org/10.12751/g-node.sdxr1v/">10.12751/g-node.sdxr1v</a> | <a href="https://gin.g-node.org/56Fe/">@56Fe</a>
- </div> <br style="font-size:1em">
+ </div> <br style="font-size:0em">
 
-<a href="https://gin.g-node.org/56Fe/Layer-and-frequency-specific-task-engagement"><img style="width:80px; float:left; margin-right: 2%; width: 80px; float: left; margin-left:3%; border: .15em solid #EEE; border-radius:.5em;" src="https://gin.g-node.org/repo-avatars/2351"> </a>
+<a href="https://gin.g-node.org/56Fe/Layer-and-frequency-specific-task-engagement"><img style="width:80px; float:left; margin-bottom:20px; margin-right: 2%; width: 80px; float: left; margin-left:3%; border: .15em solid #EEE; border-radius:.5em;" src="https://gin.g-node.org/repo-avatars/2351"> </a>
  <div style="margin-top:-8px; font-size:.75em"><a href="https://gin.g-node.org/56Fe/Layer-and-frequency-specific-task-engagement"><b style="font-size:1em">Layer-and-frequency-specific-task-engagement</b> <br> </a>
   Data and code for: Ferro et al., 2021. Directed information exchange between cortical layers in macaque V1 and V4 and its modulation by selective attention. <i>Proceedings of the National Academy of Sciences</i>, 118(12), p.e2022097118. Data contain laminar local field potentials in V1 and V4. Code runs spectral power, coherence and Conditional Granger Causality (cGC) based on Mutual Information for interactions between and within V1-V4 laminar depths.  <br>
   <a href="https://gin.g-node.org/56Fe/Layer-and-frequency-specific-task-engagement">GIN</a> | <a href="https://gin.g-node.org/56Fe/Layer-and-frequency-specific-task-engagement">HTTPS</a> | <a href="https://gin.g-node.org/56Fe/Layer-and-frequency-specific-task-engagement">SSH</a> | DOI: <a href="https://doi.gin.g-node.org/10.12751/g-node.sdxr1v/">10.12751/g-node.sdxr1v</a> | <a href="https://gin.g-node.org/56Fe/">@56Fe</a>
- </div> <br style="font-size:1em">
+ </div> <br style="font-size:0em">
 
 <a href="https://gin.g-node.org/56Fe/Layer-and-frequency-specific-task-engagement"><img style="width:80px; float:left; margin-right: 2%; width: 80px; float: left; margin-left:3%; border: .15em solid #EEE; border-radius:.5em;" src="https://gin.g-node.org/repo-avatars/3915"> </a>
  <div style="margin-top:-8px; font-size:.75em"><a href="https://gin.g-node.org/56Fe/Layer-and-frequency-specific-task-engagement"><b style="font-size:1em">Layer-and-frequency-specific-task-engagement</b> <br> </a>
-  This repository is about the classification of local field potentials data across different laminar layers and spectral frequency bands for different task engagement conditions during a change detection task. <br>
+  The code computes Currsent Source Densities via the iCSD Cubic Splines method published in (Pettersen et al., J Neurosci Methods, 2006) developed for Ferro et al., 2021. Directed information exchange between cortical layers in macaque V1 and V4 and its modulation by selective attention. <i>Proceedings of the National Academy of Sciences</i>, 118(12), p.e2022097118.<br>
   <a href="https://gin.g-node.org/56Fe/Layer-and-frequency-specific-task-engagement">GIN</a> | <a href="https://gin.g-node.org/56Fe/Layer-and-frequency-specific-task-engagement">HTTPS</a> | <a href="https://gin.g-node.org/56Fe/Layer-and-frequency-specific-task-engagement">SSH</a> | DOI: <a href="https://doi.gin.g-node.org/10.12751/g-node.sdxr1v/">10.12751/g-node.sdxr1v</a> | <a href="https://gin.g-node.org/56Fe/">@56Fe</a>
- </div> <br style="font-size:1em">
+ </div> <br style="font-size:0em">
 
 <a href="https://gin.g-node.org/56Fe/Layer-and-frequency-specific-task-engagement"><img style="width:80px; float:left; margin-right: 2%; width: 80px; float: left; margin-left:3%; border: .15em solid #EEE; border-radius:.5em;" src="https://gin.g-node.org/repo-avatars/3914"> </a>
  <div style="margin-top:-8px; font-size:.75em"><a href="https://gin.g-node.org/56Fe/Layer-and-frequency-specific-task-engagement"><b style="font-size:1em">Layer-and-frequency-specific-task-engagement</b> <br> </a>
   This repository is about the classification of local field potentials data across different laminar layers and spectral frequency bands for different task engagement conditions during a change detection task. <br>
   <a href="https://gin.g-node.org/56Fe/Layer-and-frequency-specific-task-engagement">GIN</a> | <a href="https://gin.g-node.org/56Fe/Layer-and-frequency-specific-task-engagement">HTTPS</a> | <a href="https://gin.g-node.org/56Fe/Layer-and-frequency-specific-task-engagement">SSH</a> | DOI: <a href="https://doi.gin.g-node.org/10.12751/g-node.sdxr1v/">10.12751/g-node.sdxr1v</a> | <a href="https://gin.g-node.org/56Fe/">@56Fe</a>
- </div> <br style="font-size:1em">
+ </div> <br style="font-size:0em">
 
 <a href="https://gin.g-node.org/56Fe/Layer-and-frequency-specific-task-engagement"><img style="width:80px; float:left; margin-right: 2%; width: 80px; float: left; margin-left:3%; border: .15em solid #EEE; border-radius:.5em;" src="https://gin.g-node.org/repo-avatars/3925"> </a>
  <div style="margin-top:-8px; font-size:.75em"><a href="https://gin.g-node.org/56Fe/Layer-and-frequency-specific-task-engagement"><b style="font-size:1em">Layer-and-frequency-specific-task-engagement</b> <br> </a>
   This repository is about the classification of local field potentials data across different laminar layers and spectral frequency bands for different task engagement conditions during a change detection task. <br>
   <a href="https://gin.g-node.org/56Fe/Layer-and-frequency-specific-task-engagement">GIN</a> | <a href="https://gin.g-node.org/56Fe/Layer-and-frequency-specific-task-engagement">HTTPS</a> | <a href="https://gin.g-node.org/56Fe/Layer-and-frequency-specific-task-engagement">SSH</a> | DOI: <a href="https://doi.gin.g-node.org/10.12751/g-node.sdxr1v/">10.12751/g-node.sdxr1v</a> | <a href="https://gin.g-node.org/56Fe/">@56Fe</a>
- </div> <br style="font-size:1em">
+ </div> <br style="font-size:0em">
 
 
 <a href="https://gin.g-node.org/56Fe/Layer-and-frequency-specific-task-engagement"><img style="width:80px; float:left; margin-right: 2%; width: 80px; float: left; margin-left:3%; border: .15em solid #EEE; border-radius:.5em;" src="https://gin.g-node.org/repo-avatars/10491"> </a>
  <div style="margin-top:-8px; font-size:.75em"><a href="https://gin.g-node.org/56Fe/Layer-and-frequency-specific-task-engagement"><b style="font-size:1em">Layer-and-frequency-specific-task-engagement</b> <br> </a>
   This repository is about the classification of local field potentials data across different laminar layers and spectral frequency bands for different task engagement conditions during a change detection task. <br>
   <a href="https://gin.g-node.org/56Fe/Layer-and-frequency-specific-task-engagement">GIN</a> | <a href="https://gin.g-node.org/56Fe/Layer-and-frequency-specific-task-engagement">HTTPS</a> | <a href="https://gin.g-node.org/56Fe/Layer-and-frequency-specific-task-engagement">SSH</a> | DOI: <a href="https://doi.gin.g-node.org/10.12751/g-node.sdxr1v/">10.12751/g-node.sdxr1v</a> | <a href="https://gin.g-node.org/56Fe/">@56Fe</a>
- </div> <br style="font-size:1em">
+ </div> <br style="font-size:0em">
