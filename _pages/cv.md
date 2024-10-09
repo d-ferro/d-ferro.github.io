@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<iframe style="width:100%" src="/abstracts/CV-FERRO.pdf"></iframe>
+<iframe style="width:100%" src="/files/CV-FERRO.pdf"></iframe>
 
 #{% include base_path %}
 #
