@@ -9,6 +9,8 @@ redirect_from:
 
 <iframe style="width:100%" src="/files/CV-FERRO.pdf"></iframe>
 
+<!--
+
 #{% include base_path %}
 #
 #Education
@@ -64,3 +66,6 @@ redirect_from:
 #Service and leadership
 #======
 #* Currently signed in to 43 different slack teams
+
+
+-->
