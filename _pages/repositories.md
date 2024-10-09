@@ -16,7 +16,7 @@ author_profile: true
 <a href="https://gin.g-node.org/56Fe/Perceived-wealth-and-difficulty-modulation"><img style="width:80px; float:left; margin-right: 2%; width: 80px; float: left; margin-left:3%; border: .15em solid #EEE; border-radius:.5em;" src="https://gin.g-node.org/repo-avatars/11343"> </a>
  <div style="margin-top:-8px; font-size:.75em"><a href="https://gin.g-node.org/56Fe/Perceived-wealth-and-difficulty-modulation"><b style="font-size:1em">Perceived-wealth-and-difficulty-modulation</b> <br> </a>
   This repository is about the analysis of behavioral and neural data about perceived wealth and difficulty in decision-making. <br>
-  <a href="https://gin.g-node.org/56Fe/Perceived-wealth-and-difficulty-modulation">GIN</a> | <a href="https://gin.g-node.org/56Fe/Perceived-wealth-and-difficulty-modulation">HTTPS</a> | <a href="https://gin.g-node.org/56Fe/Perceived-wealth-and-difficulty-modulation">SSH</a> | DOI: <a href="https://doi.org/10.12751/g-node.1kkrw6">10.12751/g-node.1kkrw6</a> | <a href="https://gin.g-node.org/56Fe/">@56Fe</a>
+  <a href="https://gin.g-node.org/56Fe/Perceived-wealth-and-difficulty-modulation">GIN</a> | <a href="https://gin.g-node.org/56Fe/Perceived-wealth-and-difficulty-modulation">HTTPS</a> | <a href="https://gin.g-node.org/56Fe/Perceived-wealth-and-difficulty-modulation">SSH</a> | DOI: <a href="https://doi.org/10.12751/g-node.1kkrw6">10.12751/g-node.1kkrw6</a> | <a href="https://gin.g-node.org/56Fe/">@56Fe</a> <br>
  </div> 
 
 <a href="https://gin.g-node.org/56Fe/Layer-and-frequency-specific-task-engagement"><img style="width:80px; float:left; margin-bottom:20px; margin-right: 2%; width: 80px; float: left; margin-left:3%; border: .15em solid #EEE; border-radius:.5em;" src="https://gin.g-node.org/repo-avatars/9295"> </a>
