@@ -11,10 +11,15 @@ main:
 
   - title: "Academic Activities"
     url: /academic/    
-    
+
   - title: "Repositories"
-    url: /repositories/ #https://gin.g-node.org/56fe  #/gnode/
-    #target: _blank
+    url: /repositories/
     
   - title: "CV"
     url: /files/CV-FERRO.pdf
+
+    
+#  - title: "Repositories"
+#    url: /repositories/ #https://gin.g-node.org/56fe  #/gnode/
+#    #target: _blank
+    
