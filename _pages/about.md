@@ -19,8 +19,8 @@ redirect_from:
 
 <h3>Updates</h3>
 <blockquote class="twitter-tweet"><p style="font-size:.75em" lang="en" dir="ltr">My work will be presented in a Talk 💬 at the Swammerdam Institute for Life Sciences, Faculty of Science, University van Amsterdam, in Amsterdam, Nethrelands.<br/>
-Date/time: 17.00-18.00, Place: Room A1.11 at Science Park 904, 1098 XH Amsterdam, Netherlands. Abstract: <a href="/files/UVATCN2024Abstract.pdf" target="_blank" type="application/pdf">here</a>.
-<br/>&mdash; Demetrio Ferro, <a href="https://twitter.com/Isotope56/status/1839337511442931973?ref_src=twsrc%5Etfw">September 26, 2024</a></p></blockquote> 
+Date/time: 17.00-18.00, October 15, 2024. Place: Room A1.11 at Science Park 904, 1098 XH Amsterdam, Netherlands. Abstract: <a href="/files/UVATCN2024Abstract.pdf" target="_blank" type="application/pdf">here</a>.
+<br/>&mdash; Demetrio Ferro, <a href="https://twitter.com/Isotope56/status/1839337511442931973?ref_src=twsrc%5Etfw">October 10, 2024</a></p></blockquote> 
 
 
 <blockquote class="twitter-tweet"><p style="font-size:.75em" lang="en" dir="ltr">My interview about gaze 👀 and item value encoding in orbitofrontal cortex 🧠 for <a href="https://twitter.com/hashtag/decisionmaking?src=hash&amp;ref_src=twsrc%5Etfw">#decisionmaking</a> is out in <a href="https://twitter.com/enginyeria_upf?ref_src=twsrc%5Etfw">@Enginyeria_UPF</a> News 📢! <a href="https://twitter.com/cbcUPF?ref_src=twsrc%5Etfw">@CBCUPF</a> <a href="https://t.co/nxIrtrtL9O">https://t.co/nxIrtrtL9O</a> Check the full research article at <a href="https://twitter.com/NatureComms?ref_src=twsrc%5Etfw">@NatureComms</a> <a href="https://t.co/W1oNUzcZpQ">https://t.co/W1oNUzcZpQ</a>!<br/>&mdash; Demetrio Ferro, <a href="https://twitter.com/Isotope56/status/1839337511442931973?ref_src=twsrc%5Etfw">September 26, 2024</a></p></blockquote> 
