@@ -19,7 +19,7 @@ redirect_from:
 
 <h3>Updates</h3>
 <blockquote class="twitter-tweet"><p style="font-size:.75em" lang="en" dir="ltr">My work will be presented in a Talk 💬 at the Swammerdam Institute for Life Sciences, Faculty of Science, University van Amsterdam, in Amsterdam, Nethrelands.<br/>
-Date/time: 17.00-18.00, October 15, 2024. Place: Room A1.11 at Science Park 904, 1098 XH Amsterdam, Netherlands. Abstract: <a href="/files/UVATCN2024Abstract.pdf" target="_blank" type="application/pdf">here</a>.
+Date/time: 17.00-18.00, October 15, 2024. Place: Room A1.11 at Science Park 904, 1098 XH Amsterdam, Netherlands, <a href="/files/UVATCN2024Abstract.pdf" target="_blank" type="application/pdf">Abstract</a>.
 <br/>&mdash; Demetrio Ferro, <a href="https://twitter.com/Isotope56/status/1839337511442931973?ref_src=twsrc%5Etfw">October 10, 2024</a></p></blockquote> 
 
 
