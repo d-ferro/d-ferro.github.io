@@ -18,7 +18,7 @@ redirect_from:
 <p style="font-size:.75em">Beyond my research pursuits, I have a passion for the outdoors. Whether it is swimming regularly, embarking on hiking or climbing adventures, or indulging in some therapeutic gardening, I thrive on connecting with nature. I am also committed to the environmental cause, having actively participated in divulgative discussions and volunteered in clean-up initiatives at natural sites.</p>
 
 <h3>Updates</h3>
-<blockquote class="twitter-tweet"><p style="font-size:.75em" lang="en" dir="ltr">My work will be presented in a Talk 💬 at the Swammerdam Institute for Life Sciences, with the System Cognitive Neuroscience group at the Faculty of Science, University van Amsterdam, Netherlands.<br/>
+<blockquote class="twitter-tweet"><p style="font-size:.75em" lang="en" dir="ltr">My work will be presented in a Talk 💬 at the Swammerdam Institute for Life Sciences (SILS), with the <a href="https://sils.uva.nl/content/research-groups/cognitive-and-systems-neuroscience/cognitive-and-systems-neuroscience.html" target="_blank">System Cognitive Neuroscience Group (SCN)</a> at the Faculty of Science, University van Amsterdam, Netherlands.<br/>
 17.00h-18.00h, October 15, 2024. Room A1.11 at Science Park 904, 1098 XH Amsterdam, Netherlands, <a href="/files/UvATNC2024Abstract.pdf" target="_blank" type="application/pdf">Abstract</a>.
 <br/>&mdash; Demetrio Ferro, <a href="https://twitter.com/Isotope56/status/1839337511442931973?ref_src=twsrc%5Etfw">October 10, 2024</a></p></blockquote> 
 
