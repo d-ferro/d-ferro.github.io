@@ -107,7 +107,7 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
 </tr>
 <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important; vertical-align:top !important"><h3 style="margin-top:0 !important">SfN 2017</h3></td>
- <td style="border:none !important;">A. Thiele, <b>D. Ferro</b>, M. Boyd and S. Panzeri, “Layer dependent attentional modulation of broad and narrow spiking cells in primate V1”, Annual Meeting of the Society for Neuroscience (<i>SfN</i>), 2017 (Washington, DC, USA 🇺🇸)). <a style="color:#444" href="/files/ProgrammeSFN2017.pdf" type="application/pdf" target="_blank">[programme]</a> <a style="color:#444" href="/files/AbstractSFN2017.pdf" type="application/pdf" target="_blank">[abstract]</a> 
+ <td style="border:none !important;">A. Thiele, <b>D. Ferro</b>, M. Boyd and S. Panzeri, “Layer dependent attentional modulation of broad and narrow spiking cells in primate V1”, Annual Meeting of the Society for Neuroscience (<i>SfN</i>), 2017 (Washington, DC, USA 🇺🇸). <a style="color:#444" href="/files/ProgrammeSFN2017.pdf" type="application/pdf" target="_blank">[programme]</a> <a style="color:#444" href="/files/AbstractSFN2017.pdf" type="application/pdf" target="_blank">[abstract]</a> 
  </td>
  </tr>
 </table>
@@ -119,37 +119,37 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
 <table style="border:none !important;">
  <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">CASES 2024</h3></td>
- <td style="border:none !important;"> CASES (Citizen science And SciEntific reSearch), <a href="https://eutopia-university.eu/">EUTOPIA</a> Impact and Dissemination, Sept 2024 (Barcelona, ES). <a style="color:#444" href="/files/CASESUPF2024.pdf" type="application/pdf" target="_blank">[certificate]</a>
+ <td style="border:none !important;"> CASES (Citizen science And SciEntific reSearch), <a href="https://eutopia-university.eu/">EUTOPIA</a> Impact and Dissemination, Sept 2024 (Barcelona, ES 🇪🇸). <a style="color:#444" href="/files/CASESUPF2024.pdf" type="application/pdf" target="_blank">[certificate]</a>
  </td>
 </tr>
 <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">Barccsyn 2024</h3></td>
- <td style="border:none !important;">Barcelona Computational, Cognitive and Systems Neuroscience (<i>Barccsyn</i>), May 2024 (Barcelona, ES). <a style="color:#444" href="/files/ProgrammeBSYN2024.pdf" type="application/pdf" target="_blank">[programme]</a>
+ <td style="border:none !important;">Barcelona Computational, Cognitive and Systems Neuroscience (<i>Barccsyn</i>), May 2024 (Barcelona, ES 🇪🇸). <a style="color:#444" href="/files/ProgrammeBSYN2024.pdf" type="application/pdf" target="_blank">[programme]</a>
  </td>
 </tr>
 <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">Barccsyn 2023</h3></td>
- <td style="border:none !important;">Barcelona Computational, Cognitive and Systems Neuroscience (<i>Barccsyn</i>), May 2023 (Barcelona, ES). <a style="color:#444" href="/files/ProgrammeBSYN2023.pdf" type="application/pdf" target="_blank">[programme]</a>
+ <td style="border:none !important;">Barcelona Computational, Cognitive and Systems Neuroscience (<i>Barccsyn</i>), May 2023 (Barcelona, ES 🇪🇸). <a style="color:#444" href="/files/ProgrammeBSYN2023.pdf" type="application/pdf" target="_blank">[programme]</a>
  </td>
 </tr>
  <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">HBP PFC 2023</h3></td>
- <td style="border:none !important;">Anatomy and function of the prefrontal cortex across species (Human Brain Project), March 2023 (Paris, FR). <a style="color:#444" href="/files/ProgrammeHBPPFC2023.pdf" type="application/pdf" target="_blank">[programme]</a>
+ <td style="border:none !important;">Anatomy and function of the prefrontal cortex across species (Human Brain Project), March 2023 (Paris, FR 🇫🇷). <a style="color:#444" href="/files/ProgrammeHBPPFC2023.pdf" type="application/pdf" target="_blank">[programme]</a>
  </td>
 </tr>
  <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">HBP WP2 2023</h3></td>
- <td style="border:none !important;"> COREDEM (Human Brain Project, Work Package 2), July 2022 (Paris, FR). <a style="color:#444" href="/files/ProgrammeHBPCDM2022.pdf" type="application/pdf" target="_blank">[programme]</a>
+ <td style="border:none !important;"> COREDEM (Human Brain Project, Work Package 2), July 2022 (Paris, FR 🇫🇷). <a style="color:#444" href="/files/ProgrammeHBPCDM2022.pdf" type="application/pdf" target="_blank">[programme]</a>
  </td>
 </tr>
 <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">Neural Coding 2018</h3></td>
- <td style="border:none !important;">Neural Coding Conference at the University of Turin, 2018 (Turin, IT) <a style="color:#444" href="/files/ProgrammeNEUCOD2018.pdf" type="application/pdf" target="_blank">[programme]</a>
+ <td style="border:none !important;">Neural Coding Conference at the University of Turin, 2018 (Turin, IT 🇮🇹) <a style="color:#444" href="/files/ProgrammeNEUCOD2018.pdf" type="application/pdf" target="_blank">[programme]</a>
  </td>
 </tr>
  <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">Slow Dyn 2017</h3></td>
- <td style="border:none !important;">Experimental and Theoretical Analysis of Cortical Dynamics Workshop, 2017 (Rovereto, IT) <a style="color:#444" href="https://d-ferro.github.io/files/SlowDyn2017.pdf" type="application/pdf" target="_blank">[programme]</a>
+ <td style="border:none !important;">Experimental and Theoretical Analysis of Cortical Dynamics Workshop, 2017 (Rovereto, IT 🇮🇹) <a style="color:#444" href="https://d-ferro.github.io/files/SlowDyn2017.pdf" type="application/pdf" target="_blank">[programme]</a>
  </td>
 </tr>
 </table>
@@ -162,27 +162,27 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
 <table style="border:none !important;">
  <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">Barccssyn 2024</h3></td>
- <td style="border:none !important;"> The <a style="color:#444" href="https://www.crm.cat/retreat-barccsyn-2024/" type="application/pdf" target="_blank">10th Retreat</a> of the <i>Barccsyn</i> community, Nov 2024 (Sant Feliu de Guixols, ES).
+ <td style="border:none !important;"> The <a style="color:#444" href="https://www.crm.cat/retreat-barccsyn-2024/" type="application/pdf" target="_blank">10th Retreat</a> of the <i>Barccsyn</i> community, Nov 2024 (Sant Feliu de Guixols, ES 🇪🇸).
  </td>
 </tr>
  <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">Barccssyn 2022</h3></td>
- <td style="border:none !important;"> The <a style="color:#444" href="/files/ProgrammeBarccsynRetreat2022.pdf" type="application/pdf" target="_blank">7th Retreat</a> of the <i>Barccsyn</i> community, Feb 2022 (Sant Feliu de Guixols, ES).
+ <td style="border:none !important;"> The <a style="color:#444" href="/files/ProgrammeBarccsynRetreat2022.pdf" type="application/pdf" target="_blank">7th Retreat</a> of the <i>Barccsyn</i> community, Feb 2022 (Sant Feliu de Guixols, ES 🇪🇸).
  </td>
 </tr>
   <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">COREDEM 2021</h3></td>
- <td style="border:none !important;"> The <a style="color:#444" href="https://d-ferro.github.io/files/ProgrammeCOREDEM2021.pdf" type="application/pdf" target="_blank">COREDEM</a> (Human Brain Project, Work Package 2) Meeting, Nov 2021 (Barcelona, ES).
+ <td style="border:none !important;"> The <a style="color:#444" href="https://d-ferro.github.io/files/ProgrammeCOREDEM2021.pdf" type="application/pdf" target="_blank">COREDEM</a> (Human Brain Project, Work Package 2) Meeting, Nov 2021 (Barcelona, ES 🇪🇸).
  </td>
 </tr>
  <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">Lab Fair 2018</h3></td>
- <td style="border:none !important;"> <a style="color:#444" href="https://d-ferro.github.io/files/CimecLabFair2018.pdf" type="application/pdf" target="_blank">Lab Fair</a>: work exhibition at the Center for Mind/Brain Sciences (<i>Cimec</i>), Nov 2018 (Rovereto, IT).
+ <td style="border:none !important;"> <a style="color:#444" href="https://d-ferro.github.io/files/CimecLabFair2018.pdf" type="application/pdf" target="_blank">Lab Fair</a>: work exhibition at the Center for Mind/Brain Sciences (<i>Cimec</i>), Nov 2018 (Rovereto, IT 🇮🇹).
  </td>
 </tr>
  <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">Brown Bag 2017-18</h3></td>
- <td style="border:none !important;"> <a style="color:#444" href="https://d-ferro.github.io/files/CimecStudentKit2016-2017.pdf#page=25" type="application/pdf" target="_blank">Brown Bag</a>: lunchtime, weekly meetings at the Center for Mind/Brain Sciences, Mar 2017 - Apr 2018 (Rovereto, IT).
+ <td style="border:none !important;"> <a style="color:#444" href="https://d-ferro.github.io/files/CimecStudentKit2016-2017.pdf#page=25" type="application/pdf" target="_blank">Brown Bag</a>: lunchtime, weekly meetings at the Center for Mind/Brain Sciences, Mar 2017 - Apr 2018 (Rovereto, IT 🇮🇹).
  </td>
 </tr>
 </table>
