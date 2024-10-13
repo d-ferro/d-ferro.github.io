@@ -21,7 +21,7 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
 <table style="border:none !important;">
  <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important; vertical-align:top !important"><h3 style="margin-top:0 !important">UvA 2024</h3></td>
- <td style="border:none !important;"><b>D. Ferro</b>, "From attention to intention: how covert and overt gaze behavior implements the selective encoding of reward variables", Universiteit van Amsterdam, (<i>UvA</i>), October 2024 (Amsterdam, NL 🇳🇱). <a style="color:#444" href="/files/ProgrammeICT2024.pdf#page=14" type="application/pdf" target="_blank">[programme]</a> <a style="color:#444" href="/files/TalkICT2024.pdf" type="application/pdf" target="_blank">[talk]</a>
+ <td style="border:none !important;"><b>D. Ferro</b>, "From attention to intention: how covert and overt gaze behavior implements the selective encoding of reward variables", Universiteit van Amsterdam, (<i>UvA</i>), October 2024 (Amsterdam, NL 🇳🇱). <a style="color:#444" href="/files/UvATNC2024Abstract.pdf" type="application/pdf" target="_blank">[abstract]</a>
 </td>
 </tr>
 <tr style="border:none !important;">
@@ -107,7 +107,7 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
 </tr>
 <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important; vertical-align:top !important"><h3 style="margin-top:0 !important">SfN 2017</h3></td>
- <td style="border:none !important;">A. Thiele, <b>D. Ferro</b>, M. Boyd and S. Panzeri, “Layer dependent attentional modulation of broad and narrow spiking cells in primate V1”, Annual Meeting of the Society for Neuroscience (<i>SfN</i>), 2017 (Washington, DC, USA 🇺🇸)). <a style="color:#444" href="/files/ProgrammeSFN2017.pdf" type="application/pdf" target="_blank">[programme]</a> <a style="color:#444" href="/files/AbstractSFN2017.pdf" type="application/pdf" target="_blank">[abstract]</a> [poster]
+ <td style="border:none !important;">A. Thiele, <b>D. Ferro</b>, M. Boyd and S. Panzeri, “Layer dependent attentional modulation of broad and narrow spiking cells in primate V1”, Annual Meeting of the Society for Neuroscience (<i>SfN</i>), 2017 (Washington, DC, USA 🇺🇸)). <a style="color:#444" href="/files/ProgrammeSFN2017.pdf" type="application/pdf" target="_blank">[programme]</a> <a style="color:#444" href="/files/AbstractSFN2017.pdf" type="application/pdf" target="_blank">[abstract]</a> 
  </td>
  </tr>
 </table>
