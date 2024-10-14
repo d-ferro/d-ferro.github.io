@@ -19,7 +19,7 @@ redirect_from:
 
 <h3>Updates</h3>
 <blockquote class="twitter-tweet"><p style="font-size:.75em" lang="en" dir="ltr">My research will be presented in a Talk 💬 at the <a href="https://sils.uva.nl/" target="_blank">Swammerdam Institute for Life Sciences (SILS)</a>, <a href="https://sils.uva.nl/content/research-groups/cognitive-and-systems-neuroscience/cognitive-and-systems-neuroscience.html" target="_blank">System Cognitive Neuroscience Group (SCN)</a> at the Faculty of Science, University van Amsterdam, Netherlands.<br/>
-17.00h-18.00h, October 15, 2024. Room A1.11 at Science Park 904, 1098 XH Amsterdam, Netherlands, <a href="/files/UvATNC2024Abstract.pdf" target="_blank" type="application/pdf">Abstract</a>.
+17.00h-18.00h, October 15, 2024. Room A1.28 at Science Park 904, 1098 XH Amsterdam, Netherlands, <a href="/files/UvATNC2024Abstract.pdf" target="_blank" type="application/pdf">Abstract</a>.
 <br/>&mdash; Demetrio Ferro, October 10, 2024</p></blockquote> 
 
 
