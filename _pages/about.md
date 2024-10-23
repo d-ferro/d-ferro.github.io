@@ -18,6 +18,10 @@ redirect_from:
 <p style="font-size:.75em">Beyond my research pursuits, I have a passion for the outdoors. Whether it is swimming regularly, embarking on hiking or climbing adventures, or indulging in some therapeutic gardening, I thrive on connecting with nature. I am also committed to the environmental cause, having actively participated in divulgative discussions and volunteered in clean-up initiatives at natural sites.</p>
 
 <h3>Updates</h3>
+<blockquote class="twitter-tweet"><p style="font-size:.75em" lang="en" dir="ltr">I will partecipate at the <a href="https://scb.iec.cat/postdoc-day-a-new-generation-in-biomedical-research/" target="_blank">PostDoc day in Biomedical Research</a>, organized by the <a href="https://www.irbbarcelona.org/es" target="_blank">Instituto de Recerca Biomedica (IRB)</a> <a href="https://vhio.net/" target="_blank">Vall d’Hebron Institute of Oncology (VHIO)</a> and the <a href="https://scb.iec.cat/" target="_blank">Societat Catalana de Biologia (SCB)</a><br/>
+9.00h-17.30h, October 29, 2024. Sala Pere i Joan Coromines, Institut d'Estudis Catalans, Barcelona, <a href="/files/SCBPostDocDay24.pdf" target="_blank" type="application/pdf">Programme</a>.
+<br/>&mdash; Demetrio Ferro, October 23, 2024</p></blockquote> 
+
 <blockquote class="twitter-tweet"><p style="font-size:.75em" lang="en" dir="ltr">My research will be presented in a Talk 💬 at the <a href="https://sils.uva.nl/" target="_blank">Swammerdam Institute for Life Sciences (SILS)</a>, <a href="https://sils.uva.nl/content/research-groups/cognitive-and-systems-neuroscience/cognitive-and-systems-neuroscience.html" target="_blank">System Cognitive Neuroscience Group (SCN)</a> at the Faculty of Science, University van Amsterdam, Netherlands 🇳🇱.<br/>
 17.00h-18.00h, October 15, 2024. Room A1.28 at Science Park 904, 1098 XH Amsterdam, Netherlands, <a href="/files/UvATNC2024Abstract.pdf" target="_blank" type="application/pdf">Abstract</a>.
 <br/>&mdash; Demetrio Ferro, October 10, 2024</p></blockquote> 
