@@ -39,7 +39,7 @@ author_profile: true
 
 <a target="_blank" href="https://gin.g-node.org/56Fe/Analysis-of-MUAe-Latency"><img style="width:80px; float:left; margin-right: 2%; width: 80px; float: left; margin-left:3%; border: .15em solid #EEE; border-radius:.5em;" src="https://gin.g-node.org/repo-avatars/3914"> </a>
  <div style="margin-bottom:3em; margin-top:-8px; font-size:.75em"><a target="_blank" href="https://gin.g-node.org/56Fe/Analysis-of-MUAe-Latency"><b style="font-size:1em">Analysis-of-MUAe-Latency</b> <br> </a>
-  The function computes the Latency of Multi-Unit Activity Envelope (MUAe) signals by fitting cumulative Gaussian distribution parameters following (Roelfsema, Tolboom, Khayat, Neuron 2007), developed for <b>Ferro</b> et al., 2021, Directed information exchange between cortical layers in macaque V1 and V4 and its modulation by selective attention. Proceedings of the National Academy of Sciences, 118(12), p.e2022097118.<br>
+  The function computes the Latency of Multi-Unit Activity Envelope (MUAe) signals by fitting cumulative Gaussian distributions following (Roelfsema, Tolboom, Khayat, Neuron 2007), developed for <b>Ferro</b> et al., 2021, Directed information exchange between cortical layers in macaque V1 and V4 and its modulation by selective attention. Proceedings of the National Academy of Sciences, 118(12), p.e2022097118.<br>
   <a target="_blank" href="https://gin.g-node.org/56Fe/Analysis-of-MUAe-Latency">GIN</a> | <a target="_blank" href="https://gin.g-node.org/56Fe/Analysis-of-MUAe-Latency">HTTPS</a> | <a target="_blank" href="https://gin.g-node.org/56Fe/Analysis-of-MUAe-Latency">SSH</a> | <a target="_blank" href="https://gin.g-node.org/56Fe/">@56Fe</a>
  </div> 
 
