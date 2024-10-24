@@ -99,6 +99,13 @@ blockquote {
   font-style: italic;
   border-left: 0.25em solid $primary-color;
 
+/******** EDITED BY d-ferro ********/
+blockquote{
+  font-style: normal !important;
+  border-left: 0.15em solid #ddd; !important
+}
+/***********************************/
+   
   cite {
     font-style: italic;
 
