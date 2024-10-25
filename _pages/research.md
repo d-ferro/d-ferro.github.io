@@ -119,7 +119,7 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
 <table style="border:none !important;">
  <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">PostDoc Day 2024</h3></td>
- <td style="border:none !important;"> PostDoc Day 2024 (Citizen science And SciEntific reSearch), <a href="https://eutopia-university.eu/">EUTOPIA</a> Impact and Dissemination, Sept 2024 (Barcelona, ES 🇪🇸). <a style="color:#444" href="/files/CASESUPF2024.pdf" type="application/pdf" target="_blank">[certificate]</a>
+ <td style="border:none !important;"> PostDoc day</a> in Biomedical Research, organized by the Instituto de Recerca Biomedica (<a href="https://www.irbbarcelona.org/es" target="_blank">IRB</a>) 🩺, Vall d’Hebron Institute of Oncology (<a href="https://vhio.net/" target="_blank">VHIO</a>) 👩‍🔬 and the Societat Catalana de Biologia (<a href="https://scb.iec.cat/" target="_blank">SCB</a>) 🧫, 2024 (Barcelona, ES 🇪🇸). <a href="/files/SCBPostDocDay24.pdf" target="_blank" type="application/pdf">[programme]</a>.
  </td>
 </tr>
  <tr style="border:none !important;">
