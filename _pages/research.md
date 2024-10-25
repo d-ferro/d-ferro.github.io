@@ -118,6 +118,11 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
 
 <table style="border:none !important;">
  <tr style="border:none !important;">
+ <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">PostDoc Day 2024</h3></td>
+ <td style="border:none !important;"> PostDoc Day 2024 (Citizen science And SciEntific reSearch), <a href="https://eutopia-university.eu/">EUTOPIA</a> Impact and Dissemination, Sept 2024 (Barcelona, ES 🇪🇸). <a style="color:#444" href="/files/CASESUPF2024.pdf" type="application/pdf" target="_blank">[certificate]</a>
+ </td>
+</tr>
+ <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">CASES 2024</h3></td>
  <td style="border:none !important;"> CASES (Citizen science And SciEntific reSearch), <a href="https://eutopia-university.eu/">EUTOPIA</a> Impact and Dissemination, Sept 2024 (Barcelona, ES 🇪🇸). <a style="color:#444" href="/files/CASESUPF2024.pdf" type="application/pdf" target="_blank">[certificate]</a>
  </td>
