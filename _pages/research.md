@@ -182,7 +182,7 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
 </tr>
  <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">Lab Fair 2018</h3></td>
- <td style="border:none !important;"> <a style="color:#444" href="https://d-ferro.github.io/files/CimecLabFair2018.pdf" type="application/pdf" target="_blank">Lab Fair</a>: work exhibition at the Center for Mind/Brain Sciences (<i>Cimec</i>), Nov 2018 (Rovereto, IT 🇮🇹).
+ <td style="border:none !important;"> <a style="color:#444" href="https://d-ferro.github.io/files/CimecLabFair2018.pdf" type="application/pdf" target="_blank">Lab Fair</a>: research work exhibition at the Center for Mind/Brain Sciences (<i>Cimec</i>), Nov 2018 (Rovereto, IT 🇮🇹).
  </td>
 </tr>
  <tr style="border:none !important;">
