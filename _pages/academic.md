@@ -22,7 +22,7 @@ author_profile: true
  <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:4%; vertical-align:top !important"><h3 style="margin-top:0 !important">Internship</h3></td>
  <td style="border:none !important;"><b>Student: Pau Garriga Marsans</b>, June - Aug 2023.<br/> Universitat Pompeu Fabra, Biomedical Engineering Degree <br/>
-  Analysis of behavioral and neural data from Allen brain institute. <br/> Successfully achieved a foreign university stay at TUM, Munich.
+  Analysis of behavioral and neural data from Allen brain institute. <br/> Successfully started a studying abroad journey at the TUM, Munich.
  </td>
 </tr> 
   <tr style="border:none !important; vertical-align:top !important; text-align: top !important">
