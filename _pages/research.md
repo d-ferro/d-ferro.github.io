@@ -127,14 +127,14 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
  <td style="border:none !important;"> CASES (Citizen science And SciEntific reSearch), <a href="https://eutopia-university.eu/" target="_blank">EUTOPIA</a> Impact and Dissemination, Sept 2024 (Barcelona, ES 🇪🇸). <a style="color:#444" href="/files/CASESUPF2024.pdf" type="application/pdf" target="_blank">[certificate]</a>
  </td>
 </tr>
- <tr style="border:none !important;">
- <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">NeuroChats 2024</h3></td>
- <td style="border:none !important;"> <a href="https://www.crm.cat/neurochats-seminar/" target="_blank">Neurochats</a> Seminars. Informal talks and follow-up discussions among pre- and postdoctoral researchers. Apr 25th, June 20th, Nov 7th, 2024 (Barcelona, ES 🇪🇸). 
- </td>
-</tr>
 <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">Barccsyn 2024</h3></td>
  <td style="border:none !important;">Barcelona Computational, Cognitive and Systems Neuroscience (<i>Barccsyn</i>), May 2024 (Barcelona, ES 🇪🇸). <a style="color:#444" href="/files/ProgrammeBSYN2024.pdf" type="application/pdf" target="_blank">[programme]</a>
+ </td>
+</tr>
+  <tr style="border:none !important;">
+ <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">NeuroChats 2024</h3></td>
+ <td style="border:none !important;"> <a href="https://www.crm.cat/neurochats-seminar/" target="_blank">Neurochats</a> Seminars. Informal talks and follow-up discussions among pre- and postdoctoral researchers. Apr 25th, June 20th, Nov 7th, 2024 (Barcelona, ES 🇪🇸). 
  </td>
 </tr>
 <tr style="border:none !important;">
