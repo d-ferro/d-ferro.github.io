@@ -10,19 +10,19 @@ author_profile: true
  <tr style="border:none !important; vertical-align:top !important; text-align: top !important">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:4%; vertical-align:top !important"><h3 style="margin-top:0 !important">Bachelor Thesis</h3></td>
  <td style="border:none !important;"><b>Student: Pau Boncompte Carré</b>, Jan - July 2024.<br/> Universitat Pompeu Fabra, Biomedical Engineering Degree<br/> 
-  Analysis of behavioral and neural data from Allen brain institute. <br/> Successfully enrolled in the Computer science master programme at the University of Tokyo.
+  Analysis of behavioral and neural data from Allen brain institute. <br/> Now enrolled in the Computer science master programme at the University of Tokyo.
  </td>
 </tr>
 <tr style="border:none !important; vertical-align:top !important; text-align: top !important">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:4%; vertical-align:top !important"><h3 style="margin-top:0 !important">Internship</h3></td>
  <td style="border:none !important;"><b>Student: Marcel Socoró Garrigosa</b>, Sept - Dec 2023.<br/> Universitat Pompeu Fabra, Biomedical Engineering Degree <br/>
-  Analysis of behavioral and neural data from Allen brain institute. <br/> Successfully enrolled in the Computational Neuroscience master programme at ETH, Zurich.
+  Analysis of behavioral and neural data from Allen brain institute. <br/> Now enrolled in the Computational Neuroscience master programme at ETH, Zurich.
  </td>
 </tr>
  <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:4%; vertical-align:top !important"><h3 style="margin-top:0 !important">Internship</h3></td>
  <td style="border:none !important;"><b>Student: Pau Garriga Marsans</b>, June - Aug 2023.<br/> Universitat Pompeu Fabra, Biomedical Engineering Degree <br/>
-  Analysis of behavioral and neural data from Allen brain institute. <br/> Successfully started a studying abroad journey at the TUM, Munich.
+  Analysis of behavioral and neural data from Allen brain institute. <br/> Currently on a studying abroad journey at the TUM, Munich.
  </td>
 </tr> 
   <tr style="border:none !important; vertical-align:top !important; text-align: top !important">
