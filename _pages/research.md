@@ -172,7 +172,7 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
 <table style="border:none !important;">
  <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">Barccssyn 2024</h3></td>
- <td style="border:none !important;"> The <a style="color:#444" href="https://www.crm.cat/retreat-barccsyn-2024/" type="application/pdf" target="_blank">10th Retreat</a> of the <i>Barccsyn</i> community, Nov 2024 (Sant Feliu de Guixols, ES 🇪🇸).
+ <td style="border:none !important;"> The <a style="color:#444" href="/files/ProgrammeBarccsynRetreat2024.pdf" type="application/pdf" target="_blank">10th Retreat</a> of the <i>Barccsyn</i> community, Nov 2024 (Sant Feliu de Guixols, ES 🇪🇸).
  </td>
 </tr>
  <tr style="border:none !important;">
