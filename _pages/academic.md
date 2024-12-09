@@ -16,7 +16,7 @@ author_profile: true
 <tr style="border:none !important; vertical-align:top !important; text-align: top !important">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:4%; vertical-align:top !important"><h3 style="margin-top:0 !important">Internship</h3></td>
  <td style="border:none !important;"><b>Student: Marcel Socoró Garrigosa</b>, Sept - Dec 2023.<br/> Universitat Pompeu Fabra, Biomedical Engineering Degree <br/>
-  Analysis of behavioral and neural data from Allen brain institute. <br/> Now enrolled in the Computational Neuroscience master programme at ETH, Zurich.
+  Analysis of behavioral and neural data from Allen brain institute. <br/> Now enrolled in the Computational Neuroscience master programme at ETH, Zürich.
  </td>
 </tr>
  <tr style="border:none !important;">
