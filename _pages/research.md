@@ -197,6 +197,7 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
  <td style="border:none !important;"> <a style="color:#444" href="https://d-ferro.github.io/files/CimecStudentKit2016-2017.pdf#page=25" type="application/pdf" target="_blank">Brown Bag</a>: lunchtime, weekly meetings at the Center for Mind/Brain Sciences, Mar 2017 - Apr 2018 (Rovereto, IT 🇮🇹).
  </td>
 </tr>
+</table>
 
 
 
@@ -214,4 +215,3 @@ Data-driven and validated multiscale computational models and neuromorphic imple
 Model of gaze centred activation of value encoding in orbitofrontal cortex [<a href="https://search.kg.ebrains.eu/instances/a2dce812-1d4b-4fc5-a69f-96005288c12e" target="_blank">EBRAINS Knowledge Graph</a>].<br/>
 </p>
 </div>
-</table>
