@@ -201,17 +201,21 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
 
 
 
- <div style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;"><h3 style="margin-top:20px">Fundings</h3></div>
-<div style="border:none !important; width:100% !important; padding-left:20% !important;"><p style="font-size:.75em">
-<b>Bial Foundation</b> [<a href="https://www.bialfoundation.com/com/grants/grants-2022/" target="_blank">Grants 2022</a>].<br/>
-Gaze-centered decision making [<a href="https://fbial.yggycloud.com/archivesearch.aspx?base=fbial&search=cod%3a%22PT%2fFB%2fBL-2022-106%24%22&page=1&format=#" target="_blank">report</a>].<br/>
-</p>
-</div>
+
+<div style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;"><h3 style="margin-top:20px">Fundings</h3></div>
+<table style="border:none !important;">
+ <tr style="border:none !important;">
+ <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">Bial Foundation</h3></td>
+ <td style="border:none !important;"> Gaze-centered decision making [<a href="https://www.bialfoundation.com/com/grants/grants-2022/" target="_blank">Grants 2022</a>] [<a href="https://fbial.yggycloud.com/archivesearch.aspx?base=fbial&search=cod%3a%22PT%2fFB%2fBL-2022-106%24%22&page=1&format=#" target="_blank">report</a>].
+ </td>
+</table>
 
 <div style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;"><h3 style="margin-top:20px">Collaborations</h3></div>
-<div style="border:none !important; width:100% !important; padding-left:20% !important;"><p style="font-size:.75em">
- <b>Human Brain Project (D17 - SGA3 M42)</b><br/>
-Data-driven and validated multiscale computational models and neuromorphic implementations [<a href="/files/HBPReport2023.pdf" target="_blank">report</a>].<br/>
-Model of gaze centred activation of value encoding in orbitofrontal cortex [<a href="https://search.kg.ebrains.eu/instances/a2dce812-1d4b-4fc5-a69f-96005288c12e" target="_blank">EBRAINS Knowledge Graph</a>].<br/>
-</p>
-</div>
+<table style="border:none !important;">
+ <tr style="border:none !important;">
+ <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">Human Brain Project</h3></td>
+ <td style="border:none !important;"> Data-driven and validated multiscale computational models and neuromorphic implementations [<a href="/files/HBPReport2023.pdf" target="_blank">(D17 - SGA3 M42) report</a>].<br/>
+Model of gaze centred activation of value encoding in orbitofrontal cortex [<a href="https://search.kg.ebrains.eu/instances/a2dce812-1d4b-4fc5-a69f-96005288c12e" target="_blank">EBRAINS Knowledge Graph</a>].
+ </td>
+</table>
+
