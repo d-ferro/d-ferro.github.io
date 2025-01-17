@@ -25,7 +25,6 @@ Gaze-centered decision making [<a href="https://fbial.yggycloud.com/archivesearc
 Data-driven and validated multiscale computational models and neuromorphic implementations [<a href="https://sos-ch-dk-2.exo.io/public-website-production-2022/filer_public/76/24/76243a74-44f9-4451-95de-e607b8d2394b/d26_d17_sga3_m42_submitted_230928.pdf" target="_blank">report</a>].<br/>
 Model of gaze centred activation of value encoding in orbitofrontal cortex [<a href="https://search.kg.ebrains.eu/instances/a2dce812-1d4b-4fc5-a69f-96005288c12e" target="_blank">EBRAINS Knowledge Graph</a>].<br/>
  <br/>
- 
 </p>
 </div>
 
