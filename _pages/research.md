@@ -113,7 +113,7 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
  </tr>
 </table>
 <h1> </h1>
-
+<br/>
 
 <div style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;"><h3 style="margin-top:20px">Attended Events</h3></div>
 <table style="border:none !important;">
@@ -164,6 +164,7 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
 </tr>
 </table>
 <h1> </h1>
+<br/>
 
 <div style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;"><h3 style="margin-top:20px">Organized Events</h3></div>
 <table style="border:none !important;">
@@ -194,7 +195,7 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
 </tr>
 </table>
 <h1> </h1>
-
+<br/>
 
 <div style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;"><h3 style="margin-top:20px">Fundings</h3></div>
 <table style="border:none !important;">
@@ -205,7 +206,7 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
 </tr>
 </table>
 <h1> </h1>
-
+<br/>
 
 <div style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;"><h3 style="margin-top:20px">Collaborations</h3></div>
 <table style="border:none !important;">
