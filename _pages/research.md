@@ -14,8 +14,7 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
 <br/>Classification of local field potentials evoked by visual stimuli in different task demands.<br/>
 </p>
 </div>
-
-
+<br/>
 
 
 <div style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;"><h3 style="margin-top:20px">Talks & Posters</h3></div>
