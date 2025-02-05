@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: <div style="height:1.2em; width:1.2em; opacity:7; @if (var(--scheme-type) == 'dark') {background:url(https://d-ferro.github.io/images/favicon.ico);} @else {background:url(https://d-ferro.github.io/images/favicon.ico);}"></div> #"⌂"
+  - title: <div style="height:1.2em; width:1.2em; opacity:7; background-size:contain; @if (var(--scheme-type) == 'dark') {background-image:url('https://d-ferro.github.io/images/favicon.ico');} @else {background-image:url('https://d-ferro.github.io/images/favicon.ico');}"></div> #"⌂"
     url: /
     
   - title: "Publications"
