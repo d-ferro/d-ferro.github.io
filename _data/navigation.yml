@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: <img src="https://d-ferro.github.io/images/favicon.ico"> #"⌂"
+  - title: <img style="height:1.5em" src="https://d-ferro.github.io/images/favicon.ico" > #"⌂"
     url: /
     
   - title: "Publications"
