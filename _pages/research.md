@@ -200,7 +200,7 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
 <table style="border:none !important;">
  <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">Bial Foundation</h3></td>
- <td style="border:none !important;"> Gaze-centered decision making [<a href="https://www.bialfoundation.com/com/grants/grants-2022/" target="_blank">Grants 2022</a>] [<a href="https://fbial.yggycloud.com/archivesearch.aspx?base=fbial&search=cod%3a%22PT%2fFB%2fBL-2022-106%24%22&page=1&format=#" target="_blank">fbial cloud</a>] [<a href="https://github.com/d-ferro/d-ferro.github.io/blob/master/files/BialFinalReport2025.pdf" target="_blank">report</a>].
+ <td style="border:none !important;"> Gaze-centered decision making [<a href="https://www.bialfoundation.com/com/grants/grants-2022/" target="_blank">Grants 2022</a>] [<a href="https://fbial.yggycloud.com/archivesearch.aspx?base=fbial&search=cod%3a%22PT%2fFB%2fBL-2022-106%24%22&page=1&format=#" target="_blank">fbial cloud</a>] [<a href="https://github.com/d-ferro/d-ferro.github.io/blob/master/files/BialFinalReport2025.pdf" target="_blank" type="application/pdf">report</a>].
  </td>
 </tr>
 </table>
