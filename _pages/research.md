@@ -158,7 +158,7 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
 </tr>
  <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">Slow Dyn 2017</h3></td>
- <td style="border:none !important;">Experimental and Theoretical Analysis of Cortical Dynamics Workshop, 2017 (Rovereto, IT 🇮🇹) <a style="color:#444" href="https://d-ferro.github.io/files/SlowDyn2017.pdf" type="application/pdf" target="_blank">[programme]</a>
+ <td style="border:none !important;">Experimental and Theoretical Analysis of Cortical Dynamics Workshop, 2017 (Rovereto, IT 🇮🇹) <a style="color:#444" href="/files/SlowDyn2017.pdf" type="application/pdf" target="_blank">[programme]</a>
  </td>
 </tr>
 </table>
@@ -179,17 +179,17 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
 </tr>
   <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">COREDEM 2021</h3></td>
- <td style="border:none !important;"> The <a style="color:#444" href="https://d-ferro.github.io/files/ProgrammeCOREDEM2021.pdf" type="application/pdf" target="_blank">COREDEM</a> (Human Brain Project, Work Package 2) Meeting, Nov 2021 (Barcelona, ES 🇪🇸).
+ <td style="border:none !important;"> The <a style="color:#444" href="/files/ProgrammeCOREDEM2021.pdf" type="application/pdf" target="_blank">COREDEM</a> (Human Brain Project, Work Package 2) Meeting, Nov 2021 (Barcelona, ES 🇪🇸).
  </td>
 </tr>
  <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">Lab Fair 2018</h3></td>
- <td style="border:none !important;"> <a style="color:#444" href="https://d-ferro.github.io/files/CimecLabFair2018.pdf" type="application/pdf" target="_blank">Lab Fair</a>: research work exhibition at the Center for Mind/Brain Sciences (<i>Cimec</i>), Nov 2018 (Rovereto, IT 🇮🇹).
+ <td style="border:none !important;"> <a style="color:#444" href="/files/CimecLabFair2018.pdf" type="application/pdf" target="_blank">Lab Fair</a>: research work exhibition at the Center for Mind/Brain Sciences (<i>Cimec</i>), Nov 2018 (Rovereto, IT 🇮🇹).
  </td>
 </tr>
  <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">Brown Bag 2017-18</h3></td>
- <td style="border:none !important;"> <a style="color:#444" href="https://d-ferro.github.io/files/CimecStudentKit2016-2017.pdf#page=25" type="application/pdf" target="_blank">Brown Bag</a>: lunchtime, weekly meetings at the Center for Mind/Brain Sciences, Mar 2017 - Apr 2018 (Rovereto, IT 🇮🇹).
+ <td style="border:none !important;"> <a style="color:#444" href="/files/CimecStudentKit2016-2017.pdf#page=25" type="application/pdf" target="_blank">Brown Bag</a>: lunchtime, weekly meetings at the Center for Mind/Brain Sciences, Mar 2017 - Apr 2018 (Rovereto, IT 🇮🇹).
  </td>
 </tr>
 </table>
@@ -200,7 +200,7 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
 <table style="border:none !important;">
  <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">Bial Foundation</h3></td>
- <td style="border:none !important;"> Gaze-centered decision making [<a href="https://www.bialfoundation.com/com/grants/grants-2022/" target="_blank">Grants 2022</a>] [<a href="https://fbial.yggycloud.com/archivesearch.aspx?base=fbial&search=cod%3a%22PT%2fFB%2fBL-2022-106%24%22&page=1&format=#" target="_blank">fbial cloud</a>] [<a href="https://github.com/d-ferro/d-ferro.github.io/blob/master/files/BialFinalReport2025.pdf" target="_blank" type="application/pdf">report</a>].
+ <td style="border:none !important;"> Gaze-centered decision making [<a href="https://www.bialfoundation.com/com/grants/grants-2022/" target="_blank">Grants 2022</a>] [<a href="https://fbial.yggycloud.com/archivesearch.aspx?base=fbial&search=cod%3a%22PT%2fFB%2fBL-2022-106%24%22&page=1&format=#" target="_blank">fbial cloud</a>] [<a href="/files/BialFinalReport2025.pdf" target="_blank" type="application/pdf">report</a>].
  </td>
 </tr>
 </table>
