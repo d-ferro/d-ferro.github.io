@@ -98,6 +98,4 @@ DOI:<a style="color:#444" href="https://2023.ccneuro.org/view_paper8951.html?Pap
   DOI:<a style="color:#444" href="https://dx.doi.org/10.15168/11572_246290" target="_blank">10.15168/11572_246290</a>; PDF: <a style="color:#444" href="https://iris.unitn.it/retrieve/e3835195-f568-72ef-e053-3705fe0ad821/DFerro-Thesis-final-updated-reviews-ok.pdf" type="application/pdf" target="_blank">IRIS</a>
  </td>
 </tr>
- </td>
-</tr>
 </table>
