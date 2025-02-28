@@ -58,7 +58,7 @@ DOI:<a style="color:#444" href="https://2023.ccneuro.org/view_paper8951.html?Pap
 
 
 
-<h3>Other Publications</h3>
+<h3>Preprints and other Publications</h3>
 
 
 
@@ -83,24 +83,24 @@ DOI:<a style="color:#444" href="https://2023.ccneuro.org/view_paper8951.html?Pap
   DOI: <a href="https://search.kg.ebrains.eu/instances/a2dce812-1d4b-4fc5-a69f-96005288c12e" target="_blank">10.12751/g-node.72yf9s</a>; Data and code: <a href="https://10.12751/g-node.72yf9s" target="_blank">repository</a>
  </td>
 </tr>
-<!-- <tr style="border:none !important;">
+<tr style="border:none !important;">
  <td style="border:none !important; text-align:center !important; vertical-align:top !important"><h3 style="margin-top:0 !important"></h3></td>
  <td style="border:none !important;"><a style="color:#444" href="https://www.biorxiv.org/content/10.1101/2023.04.20.537677v3" target="_blank">Gaze-centered gating and re-activation of value encoding in orbitofrontal cortex</a><br/>
   <b>Demetrio Ferro</b>, Tyler Cash-Padgett, Maya Zhe-Wang, Benjamin Y. Hayden, Rubén Moreno Bote<br/>
   <i>bioRxiv</i>, 2023 <br/>
   DOI: <a style="color:#444" href="https://doi.org/10.1101/2023.04.20.537677" target="_blank">10.1101/2023.04.20.537677</a>; Data and code: <a style="color:#444" href="https://doi.org/10.12751/g-node.evlnq5" target="_blank">repository</a>; PDF: <a style="color:#444" href="https://www.biorxiv.org/content/10.1101/2023.04.20.537677v3.full.pdf" type="application/pdf"  target="_blank">bioRxiv</a>
  </td>
-</tr> -->
+</tr> 
 <!-- 2021-->
  <!-- 2020-->
-<!--<tr style="border:none !important;">
+<tr style="border:none !important;">
  <td style="border:none !important; text-align:center !important; vertical-align:top !important"><h3 style="margin-top:0 !important">2020</h3></td>
  <td style="border:none !important;"><a style="color:#444" href="https://www.biorxiv.org/content/10.1101/2020.06.09.142190v1">Directed information exchange between cortical layers in macaque V1 and V4 and its modulation by selective attention</a> <br/>
    <b>Demetrio Ferro</b>, Jochem van Kempen, Michael Boyd, Stefano Panzeri, Alexander Thiele<br/>
   <i>bioRxiv</i>, 2020 <br/>
   DOI: <a style="color:#444" href="https://doi.org/10.1101/2020.06.09.142190">10.1101/2020.06.09.142190</a>; PDF: <a style="color:#444" href="https://www.biorxiv.org/content/10.1101/2020.06.09.142190v1.full.pdf" type="application/pdf" target="_blank">bioRxiv</a>
  </td>
-</tr>-->
+</tr>
  <!-- 2019-->
 <tr style="border:none !important;">
  <td style="border:none !important; text-align:center !important; vertical-align:top !important"><h3 style="margin-top:0 !important">2019</h3></td>
