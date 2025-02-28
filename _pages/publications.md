@@ -66,6 +66,16 @@ DOI:<a style="color:#444" href="https://2023.ccneuro.org/view_paper8951.html?Pap
 <table style="border:none !important;">
 <!-- 2024 -->
 <tr style="border:none !important;">
+ <td style="border:none !important; text-align:center !important; vertical-align:top !important"><h3 style="margin-top:0 !important">2025</h3></td>
+ <td style="border:none !important;"><a style="color:#444" href="https://" target="_blank">Accumulation of virtual tokens towards a jackpot reward enhances performance and value encoding in dorsal anterior cingulate cortex</a> <br/>
+  <b>Demetrio Ferro</b>, Gabriela Mochol, Habiba Azab, Benjamin Y. Hayden and Rubén Moreno-Bote <br/>
+  <i>bioRxiv</i>, 2025.<br/>
+  DOI: <a href="https://doi.org/10.12751/g-node.1kkrw6" target="_blank">10.12751/g-node.1kkrw6</a>; Data and code: <a href="https://10.12751/g-node.1kkrw6" target="_blank">repository</a>
+ </td>
+</tr>
+ 
+<!-- 2024 -->
+<tr style="border:none !important;">
  <td style="border:none !important; text-align:center !important; vertical-align:top !important"><h3 style="margin-top:0 !important">2023</h3></td>
  <td style="border:none !important;"><a style="color:#444" href="https://search.kg.ebrains.eu/instances/a2dce812-1d4b-4fc5-a69f-96005288c12e" target="_blank">Model of gaze-centered activation and reactivation of value encoding in orbitofrontal cortex</a> <br/>
   <b>Demetrio Ferro</b>, Benjamin Y. Hayden and Rubén Moreno-Bote <br/>
