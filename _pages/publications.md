@@ -58,7 +58,7 @@ DOI:<a style="color:#444" href="https://2023.ccneuro.org/view_paper8951.html?Pap
 
 
 
-<h3>Preprints and other Publications</h3>
+<h3>Preprints and other publications</h3>
 
 
 
