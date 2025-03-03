@@ -9,7 +9,7 @@ author_profile: true
 <p style="font-size:.75em">You can also find my publications on <a style="color:#444" href="https://scholar.google.com/citations?hl=en&user=rb2l4DcAAAAJ&hl=en" target="_blank">Scholar</a>.  
 For any request or further information contact me at <i>demetrio[dot]ferro[at]upf[dot]edu</i>.</p>
 
-<h1>Peer-reviewed publications</h1>
+<p>Peer-reviewed publications</p>
 
 <table style="border:none !important;">
 <!-- 2024 -->
@@ -58,10 +58,7 @@ DOI:<a style="color:#444" href="https://2023.ccneuro.org/view_paper8951.html?Pap
 
 
 
-<h1>Preprints and other publications</h1>
-
-
-
+<p>Preprints and other publications</p>
 
 <table style="border:none !important;">
 <!-- 2024 -->
