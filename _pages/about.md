@@ -18,6 +18,10 @@ redirect_from:
 <p style="font-size:.75em">Beyond my research pursuits, I have a passion for the outdoors. Whether it is swimming regularly, embarking on hiking or climbing adventures, or indulging in some therapeutic gardening, I thrive on connecting with nature. I am also committed to the environmental cause, having actively participated in informative meetings about the climate crisis, contributed to events that promoted sustainable food consumption, and volunteered in clean-up initiatives at natural sites.</p>
 
 <h3>Updates</h3>
+<blockquote class="twitter-tweet"><p style="font-size:.75em" lang="en" dir="ltr">‪I Just posted a <a href="https://bsky.app/profile/biorxiv-neursci.bsky.social" target="_blank">@biorxiv-neursci</a> preprint! 📝
+In this work we show that accumulating tokens towards a jackpot enhances decision speed and accuracy, as well as value encoding in dorsal anterior cingulate cortex 🧠. DOI: <a href="https://www.biorxiv.org/content/10.1101/2025.03.03.640771v2" target="_blank">10.1101/2025.03.03.640771v2</a>.
+<br/>&mdash; Demetrio Ferro, March 10, 2025</p></blockquote> 
+
 <blockquote class="twitter-tweet"><p style="font-size:.75em" lang="en" dir="ltr">I am attending the <a href="/files/ProgrammeBarccsynRetreat2024.pdf" target="_blank">10th Barccsyn Retreat</a>, a social event bringing together cognitive, computational and systems neuroscientists based in Barcelona in a fun experience combining scientific 🥼, social 🫱🏽‍🫲🏻, and outdoors 🏊🏽 activities. This year, for the second time, I had the pleasure to join the organization committee. 
 <br/>&mdash; Demetrio Ferro, November 28, 2024</p></blockquote> 
 
