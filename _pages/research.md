@@ -19,6 +19,11 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
 
 <div style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;"><h3 style="margin-top:20px">Talks & Posters</h3></div>
 <table style="border:none !important;">
+  <tr style="border:none !important;">
+ <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important; vertical-align:top !important"><h3 style="margin-top:0 !important">CRM 2025 <br/>(invited)</h3></td>
+ <td style="border:none !important;"><b>D. Ferro</b>, "Accumulation of virtual tokens towards a jackpot reward enhances performance and value encoding in dorsal anterior cingulate cortex",  Centre de Recerca Matematica (<a href="https://crm.cat" target="_blank">CRM</a>), Brain Circuits and Behavior Group (<a href="https://braincircuitsbehavior.org/" target="_blank">SCN</a>), April 2025 (Barcelona, ES 🇪🇸). <a style="color:#444" href="https://www.biorxiv.org/content/10.1101/2025.03.03.640771v3" target="_blank">[abstract]</a> [talk]
+</td>
+</tr>
  <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important; vertical-align:top !important"><h3 style="margin-top:0 !important">UvA 2024 <br/>(invited)</h3></td>
  <td style="border:none !important;"><b>D. Ferro</b>, "From attention to intention: how covert and overt gaze behavior implements the selective encoding of reward variables",  Swammerdam Institute for Life Sciences (<a href="https://sils.uva.nl/" target="_blank">SILS</a>), System Cognitive Neuroscience Group (<a href="https://sils.uva.nl/content/research-groups/cognitive-and-systems-neuroscience/cognitive-and-systems-neuroscience.html" target="_blank">SCN</a>) at the Faculty of Science, University van Amsterdam, (<i>UvA</i>), October 2024 (Amsterdam, NL 🇳🇱). <a style="color:#444" href="/files/UvATNC2024Abstract.pdf" type="application/pdf" target="_blank">[abstract]</a> [talk]
