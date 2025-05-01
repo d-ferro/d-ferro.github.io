@@ -123,12 +123,12 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
 <table style="border:none !important;">
  <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">PostDoc Day 2024</h3></td>
- <td style="border:none !important;"> PostDoc day in Biomedical Research, organized by the Instituto de Recerca Biomedica (<a href="https://www.irbbarcelona.org/es" target="_blank">IRB</a>), Vall d’Hebron Institute of Oncology (<a href="https://vhio.net/" target="_blank">VHIO</a>) and the Societat Catalana de Biologia (<a href="https://scb.iec.cat/" target="_blank">SCB</a>), 2024 (Barcelona, ES 🇪🇸). <a href="/files/SCBPostDocDay24.pdf" target="_blank" type="application/pdf">[programme]</a> <a href="/files/CertificatePostDocDay2024.pdf" target="_blank" type="application/pdf">[certificate]</a>.
+ <td style="border:none !important;"> PostDoc day in Biomedical Research, organized by the Instituto de Recerca Biomedica (<a href="https://www.irbbarcelona.org/es" target="_blank">IRB</a>), Vall d’Hebron Institute of Oncology (<a href="https://vhio.net/" target="_blank">VHIO</a>) and the Societat Catalana de Biologia (<a href="https://scb.iec.cat/" target="_blank">SCB</a>), Nov. 2024 (Barcelona, ES 🇪🇸). <a href="/files/SCBPostDocDay24.pdf" target="_blank" type="application/pdf">[programme]</a> <a href="/files/CertificatePostDocDay2024.pdf" target="_blank" type="application/pdf">[certificate]</a>.
  </td>
 </tr>
  <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">CASES 2024</h3></td>
- <td style="border:none !important;"> CASES (Citizen science And SciEntific reSearch), <a href="https://eutopia-university.eu/" target="_blank">EUTOPIA</a> Impact and Dissemination, Sept 2024 (Barcelona, ES 🇪🇸). <a style="color:#444" href="/files/CASESUPF2024.pdf" type="application/pdf" target="_blank">[certificate]</a>
+ <td style="border:none !important;"> CASES (Citizen science And SciEntific reSearch), <a href="https://eutopia-university.eu/" target="_blank">EUTOPIA</a> Impact and Dissemination, Sept. 2024 (Barcelona, ES 🇪🇸). <a style="color:#444" href="/files/CASESUPF2024.pdf" type="application/pdf" target="_blank">[certificate]</a>
  </td>
 </tr>
 <tr style="border:none !important;">
@@ -138,7 +138,7 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
 </tr>
   <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">NeuroChats 2024</h3></td>
- <td style="border:none !important;"> <a href="https://www.crm.cat/neurochats-seminar/" target="_blank">Neurochats</a> Seminars organized by the Centre de Recerca Matematica (CRM). Informal talks and follow-up discussions among pre- and postdoctoral researchers based or visiting Barcelona. Apr 25th, June 20th, Nov 7th, 2024 (Barcelona, ES 🇪🇸). 
+ <td style="border:none !important;"> <a href="https://www.crm.cat/neurochats-seminar/" target="_blank">Neurochats</a> Seminars organized by the Centre de Recerca Matematica (CRM). Informal talks and follow-up discussions among pre- and postdoctoral researchers based or visiting Barcelona. Apr 25th, June 20th, Nov.  2024 (Barcelona, ES 🇪🇸). 
  </td>
 </tr>
 <tr style="border:none !important;">
@@ -158,12 +158,12 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
 </tr>
 <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">Neural Coding 2018</h3></td>
- <td style="border:none !important;">Neural Coding Conference at the University of Turin, 2018 (Turin, IT 🇮🇹) <a style="color:#444" href="/files/ProgrammeNEUCOD2018.pdf" type="application/pdf" target="_blank">[programme]</a>
+ <td style="border:none !important;">Neural Coding Conference at the University of Turin, Sept. 2018 (Turin, IT 🇮🇹) <a style="color:#444" href="/files/ProgrammeNEUCOD2018.pdf" type="application/pdf" target="_blank">[programme]</a>
  </td>
 </tr>
  <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">Slow Dyn 2017</h3></td>
- <td style="border:none !important;">Experimental and Theoretical Analysis of Cortical Dynamics Workshop, 2017 (Rovereto, IT 🇮🇹) <a style="color:#444" href="/files/SlowDyn2017.pdf" type="application/pdf" target="_blank">[programme]</a>
+ <td style="border:none !important;">Experimental and Theoretical Analysis of Cortical Dynamics Workshop, Sept. 2017 (Rovereto, IT 🇮🇹) <a style="color:#444" href="/files/SlowDyn2017.pdf" type="application/pdf" target="_blank">[programme]</a>
  </td>
 </tr>
 </table>
@@ -174,27 +174,27 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
 <table style="border:none !important;">
  <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">Barccssyn 2024</h3></td>
- <td style="border:none !important;"> The <a style="color:#444" href="/files/ProgrammeBarccsynRetreat2024.pdf" type="application/pdf" target="_blank">10th Retreat</a> of the <i>Barccsyn</i> community, Nov 2024 (Sant Feliu de Guixols, ES 🇪🇸).
+ <td style="border:none !important;"> The <a style="color:#444" href="/files/ProgrammeBarccsynRetreat2024.pdf" type="application/pdf" target="_blank">10th Retreat</a> of the <i>Barccsyn</i> community, Nov. 2024 (Sant Feliu de Guixols, ES 🇪🇸).
  </td>
 </tr>
  <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">Barccssyn 2022</h3></td>
- <td style="border:none !important;"> The <a style="color:#444" href="/files/ProgrammeBarccsynRetreat2022.pdf" type="application/pdf" target="_blank">7th Retreat</a> of the <i>Barccsyn</i> community, Feb 2022 (Sant Feliu de Guixols, ES 🇪🇸).
+ <td style="border:none !important;"> The <a style="color:#444" href="/files/ProgrammeBarccsynRetreat2022.pdf" type="application/pdf" target="_blank">7th Retreat</a> of the <i>Barccsyn</i> community, Feb. 2022 (Sant Feliu de Guixols, ES 🇪🇸).
  </td>
 </tr>
   <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">COREDEM 2021</h3></td>
- <td style="border:none !important;"> The <a style="color:#444" href="/files/ProgrammeCOREDEM2021.pdf" type="application/pdf" target="_blank">COREDEM</a> (Human Brain Project, Work Package 2) Meeting, Nov 2021 (Barcelona, ES 🇪🇸).
+ <td style="border:none !important;"> The <a style="color:#444" href="/files/ProgrammeCOREDEM2021.pdf" type="application/pdf" target="_blank">COREDEM</a> (Human Brain Project, Work Package 2) Meeting, Nov. 2021 (Barcelona, ES 🇪🇸).
  </td>
 </tr>
  <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">Lab Fair 2018</h3></td>
- <td style="border:none !important;"> <a style="color:#444" href="/files/CimecLabFair2018.pdf" type="application/pdf" target="_blank">Lab Fair</a>: research work exhibition at the Center for Mind/Brain Sciences (<i>Cimec</i>), Nov 2018 (Rovereto, IT 🇮🇹).
+ <td style="border:none !important;"> <a style="color:#444" href="/files/CimecLabFair2018.pdf" type="application/pdf" target="_blank">Lab Fair</a>: research work exhibition at the Center for Mind/Brain Sciences (<i>Cimec</i>), Nov. 2018 (Rovereto, IT 🇮🇹).
  </td>
 </tr>
  <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">Brown Bag 2017-18</h3></td>
- <td style="border:none !important;"> <a style="color:#444" href="/files/CimecStudentKit2016-2017.pdf#page=25" type="application/pdf" target="_blank">Brown Bag</a>: lunchtime, weekly meetings at the Center for Mind/Brain Sciences, Mar 2017 - Apr 2018 (Rovereto, IT 🇮🇹).
+ <td style="border:none !important;"> <a style="color:#444" href="/files/CimecStudentKit2016-2017.pdf#page=25" type="application/pdf" target="_blank">Brown Bag</a>: lunchtime, weekly meetings at the Center for Mind/Brain Sciences, Mar. 2017 - Apr. 2018 (Rovereto, IT 🇮🇹).
  </td>
 </tr>
 </table>
