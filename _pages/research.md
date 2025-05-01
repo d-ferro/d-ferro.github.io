@@ -218,6 +218,7 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">2025</h3></td>
  <td style="border:none !important; width:80% !important;"> 4 Verified reviews for PLOS Computational Biology [<a href="https://www.webofscience.com/wos/author/record/JCE-8721-2023" target="_blank">Web of Science</a>].
  </td>
+ </tr><tr>
  <td></td>
  <td style="border:none !important; width:80% !important;"> 1 Verified review for Qeios [<a href="https://www.webofscience.com/wos/author/record/JCE-8721-2023" target="_blank">Web of Science</a>].
  </td>
