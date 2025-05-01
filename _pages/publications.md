@@ -13,7 +13,8 @@ For any request or further information contact me at <i>demetrio[dot]ferro[at]up
 
 <table style="border:none !important;">
 <!-- 2025-->
-<tr style="border:none !important;">
+<!--
+ <tr style="border:none !important;">
  <td style="border:none !important; text-align:center !important; vertical-align:top !important"><h3 style="margin-top:0 !important">2025</h3></td>
  <td style="border:none !important;"><a style="color:#444" href="https://2023.ccneuro.org/view_paper8951.html?PaperNum=1122" target="_blank">A closed-loop model for the coordination of gaze control and decision-making</a><br/>
  <b>Demetrio Ferro</b>, Tianming Yang, Rubén Moreno Bote<br/>
@@ -29,6 +30,7 @@ For any request or further information contact me at <i>demetrio[dot]ferro[at]up
  PDF: <a style="color:#444" href="https://2025.ccneuro.org" type="application/pdf" target="_blank">CCNeuro</a>
  </td>
 </tr>
+ -->
  
 <!-- 2024 -->
 <tr style="border:none !important;">
