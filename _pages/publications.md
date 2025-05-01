@@ -18,7 +18,7 @@ For any request or further information contact me at <i>demetrio[dot]ferro[at]up
  <td style="border:none !important;"><a style="color:#444" href="https://2023.ccneuro.org/view_paper8951.html?PaperNum=1122" target="_blank">A closed-loop model for the coordination of gaze control and decision-making</a><br/>
  <b>Demetrio Ferro</b>, Tianming Yang, Rubén Moreno Bote<br/>
   <i>Conference on Cognitive Computational Neuroscience (CCN)</i>, 1-3, Amsterdam (NL), 2025 <br/>
-DOI:<a style="color:#444" href="https://2025.ccneuro.org" target="_blank">_</a>; PDF: <a style="color:#444" href="https://2025.ccneuro.org" type="application/pdf" target="_blank">CCNeuro</a>
+  PDF: <a style="color:#444" href="https://2025.ccneuro.org" type="application/pdf" target="_blank">CCNeuro</a>
  </td>
 </tr>
 <tr style="border:none !important;">
@@ -26,7 +26,7 @@ DOI:<a style="color:#444" href="https://2025.ccneuro.org" target="_blank">_</a>;
  <td style="border:none !important;"><a style="color:#444" href="https://2023.ccneuro.org/view_paper8951.html?PaperNum=1122" target="_blank">Decision-making reference point biases in the dorsal anterior cingulate cortex</a><br/>
  <b>Demetrio Ferro</b>, Habiba Azab, Benjamin Y. Hayden, Rubén Moreno Bote<br/>
   <i>Conference on Cognitive Computational Neuroscience (CCN)</i>, 1-3, Amsterdam (NL), 2025 <br/>
-DOI:<a style="color:#444" href="https://2025.ccneuro.org" target="_blank">_</a>; PDF: <a style="color:#444" href="https://2025.ccneuro.org" type="application/pdf" target="_blank">CCNeuro</a>
+ PDF: <a style="color:#444" href="https://2025.ccneuro.org" type="application/pdf" target="_blank">CCNeuro</a>
  </td>
 </tr>
  
