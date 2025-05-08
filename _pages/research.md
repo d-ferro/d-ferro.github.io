@@ -157,7 +157,7 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
  </td>
 </tr>
  <tr style="border:none !important;">
- <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">CBC Seminars<br/>2020-now</h3></td>
+ <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">CBC Seminars<br/>2020-{{ site.time | date: '%Y' }}</h3></td>
  <td style="border:none !important;"> <a style="color:#444" href="https://www.upf.edu/web/cbc/activities" type="application/pdf" target="_blank">CBC Seminars</a>: weekly meetings with international invited speakers at the Center for Brain and Cognition, Oct. 2020 - ongoing (Barcelona, ES 🇪🇸).
  </td>
 </tr>
