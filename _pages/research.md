@@ -137,7 +137,7 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
  </td>
 </tr>
   <tr style="border:none !important;">
- <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">NeuroChats<br/>2024-now</h3></td>
+ <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">NeuroChats<br/>2024-&copy; <script>document.write(new Date().getFullYear());</script></h3></td>
  <td style="border:none !important;"> <a href="https://www.crm.cat/neurochats-seminar/" target="_blank">Neurochats</a> Bimestral meetings organized by the Centre de Recerca Matematica (CRM). Informal talks and follow-up discussions among pre- and postdoctoral researchers based or visiting Barcelona. 2024 - ongoing (Barcelona, ES 🇪🇸). 
  </td>
 </tr>
