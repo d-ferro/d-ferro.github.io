@@ -156,6 +156,11 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
  <td style="border:none !important;"> COREDEM (Human Brain Project, Work Package 2), July 2022 (Paris, FR 🇫🇷). <a style="color:#444" href="/files/ProgrammeHBPCDM2022.pdf" type="application/pdf" target="_blank">[programme]</a>
  </td>
 </tr>
+ <tr style="border:none !important;">
+ <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">CBC Seminars 2020-</h3></td>
+ <td style="border:none !important;"> <a style="color:#444" href="/files/CimecStudentKit2016-2017.pdf#page=25" type="application/pdf" target="_blank">CBC Seminars</a>: weekly meetings with international invited speakers at the Center for Brain and Cognition, Oct. 2020 - ongoing (Barcelona, ES 🇪🇸).
+ </td>
+</tr>
 <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">Neural Coding 2018</h3></td>
  <td style="border:none !important;">Neural Coding Conference at the University of Turin, Sept. 2018 (Turin, IT 🇮🇹) <a style="color:#444" href="/files/ProgrammeNEUCOD2018.pdf" type="application/pdf" target="_blank">[programme]</a>
@@ -164,6 +169,11 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
  <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">Slow Dyn 2017</h3></td>
  <td style="border:none !important;">Experimental and Theoretical Analysis of Cortical Dynamics Workshop, Sept. 2017 (Rovereto, IT 🇮🇹) <a style="color:#444" href="/files/SlowDyn2017.pdf" type="application/pdf" target="_blank">[programme]</a>
+ </td>
+</tr>
+<tr style="border:none !important;">
+ <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">Brown Bag 2016-20</h3></td>
+ <td style="border:none !important;"> <a style="color:#444" href="/files/CimecStudentKit2016-2017.pdf#page=25" type="application/pdf" target="_blank">Brown Bag</a>: lunchtime, weekly meetings at the Center for Mind/Brain Sciences, Apr. 2016 - Feb. 2020 (Rovereto, IT 🇮🇹).
  </td>
 </tr>
 </table>
