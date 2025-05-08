@@ -172,7 +172,7 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
  </td>
 </tr>
 <tr style="border:none !important;">
- <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">Brown Bag<br/>2016-20</h3></td>
+ <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">Brown Bag<br/>2016-2020</h3></td>
  <td style="border:none !important;"> <a style="color:#444" href="/files/CimecStudentKit2016-2017.pdf#page=25" type="application/pdf" target="_blank">Brown Bag</a>: lunchtime, weekly meetings at the Center for Mind/Brain Sciences, Apr. 2016 - Feb. 2020 (Rovereto, IT 🇮🇹).
  </td>
 </tr>
@@ -203,7 +203,7 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
  </td>
 </tr>
  <tr style="border:none !important;">
- <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">Brown Bag<br/>2017-18</h3></td>
+ <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">Brown Bag<br/>2017-2018</h3></td>
  <td style="border:none !important;"> <a style="color:#444" href="/files/CimecStudentKit2016-2017.pdf#page=25" type="application/pdf" target="_blank">Brown Bag</a>: lunchtime, weekly meetings at the Center for Mind/Brain Sciences, Mar. 2017 - Apr. 2018 (Rovereto, IT 🇮🇹).
  </td>
 </tr>
@@ -241,7 +241,7 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
 <div style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;"><h3 style="margin-top:20px">Collaborations</h3></div>
 <table style="border:none !important;">
  <tr style="border:none !important;">
- <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">Human Brain Project<br/>(2023-24)</h3></td>
+ <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">Human Brain Project<br/>2023-2024</h3></td>
  <td style="border:none !important;"> Data-driven and validated multiscale computational models and neuromorphic implementations [<a href="/files/HBPReport2023.pdf" target="_blank">(D17 - SGA3 M42) report</a>].<br/>
 Model of gaze centred activation of value encoding in orbitofrontal cortex [<a href="https://search.kg.ebrains.eu/instances/a2dce812-1d4b-4fc5-a69f-96005288c12e" target="_blank">EBRAINS Knowledge Graph</a>].
  </td>
