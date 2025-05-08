@@ -137,7 +137,7 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
  </td>
 </tr>
   <tr style="border:none !important;">
- <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">NeuroChats 2024 - </h3></td>
+ <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">NeuroChats<\br>2024-now</h3></td>
  <td style="border:none !important;"> <a href="https://www.crm.cat/neurochats-seminar/" target="_blank">Neurochats</a> Bimestral meetings organized by the Centre de Recerca Matematica (CRM). Informal talks and follow-up discussions among pre- and postdoctoral researchers based or visiting Barcelona. 2024 - ongoing (Barcelona, ES 🇪🇸). 
  </td>
 </tr>
@@ -157,7 +157,7 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
  </td>
 </tr>
  <tr style="border:none !important;">
- <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">CBC Seminars 2020-</h3></td>
+ <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">CBC Seminars<\br>2020-now</h3></td>
  <td style="border:none !important;"> <a style="color:#444" href="https://www.upf.edu/web/cbc/activities" type="application/pdf" target="_blank">CBC Seminars</a>: weekly meetings with international invited speakers at the Center for Brain and Cognition, Oct. 2020 - ongoing (Barcelona, ES 🇪🇸).
  </td>
 </tr>
@@ -172,7 +172,7 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
  </td>
 </tr>
 <tr style="border:none !important;">
- <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">Brown Bag 2016-20</h3></td>
+ <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">Brown Bag<\br>2016-20</h3></td>
  <td style="border:none !important;"> <a style="color:#444" href="/files/CimecStudentKit2016-2017.pdf#page=25" type="application/pdf" target="_blank">Brown Bag</a>: lunchtime, weekly meetings at the Center for Mind/Brain Sciences, Apr. 2016 - Feb. 2020 (Rovereto, IT 🇮🇹).
  </td>
 </tr>
@@ -203,7 +203,7 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
  </td>
 </tr>
  <tr style="border:none !important;">
- <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">Brown Bag 2017-18</h3></td>
+ <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">Brown Bag<\br>2017-18</h3></td>
  <td style="border:none !important;"> <a style="color:#444" href="/files/CimecStudentKit2016-2017.pdf#page=25" type="application/pdf" target="_blank">Brown Bag</a>: lunchtime, weekly meetings at the Center for Mind/Brain Sciences, Mar. 2017 - Apr. 2018 (Rovereto, IT 🇮🇹).
  </td>
 </tr>
