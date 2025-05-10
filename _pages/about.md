@@ -18,6 +18,10 @@ redirect_from:
 <p style="font-size:.75em">Beyond my research pursuits, I have a passion for the outdoors. Whether it is swimming regularly, embarking on hiking or climbing adventures, or indulging in some therapeutic gardening, I thrive on connecting with nature. I am also committed to the environmental cause, having actively participated in informative meetings about the climate crisis, contributed to events that promoted sustainable food consumption, and volunteered in clean-up initiatives at natural sites.</p>
 
 <h3>Updates</h3>
+
+<blockquote class="twitter-tweet"><p style="font-size:.75em" lang="en" dir="ltr">‪I will be presenting at <a href="https://www.crm.cat/neurochats-seminar/" target="_blank">Neurochats</a>! This series of events brings together young neuroscientists based in the metropolitan area of Barcelona, fostering knowledge exchange about each other's work. I will be presenting my most <a href="https://doi.org/10.1101/2025.03.03.640771" target="_blank">recent</a> work. 
+<br/>&mdash; Demetrio Ferro, April 4, 2025</p></blockquote> 
+
 <blockquote class="twitter-tweet"><p style="font-size:.75em" lang="en" dir="ltr">‪On Monday, April 7th, I will be presenting my recent <a href="https://doi.org/10.1101/2025.03.03.640771" target="_blank">preprint</a> work at the <a href="https://crm.cat" target="_blank">Centre Recerca Matematica (CRM)</a>, in the Brain Circuits and Behavior meeting. 
 <br/>&mdash; Demetrio Ferro, April 4, 2025</p></blockquote> 
 
