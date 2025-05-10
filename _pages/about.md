@@ -19,7 +19,7 @@ redirect_from:
 
 <h3>Updates</h3>
 
-<blockquote class="twitter-tweet"><p style="font-size:.75em" lang="en" dir="ltr">‪I will be presenting at <a href="https://www.crm.cat/neurochats-seminar/" target="_blank">Neurochats💬</a>! This series of events brings together young neuroscientists based in the metropolitan area of Barcelona, fostering knowledge exchange about each other's work. On Wednesday May 14th, I will be presenting my most <a href="https://doi.org/10.1101/2025.03.03.640771" target="_blank">recent</a> work at Campus de la Ciutadella, room 24.S01. 
+<blockquote class="twitter-tweet"><p style="font-size:.75em" lang="en" dir="ltr">‪I will be presenting at <a href="https://www.crm.cat/neurochats-seminar/" target="_blank">Neurochats💬</a>! This series of events brings together young neuroscientists based in the metropolitan area of Barcelona, fostering knowledge exchange about each other's work. On Wednesday May 14th, I will be presenting my most <a href="https://doi.org/10.1101/2025.03.03.640771" target="_blank">recent</a> work at Campus de la Ciutadella, room 24.S01.
 <br/>&mdash; Demetrio Ferro, May 10, 2025</p></blockquote> 
 
 <blockquote class="twitter-tweet"><p style="font-size:.75em" lang="en" dir="ltr">‪On Monday, April 7th, I will be presenting my recent <a href="https://doi.org/10.1101/2025.03.03.640771" target="_blank">preprint</a> work at the <a href="https://crm.cat" target="_blank">Centre Recerca Matematica (CRM)</a>, in the Brain Circuits and Behavior meeting. 
