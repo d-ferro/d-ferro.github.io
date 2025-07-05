@@ -19,6 +19,8 @@ redirect_from:
 
 <h3>Updates</h3>
 
+<blockquote class="twitter-tweet"><p style="font-size:.75em" lang="en" dir="ltr">I will present my research about attention and cognitive control at the Citizen science And SciEntific reSearch (<a target="_blank" href="https://d-ferro.github.io/files/CASESUPF2024.pdf">CASES</a>) meeting, an <a target="_blank" href="https://eutopia-university.eu/">🇪🇺 EUTOPIA Impact and Dissemination</a> together highly transdisciplinary science 🔭, art 🖼️ and and citizens 🏘️,  organized by <a target="_blank" href="https://eutopia-university.eu/english-version/sif-post-doctoral-fellowships/sif-3rd-cohort-fellows-ornella-salimbene-university-of-ljubljana">Dr. O. Salimbene</a> (University of Ljubljana) at Universitat Pompeu Fabra in Barcelona, Spain.<br/>&mdash; Demetrio Ferro, July 2, 2025</p></blockquote> 
+
 <blockquote class="twitter-tweet"><p style="font-size:.75em" lang="en" dir="ltr">‪I will be presenting at <a href="https://www.crm.cat/neurochats-seminar/" target="_blank">Neurochats💬</a>! This series of events brings together young neuroscientists based in the metropolitan area of Barcelona, fostering knowledge exchange about each other's work. The event will be on Wednesday May 14th at Campus de la Ciutadella, room 24.S01.
 <br/>&mdash; Demetrio Ferro, May 10, 2025</p></blockquote> 
 
