@@ -66,7 +66,7 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
 </tr>
 <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important; vertical-align:top !important"><h3 style="margin-top:0 !important">Cosyne 2022</h3></td>
- <td style="border:none !important;"><b>D. Ferro</b>, A. Rifé-Mata, T. Cash-Padgett, M. Z. Wang, B. Y. Hayden, R. Moreno-Bote, “Imagining what was there: Looking at an absent offer location modulates neural response in orbito-frontal cortex.”, Cosyne, March 2022 (Lisbon and Cascais, PT 🇵🇹). <a style="color:#444" href="/files/ProgrammeCOSYNE2022.pdf" type="application/pdf" target="_blank">[programme]</a> <a style="color:#444" href="/files/PosterCOSYNE2022.pdf" type="application/pdf" target="_blank">[poster]</a>
+ <td style="border:none !important;"><b>D. Ferro</b>, A. Rifé-Mata, T. Cash-Padgett, M. Z. Wang, B. Y. Hayden, R. Moreno-Bote, “Imagining what was there: Looking at an absent offer location modulates neural response in orbito-frontal cortex.”, Cosyne, March 2022 (Lisbon and Cascais, PT 🇵🇹). <a style="color:#444" href="/files/ProgrammeCOSYNE2022.pdf" type="application/pdf" target="_blank">[programme]</a> <a style="color:#444" href="/files/PosterCOSYNE2022.pdf" type="application/pdf" target="_blank">[poster]</a> <a href="/files/Ferro_COSYNE%202022_COA.pdf" type="application/pdf" target="_blank">[certificate]</a>
 </td>
 </tr>
   <tr style="border:none !important;">
