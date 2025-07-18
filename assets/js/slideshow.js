@@ -6,7 +6,7 @@ function startSlideshow() {
   showSlides(slideIndex);
   slideTimer = setInterval(() => {
     showSlides(++slideIndex);
-  }, 3000); // change image every 3 seconds
+  }, 7000); // change image every 3 seconds
 }
 
 // Manual next/previous controls
