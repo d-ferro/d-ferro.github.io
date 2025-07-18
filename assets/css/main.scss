@@ -65,14 +65,14 @@
   max-width: 1000px;
   position: relative;
   margin: auto;
-  height: 550px; /* add a fixed height here */
+  height: 590px; /* add a fixed height here */
   overflow: hidden; /* hide overflow if images are bigger */
 }
 
 .mySlides {
-  display: flex !important; /* override display:none when active */
-  justify-content: center;  /* center horizontally */
-  align-items: center;      /* center vertically */
+  /*display: flex !important; /* override display:none when active */
+  /*justify-content: center;  /* center horizontally */
+  /*align-items: center;      /* center vertically */
   height: 100%;             /* full height of container */
   position: relative;
 }
