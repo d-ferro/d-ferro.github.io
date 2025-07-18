@@ -60,17 +60,29 @@
   box-sizing: border-box;
 }
 
-/* Slideshow container */
+/* Set a fixed height on the slideshow container */
 .slideshow-container {
   max-width: 1000px;
   position: relative;
   margin: auto;
+  height: 550px; /* add a fixed height here */
+  overflow: hidden; /* hide overflow if images are bigger */
 }
 
-/* Hide the images by default */
 .mySlides {
-  display: none;
+  display: flex !important; /* override display:none when active */
+  justify-content: center;  /* center horizontally */
+  align-items: center;      /* center vertically */
+  height: 100%;             /* full height of container */
   position: relative;
+}
+
+/* Style images inside slides */
+.mySlides img {
+  width: 100%;      /* fill container width */
+  height: auto;     /* keep aspect ratio */
+  max-height: 100%; /* don't overflow container height */
+  object-fit: contain; /* keep image aspect ratio without cropping */
 }
 
 /* Next & previous buttons */
