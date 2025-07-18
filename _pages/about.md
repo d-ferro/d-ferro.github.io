@@ -17,6 +17,49 @@ redirect_from:
 
 <p style="font-size:.75em">Beyond my research pursuits, I have a passion for the outdoors. Whether it is swimming regularly, embarking on hiking or climbing adventures, or indulging in some therapeutic gardening, I thrive on connecting with nature. I am also committed to the environmental cause, having actively participated in informative meetings about the climate crisis, contributed to events that promoted sustainable food consumption, and volunteered in clean-up initiatives at natural sites.</p>
 
+
+
+
+
+
+<!-- Slideshow container -->
+<div class="slideshow-container">
+
+  <!-- Full-width images with number and caption text -->
+  <div class="mySlides fade">
+    <div class="numbertext">1 / 3</div>
+    <img src="https://gin.g-node.org/56Fe/Perceived-wealth-and-difficulty-modulation/raw/master/fig1-sketch.png" style="width:100%">
+    <div class="text">Caption Text</div>
+  </div>
+
+  <div class="mySlides fade">
+    <div class="numbertext">2 / 3</div>
+    <img src="https://gin.g-node.org/56Fe/Perceived-wealth-and-difficulty-modulation/raw/master/fig1-sketch.png" style="width:100%">
+    <div class="text">Caption Two</div>
+  </div>
+
+  <div class="mySlides fade">
+    <div class="numbertext">3 / 3</div>
+    <img src="https://gin.g-node.org/56Fe/Perceived-wealth-and-difficulty-modulation/raw/master/fig1-sketch.png" style="width:100%">
+    <div class="text">Caption Three</div>
+  </div>
+
+  <!-- Next and previous buttons -->
+  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+  <a class="next" onclick="plusSlides(1)">&#10095;</a>
+</div>
+<br>
+
+<!-- The dots/circles -->
+<div style="text-align:center">
+  <span class="dot" onclick="currentSlide(1)"></span>
+  <span class="dot" onclick="currentSlide(2)"></span>
+  <span class="dot" onclick="currentSlide(3)"></span>
+</div>
+
+
+
+
 <h3>Updates</h3>
 
 <blockquote class="twitter-tweet"><p style="font-size:.75em" lang="en" dir="ltr">I will present my research about attention and cognitive control at the Citizen science And SciEntific reSearch (<a target="_blank" href="https://d-ferro.github.io/files/CASESUPF2024.pdf">CASES</a>) meeting, an <a target="_blank" href="https://eutopia-university.eu/">🇪🇺 EUTOPIA Impact and Dissemination</a> promoting highly transdisciplinary exchange across scientists 🔭, artists 🖼️, and involving schools and citizens 🏘️. Organized by <a target="_blank" href="https://eutopia-university.eu/english-version/sif-post-doctoral-fellowships/sif-3rd-cohort-fellows-ornella-salimbene-university-of-ljubljana">Dr. O. Salimbene</a> (University of Ljubljana) at Universitat Pompeu Fabra in Barcelona, Spain.<br/>&mdash; Demetrio Ferro, July 2, 2025</p></blockquote> 
