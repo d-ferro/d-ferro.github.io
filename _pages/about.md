@@ -49,7 +49,7 @@ redirect_from:
 <div class="mySlides fade">
     <div class="numbertext">5 / 7</div>
     <img src="/images/slideshow/pnas.2022097118fig00.png" style="width:100%; ">
-    <div class="text">Current Source Density for laminar alignment, Multi-Unit Activity Latency and signal quality assessment, Graphical User Interface. <br/>
+    <div class="text">Current Source Density, Multi-Unit Activity Latency and signal quality assessment, Graphical User Interface. <br/>
     <b><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2022097118" target="_blank">Ferro et al. <i>PNAS</i> 2021.</a></b></div>
   </div>
   
