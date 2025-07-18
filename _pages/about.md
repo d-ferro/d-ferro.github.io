@@ -16,11 +16,14 @@ redirect_from:
 
   <!-- Full-width images with number and caption text -->
 
+
   <div class="mySlides fade">
-    <div class="numbertext">3 / 3</div>
-    <img src="/images/slideshow/pnas.2022097118fig05.jpg" style="width:100%">
+    <div class="numbertext">2 / 3</div>
+    <img src="/images/slideshow/fig1-sketch.png" style="width:100%">
     <div class="text">Gambling task and dorsal Anterior Cingulate Cortex</div>
   </div>
+
+
 
   <div class="mySlides fade">
     <div class="numbertext">2 / 3</div>
@@ -28,25 +31,26 @@ redirect_from:
     <div class="text">Gaze direction and its effect on choice formation</div>
   </div>
 
+  
   <div class="mySlides fade">
-    <div class="numbertext">2 / 3</div>
-    <img src="/images/slideshow/fig1-sketch.png" style="width:100%">
-    <div class="text">Gaze direction and its effect on behavior</div>
+    <div class="numbertext">1 / 3</div>
+    <img src="/images/slideshow/Screenshot%202025-07-18%20141159.jpg" style="width:100%">
+    <div class="text">Gaze direction and its effect on behavior.</div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">3 / 3</div>
     <img src="/images/slideshow/pnas.2022097118fig05.jpg" style="width:100%">
-    <div class="text">Intra and inter-areal laminar information exchange strength</div>
+    <div class="text">Intra and inter-areal laminar information exchange strength.</div>
   </div>
+
 
 
   <div class="mySlides fade">
-    <div class="numbertext">1 / 3</div>
-    <img src="/images/slideshow/Screenshot%202025-07-18%20141159.jpg" style="width:100%">
+    <div class="numbertext">3 / 3</div>
+    <img src="/images/slideshow/pnas.2022097118fig06.jpg" style="width:100%">
     <div class="text">Attentional effects on intra- and inter-areal laminar information exchange in V1-V4.</div>
   </div>
-
 
   <!-- Next and previous buttons -->
   <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
