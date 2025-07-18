@@ -19,7 +19,9 @@ redirect_from:
   <div class="mySlides fade">
     <div class="numbertext">1 / 5</div>
     <img src="/images/slideshow/fig1-sketch.png" style="width:100%">
-    <div class="text">Gambling task and dorsal Anterior Cingulate Cortex</div>
+    <div class="text">Gambling task and dorsal Anterior Cingulate Cortex. <\br>
+    <a href="https://doi.org/10.1101/2025.03.03.640771" target="_blank">Ferro et al. 2025, Accumulation of virtual tokens towards a jackpot reward enhances performance and value encoding in dorsal anterior cingulate cortex
+    bioRxiv, 2025. DOI: 10.12751/g-node.1kkrw6;</a> </div>
   </div>
   
   <div class="mySlides fade">
