@@ -48,7 +48,7 @@ redirect_from:
 
   <div class="mySlides fade">
     <div class="numbertext">5 / 6</div>
-    <img src="/images/slideshow/pnas.2022097118fig05.jpg" style="width:100%; padding-top:20px; padding-bottom:20px">
+    <img src="/images/slideshow/pnas.2022097118fig05.png" style="width:100%; padding-top:20px; padding-bottom:20px">
     <div class="text">Intra and inter-areal information exchange strength across V1-V4 laminae. <br/>
     <b><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2022097118" target="_blank">Ferro et al. <i>PNAS</i> 2021.</a></b>
     </div>
@@ -56,7 +56,7 @@ redirect_from:
 
   <div class="mySlides fade">
     <div class="numbertext">6 / 6</div>
-    <img src="/images/slideshow/pnas.2022097118fig06.jpg" style="width:100%; padding-top:20px; padding-bottom:20px">
+    <img src="/images/slideshow/pnas.2022097118fig06.png" style="width:100%; padding-top:20px; padding-bottom:20px">
     <div class="text">Attentional effects on intra- and inter-areal information exchange across V1-V4 laminae. <br/>
     <b><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2022097118" target="_blank">Ferro et al. <i>PNAS</i> 2021.</a></b></div>
   </div>
