@@ -20,14 +20,14 @@ redirect_from:
     <div class="numbertext">1 / 5</div>
     <img src="/images/slideshow/fig1-sketch.png" style="width:100%">
     <div class="text">Gambling task and dorsal Anterior Cingulate Cortex. <br/>
-    <a href="https://doi.org/10.1101/2025.03.03.640771" target="_blank">Ferro et al. bioRxiv 2025, in review, DOI: 10.1101/2025.03.03.640771</a> </div>
+    <a href="https://doi.org/10.1101/2025.03.03.640771" target="_blank">Ferro et al. bioRxiv 2025, in review.</a> </div>
   </div>
   
   <div class="mySlides fade">
     <div class="numbertext">2 / 5</div>
     <img src="/images/slideshow/Screenshot%202025-07-18%20141059.jpg" style="width:100%">
     <div class="text">Gaze direction and its effect on choice formation. <br/>
-      <b><a href="https://doi.org/10.1038/s41467-024-50214-2" target="_blank">Ferro et al. Nature Communications 2024, DOI:10.1038/s41467-024-50214-2</a></b>
+      <b><a href="https://doi.org/10.1038/s41467-024-50214-2" target="_blank">Ferro et al. Nature Communications 2024.</a></b>
     </div>
   </div>
   
@@ -35,7 +35,7 @@ redirect_from:
     <div class="numbertext">3 / 5</div>
     <img src="/images/slideshow/Screenshot%202025-07-18%20141159.jpg" style="width:100%">
     <div class="text">Gaze direction and its effect on behavior. <br/>
-    <b><a href="https://doi.org/10.1038/s41467-024-50214-2" target="_blank">Ferro et al. Nature Communications 2024, DOI:10.1038/s41467-024-50214-2</a></b>
+    <b><a href="https://doi.org/10.1038/s41467-024-50214-2" target="_blank">Ferro et al. Nature Communications 2024.</a></b>
     </div>
   </div>
 
@@ -43,7 +43,7 @@ redirect_from:
     <div class="numbertext">4 / 5</div>
     <img src="/images/slideshow/pnas.2022097118fig05.jpg" style="width:100%">
     <div class="text">Intra and inter-areal information exchange strength across V1-V4 laminae. <br/>
-    <b><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2022097118" target="_blank">Ferro et al. PNAS 2021, DOI: 10.1073/pnas.2022097118</a></b>
+    <b><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2022097118" target="_blank">Ferro et al. PNAS 2021.</a></b>
     </div>
   </div>
 
@@ -51,7 +51,7 @@ redirect_from:
     <div class="numbertext">5 / 5</div>
     <img src="/images/slideshow/pnas.2022097118fig06.jpg" style="width:100%">
     <div class="text">Attentional effects on intra- and inter-areal information exchange across V1-V4 laminae. <br/>
-    <b><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2022097118" target="_blank">Ferro et al. PNAS 2021, DOI: 10.1073/pnas.2022097118</a></b></div>
+    <b><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2022097118" target="_blank">Ferro et al. PNAS 2021.</a></b></div>
   </div>
 
   <!-- Next and previous buttons -->
