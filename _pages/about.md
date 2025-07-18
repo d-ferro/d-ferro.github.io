@@ -18,14 +18,14 @@ redirect_from:
 
   <div class="mySlides fade">
     <div class="numbertext">1 / 6</div>
-    <img src="/images/slideshow/ccn2025-comp-nets.png" style="width:100%">
+    <img src="/images/slideshow/ccn2025-comp-nets.png" style="width:100%; padding-top:50px">
     <div class="text">Closed-loop model of gaze and decision coordination.<br/>
     <b><a href="https://d-ferro.github.io/files/Abstract-CCN2025_CompNets.pdf" target="_blank">Ferro et al. <i>CCNeuro</i> 2025.</a></b> </div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">2 / 6</div>
-    <img src="/images/slideshow/fig1-sketch.png" style="width:100%">
+    <img src="/images/slideshow/fig1-sketch.png" style="width:100%; padding-top:20px; padding-bottom:20px">
     <div class="text">Gambling task and dorsal Anterior Cingulate Cortex. <br/>
     <b><a href="https://doi.org/10.1101/2025.03.03.640771" target="_blank">Ferro et al. <i>bioRxiv</i> 2025, in review.</a></b> </div>
   </div>
