@@ -54,7 +54,7 @@ DOI:<a style="color:#444" href="https://2023.ccneuro.org/view_paper8951.html?Pap
 <!-- 2022-->
 <tr style="border:none !important;">
  <td style="border:none !important; text-align:center !important; vertical-align:top !important"><h3 style="margin-top:0 !important">2022</h3></td>
- <td style="border:none !important;"><a style="color:#444" href="https://2023.ccneuro.org/view_paper8951.html?PaperNum=1122" target="_blank">Imagining what was there: looking at an absent offer location modulates neural responses in OFC</a><br/>
+ <td style="border:none !important;"><a style="color:#444" href="https://d-ferro.github.io/files/ProgrammeCOSYNE2022.pdf#page=252" target="_blank">Imagining what was there: looking at an absent offer location modulates neural responses in OFC</a><br/>
  <b>Demetrio Ferro</b>, Anna Rifé Mata, Tyler Cash-Padgett, Maya Zhe-Wang, Benjamin Y. Hayden, Rubén Moreno Bote<br/>
   <i>Computational and Systems Neuroscience (Cosyne)</i>, Lisbon and Cascais (PT), 2022 <br/>
   PDF: <a style="color:#444" href="https://d-ferro.github.io/files/ProgrammeCOSYNE2022.pdf#page=252" type="application/pdf" target="_blank">Cosyne</a>
