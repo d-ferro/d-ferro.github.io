@@ -1,4 +1,4 @@
----
+a---
 layout: archive
 title: ""
 permalink: /publications/
@@ -50,6 +50,17 @@ DOI:<a style="color:#444" href="https://doi.org/10.1038/s41467-024-50214-2" targ
 DOI:<a style="color:#444" href="https://2023.ccneuro.org/view_paper8951.html?PaperNum=1122" target="_blank">10.32470/CCN.2023.1122-0</a>; PDF: <a style="color:#444" href="https://2023.ccneuro.org/proceedings/0000615.pdf?s=W&pn=1122" type="application/pdf" target="_blank">CCNeuro</a>
  </td>
 </tr>
+
+<!-- 2022-->
+<tr style="border:none !important;">
+ <td style="border:none !important; text-align:center !important; vertical-align:top !important"><h3 style="margin-top:0 !important">2023</h3></td>
+ <td style="border:none !important;"><a style="color:#444" href="https://2023.ccneuro.org/view_paper8951.html?PaperNum=1122" target="_blank">Imagining what was there: looking at an absent offer location modulates neural responses in OFC</a><br/>
+ <b>Demetrio Ferro</b>, Anna Rifé Mata, Tyler Cash-Padgett, Maya Zhe-Wang, Benjamin Y. Hayden, Rubén Moreno Bote<br/>
+  <i></i>, 1-3, Oxford (UK), 2023 <br/>
+  PDF: <a style="color:#444" href="https://d-ferro.github.io/files/ProgrammeCOSYNE2022.pdf#page=236" type="application/pdf" target="_blank">Cosyne</a>
+ </td>
+</tr>
+
 
 <!-- 2021-->
 <tr style="border:none !important;">
