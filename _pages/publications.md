@@ -9,6 +9,28 @@ author_profile: true
 <p style="font-size:.75em">You can also find my publications on <a style="color:#444" href="https://scholar.google.com/citations?hl=en&user=rb2l4DcAAAAJ&hl=en" target="_blank">Scholar</a>.  
 For any request or further information contact me at <i>demetrio[dot]ferro[at]upf[dot]edu</i>.</p>
 
+<p>Peer-reviewed Journal articles</p>
+<table style="border:none !important;">
+<tr style="border:none !important;">
+ <td style="border:none !important; text-align:center !important; vertical-align:top !important"><h3 style="margin-top:0 !important">2024</h3></td>
+ <td style="border:none !important;"><a style="color:#444" href="https://doi.org/10.1038/s41467-024-50214-2" target="_blank">Gaze-centered gating, reactivation, and reevaluation of economic value in orbitofrontal cortex</a> <br/>
+<b>Demetrio Ferro</b>, Tyler Cash-Padgett, Maya Zhe-Wang, <a style="color:#444" href="https://www.haydenlab.com/" target="_blank">Benjamin Y. Hayden</a>, <a style="color:#444" href="https://www.upf.edu/web/tcn" target="_blank">Rubén Moreno Bote</a><br/>
+<i>Nature Communications</i>, <b>15</b>:6163, 2024 <br/> 
+DOI:<a style="color:#444" href="https://doi.org/10.1038/s41467-024-50214-2" target="_blank">10.1038/s41467-024-50214-2</a>; Data and code: <a style="color:#444" href="https://doi.org/10.12751/g-node.evlnq5">repository</a>; PDF: <a style="color:#444" href="https://www.nature.com/articles/s41467-024-50214-2.pdf" type="application/pdf" target="_blank">NatComms</a>, <a style="color:#444" href="https://www.biorxiv.org/content/10.1101/2023.04.20.537677v3.full.pdf" type="application/pdf"  target="_blank">bioRxiv</a> <a href="https://www.researchsquare.com/article/rs-2851867/v1" type="application/pdf"  target="_blank">ResearchSquare</a>
+ </td>
+</tr>
+<tr style="border:none !important;">
+ <td style="border:none !important; text-align:center !important; vertical-align:top !important"><h3 style="margin-top:0 !important">2021</h3></td>
+ <td style="border:none !important;"><a style="color:#444" href="https://www.pnas.org/doi/abs/10.1073/pnas.2022097118">Directed information exchange between cortical layers in macaque V1 and V4 and its modulation by selective attention</a> <br/>
+     <b>Demetrio Ferro</b>, Jochem van Kempen, Michael Boyd, <a style="color:#444" href="https://www.iit.it/people-details/-/people/stefano-panzeri" target="_blank">Stefano Panzeri</a>, <a style="color:#444" href="https://www.staff.ncl.ac.uk/alex.thiele/" target="blank">Alexander Thiele</a><br/>
+     <i>Proceedings of the National Academy of Sciences</i>, 118 (12), e2022097118, 2021<br/>
+  DOI: <a style="color:#444" href="https://doi.org/10.1073/pnas.2022097118" target="_blank">10.1073/pnas.2022097118</a>; Data and code: <a style="color:#444" href="https://gin.g-node.org/56Fe/V1-V4-LFPs-and-Visual-Attention" target="_blank">repository</a>; PDF: <a style="color:#444" href="https://www.pnas.org/doi/reader/10.1073/pnas.2022097118" type="application/pdf" target="_blank">PNAS</a>, <a style="color:#444" href="https://www.biorxiv.org/content/10.1101/2020.06.09.142190v1.full.pdf" type="application/pdf" target="_blank">bioRxiv</a>
+ </td>
+</tr>
+
+ 
+«/table>
+
 <p>Peer-reviewed publications</p>
 
 <table style="border:none !important;">
@@ -33,14 +55,14 @@ For any request or further information contact me at <i>demetrio[dot]ferro[at]up
 
  
 <!-- 2024 -->
-<tr style="border:none !important;">
+<!--<tr style="border:none !important;">
  <td style="border:none !important; text-align:center !important; vertical-align:top !important"><h3 style="margin-top:0 !important">2024</h3></td>
  <td style="border:none !important;"><a style="color:#444" href="https://doi.org/10.1038/s41467-024-50214-2" target="_blank">Gaze-centered gating, reactivation, and reevaluation of economic value in orbitofrontal cortex</a> <br/>
 <b>Demetrio Ferro</b>, Tyler Cash-Padgett, Maya Zhe-Wang, <a style="color:#444" href="https://www.haydenlab.com/" target="_blank">Benjamin Y. Hayden</a>, <a style="color:#444" href="https://www.upf.edu/web/tcn" target="_blank">Rubén Moreno Bote</a><br/>
 <i>Nature Communications</i>, <b>15</b>:6163, 2024 <br/> 
 DOI:<a style="color:#444" href="https://doi.org/10.1038/s41467-024-50214-2" target="_blank">10.1038/s41467-024-50214-2</a>; Data and code: <a style="color:#444" href="https://doi.org/10.12751/g-node.evlnq5">repository</a>; PDF: <a style="color:#444" href="https://www.nature.com/articles/s41467-024-50214-2.pdf" type="application/pdf" target="_blank">NatComms</a>, <a style="color:#444" href="https://www.biorxiv.org/content/10.1101/2023.04.20.537677v3.full.pdf" type="application/pdf"  target="_blank">bioRxiv</a> <a href="https://www.researchsquare.com/article/rs-2851867/v1" type="application/pdf"  target="_blank">ResearchSquare</a>
  </td>
-</tr>
+</tr>-->
 <!-- 2023-->
 <tr style="border:none !important;">
  <td style="border:none !important; text-align:center !important; vertical-align:top !important"><h3 style="margin-top:0 !important">2023</h3></td>
@@ -63,14 +85,14 @@ DOI:<a style="color:#444" href="https://2023.ccneuro.org/view_paper8951.html?Pap
 
 
 <!-- 2021-->
-<tr style="border:none !important;">
+<!--<tr style="border:none !important;">
  <td style="border:none !important; text-align:center !important; vertical-align:top !important"><h3 style="margin-top:0 !important">2021</h3></td>
  <td style="border:none !important;"><a style="color:#444" href="https://www.pnas.org/doi/abs/10.1073/pnas.2022097118">Directed information exchange between cortical layers in macaque V1 and V4 and its modulation by selective attention</a> <br/>
      <b>Demetrio Ferro</b>, Jochem van Kempen, Michael Boyd, <a style="color:#444" href="https://www.iit.it/people-details/-/people/stefano-panzeri" target="_blank">Stefano Panzeri</a>, <a style="color:#444" href="https://www.staff.ncl.ac.uk/alex.thiele/" target="blank">Alexander Thiele</a><br/>
      <i>Proceedings of the National Academy of Sciences</i>, 118 (12), e2022097118, 2021<br/>
   DOI: <a style="color:#444" href="https://doi.org/10.1073/pnas.2022097118" target="_blank">10.1073/pnas.2022097118</a>; Data and code: <a style="color:#444" href="https://gin.g-node.org/56Fe/V1-V4-LFPs-and-Visual-Attention" target="_blank">repository</a>; PDF: <a style="color:#444" href="https://www.pnas.org/doi/reader/10.1073/pnas.2022097118" type="application/pdf" target="_blank">PNAS</a>, <a style="color:#444" href="https://www.biorxiv.org/content/10.1101/2020.06.09.142190v1.full.pdf" type="application/pdf" target="_blank">bioRxiv</a>
  </td>
-</tr>
+</tr>-->
 
 
  <!-- 2016-->
