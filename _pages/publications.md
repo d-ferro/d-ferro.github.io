@@ -36,7 +36,7 @@ For any request or further information contact me at <i>demetrio[dot]ferro[at]up
 
 <div style="margin-top: 10px; padding-left: 10px; border-left: 1px solid #555;"><i style="font-size:9pt">We showed that value-based decision-making is biased by reference points set by proximity to a jackpot reward. <br/>
 In proximity of a jackpot, subjects choose faster and more accurately, reflecting a reference-dependent shift in evaluation. <br/>
-Neural activity in dorsal anterior cingulate cortex tracked this bias, revealing a neural basis for reward cumulation in decision-making.</i></div>
+Neural activity in dorsal anterior cingulate cortex tracked this bias, revealing a neural basis for reward proximity in decision-making.</i></div>
 
 
 
