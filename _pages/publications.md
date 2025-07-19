@@ -19,7 +19,7 @@ For any request or further information contact me at <i>demetrio[dot]ferro[at]up
  <td style="border:none !important;"><a style="color:#444" href="https://2025.ccneuro.org" target="_blank">A closed-loop model for the coordination of gaze control and decision-making</a><br/>
  <b>Demetrio Ferro</b>, Tianming Yang, Rubén Moreno Bote<br/>
   <i>Conference on Cognitive Computational Neuroscience (CCN)</i>, 2025 
-  PDF: 📄<a style="color:#444" href="/files/Abstract-CCN2025_CompNets.pdf" type="application/pdf" target="_blank">CCNeuro</a>
+  PDF: 📄<a style="color:#444" href="https://2025.ccneuro.org/abstract_pdf/Ferro_2025_A_closed-loop_model_coordination_gaze_control.pdf" type="application/pdf" target="_blank">CCNeuro</a>
 
 <div style="margin-top: 10px; padding-left: 10px; border-left: 1px dotted #777; color:#777"><i style="font-size:9pt">We developed a closed-loop computational model that links gaze behavior with value-based decision-making. <br/>
  Visual input drives competing decision populations, which in turn influence gaze shifts that feed back into the decision process. <br/>
@@ -32,7 +32,7 @@ For any request or further information contact me at <i>demetrio[dot]ferro[at]up
  <td style="border:none !important;"><a style="color:#444" href="https://2025.ccneuro.org" target="_blank">Decision-making reference point biases in the dorsal anterior cingulate cortex</a><br/>
  <b>Demetrio Ferro</b>, Habiba Azab, Benjamin Y. Hayden, Rubén Moreno Bote<br/>
   <i>Conference on Cognitive Computational Neuroscience (CCN)</i>, 2025 
- PDF: 📄<a style="color:#444" href="/files/Abstract-CCN2025_dACC.pdf" type="application/pdf" target="_blank">CCNeuro</a>
+ PDF: 📄<a style="color:#444" href="https://2025.ccneuro.org/abstract_pdf/Ferro_2025_Decision-making_reference_point_biases_dorsal_anterior.pdf" type="application/pdf" target="_blank">CCNeuro</a>
 
 <div style="margin-top: 10px; padding-left: 10px; border-left: 1px dotted #777; color:#777"><i style="font-size:9pt">We showed that value-based decision-making is biased by reference points set by proximity to a jackpot reward. <br/>
 In proximity of a jackpot, subjects choose faster and more accurately, reflecting a reference-dependent shift in evaluation. <br/>
