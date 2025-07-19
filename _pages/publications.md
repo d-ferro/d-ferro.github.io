@@ -68,6 +68,11 @@ DOI:<a style="color:#444" href="https://doi.org/10.1038/s41467-024-50214-2" targ
  <b>Demetrio Ferro</b>, Anna Rifé Mata, Tyler Cash-Padgett, Maya Zhe-Wang, Benjamin Y. Hayden, Rubén Moreno Bote<br/>
   <i>Conference on Cognitive Computational Neuroscience (CCN)</i>, 1-3, Oxford (UK), 2023 <br/>
 DOI:<a style="color:#444" href="https://2023.ccneuro.org/view_paper8951.html?PaperNum=1122" target="_blank">10.32470/CCN.2023.1122-0</a>; PDF: 📄<a style="color:#444" href="https://2023.ccneuro.org/proceedings/0000615.pdf?s=W&pn=1122" type="application/pdf" target="_blank">CCNeuro</a>
+
+ <div style="margin-top: 10px; padding-left: 10px; border-left: 1px solid #555;"><i style="font-size:9pt">We found that subjects gaze longer at more valuable offers even when offers are no longer visible and that fixations predict their choices.  <br/>
+ We analyzed orbitofrontal cortex activity and showed that value signals are stronger for the fixated location and suppressed for alternatives.  <br/>
+ Our results reveal that gaze guides internal deliberation by modulating imagined value during decision making.</i></div>
+ 
  </td>
 </tr>
 
@@ -78,6 +83,14 @@ DOI:<a style="color:#444" href="https://2023.ccneuro.org/view_paper8951.html?Pap
  <b>Demetrio Ferro</b>, Anna Rifé Mata, Tyler Cash-Padgett, Maya Zhe-Wang, Benjamin Y. Hayden, Rubén Moreno Bote<br/>
   <i>Computational and Systems Neuroscience (Cosyne)</i>, Lisbon and Cascais (PT), 2022 <br/>
   PDF: 📄<a style="color:#444" href="https://d-ferro.github.io/files/ProgrammeCOSYNE2022.pdf#page=252" type="application/pdf" target="_blank">Cosyne</a>
+
+ <div style="margin-top: 10px; padding-left: 10px; border-left: 1px solid #555;"><i style="font-size:9pt">
+We studied gaze and orbitofrontal cortex activity in macaques during a two option reward task with sequential offers and delays.  <br/>
+  Looking time predicted choice throughout the task including delay periods. Fixations modulated value encoding even when offers  <br/>
+  were not visible and revisiting a previous offer location reactivated its value.</i></div>
+
+ 
+  
  </td>
 </tr>
 
