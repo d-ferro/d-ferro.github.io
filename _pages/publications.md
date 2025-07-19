@@ -54,7 +54,7 @@ DOI:<a style="color:#444" href="https://doi.org/10.1038/s41467-024-50214-2" targ
 
 <div style="margin-top: 10px; padding-left: 10px; border-left: 1px solid #555;"><i style="font-size:9pt">We developed a closed-loop computational model that links gaze behavior with value-based decision-making. <br/>
  Visual input drives competing decision populations, which in turn influence gaze shifts that feed back into the decision process. <br/>
- Simulations show that the model provides reliable replication of decision accuracy and gaze dynamics, offering a framework to study the role of gaze in modulating neural and behavioral signals. </i></div>
+ Simulations show reliable replication of decision and gaze dynamics, offering a framework to study the role of gaze in modulating neural and behavioral signals. </i></div>
   
  </td>
 </tr>
