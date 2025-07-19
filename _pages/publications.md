@@ -70,9 +70,10 @@ DOI:<a style="color:#444" href="https://doi.org/10.1038/s41467-024-50214-2" targ
   <i>Cognitive, Computational Neuroscience (CCN)</i>, 2023 <br/>
 DOI:<a style="color:#444" href="https://2023.ccneuro.org/view_paper8951.html?PaperNum=1122" target="_blank">10.32470/CCN.2023.1122-0</a>; PDF: 📄<a style="color:#444" href="https://2023.ccneuro.org/proceedings/0000615.pdf?s=W&pn=1122" type="application/pdf" target="_blank">CCNeuro</a>
 
- <div style="margin-top: 10px; padding-left: 10px; border-left: 1px dotted #777; color:#777"><i style="font-size:9pt">We found that gaze is directed for longer time at most valuable choice options and that fixations predict choices.  <br/>
- We analyzed orbitofrontal cortex activity and showed that value signals are stronger for the fixated location and suppressed for alternatives.  <br/>
- Our results reveal that gaze guides internal deliberation by modulating value encoding during decision making.</i></div>
+ <div style="margin-top: 10px; padding-left: 10px; border-left: 1px dotted #777; color:#777"><i style="font-size:9pt">
+  Gaze is drawn more to valuable options and predicts choice outcomes.  <br/>
+  Orbitofrontal cortex activity enhances the encoding for fixated locations and suppression of alternatives.  <br/>
+  These findings suggest that gaze supports internal deliberation by modulating neural value signals.</i></div>
  
  </td>
 </tr>
@@ -86,8 +87,9 @@ DOI:<a style="color:#444" href="https://2023.ccneuro.org/view_paper8951.html?Pap
   PDF: 📄<a style="color:#444" href="https://d-ferro.github.io/files/ProgrammeCOSYNE2022.pdf#page=252" type="application/pdf" target="_blank">Cosyne</a>
 
  <div style="margin-top: 10px; padding-left: 10px; border-left: 1px dotted #777; color:#777"><i style="font-size:9pt">
-We studied gaze and orbitofrontal cortex activity in macaques during a two option reward task with sequential options and delays.  <br/>
-  Looking time predicted choice throughout the task including delay periods. Fixations modulated value encoding in orbitofrontal cortex.</i></div>
+This study is about gaze behavior and orbitofrontal cortex activity in a sequential decision-making task with delay periods. <br/>
+  Looking time predicted choices even during delay intervals with blank screen. Fixation enhanced neural encoding in the orbitofrontal cortex. <br/>
+  These results suggest that gaze reactivates internal representations to support value encoding.</i></div>
 
  
   
@@ -104,8 +106,9 @@ We studied gaze and orbitofrontal cortex activity in macaques during a two optio
      <i>Proceedings of the National Academy of Sciences</i>, 118 (12), e2022097118, 2021<br/>
   DOI: <a style="color:#444" href="https://doi.org/10.1073/pnas.2022097118" target="_blank">10.1073/pnas.2022097118</a>; Data and code: <a style="color:#444" href="https://gin.g-node.org/56Fe/V1-V4-LFPs-and-Visual-Attention" target="_blank">repository</a>; PDF: 📄<a style="color:#444" href="https://www.pnas.org/doi/reader/10.1073/pnas.2022097118" type="application/pdf" target="_blank">PNAS</a>, <a style="color:#444" href="https://www.biorxiv.org/content/10.1101/2020.06.09.142190v1.full.pdf" type="application/pdf" target="_blank">bioRxiv</a>
  
- <div style="margin-top: 10px; padding-left: 10px; border-left: 1px dotted #777; color:#777"><i style="font-size:9pt">We used laminar recordings to track how visual and attentional signals propagate within and between cortical areas V1 and V4 at high depth resolution. <br/>
-  We found distinct patterns of interlaminar and interareal communication, attention-related shift in the gamma-band spectral peak, and increased power at high frequencies. <br/>
+ <div style="margin-top: 10px; padding-left: 10px; border-left: 1px dotted #777; color:#777"><i style="font-size:9pt">
+  This work maps how visual and attentional signals propagate within and between cortical areas V1 and V4 at laminar resolution. <br/>
+  Results show distinct patterns of interlaminar and interareal communication, attention-related shift in the gamma-band spectral peak, and increased power at high frequencies. <br/>
   Attention reduced local communication within V1 but enhanced both feedforward and feedback signaling across areas, especially in the gamma band.</i></div>
  
  </td>
@@ -120,9 +123,12 @@ We studied gaze and orbitofrontal cortex activity in macaques during a two optio
   <i>International Joint Conference on Neural Networks (IJCNN), IEEE</i>, 5106-5112, 2016<br/>
   DOI:<a style="color:#444" href="https://doi.org/10.1109/IJCNN.2016.7727873" target="_blank">10.1109/IJCNN.2016.7727873</a>; PDF: 📄<a style="color:#444" href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7727873" type="application/pdf" target="_blank">IEEE</a>
 
-  <div style="margin-top: 10px; padding-left: 10px; border-left: 1px dotted #777; color:#777"><i style="font-size:9pt">Nearest neighbor search is a common task in computer vision and pattern recognition that can be accelerated using coarse-to-fine methods. <br/>
-  We combine Product Quantization with neural associative memories. Experiments show significant improvements compared to standard Product Quantization,<br/>
-  achieving about 95% complexity reduction in classification on MNIST dataset, and 77% reduction in nearest neighbor search on TEXMEX SIFT1M dataset. </i></div>
+  <div style="margin-top: 10px; padding-left: 10px; border-left: 1px dotted #777; color:#777"><i style="font-size:9pt">
+  Nearest neighbor search is a common task in computer vision and pattern recognition whose complexity grows with data dimensionality. <br/>
+  The method proposed here combines Product Quantization with neural networks to outperform state-of-the-art methods both in efficiency and scalability, <br/>
+  achieving about 95% reduction in classification on MNIST dataset, and 77% reduction in nearest neighbor search on TEXMEX SIFT1M dataset. </i></div>
+
+Proposes a hybrid method combining Product Quantization with binary neural associative memories to accelerate nearest neighbor search. Achieves approximately 95% complexity reduction in classification (MNIST) and 77% in nearest neighbor search (TEXMEX SIFT1M). Outperforms standard Product Quantization in both efficiency and scalability.
   
  </td>
 </tr>
