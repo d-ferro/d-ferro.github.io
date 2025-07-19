@@ -107,8 +107,8 @@ This study is about gaze behavior and orbitofrontal cortex activity in a sequent
   DOI: <a style="color:#444" href="https://doi.org/10.1073/pnas.2022097118" target="_blank">10.1073/pnas.2022097118</a>; Data and code: <a style="color:#444" href="https://gin.g-node.org/56Fe/V1-V4-LFPs-and-Visual-Attention" target="_blank">repository</a>; PDF: 📄<a style="color:#444" href="https://www.pnas.org/doi/reader/10.1073/pnas.2022097118" type="application/pdf" target="_blank">PNAS</a>, <a style="color:#444" href="https://www.biorxiv.org/content/10.1101/2020.06.09.142190v1.full.pdf" type="application/pdf" target="_blank">bioRxiv</a>
  
  <div style="margin-top: 10px; padding-left: 10px; border-left: 1px dotted #777; color:#999"><i style="font-size:9pt">
-  This work maps how visual and attentional signals propagate within and between cortical areas V1 and V4 at laminar resolution. <br/>
-  Results show distinct patterns of interlaminar and interareal communication, attention-related shift in the gamma-band spectral peak, and increased power at high frequencies. <br/>
+  This work maps how visual and attentional information propagate within and between cortical areas V1 and V4 at laminar resolution. <br/>
+  Results show interlaminar and interareal circuit motifs, attention-related shift in the gamma-band spectral peak, and increased high-frequency power. <br/>
   Attention reduced local communication within V1 but enhanced both feedforward and feedback signaling across areas, especially in the gamma band.</i></div>
  
  </td>
