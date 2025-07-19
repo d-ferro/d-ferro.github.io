@@ -33,7 +33,7 @@ DOI:<a style="color:#444" href="https://doi.org/10.1038/s41467-024-50214-2" targ
  
  <div style="margin-top:10px; margin-left:10px"><i style="font-size:9pt">We used laminar recordings to track how visual and attentional signals propagate within and between cortical areas V1 and V4. <br/>
   We found distinct patterns of interlaminar and interareal communication, attention-related shift in the gamma-band spectral peak, and increased power at high frequencies. <br/>
-  Attention reduced local communication within V1 but enhanced both feedforward and feedback signaling across areas—especially in the gamma band.</i></div>
+  Attention reduced local communication within V1 but enhanced both feedforward and feedback signaling across areas, especially in the gamma band.</i></div>
  
  </td>
 </tr>
