@@ -18,7 +18,7 @@ For any request or further information contact me at <i>demetrio[dot]ferro[at]up
  <td style="border:none !important; text-align:center !important; vertical-align:top !important"><h3 style="margin-top:0 !important">2025</h3></td>
  <td style="border:none !important;"><a style="color:#444" href="https://2025.ccneuro.org" target="_blank">A closed-loop model for the coordination of gaze control and decision-making</a><br/>
  <b>Demetrio Ferro</b>, Tianming Yang, Rubén Moreno Bote<br/>
-  <i>Conference on Cognitive Computational Neuroscience (CCN)</i>, 1-3, Amsterdam (NL), 2025 <br/>
+  <i>Conference on Cognitive Computational Neuroscience (CCN)</i>, 2025 <br/>
   PDF: 📄<a style="color:#444" href="/files/Abstract-CCN2025_CompNets.pdf" type="application/pdf" target="_blank">CCNeuro</a>
 
 <div style="margin-top: 10px; padding-left: 10px; border-left: 1px solid #777; color:#777"><i style="font-size:9pt">We developed a closed-loop computational model that links gaze behavior with value-based decision-making. <br/>
@@ -31,7 +31,7 @@ For any request or further information contact me at <i>demetrio[dot]ferro[at]up
  <td style="border:none !important; text-align:center !important; vertical-align:top !important"><h3 style="margin-top:0 !important"></h3></td>
  <td style="border:none !important;"><a style="color:#444" href="https://2025.ccneuro.org" target="_blank">Decision-making reference point biases in the dorsal anterior cingulate cortex</a><br/>
  <b>Demetrio Ferro</b>, Habiba Azab, Benjamin Y. Hayden, Rubén Moreno Bote<br/>
-  <i>Conference on Cognitive Computational Neuroscience (CCN)</i>, 1-3, Amsterdam (NL), 2025 <br/>
+  <i>Conference on Cognitive Computational Neuroscience (CCN)</i>, 2025 <br/>
  PDF: 📄<a style="color:#444" href="/files/Abstract-CCN2025_dACC.pdf" type="application/pdf" target="_blank">CCNeuro</a>
 
 <div style="margin-top: 10px; padding-left: 10px; border-left: 1px solid #777; color:#777"><i style="font-size:9pt">We showed that value-based decision-making is biased by reference points set by proximity to a jackpot reward. <br/>
@@ -66,12 +66,12 @@ DOI:<a style="color:#444" href="https://doi.org/10.1038/s41467-024-50214-2" targ
  <td style="border:none !important; text-align:center !important; vertical-align:top !important"><h3 style="margin-top:0 !important">2023</h3></td>
  <td style="border:none !important;"><a style="color:#444" href="https://2023.ccneuro.org/view_paper8951.html?PaperNum=1122" target="_blank">The role of gaze for value encoding and recollection in orbitofrontal cortex</a><br/>
  <b>Demetrio Ferro</b>, Anna Rifé Mata, Tyler Cash-Padgett, Maya Zhe-Wang, Benjamin Y. Hayden, Rubén Moreno Bote<br/>
-  <i>Conference on Cognitive Computational Neuroscience (CCN)</i>, 1-3, Oxford (UK), 2023 <br/>
+  <i>Conference on Cognitive Computational Neuroscience (CCN)</i>, 2023 <br/>
 DOI:<a style="color:#444" href="https://2023.ccneuro.org/view_paper8951.html?PaperNum=1122" target="_blank">10.32470/CCN.2023.1122-0</a>; PDF: 📄<a style="color:#444" href="https://2023.ccneuro.org/proceedings/0000615.pdf?s=W&pn=1122" type="application/pdf" target="_blank">CCNeuro</a>
 
- <div style="margin-top: 10px; padding-left: 10px; border-left: 1px solid #777; color:#777"><i style="font-size:9pt">We found that subjects gaze longer at more valuable offers even when offers are no longer visible and that fixations predict their choices.  <br/>
+ <div style="margin-top: 10px; padding-left: 10px; border-left: 1px solid #777; color:#777"><i style="font-size:9pt">We found that gaze is directed for longer time at most valuable choice options and that fixations predict choices.  <br/>
  We analyzed orbitofrontal cortex activity and showed that value signals are stronger for the fixated location and suppressed for alternatives.  <br/>
- Our results reveal that gaze guides internal deliberation by modulating imagined value during decision making.</i></div>
+ Our results reveal that gaze guides internal deliberation by modulating value encoding during decision making.</i></div>
  
  </td>
 </tr>
@@ -81,13 +81,12 @@ DOI:<a style="color:#444" href="https://2023.ccneuro.org/view_paper8951.html?Pap
  <td style="border:none !important; text-align:center !important; vertical-align:top !important"><h3 style="margin-top:0 !important">2022</h3></td>
  <td style="border:none !important;"><a style="color:#444" href="https://d-ferro.github.io/files/ProgrammeCOSYNE2022.pdf#page=252" target="_blank">Imagining what was there: looking at an absent offer location modulates neural responses in OFC</a><br/>
  <b>Demetrio Ferro</b>, Anna Rifé Mata, Tyler Cash-Padgett, Maya Zhe-Wang, Benjamin Y. Hayden, Rubén Moreno Bote<br/>
-  <i>Computational and Systems Neuroscience (Cosyne)</i>, Lisbon and Cascais (PT), 2022 <br/>
+  <i>Computational and Systems Neuroscience (Cosyne)</i>, 2022 <br/>
   PDF: 📄<a style="color:#444" href="https://d-ferro.github.io/files/ProgrammeCOSYNE2022.pdf#page=252" type="application/pdf" target="_blank">Cosyne</a>
 
  <div style="margin-top: 10px; padding-left: 10px; border-left: 1px solid #777; color:#777"><i style="font-size:9pt">
-We studied gaze and orbitofrontal cortex activity in macaques during a two option reward task with sequential offers and delays.  <br/>
-  Looking time predicted choice throughout the task including delay periods. Fixations modulated value encoding even when offers  <br/>
-  were not visible and revisiting a previous offer location reactivated its value.</i></div>
+We studied gaze and orbitofrontal cortex activity in macaques during a two option reward task with sequential options and delays.  <br/>
+  Looking time predicted choice throughout the task including delay periods. Fixations modulated value encoding in orbitofrontal cortex.</i></div>
 
  
   
