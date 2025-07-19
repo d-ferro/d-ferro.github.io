@@ -64,6 +64,14 @@ DOI:<a style="color:#444" href="https://doi.org/10.1038/s41467-024-50214-2" targ
  <b>Demetrio Ferro</b>, Habiba Azab, Benjamin Y. Hayden, Rubén Moreno Bote<br/>
   <i>Conference on Cognitive Computational Neuroscience (CCN)</i>, 1-3, Amsterdam (NL), 2025 <br/>
  PDF: 📄<a style="color:#444" href="/files/Abstract-CCN2025_dACC.pdf" type="application/pdf" target="_blank">CCNeuro</a>
+
+<div style="margin-top: 10px; padding-left: 10px; border-left: 1px solid #555;"><i style="font-size:9pt">We showed that decision-making in macaques is biased by reference points set by proximity to a jackpot reward. 
+Subjects choose became faster and more accurateley, reflecting a reference-dependent shift in evaluation. 
+Neural activity in dorsal anterior cingulate cortex tracked this bias, revealing a neural basis for reward cumulation in decision-making.</i></div>
+
+
+
+  
  </td>
 </tr>
 
