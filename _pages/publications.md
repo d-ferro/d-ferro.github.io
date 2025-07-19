@@ -17,8 +17,8 @@ For any request or further information contact me at <i>demetrio[dot]ferro[at]up
 <b>Demetrio Ferro</b>, Tyler Cash-Padgett, Maya Zhe-Wang, <a style="color:#444" href="https://www.haydenlab.com/" target="_blank">Benjamin Y. Hayden</a>, <a style="color:#444" href="https://www.upf.edu/web/tcn" target="_blank">Rubén Moreno Bote</a><br/>
 <i>Nature Communications</i>, <b>15</b>:6163, 2024 <br/> 
 DOI:<a style="color:#444" href="https://doi.org/10.1038/s41467-024-50214-2" target="_blank">10.1038/s41467-024-50214-2</a>; Data and code: <a style="color:#444" href="https://doi.org/10.12751/g-node.evlnq5">repository</a>; PDF: 📄<a style="color:#444" href="https://www.nature.com/articles/s41467-024-50214-2.pdf" type="application/pdf" target="_blank">NatComms</a>, <a style="color:#444" href="https://www.biorxiv.org/content/10.1101/2023.04.20.537677v3.full.pdf" type="application/pdf"  target="_blank">bioRxiv</a> <a href="https://www.researchsquare.com/article/rs-2851867/v1" type="application/pdf"  target="_blank">ResearchSquare</a>
- </br>
- <i>In this study, we investigated how gaze behavior influences decision-making during economic choices. We showed that gaze to empty locations where offers previously appeared can reactivate their value encoding in the orbitofrontal cortex. This reactivation correlates with later choices, suggesting that “look-at-nothing” fixations play an active role in reevaluating options during deliberation.</i>
+ </br> </br> 
+ <i style="font-size:9pt">In this study, we investigated how gaze behavior influences decision-making during economic choices. We showed that gaze to empty locations where offers previously appeared can reactivate their value encoding in the orbitofrontal cortex. This reactivation correlates with later choices, suggesting that “look-at-nothing” fixations play an active role in reevaluating options during deliberation.</i>
 
  </td>
 </tr>
