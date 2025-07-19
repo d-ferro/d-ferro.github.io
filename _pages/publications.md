@@ -30,6 +30,11 @@ DOI:<a style="color:#444" href="https://doi.org/10.1038/s41467-024-50214-2" targ
      <b>Demetrio Ferro</b>, Jochem van Kempen, Michael Boyd, <a style="color:#444" href="https://www.iit.it/people-details/-/people/stefano-panzeri" target="_blank">Stefano Panzeri</a>, <a style="color:#444" href="https://www.staff.ncl.ac.uk/alex.thiele/" target="blank">Alexander Thiele</a><br/>
      <i>Proceedings of the National Academy of Sciences</i>, 118 (12), e2022097118, 2021<br/>
   DOI: <a style="color:#444" href="https://doi.org/10.1073/pnas.2022097118" target="_blank">10.1073/pnas.2022097118</a>; Data and code: <a style="color:#444" href="https://gin.g-node.org/56Fe/V1-V4-LFPs-and-Visual-Attention" target="_blank">repository</a>; PDF: 📄<a style="color:#444" href="https://www.pnas.org/doi/reader/10.1073/pnas.2022097118" type="application/pdf" target="_blank">PNAS</a>, <a style="color:#444" href="https://www.biorxiv.org/content/10.1101/2020.06.09.142190v1.full.pdf" type="application/pdf" target="_blank">bioRxiv</a>
+ 
+ <div style="margin-top:10px; margin-left:10px"><i style="font-size:9pt">We used laminar recordings to track how visual and attentional signals propagate within and between cortical areas V1 and V4. <br/>
+  We found distinct patterns of interlaminar and interareal communication, attention-related shift in the gamma-band spectral peak, and increased power at high frequencies. <br/>
+  Attention reduced local communication within V1 but enhanced both feedforward and feedback signaling across areas—especially in the gamma band.</i></div>
+ 
  </td>
 </tr>
 </table>
