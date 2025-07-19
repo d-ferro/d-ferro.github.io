@@ -18,7 +18,7 @@ For any request or further information contact me at <i>demetrio[dot]ferro[at]up
 <i>Nature Communications</i>, <b>15</b>:6163, 2024 <br/> 
 DOI:<a style="color:#444" href="https://doi.org/10.1038/s41467-024-50214-2" target="_blank">10.1038/s41467-024-50214-2</a>; Data and code: <a style="color:#444" href="https://doi.org/10.12751/g-node.evlnq5">repository</a>; PDF: 📄<a style="color:#444" href="https://www.nature.com/articles/s41467-024-50214-2.pdf" type="application/pdf" target="_blank">NatComms</a>, <a style="color:#444" href="https://www.biorxiv.org/content/10.1101/2023.04.20.537677v3.full.pdf" type="application/pdf"  target="_blank">bioRxiv</a> <a href="https://www.researchsquare.com/article/rs-2851867/v1" type="application/pdf"  target="_blank">ResearchSquare</a>
 <br/> 
- <div style="margin-top:10px; margin-left:10px"><i style="font-size:9pt">In this study, we investigated how gaze behavior influences decision-making during economic choices. <br/>
+ <div style="margin-top: 10px; padding-left: 10px; border-left: 1px solid #555;"><i style="font-size:9pt">In this study, we investigated how gaze behavior influences decision-making during economic choices. <br/>
   We showed that gazing to empty locations where choice options previously appeared can reactivate their value encoding in the orbitofrontal cortex. <br/>
   This reactivation correlates with later choices, suggesting that “look-at-nothing” fixations play an active role in reevaluating options during deliberation.</i></div>
 
@@ -31,7 +31,7 @@ DOI:<a style="color:#444" href="https://doi.org/10.1038/s41467-024-50214-2" targ
      <i>Proceedings of the National Academy of Sciences</i>, 118 (12), e2022097118, 2021<br/>
   DOI: <a style="color:#444" href="https://doi.org/10.1073/pnas.2022097118" target="_blank">10.1073/pnas.2022097118</a>; Data and code: <a style="color:#444" href="https://gin.g-node.org/56Fe/V1-V4-LFPs-and-Visual-Attention" target="_blank">repository</a>; PDF: 📄<a style="color:#444" href="https://www.pnas.org/doi/reader/10.1073/pnas.2022097118" type="application/pdf" target="_blank">PNAS</a>, <a style="color:#444" href="https://www.biorxiv.org/content/10.1101/2020.06.09.142190v1.full.pdf" type="application/pdf" target="_blank">bioRxiv</a>
  
- <div style="margin-top:10px; margin-left:10px"><i style="font-size:9pt">We used laminar recordings to track how visual and attentional signals propagate within and between cortical areas V1 and V4. <br/>
+ <div style="margin-top: 10px; padding-left: 10px; border-left: 1px solid #555;"><i style="font-size:9pt">We used laminar recordings to track how visual and attentional signals propagate within and between cortical areas V1 and V4. <br/>
   We found distinct patterns of interlaminar and interareal communication, attention-related shift in the gamma-band spectral peak, and increased power at high frequencies. <br/>
   Attention reduced local communication within V1 but enhanced both feedforward and feedback signaling across areas, especially in the gamma band.</i></div>
  
