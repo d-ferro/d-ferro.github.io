@@ -21,9 +21,10 @@ For any request or further information contact me at <i>demetrio[dot]ferro[at]up
   <i>Cognitive, Computational Neuroscience (CCN)</i>, 2025; 
   PDF: 📄<a style="color:#444" href="https://2025.ccneuro.org/abstract_pdf/Ferro_2025_A_closed-loop_model_coordination_gaze_control.pdf" type="application/pdf" target="_blank">CCNeuro</a>
 
-<div style="margin-top: 10px; padding-left: 10px; border-left: 1px dotted #777; color:#777"><i style="font-size:9pt">We developed a closed-loop computational model that links gaze behavior with value-based decision-making. <br/>
- Visual input drives competing decision populations, which in turn influence gaze shifts that feed back into the decision process. <br/>
- Simulations replicate decision and gaze dynamics, providing a framework to explore how gaze shapes neural and behavioral processes.</i></div>
+<div style="margin-top: 10px; padding-left: 10px; border-left: 1px dotted #777; color:#777"><i style="font-size:9pt">
+ This work introduces a closed-loop model linking gaze behavior with value-based decision making. <br/>
+ Visual input drives competing decision populations, which guide gaze shifts that feed back into the decision process. <br/>
+ Simulations capture key behavioral dynamics, offering a framework to study how gaze shapes neural and decision-related activity.</i></div>
   
  </td>
 </tr>
@@ -34,11 +35,10 @@ For any request or further information contact me at <i>demetrio[dot]ferro[at]up
   <i>Cognitive, Computational Neuroscience (CCN)</i>, 2025; 
  PDF: 📄<a style="color:#444" href="https://2025.ccneuro.org/abstract_pdf/Ferro_2025_Decision-making_reference_point_biases_dorsal_anterior.pdf" type="application/pdf" target="_blank">CCNeuro</a>
 
-<div style="margin-top: 10px; padding-left: 10px; border-left: 1px dotted #777; color:#777"><i style="font-size:9pt">We showed that value-based decision-making is biased by reference points set by proximity to a jackpot reward. <br/>
-In proximity of a jackpot, subjects choose faster and more accurately, reflecting a reference-dependent shift in evaluation. <br/>
+<div style="margin-top: 10px; padding-left: 10px; border-left: 1px dotted #777; color:#777"><i style="font-size:9pt">
+In proximity of a jackpot, subjects choose faster and more accurately, reflecting a reference-dependent shift in the evaluation strategy. <br/>
+The value of alternative choice options is referenced to a cumulative tokens count that leads to jackpot achievement upon reaching a fixed threshold. <br/>
 Neural activity in dorsal anterior cingulate cortex tracked this bias, revealing a neural basis for reward proximity in decision-making.</i></div>
-
-
 
   
  </td>
@@ -53,9 +53,10 @@ Neural activity in dorsal anterior cingulate cortex tracked this bias, revealing
 <i>Nature Communications</i>, <b>15</b>:6163, 2024 <br/> 
 DOI:<a style="color:#444" href="https://doi.org/10.1038/s41467-024-50214-2" target="_blank">10.1038/s41467-024-50214-2</a>; Data and code: <a style="color:#444" href="https://doi.org/10.12751/g-node.evlnq5">repository</a>; PDF: 📄<a style="color:#444" href="https://www.nature.com/articles/s41467-024-50214-2.pdf" type="application/pdf" target="_blank">NatComms</a>, <a style="color:#444" href="https://www.biorxiv.org/content/10.1101/2023.04.20.537677v3.full.pdf" type="application/pdf"  target="_blank">bioRxiv</a> <a href="https://www.researchsquare.com/article/rs-2851867/v1" type="application/pdf"  target="_blank">ResearchSquare</a>
 <br/> 
- <div style="margin-top: 10px; padding-left: 10px; border-left: 1px dotted #777; color:#777"><i style="font-size:9pt">In this study, we investigated how gaze behavior influences decision-making during economic choices. <br/>
-  We showed that gazing to empty locations where choice options previously appeared can reactivate their value encoding in the orbitofrontal cortex. <br/>
-  This reactivation correlates with later choices, suggesting that “look-at-nothing” fixations play an active role in reevaluating options during deliberation.</i></div>
+ <div style="margin-top: 10px; padding-left: 10px; border-left: 1px dotted #777; color:#777"><i style="font-size:9pt">
+  Gaze behavior strongly influences decision making during economic choices. <br/>
+  Looking at the screen locations where options are or were presented activates or reactivates their value encoding in orbitofrontal cortex. <br/>
+  This reactivation correlates with upcoming choices, indicating that gaze plays an active role in reevaluating internal representations.</i></div>
 
  </td>
 </tr>
