@@ -121,8 +121,8 @@ We studied gaze and orbitofrontal cortex activity in macaques during a two optio
   DOI:<a style="color:#444" href="https://doi.org/10.1109/IJCNN.2016.7727873" target="_blank">10.1109/IJCNN.2016.7727873</a>; PDF: 📄<a style="color:#444" href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7727873" type="application/pdf" target="_blank">IEEE</a>
 
   <div style="margin-top: 10px; padding-left: 10px; border-left: 1px solid #555;"><i style="font-size:9pt">Nearest neighbor search is a common task in computer vision and pattern recognition that can be accelerated using coarse-to-fine methods. <br/>
-  We combine Product Quantization with neural associative memories, achieving about 95% complexity reduction in classification on MNIST dataset,<br/>
-  and 77% reduction in nearest neighbor search on TEXMEX SIFT1M dataset. Experiments show significant improvements compared to standard Product Quantization.</i></div>
+  We combine Product Quantization with neural associative memories. Experiments show significant improvements compared to standard Product Quantization,<br/>
+  achieving about 95% complexity reduction in classification on MNIST dataset, and 77% reduction in nearest neighbor search on TEXMEX SIFT1M dataset. </i></div>
   
  </td>
 </tr>
