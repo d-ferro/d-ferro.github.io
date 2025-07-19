@@ -51,6 +51,11 @@ DOI:<a style="color:#444" href="https://doi.org/10.1038/s41467-024-50214-2" targ
  <b>Demetrio Ferro</b>, Tianming Yang, Rubén Moreno Bote<br/>
   <i>Conference on Cognitive Computational Neuroscience (CCN)</i>, 1-3, Amsterdam (NL), 2025 <br/>
   PDF: 📄<a style="color:#444" href="/files/Abstract-CCN2025_CompNets.pdf" type="application/pdf" target="_blank">CCNeuro</a>
+
+<div style="margin-top: 10px; padding-left: 10px; border-left: 1px solid #555;"><i style="font-size:9pt">We developed a closed-loop computational model that links gaze behavior with value-based decision-making. <br/>
+ Visual input drives competing decision populations, which in turn influence gaze shifts that feed back into the decision process. <br/>
+ Simulations show that the model replicates behavioral patterns—such as decision accuracy and gaze dynamics—offering a framework to study how gaze modulates neural and behavioral signals. </i></div>
+  
  </td>
 </tr>
 <tr style="border:none !important;">
