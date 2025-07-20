@@ -6,10 +6,10 @@ author_profile: true
 ---
 
  
-<p style="font-size:.75em">You can also find my publications on <a style="color:#444" href="https://scholar.google.com/citations?hl=en&user=rb2l4DcAAAAJ&hl=en" target="_blank">Scholar</a>.  
-<p style="font-size:.75em">And the list of my 10+ <a href="/academic/" target="_blank">abstracts accepted</a> at international conferences.</p>
+<p style="font-size:.75em">You can also find my publications on <a style="color:#444" href="https://scholar.google.com/citations?hl=en&user=rb2l4DcAAAAJ&hl=en" target="_blank">Scholar</a>  </p>
+<p style="font-size:.75em">And the list of my 10+ <a href="/academic/" target="_blank">abstracts accepted</a> at international conferences.</p> 
 
- For any request or further information contact me at <i>demetrio[dot]ferro[at]upf[dot]edu</i>.</p>
+<p style="font-size:.75em">For any request or further information contact me at <i>demetrio[dot]ferro[at]upf[dot]edu</i>.</p>
 
 
 <p>Peer-reviewed publications</p>
