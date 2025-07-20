@@ -7,7 +7,10 @@ author_profile: true
 
  
 <p style="font-size:.75em">You can also find my publications on <a style="color:#444" href="https://scholar.google.com/citations?hl=en&user=rb2l4DcAAAAJ&hl=en" target="_blank">Scholar</a>.  
-For any request or further information contact me at <i>demetrio[dot]ferro[at]upf[dot]edu</i>.</p>
+<p style="font-size:.75em">And the list of my 10+ <a href="/academic/" target="_blank">abstracts accepted</a> at international conferences.</p>
+
+ For any request or further information contact me at <i>demetrio[dot]ferro[at]upf[dot]edu</i>.</p>
+
 
 <p>Peer-reviewed publications</p>
 
@@ -172,7 +175,6 @@ DOI:<a style="color:#444" href="https://2023.ccneuro.org/view_paper8951.html?Pap
 </table>
 
 
-<p style="font-size:.75em">10+ <a href="/academic/" target="_blank">abstracts accepted</a> at international conferences.</p>
 
 
 <!--<tr style="border:none !important;">
@@ -182,9 +184,9 @@ DOI:<a style="color:#444" href="https://2023.ccneuro.org/view_paper8951.html?Pap
  <b>D. Ferro</b>, A. Rifé Mata, T. Cash-Padgett, M. Zhe-Wang, B. Y. Hayden, R. Moreno Bote<br/>
   <i>Computational and Systems Neuroscience (Cosyne)</i>, March 2022 (Lisbon and Cascais, PT); <a style="color:#444" href="https://d-ferro.github.io/files/ProgrammeCOSYNE2022.pdf#page=252" type="application/pdf" target="_blank">[abstract]</a>
 
- <!--<div style="margin-top: 10px; padding-left: 10px; border-left: 1px dotted #777; color:#999"><i style="font-size:9pt">
+ <div style="margin-top: 10px; padding-left: 10px; border-left: 1px dotted #777; color:#999"><i style="font-size:9pt">
 This study is about gaze behavior and orbitofrontal cortex activity in a sequential decision-making task with delay periods. <br/>
   Looking time predicted choices even during delay intervals with blank screen. Fixation enhanced neural encoding in the orbitofrontal cortex. <br/>
-  These results suggest that gaze reactivates internal representations to support value encoding.</i></div>-->
+  These results suggest that gaze reactivates internal representations to support value encoding.</i></div>
   </td>
 </tr>-->
