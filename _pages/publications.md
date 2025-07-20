@@ -172,38 +172,10 @@ DOI:<a style="color:#444" href="https://2023.ccneuro.org/view_paper8951.html?Pap
 </table>
 
 
-<p>International Confrences</p>
-
-<table style="border:none !important;">
+<p style="font-size:.75em">10+ <a href="/academic/" target="_blank">abstracts accepted</a> at international conferences.</p>
 
 
-<tr style="border:none !important;">
- <td style="border:none !important; text-align:right !important; vertical-align:top !important"><h3 style="margin-top:0 !important">2024</h3></td>
- <td style="border:none !important;">
-    <u>Economic decision-making in the brain: how does gaze relate to the activity of orbitofrontal cortex neurons?</u><br/>
-<b>D. Ferro</b>, T. Cash-Padgett, M. Z. Wang, B. Y. Hayden, R. Moreno-Bote<br/> 
-  <i>International Conference on Thinking (<i>ICT2024</i>)</i>, June 2024 (Milan, IT). <a style="color:#444" href="/files/ProgrammeICT2024.pdf#page=14" type="application/pdf" target="_blank">[programme]</a> <a style="color:#444" href="/files/TalkICT2024.pdf" type="application/pdf" target="_blank">[talk]</a>
-</td>
-</tr>
-<tr style="border:none !important;">
-<td style="border:none !important; text-align:right !important;  vertical-align:top !important"><h3 style="margin-top:0 !important"></h3></td>
-<td style="border:none !important;">
-  <u>Theories of intrinsically motivated behavior: comparing Empowerment, Free Energy Principle and Maximum Occupancy Principle</u><br/>
- R. Moreno Bote, <b>D. Ferro</b> and J. Ramirez-Ruiz<br/>
- <i>International Conference on Thinking (<i>ICT2024</i>)</i>, June 2024 (Milan, IT). <a style="color:#444" href="/files/ProgrammeICT2024.pdf#page=7" type="application/pdf" target="_blank">[programme]</a>  <a style="color:#444" href="/files/PosterICT2024.pdf" type="application/pdf" target="_blank">[poster]</a>
-</td>
- </tr>
-
-
-<tr style="border:none !important;">
- <td style="border:none !important; text-align:right !important; vertical-align:top !important"><h3 style="margin-top:0 !important">2023</h3></td><td style="border:none !important;">
-      <u>Looking at previous cue sites reactivates value coding for serial evaluation in orbitofrontal cortex</u><br/>
-<b>D. Ferro</b>, A. Rifé-Mata, T. Cash-Padgett, M. Z. Wang, B. Y. Hayden, R. Moreno-Bote<br/>
-  <i>Human Brain Project Summit 2023</i>, March 2023 (Marseille, FR). <a style="color:#444" href="/files/ProgrammeHBPMRS2023.pdf" type="application/pdf" target="_blank">[programme]</a> <a style="color:#444" href="/files/PosterHBPMRS2023.pdf" type="application/pdf" target="_blank">[poster]</a> 
-</td>
-</tr>
-
-<tr style="border:none !important;">
+<!--<tr style="border:none !important;">
  <td style="border:none !important; text-align:center !important; vertical-align:top !important"><h3 style="margin-top:0 !important">2022</h3></td>
  <td style="border:none !important;">
   <a style="color:#444" href="https://d-ferro.github.io/files/ProgrammeCOSYNE2022.pdf#page=252" target="_blank">Imagining what was there: looking at an absent offer location modulates neural responses in OFC</a><br/>
@@ -215,41 +187,4 @@ This study is about gaze behavior and orbitofrontal cortex activity in a sequent
   Looking time predicted choices even during delay intervals with blank screen. Fixation enhanced neural encoding in the orbitofrontal cortex. <br/>
   These results suggest that gaze reactivates internal representations to support value encoding.</i></div>-->
   </td>
-</tr>
-
-<tr style="border:none !important;">
- <td style="border:none !important; text-align:right !important; vertical-align:top !important"><h3 style="margin-top:0 !important">2021</h3></td>
- <td style="border:none !important;">
-  <u>Is your gaze your aim? Eye position in reward gambling and the role of orbitofrontal cortex in encoding the value of visually cued offers.</u><br/>
-  <b>D. Ferro</b>, A. Rifé-Mata, T. Cash-Padgett, M. Z. Wang, B. Y. Hayden, R. Moreno-Bote<br/> 
-  <i>Sociedad Española de neurociencia (SENC)</i>, Nov. 2021 (Lleida, ES). <a style="color:#444" href="/files/ProgrammeSENC2021.pdf" type="application/pdf" target="_blank">[programme]</a> <a style="color:#444" href="/files/PosterSENC2021.pdf" type="application/pdf" target="_blank">[poster]</a>
-</td>
-</tr>
- <tr style="border:none !important;">
- <td style="border:none !important; text-align:right !important; vertical-align:top !important"><h3 style="margin-top:0 !important"></h3></td>
- <td style="border:none !important;">
-    <u>Is your gaze your aim? Eye position in reward gambling and the role of orbitofrontal cortex in encoding the value of visually cued offers.</u><br/>
-  <b>D. Ferro</b>, A. Rifé-Mata, T. Cash-Padgett, M. Z. Wang, B. Y. Hayden, R. Moreno-Bote<br/> 
-  <i>Spanish Network for the Interaction between Computational and Cognitive Neuroscience (SINC²)</i>, Nov. 2021 (Lleida, ES). <a style="color:#444" href="/files/ProgrammeSINC22021.pdf" type="application/pdf" target="_blank">[programme]</a> <a style="color:#444" href="/files/PresentationSINC22021.pdf" type="application/pdf" target="_blank">[talk]</a> 
-</td>
-</tr>
-
-<tr style="border:none !important;">
- <td style="border:none !important; text-align:right !important; vertical-align:top !important"><h3 style="margin-top:0 !important">2019</h3></td>
- <td style="border:none !important;">
-  <u>Effects of attention on Granger causal interactions between cortical layers and cortical areas V1 and V4</u><br/>
-  <b>D. Ferro</b>, J. van Kempen, M. Boyd, S. Panzeri, A. Thiele<br/> 
-  <i>Annual Meeting of the Society for Neuroscience (<i>SfN</i>)</i>, 2019 (Chicago, IL, USA). <a style="color:#444" href="/files/ProgrammeSFN2019.pdf" type="application/pdf" target="_blank">[programme]</a> <a style="color:#444" href="/files/AbstractSFN2019.pdf" type="application/pdf" target="_blank">[abstract]</a>  <a style="color:#444" href="/files/PosterSfN2019.pdf" type="application/pdf" target="_blank">[poster]</a>
-</td>
-</tr>
-
-<tr style="border:none !important;">
- <td style="border:none !important; text-align:right !important; vertical-align:top !important"><h3 style="margin-top:0 !important">2017</h3></td>
- <td style="border:none !important;">
-  <u>Layer dependent attentional modulation of broad and narrow spiking cells in primate V1</u><br/>
-  A. Thiele, <b>D. Ferro</b>, M. Boyd and S. Panzeri<br/> 
-  <i>Annual Meeting of the Society for Neuroscience (<i>SfN</i>)</i>, 2017 (Washington, DC, USA). <a style="color:#444" href="/files/ProgrammeSFN2017.pdf" type="application/pdf" target="_blank">[programme]</a> <a style="color:#444" href="/files/AbstractSFN2017.pdf" type="application/pdf" target="_blank">[abstract]</a> [poster]
- </td>
- </tr>
-
-</table>
+</tr>-->
