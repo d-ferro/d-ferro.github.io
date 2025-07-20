@@ -172,7 +172,7 @@ DOI:<a style="color:#444" href="https://2023.ccneuro.org/view_paper8951.html?Pap
 </table>
 
 
-<p>Accepted Abstracts at international Confrences</p>
+<p>Accepted Abstracts at International Confrences</p>
 
 <table style="border:none !important;">
 
