@@ -172,7 +172,7 @@ DOI:<a style="color:#444" href="https://2023.ccneuro.org/view_paper8951.html?Pap
 </table>
 
 
-<p>Accepted Abstracts at International Confrences</p>
+<p>International Confrences</p>
 
 <table style="border:none !important;">
 
@@ -190,7 +190,7 @@ DOI:<a style="color:#444" href="https://2023.ccneuro.org/view_paper8951.html?Pap
 <td style="border:none !important;">
   <u>Theories of intrinsically motivated behavior: comparing Empowerment, Free Energy Principle and Maximum Occupancy Principle</u><br/>
  R. Moreno Bote, <b>D. Ferro</b> and J. Ramirez-Ruiz<br/>
- <i>nternational Conference on Thinking (<i>ICT2024</i>)</i>, June 2024 (Milan, IT). <a style="color:#444" href="/files/ProgrammeICT2024.pdf#page=7" type="application/pdf" target="_blank">[programme]</a>  <a style="color:#444" href="/files/PosterICT2024.pdf" type="application/pdf" target="_blank">[poster]</a>
+ <i>International Conference on Thinking (<i>ICT2024</i>)</i>, June 2024 (Milan, IT). <a style="color:#444" href="/files/ProgrammeICT2024.pdf#page=7" type="application/pdf" target="_blank">[programme]</a>  <a style="color:#444" href="/files/PosterICT2024.pdf" type="application/pdf" target="_blank">[poster]</a>
 </td>
  </tr>
 
