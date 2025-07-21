@@ -3,7 +3,7 @@ layout: archive
 title: ""
 permalink: /publications/
 author_profile: true
----
+--- 
 
  
 <p style="font-size:.75em">You can also find my publications on <a style="color:#444" href="https://scholar.google.com/citations?hl=en&user=rb2l4DcAAAAJ&hl=en" target="_blank">Scholar</a>. Here is a list of 10+ <a href="/research/" target="_blank">accepted abstracts</a> for international conferences.</p> 
