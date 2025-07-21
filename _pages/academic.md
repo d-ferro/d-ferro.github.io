@@ -49,6 +49,11 @@ author_profile: true
 
 <div style="width:20%; text-align:right; padding-right:4%"><h3>Examination</h3></div>
 <table style="border:none !important;">
+ <tr style="border:none !important;">
+ <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:4%; vertical-align:top !important"><h3 style="margin-top:0 !important;">TFG BME 2025</h3></td>
+ <td style="border:none !important;"><b>Chair of the committee for Bachelor degree theses dissertations</b> (Treballs de fi de Grau, TFG), <br/>Universitat Pompeu Fabra, Biomedical Engineering Gratudations, <br/>Session: Neuroscience, June 25th 2025 (Barcelona, ES). <a style="color:#444" href="" type="application/pdf" target="_blank">[programme]</a>
+ </td>
+</tr>
 <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:4%; vertical-align:top !important"><h3 style="margin-top:0 !important;">TFG BME 2024</h3></td>
  <td style="border:none !important;"><b>Chair of the committee for Bachelor degree theses dissertations</b> (Treballs de fi de Grau, TFG), <br/>Universitat Pompeu Fabra, Biomedical Engineering Gratudations, <br/>Session: Neuroscience, 15-17 July 2024 (Barcelona, ES). <a style="color:#444" href="/files/Programme-UPF-BME-2024.pdf" type="application/pdf" target="_blank">[programme]</a>
