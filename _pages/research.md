@@ -29,7 +29,7 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
 
   <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important; vertical-align:top !important"><h3 style="margin-top:0 !important"></h3></td>
- <td style="border:none !important;"><b>D. Ferro</b>, H. Azab, B. Hayden, R. Moreno-Bote, "	Decision-making reference point biases in the dorsal anterior cingulate cortex",  <a href="https://2025.ccneuro.org" target="_blank">Cognitive, Computational Neuroscience (CCN)</a>, August 2025 (Amsterdam, NL 🇳🇱).  <a style="color:#444" href="" target="_blank">[poster]</a> 
+ <td style="border:none !important;"><b>D. Ferro</b>, H. Azab, B. Hayden, R. Moreno-Bote, "Decision-making reference point biases in the dorsal anterior cingulate cortex",  <a href="https://2025.ccneuro.org" target="_blank">Cognitive, Computational Neuroscience (CCN)</a>, August 2025 (Amsterdam, NL 🇳🇱).  <a style="color:#444" href="" target="_blank">[poster]</a> 
 </td>
 </tr>
 
