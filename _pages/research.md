@@ -55,7 +55,7 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
  </tr>
 <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important; vertical-align:top !important"><h3 style="margin-top:0 !important">CCN 2023</h3></td>
- <td style="border:none !important;"><b>D. Ferro</b>, A. Rifé-Mata, T. Cash-Padgett, M. Z. Wang, B. Y. Hayden, R. Moreno-Bote, “The role of gaze for value encoding and recollection in orbitofrontal cortex”, Conference on Cognitive Computational Neuroscience (<i>CCN</i>), August 2023 (Oxford, UK 🇬🇧). <a style="color:#444" href="/files/ProgrammeCCN2023.pdf" type="application/pdf" target="_blank">[programme]</a> <a style="color:#444" href="/files/AbstractCCN2023.pdf" type="application/pdf" target="_blank">[abstract]</a> <a style="color:#444" href="/files/PosterCCN2023.pdf" type="application/pdf" target="_blank">[poster]</a>
+ <td style="border:none !important;"><b>D. Ferro</b>, A. Rifé-Mata, T. Cash-Padgett, M. Z. Wang, B. Y. Hayden, R. Moreno-Bote, “The role of gaze for value encoding and recollection in orbitofrontal cortex”, <a href="https://2023.ccneuro.org/" target="_blank">Conference on Cognitive Computational Neuroscience (<i>CCN</i>)</a>, August 2023 (Oxford, UK 🇬🇧). <a style="color:#444" href="/files/ProgrammeCCN2023.pdf" type="application/pdf" target="_blank">[programme]</a> <a style="color:#444" href="/files/AbstractCCN2023.pdf" type="application/pdf" target="_blank">[abstract]</a> <a style="color:#444" href="/files/PosterCCN2023.pdf" type="application/pdf" target="_blank">[poster]</a>
 </td>
 </tr>
 <tr style="border:none !important;">
