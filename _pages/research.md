@@ -272,10 +272,38 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
 <div style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;"><h3 style="margin-top:20px">Collaborations</h3></div>
 <table style="border:none !important;">
  <tr style="border:none !important;">
- <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">Human Brain Project 2023-2024</h3></td>
+ <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">B. Hayden Lab 2020 (ongoing)</h3></td>
+ <td style="border:none !important;"> Analysis of neural data recorded during decision-making tasks by <a href="https://www.haydenlab.com/" target="_blank">Hayden Lab</a> in orbitofrontal cortex and dorsal anterior cingulate cortex. <br/>
+(<a href="https://2023.ccneuro.org/proceedings/0000615.pdf?s=W&pn=1122" target="_blank">Ferro et al., CCN 2023</a>; <a href="https://www.nature.com/articles/s41467-024-50214-2" target="_blank">Ferro et al., Nature Communications 2024</a>; 
+  <a href="https://2025.ccneuro.org/abstract_pdf/Ferro_2025_Decision-making_reference_point_biases_dorsal_anterior.pdf" target="_blank">Ferro et al., CCN 2025</a>; <a href="https://doi.org/10.1101/2025.03.03.640771" target="_blank">Ferro et al., bioRxiv 2025</a>).
+ </td>
+</tr>
+
+ <tr style="border:none !important;">
+ <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">Human Brain Project 2022-2023</h3></td>
  <td style="border:none !important;"> Data-driven and validated multiscale computational models and neuromorphic implementations [<a href="/files/HBPReport2023.pdf" target="_blank">(D17 - SGA3 M42) report</a>].<br/>
 Model of gaze centred activation of value encoding in orbitofrontal cortex [<a href="https://search.kg.ebrains.eu/instances/a2dce812-1d4b-4fc5-a69f-96005288c12e" target="_blank">EBRAINS Knowledge Graph</a>].
  </td>
 </tr>
+
+ <tr style="border:none !important;">
+ <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">Gaze 2 Decision 2024 (ongoing)</h3></td>
+ <td style="border:none !important;"> Theoretical modelling of neural neetwork models for gaze-to-decision coordination.<br/>
+(<a href="">x)
+ </td>
+</tr>
+
+ <tr style="border:none !important;">
+ <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">Vision 4 Action 2024 (ongoing)</h3></td>
+ <td style="border:none !important;"> Data-driven and validated multiscale computational models and neuromorphic implementations [<a href="/files/HBPReport2023.pdf" target="_blank">(D17 - SGA3 M42) report</a>].<br/>
+Model of gaze centred activation of value encoding in orbitofrontal cortex [<a href="https://search.kg.ebrains.eu/instances/a2dce812-1d4b-4fc5-a69f-96005288c12e" target="_blank">EBRAINS Knowledge Graph</a>].
+ </td>
+</tr>
+
+
+
+
+
+ 
 </table>
 
