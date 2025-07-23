@@ -273,13 +273,13 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
 <table style="border:none !important;">
  <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">Prof. A. Thiele<br/>2017 - 2021</h3></td>
- <td style="border:none !important;"> Analysis of neural data recorded during attention-demanding visual tasks in the lab of <a href="https://www.staff.ncl.ac.uk/alex.thiele/" target="_blank">Prof. A. Thiele</a> at the University of Newcastle, Newcastle, UK. 
+ <td style="border:none !important;"> Analysis of neural data recorded during attention-demanding visual tasks in the lab of <a href="https://www.staff.ncl.ac.uk/alex.thiele/" target="_blank">Prof. A. Thiele</a> at the University of Newcastle, Newcastle, UK 🇬🇧. 
 (<a href="https://www.pnas.org/doi/abs/10.1073/pnas.2022097118" target="_blank">Ferro et al., PNAS 2021</a>).
  </td>
 </tr> 
  <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">Prof. B. Hayden<br/>2020 - ongoing</h3></td>
- <td style="border:none !important;"> Analysis of neural data recorded during decision-making tasks in the lab of <a href="https://www.haydenlab.com/" target="_blank">Prof. B. Hayden</a> at the Baylor College Medicine, Houston, TX, USA. 
+ <td style="border:none !important;"> Analysis of neural data recorded during decision-making tasks in the lab of <a href="https://www.haydenlab.com/" target="_blank">Prof. B. Hayden</a> at the Baylor College Medicine, Houston, TX, USA 🇺🇸. 
 (<a href="https://2023.ccneuro.org/proceedings/0000615.pdf?s=W&pn=1122" target="_blank">Ferro et al., CCN 2023</a>; <a href="https://www.nature.com/articles/s41467-024-50214-2" target="_blank">Ferro et al., Nature Communications 2024</a>; 
   <a href="https://2025.ccneuro.org/abstract_pdf/Ferro_2025_Decision-making_reference_point_biases_dorsal_anterior.pdf" target="_blank">Ferro et al., CCN 2025</a>; <a href="https://doi.org/10.1101/2025.03.03.640771" target="_blank">Ferro et al., bioRxiv 2025</a>).
  </td>
@@ -288,13 +288,13 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
  <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">Human Brain Project 2022-2023</h3></td>
  <td style="border:none !important;"> Data-driven and validated multiscale computational models and neuromorphic implementations [<a href="/files/HBPReport2023.pdf" target="_blank">(D17 - SGA3 M42) report</a>].<br/>
-Model of gaze centred activation of value encoding in orbitofrontal cortex [<a href="https://search.kg.ebrains.eu/instances/a2dce812-1d4b-4fc5-a69f-96005288c12e" target="_blank">EBRAINS Knowledge Graph</a>].
+Model of gaze centred activation of value encoding in orbitofrontal cortex [<a href="https://search.kg.ebrains.eu/instances/a2dce812-1d4b-4fc5-a69f-96005288c12e" target="_blank">EBRAINS Knowledge Graph</a>]. Co-Funded by the European Union 🇪🇺.
  </td>
 </tr>
 
  <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">Gaze 2 Decision <br/>2024 - ongoing</h3></td>
- <td style="border:none !important;"> Neural neetwork models for gaze-to-decision coordination, to align with neural data from the Lab of <a href="https://www.shanghai-neuroeconomics.org/tianming" target="_blank">Dr. T. Yang</a> at the Institute of Neuroscience, Shanghai, China.
+ <td style="border:none !important;"> Neural neetwork models for gaze-to-decision coordination, to align with neural data from the Lab of <a href="https://www.shanghai-neuroeconomics.org/tianming" target="_blank">Dr. T. Yang</a> at the Institute of Neuroscience, Shanghai, China 🇨🇳.
 (<a href="https://2025.ccneuro.org/abstract_pdf/Ferro_2025_A_closed-loop_model_coordination_gaze_control.pdf" target="_blank">Ferro et al., CCN 2025</a>)
  </td>
 </tr>
@@ -302,7 +302,7 @@ Model of gaze centred activation of value encoding in orbitofrontal cortex [<a h
  <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">Vision 4 Action <br/>2024 - ongoing</h3></td>
  <td style="border:none !important;"> Analysis of neural data during a hand landing task data for the coordination of visual and motor functions. (under development)<br/>
-  This is a joint venture between the lab of <a href="https://www.fz-juelich.de/profile/gruen_s" target="_blank">Prof. S. Grün</a> (Institute for Advanced Simulations, Jülich, Germany) and the lab of <a href="https://www.int.univ-amu.fr/en/member/brochier.t" target="_blank">Dr. T. Brochier</a> (Institut de Neuroscience de la Timone, Marseille, France).
+  This is a joint venture between the lab of <a href="https://www.fz-juelich.de/profile/gruen_s" target="_blank">Prof. S. Grün</a> (Institute for Advanced Simulations, Jülich, Germany 🇩🇪) and the lab of <a href="https://www.int.univ-amu.fr/en/member/brochier.t" target="_blank">Dr. T. Brochier</a> (Institut de Neuroscience de la Timone, Marseille, France 🇫🇷).
  
  </td>
 </tr>
