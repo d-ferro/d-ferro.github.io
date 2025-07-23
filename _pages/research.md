@@ -294,7 +294,7 @@ Model of gaze centred activation of value encoding in orbitofrontal cortex [<a h
 
  <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">Gaze 2 Decision <br/>2024 - ongoing</h3></td>
- <td style="border:none !important;"> Neural neetwork models for gaze-to-decision coordination, to align with neural data from the Lab of <a href="https://www.shanghai-neuroeconomics.org/tianming" target="_blank">Dr. T. Yang</a> at the Institute of Neuroscience, Shanghai, China 🇨🇳.
+ <td style="border:none !important;"> Neural neetwork models for gaze-to-decision coordination, to align with neural data from the Lab of <a href="https://www.shanghai-neuroeconomics.org/tianming" target="_blank">Dr. T. Yang</a> at the New York University ECNU, Shanghai, China 🇨🇳.
 (<a href="https://2025.ccneuro.org/abstract_pdf/Ferro_2025_A_closed-loop_model_coordination_gaze_control.pdf" target="_blank">Ferro et al., CCN 2025</a>)
  </td>
 </tr>
