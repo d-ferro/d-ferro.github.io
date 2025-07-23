@@ -272,6 +272,12 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
 <div style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;"><h3 style="margin-top:20px">Collaborations</h3></div>
 <table style="border:none !important;">
  <tr style="border:none !important;">
+ <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">Prof. A. Thiele<br/>2017 - 2021</h3></td>
+ <td style="border:none !important;"> Analysis of neural data recorded during attention-demanding visual tasks in the lab of <a href="https://www.haydenlab.com/" target="_blank">Prof. A. Thiele</a> (University of Newcastle, Newcastle, UK). <br/>
+(<a href="https://www.pnas.org/doi/abs/10.1073/pnas.2022097118" target="_blank">Ferro et al., PNAS 2021</a>).
+ </td>
+</tr> 
+ <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">B. Hayden Lab <br/>2020 - ongoing</h3></td>
  <td style="border:none !important;"> Analysis of neural data recorded during decision-making tasks in the lab of <a href="https://www.haydenlab.com/" target="_blank">Prof. B. Hayden</a> (Baylor College Medicine, Houston, TX, USA). <br/>
 (<a href="https://2023.ccneuro.org/proceedings/0000615.pdf?s=W&pn=1122" target="_blank">Ferro et al., CCN 2023</a>; <a href="https://www.nature.com/articles/s41467-024-50214-2" target="_blank">Ferro et al., Nature Communications 2024</a>; 
