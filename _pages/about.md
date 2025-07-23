@@ -90,10 +90,13 @@ redirect_from:
 <h3>About me</h3>
 
 <p style="font-size:.75em">I am a Postdoctoral researcher in the Theoretical and Cognitive Neuroscience (<a href="https://www.upf.edu/web/tcn" target="_blank">TCN</a>) group at the Center for Brain and Computation (<a href="https://www.upf.edu/web/cbc" target="_blank">CBC</a>) within the Department of Engineering of Information and Communication Technologies (<a href="https://www.upf.edu/web/etic" target="_blanK">ETIC</a>), at the University Pompeu Fabra (<a href="https://www.upf.edu/" target="_blanK">UPF</a>), in Barcelona. </p>
+<p style="font-size:.75em">
+My research investigates how the brain integrates visual attention, motor planning, and reward signals to support adaptive, goal-directed behavior. Specifically, I examine the interplay between attentional selection of visual features and visuospatial patterns linked to motor planning under reward expectations. This work involves the analysis of simultaneous eye-tracking and neural recording data to dissect how overt visual sampling, selective processing, and reward-related information encoding interact to guide behavior.
+</p>
 
-<p style="font-size:.75em">My research investigates how the brain integrates visual attention, motor planning, and reward signals to drive adaptive, goal-directed behavior. Specifically, I investigate the interplay between the attentional selection of visual features and visuospatial patterns associated with motor action planning in reward expectation. This involves analyzing simultaneous eye tracking and neural data and dissect the interaction between overt visual sampling, selective processing, and reward-related information encoding.</p>
-
-<p style="font-size:.75em">Both because of my interest in inspecting how the brain achieves its outstanding functions and my deep passion for science and technological innovation, I conduct reearch at an interdisciplinary level, at the interface between technological challenges in the curation of rich experimental data and the theoretical modeling of the functional role of information encoding and transfer at the columnar circuit level.</p>
+<p style="font-size:.75em">
+Driven by a deep interest in understanding the neural basis of complex behavior and a passion for scientific and technological innovation, I pursue research at an interdisciplinary level. My work lies at the intersection of experimental neuroscience and computational modeling, addressing both the technological challenges of curating high-dimensional neural data and the theoretical frameworks needed to interpret the functional role of neural interactions in cortical microcircuits.
+</p>
 
 <p style="font-size:.75em">Beyond my research pursuits, I have a passion for the outdoors. Whether it is swimming regularly, embarking on hiking or climbing adventures, or indulging in some therapeutic gardening, I thrive on connecting with nature. I am also committed to the environmental cause, having actively participated in informative meetings about the climate crisis, contributed to events that promoted sustainable food consumption, and volunteered in clean-up initiatives at natural sites.</p>
 
