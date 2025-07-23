@@ -296,7 +296,7 @@ Model of gaze centred activation of value encoding in orbitofrontal cortex [<a h
  <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">Vision 4 Action <br/>2024 - ongoing</h3></td>
  <td style="border:none !important;"> Analysis of neural data during a hand landing task data for the coordination of visual and motor functions. <br/>
-  This collaboration is a joint venture between the lab of <a href="https://www.fz-juelich.de/profile/gruen_s" target="_blank">Prof. S. Grün</a> (Institute for Advanced Simulations, Jülich, Germany) and the lab of <a href="https://www.int.univ-amu.fr/en/member/brochier.t" target="_blank">Dr. T. Brochier</a> (Institut de Neuroscience de la Timone, Marseille, France).
+  This is a joint venture between the lab of <a href="https://www.fz-juelich.de/profile/gruen_s" target="_blank">Prof. S. Grün</a> (Institute for Advanced Simulations, Jülich, Germany) and the lab of <a href="https://www.int.univ-amu.fr/en/member/brochier.t" target="_blank">Dr. T. Brochier</a> (Institut de Neuroscience de la Timone, Marseille, France).
   (under development)
  </td>
 </tr>
