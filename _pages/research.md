@@ -288,7 +288,7 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
  <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">Human Brain Project 2022-2023</h3></td>
  <td style="border:none !important;"> Data-driven and validated multiscale computational models and neuromorphic implementations [<a href="/files/HBPReport2023.pdf" target="_blank">(D17 - SGA3 M42) report</a>].<br/>
-Model of gaze centred activation of value encoding in orbitofrontal cortex [<a href="https://search.kg.ebrains.eu/instances/a2dce812-1d4b-4fc5-a69f-96005288c12e" target="_blank">EBRAINS Knowledge Graph</a>]. Co-Funded by the European Union 🇪🇺.
+Model of gaze centred activation of value encoding in orbitofrontal cortex [<a href="https://search.kg.ebrains.eu/instances/a2dce812-1d4b-4fc5-a69f-96005288c12e" target="_blank">EBRAINS</a>]. Co-Funded by the European Union 🇪🇺.
  </td>
 </tr>
 
