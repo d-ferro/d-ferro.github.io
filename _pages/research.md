@@ -273,7 +273,7 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
 <table style="border:none !important;">
  <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">B. Hayden Lab <br/>2020 - ongoing</h3></td>
- <td style="border:none !important;"> Analysis of neural data recorded during decision-making tasks by <a href="https://www.haydenlab.com/" target="_blank">Prof. Hayden Lab</a> in orbitofrontal cortex and dorsal anterior cingulate cortex. <br/>
+ <td style="border:none !important;"> Analysis of neural data recorded during decision-making tasks in the lab of <a href="https://www.haydenlab.com/" target="_blank">Prof. B. Hayden</a> (Baylor College Medicine, Houston, TX, USA). <br/>
 (<a href="https://2023.ccneuro.org/proceedings/0000615.pdf?s=W&pn=1122" target="_blank">Ferro et al., CCN 2023</a>; <a href="https://www.nature.com/articles/s41467-024-50214-2" target="_blank">Ferro et al., Nature Communications 2024</a>; 
   <a href="https://2025.ccneuro.org/abstract_pdf/Ferro_2025_Decision-making_reference_point_biases_dorsal_anterior.pdf" target="_blank">Ferro et al., CCN 2025</a>; <a href="https://doi.org/10.1101/2025.03.03.640771" target="_blank">Ferro et al., bioRxiv 2025</a>).
  </td>
@@ -288,14 +288,16 @@ Model of gaze centred activation of value encoding in orbitofrontal cortex [<a h
 
  <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">Gaze 2 Decision <br/>2024 - ongoing</h3></td>
- <td style="border:none !important;"> Theoretical modelling of neural neetwork models for gaze-to-decision coordination, to align with data recorded in the Lab of <a href="https://www.shanghai-neuroeconomics.org/tianming" target="_blank">Dr. T. Yang</a>.<br/>
+ <td style="border:none !important;"> Neural neetwork models for gaze-to-decision coordination, to align with neural data from the Lab of <a href="https://www.shanghai-neuroeconomics.org/tianming" target="_blank">Dr. T. Yang</a> (Institute of Neuroscience, Shanghai, China).<br/>
 (<a href="https://2025.ccneuro.org/abstract_pdf/Ferro_2025_A_closed-loop_model_coordination_gaze_control.pdf" target="_blank">Ferro et al., CCN 2025</a>)
  </td>
 </tr>
 
  <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">Vision 4 Action <br/>2024 - ongoing</h3></td>
- <td style="border:none !important;"> Analysis of neural data during a hand landing task data for the coordination of visual and motor functions (under development).<br/>
+ <td style="border:none !important;"> Analysis of neural data during a hand landing task data for the coordination of visual and motor functions. <br/>
+  This collaboration is a joint venture between the lab of <a href="https://www.fz-juelich.de/profile/gruen_s" target="_blank">Prof. S. Grün</a> (Institute for Advanced Simulations, Jülich, Germany) and the lab of <a href="https://www.int.univ-amu.fr/en/member/brochier.t" target="_blank">Dr. T. Brochier</a> (Institut de Neuroscience de la Timone, Marseille, France).
+  (under development)
  </td>
 </tr>
 
