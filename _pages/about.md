@@ -27,7 +27,7 @@ redirect_from:
     <div class="numbertext">2 / 7</div>
     <img src="/images/slideshow/fig1-sketch.png" style="width:100%;">
     <div class="text">Gambling task and dorsal Anterior Cingulate Cortex. <br/>
-    <b><a href="https://www.researchsquare.com/article/rs-6161777/v1" target="_blank">Ferro et al. <i>bioRxiv</i> 2025, in review.</a></b> </div>
+    <b><a href="https://www.researchsquare.com/article/rs-6161777/v1" target="_blank">Ferro et al. <i>bioRxiv</i> 2025, 📝 in review.</a></b> </div>
   </div>
   
   <div class="mySlides fade">
