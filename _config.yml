@@ -27,8 +27,8 @@ author:
   bio              : "Computational, Cognitive Neuroscience"
   location         : "Barcelona"
   employer         : "Universitat Pompeu Fabra"
-  uri              : "https://producciocientifica.upf.edu/CawDOS/jsf/seleccionActividades/seleccionActividades.jsf?id=5c2826f71fcdeb4b&idioma=ca&tipo=activ&elmeucv=N" # URL
-  uri              : "https://gin.g-node.org/56fe"
+  #uri              : "https://producciocientifica.upf.edu/CawDOS/jsf/seleccionActividades/seleccionActividades.jsf?id=5c2826f71fcdeb4b&idioma=ca&tipo=activ&elmeucv=N" # URL
+  #uri              : "https://gin.g-node.org/56fe"
   email            : "demetrio.ferro@upf.edu" #"none@example.org" 
 
   # Academic websites
@@ -48,6 +48,7 @@ author:
   github           : "d-ferro"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  gnode : "56Fe"
 
   # Social media
   bluesky          : "d-ferro.bsky.social" #"bsky.app" # Replace this with you Bluesky username
