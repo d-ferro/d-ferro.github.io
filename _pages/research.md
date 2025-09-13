@@ -131,7 +131,7 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
 </tr>
 <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important; vertical-align:top !important"><h3 style="margin-top:0 !important">SfN 2017</h3></td>
- <td style="border:none !important;">A. Thiele, <b>D. Ferro</b>, M. Boyd and S. Panzeri, “Layer dependent attentional modulation of broad and narrow spiking cells in primate V1”, Annual Meeting of the Society for Neuroscience (<i>SfN</i>), 2017 (Washington, DC, USA 🇺🇸). <a style="color:#444" href="/files/ProgrammeSFN2017.pdf" type="application/pdf" target="_blank">[programme]</a> <a style="color:#444" href="/files/AbstractSFN2017.pdf" type="application/pdf" target="_blank">[abstract]</a> [poster]
+ <td style="border:none !important;">A. Thiele, <b>D. Ferro</b>, M. Boyd and S. Panzeri, “Layer dependent attentional modulation of broad and narrow spiking cells in primate V1”, Annual Meeting of the Society for Neuroscience (<i>SfN</i>), 2017 (Washington, DC, USA 🇺🇸). <a style="color:#444" href="/files/ProgrammeSFN2017.pdf" type="application/pdf" target="_blank">[programme]</a> <a style="color:#444" href="/files/AbstractSFN2017.pdf" type="application/pdf" target="_blank">[abstract]</a> <!-- [poster] -->
  </td>
  </tr>
 </table>
@@ -244,7 +244,10 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
 <table style="border:none !important;">
  <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">Bial Foundation</h3></td>
- <td style="border:none !important;"> Gaze-centered decision making [<a href="https://www.bialfoundation.com/com/grants/grants-2022/" target="_blank">Grants 2022</a>] [<a href="https://fbial.yggycloud.com/archivesearch.aspx?base=fbial&search=cod%3a%22PT%2fFB%2fBL-2022-106%24%22&page=1&format=#" target="_blank">fbial cloud</a>] [<a href="/files/BialFinalReport2025.pdf" target="_blank" type="application/pdf">report</a>].
+ <td style="border:none !important;"> Gaze-centered decision making, <a href="https://www.bialfoundation.com/com/grants/grants-2022/" target="_blank">Bial Foundations 2022</a>, <a href="/files/BialFinalReport2025.pdf" target="_blank" type="application/pdf">, Ref: PT/FB/BL-2022-106</a>. 
+
+  This work was devoted to the study of the encoding of reward-based value in the orbitofrontal cortex and the role of gaze position in modulating its gating and reactivation in decision-making tasks (Ferro et al., CCN 2023, Ferro et al., Nature Communications 2024).
+
  </td>
 </tr>
 </table>
@@ -255,7 +258,7 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
 <table style="border:none !important;">
  <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">2025</h3></td>
- <td style="border:none !important; width:80% !important;"> 1 Verified review for Nature Communications [<a href="https://www.webofscience.com/wos/author/record/JCE-8721-2023" target="_blank">Web of Science</a>].
+ <td style="border:none !important; width:80% !important;"> 1 Verified review for Nature Communications [<a href="https://orcid.org/0000-0003-4969-1415" target="_blank">ORCID</a>].
   <br/>6 Verified reviews for PLOS Computational Biology [<a href="https://www.webofscience.com/wos/author/record/JCE-8721-2023" target="_blank">Web of Science</a>].
   <br/>1 Verified review for Qeios [<a href="https://www.webofscience.com/wos/author/record/JCE-8721-2023" target="_blank">Web of Science</a>].
  </td>
