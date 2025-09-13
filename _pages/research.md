@@ -245,8 +245,7 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
  <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">Bial Foundation</h3></td>
  <td style="border:none !important;"> <b>Gaze-centered decision making</b>, <a href="https://www.bialfoundation.com/com/grants/grants-2022/" target="_blank">Bial Foundations 2022</a>, <a href="/files/BialFinalReport2025.pdf" target="_blank" type="application/pdf">Ref: PT/FB/BL-2022-106</a>. 
-  This work was devoted to the study of the encoding of reward-based value in the orbitofrontal cortex and the role of gaze position in modulating its gating and reactivation in decision-making tasks (Ferro et al., CCN 2023, Ferro et al., Nature Communications 2024).
-
+<br/>This work was devoted to the study of the encoding of reward-based value in the orbitofrontal cortex and the role of gaze position in modulating its gating and reactivation in decision-making tasks (Ferro et al., CCN 2023, Ferro et al., Nature Communications 2024).
  </td>
 </tr>
 </table>
