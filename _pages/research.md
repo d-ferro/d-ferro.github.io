@@ -53,8 +53,8 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
  </tr>
 
  <tr style="border:none !important;">
- <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important; vertical-align:top !important"><h3 style="margin-top:0 !important">BL 2023<br/>(invited)</h3></td>
- <td style="border:none !important;"><b>D. Ferro</b>, A. Rifé-Mata, T. Cash-Padgett, M. Z. Wang, B. Y. Hayden, R. Moreno-Bote, “The role of gaze for value encoding and recollection in orbitofrontal cortex”, <a href="http://www.bottinilab.com/" target="_blank">Bottini Lab, </a>, November 2023 (Rovereto, Italy 🇮🇹). <a style="color:#444" href="/files/PosterCCN2023.pdf" type="application/pdf" target="_blank">[abstract]</a>
+ <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important; vertical-align:top !important"><h3 style="margin-top:0 !important">CIMeC 2023<br/>(invited)</h3></td>
+ <td style="border:none !important;"><b>D. Ferro</b>, A. Rifé-Mata, T. Cash-Padgett, M. Z. Wang, B. Y. Hayden, R. Moreno-Bote, “The role of gaze for value encoding and recollection in orbitofrontal cortex”, <a href="http://www.bottinilab.com/" target="_blank">Bottini Lab, </a> Centro Interdipartimentale Mente/Cervello (CIMeC), November 2023 (Rovereto, Italy 🇮🇹). <a style="color:#444" href="/files/PosterCCN2023.pdf" type="application/pdf" target="_blank">[abstract]</a>
 </td>
 </tr>
 
