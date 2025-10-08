@@ -22,7 +22,7 @@ author_profile: true
  <b>Demetrio Ferro</b>, Tianming Yang, Rubén Moreno Bote<br/>
   <i>Cognitive, Computational Neuroscience (CCN)</i>, 2025; 
   PDF: 📄<a style="color:#444" href="https://2025.ccneuro.org/abstract_pdf/Ferro_2025_A_closed-loop_model_coordination_gaze_control.pdf" type="application/pdf" target="_blank">CCNeuro</a>; 
-  Correspondance: <a href="mailto:demetrio.ferro@upf.edu">D. Ferro</a>.
+  Corresponding Author: <a href="mailto:demetrio.ferro@upf.edu" target="_blank">D. Ferro</a>.
 
 <div style="margin-top: 10px; padding-left: 10px; border-left: 1px dotted #777; color:#999"><i style="font-size:9pt">
  This work introduces a closed-loop model linking gaze behavior with value-based decision making. <br/>
@@ -36,7 +36,8 @@ author_profile: true
  <td style="border:none !important;"><a style="color:#444" href="https://2025.ccneuro.org" target="_blank">Decision-making reference point biases in the dorsal anterior cingulate cortex</a><br/>
  <b>Demetrio Ferro</b>, Habiba Azab, Benjamin Y. Hayden, Rubén Moreno Bote<br/>
   <i>Cognitive, Computational Neuroscience (CCN)</i>, 2025; 
- PDF: 📄<a style="color:#444" href="https://2025.ccneuro.org/abstract_pdf/Ferro_2025_Decision-making_reference_point_biases_dorsal_anterior.pdf" type="application/pdf" target="_blank">CCNeuro</a>
+ PDF: 📄<a style="color:#444" href="https://2025.ccneuro.org/abstract_pdf/Ferro_2025_Decision-making_reference_point_biases_dorsal_anterior.pdf" type="application/pdf" target="_blank">CCNeuro</a>; 
+    Corresponding Author: <a href="mailto:demetrio.ferro@upf.edu" target="_blank">D. Ferro</a>.
 
 <div style="margin-top: 10px; padding-left: 10px; border-left: 1px dotted #777; color:#999"><i style="font-size:9pt">
 In proximity of a jackpot, subjects perform choices faster and more accurately, reflecting a fundamental shift in their evaluation strategy. <br/>
@@ -54,7 +55,8 @@ Neural activity in dorsal anterior cingulate cortex tracked this reference-depen
  <td style="border:none !important;"><a style="color:#444" href="https://doi.org/10.1038/s41467-024-50214-2" target="_blank">Gaze-centered gating, reactivation, and reevaluation of economic value in orbitofrontal cortex</a> <br/>
 <b>Demetrio Ferro</b>, Tyler Cash-Padgett, Maya Zhe-Wang, <a style="color:#444" href="https://www.haydenlab.com/" target="_blank">Benjamin Y. Hayden</a>, <a style="color:#444" href="https://www.upf.edu/web/tcn" target="_blank">Rubén Moreno Bote</a><br/>
 <i>Nature Communications</i>, <b>15</b>:6163, 2024 <br/> 
-DOI:<a style="color:#444" href="https://doi.org/10.1038/s41467-024-50214-2" target="_blank">10.1038/s41467-024-50214-2</a>; Data and code: <a style="color:#444" href="https://doi.org/10.12751/g-node.evlnq5">repository</a>; PDF: 📄<a style="color:#444" href="https://www.nature.com/articles/s41467-024-50214-2.pdf" type="application/pdf" target="_blank">NatComms</a>, <a style="color:#444" href="https://www.biorxiv.org/content/10.1101/2023.04.20.537677v3.full.pdf" type="application/pdf"  target="_blank">bioRxiv</a> <a href="https://www.researchsquare.com/article/rs-2851867/v1" type="application/pdf"  target="_blank">ResearchSquare</a>
+DOI:<a style="color:#444" href="https://doi.org/10.1038/s41467-024-50214-2" target="_blank">10.1038/s41467-024-50214-2</a>; Data and code: <a style="color:#444" href="https://doi.org/10.12751/g-node.evlnq5">repository</a>; PDF: 📄<a style="color:#444" href="https://www.nature.com/articles/s41467-024-50214-2.pdf" type="application/pdf" target="_blank">NatComms</a>, <a style="color:#444" href="https://www.biorxiv.org/content/10.1101/2023.04.20.537677v3.full.pdf" type="application/pdf"  target="_blank">bioRxiv</a> <a href="https://www.researchsquare.com/article/rs-2851867/v1" type="application/pdf"  target="_blank">ResearchSquare</a>;
+    Corresponding Author: <a href="mailto:demetrio.ferro@upf.edu" target="_blank">D. Ferro</a>.
 <br/> 
  <div style="margin-top: 10px; padding-left: 10px; border-left: 1px dotted #777; color:#999"><i style="font-size:9pt">
   Gaze behavior strongly influences decision making during economic choices. <br/>
@@ -71,7 +73,8 @@ DOI:<a style="color:#444" href="https://doi.org/10.1038/s41467-024-50214-2" targ
  <td style="border:none !important;"><a style="color:#444" href="https://2023.ccneuro.org/view_paper8951.html?PaperNum=1122" target="_blank">The role of gaze for value encoding and recollection in orbitofrontal cortex</a><br/>
  <b>Demetrio Ferro</b>, Anna Rifé Mata, Tyler Cash-Padgett, Maya Zhe-Wang, Benjamin Y. Hayden, Rubén Moreno Bote<br/>
   <i>Cognitive, Computational Neuroscience (CCN)</i>, 2023 <br/>
-DOI:<a style="color:#444" href="https://2023.ccneuro.org/view_paper8951.html?PaperNum=1122" target="_blank">10.32470/CCN.2023.1122-0</a>; PDF: 📄<a style="color:#444" href="https://2023.ccneuro.org/proceedings/0000615.pdf?s=W&pn=1122" type="application/pdf" target="_blank">CCNeuro</a>
+DOI:<a style="color:#444" href="https://2023.ccneuro.org/view_paper8951.html?PaperNum=1122" target="_blank">10.32470/CCN.2023.1122-0</a>; PDF: 📄<a style="color:#444" href="https://2023.ccneuro.org/proceedings/0000615.pdf?s=W&pn=1122" type="application/pdf" target="_blank">CCNeuro</a>;
+  Corresponding Author: <a href="mailto:demetrio.ferro@upf.edu" target="_blank">D. Ferro</a>.
 
  <div style="margin-top: 10px; padding-left: 10px; border-left: 1px dotted #777; color:#999"><i style="font-size:9pt">
   Gaze is drawn more to valuable options and predicts choice outcomes.  <br/>
@@ -91,7 +94,7 @@ DOI:<a style="color:#444" href="https://2023.ccneuro.org/view_paper8951.html?Pap
  <td style="border:none !important;"><a style="color:#444" href="https://www.pnas.org/doi/abs/10.1073/pnas.2022097118">Directed information exchange between cortical layers in macaque V1 and V4 and its modulation by selective attention</a> <br/>
      <b>Demetrio Ferro</b>, Jochem van Kempen, Michael Boyd, <a style="color:#444" href="https://www.iit.it/people-details/-/people/stefano-panzeri" target="_blank">Stefano Panzeri</a>, <a style="color:#444" href="https://www.staff.ncl.ac.uk/alex.thiele/" target="blank">Alexander Thiele</a><br/>
      <i>Proceedings of the National Academy of Sciences</i>, 118 (12), e2022097118, 2021<br/>
-  DOI: <a style="color:#444" href="https://doi.org/10.1073/pnas.2022097118" target="_blank">10.1073/pnas.2022097118</a>; Data and code: <a style="color:#444" href="https://gin.g-node.org/56Fe/V1-V4-LFPs-and-Visual-Attention" target="_blank">repository</a>; PDF: 📄<a style="color:#444" href="https://www.pnas.org/doi/reader/10.1073/pnas.2022097118" type="application/pdf" target="_blank">PNAS</a>, <a style="color:#444" href="https://www.biorxiv.org/content/10.1101/2020.06.09.142190v1.full.pdf" type="application/pdf" target="_blank">bioRxiv</a>
+  DOI: <a style="color:#444" href="https://doi.org/10.1073/pnas.2022097118" target="_blank">10.1073/pnas.2022097118</a>; Data and code: <a style="color:#444" href="https://gin.g-node.org/56Fe/V1-V4-LFPs-and-Visual-Attention" target="_blank">repository</a>; PDF: 📄<a style="color:#444" href="https://www.pnas.org/doi/reader/10.1073/pnas.2022097118" type="application/pdf" target="_blank">PNAS</a>, <a style="color:#444" href="https://www.biorxiv.org/content/10.1101/2020.06.09.142190v1.full.pdf" type="application/pdf" target="_blank">bioRxiv</a>;
  
  <div style="margin-top: 10px; padding-left: 10px; border-left: 1px dotted #777; color:#999"><i style="font-size:9pt">
   This work maps how visual and attentional information propagate within and between cortical areas V1 and V4 at laminar resolution. <br/>
@@ -108,7 +111,7 @@ DOI:<a style="color:#444" href="https://2023.ccneuro.org/view_paper8951.html?Pap
  <td style="border:none !important;"><a style="color:#444" href="https://ieeexplore.ieee.org/abstract/document/7727873/">Nearest neighbour search using binary neural networks</a> <br/>
   <b>Demetrio Ferro</b>, Vincent Gripon, Xiaoran Jiang.<br />
   <i>International Joint Conference on Neural Networks (IJCNN), IEEE</i>, 5106-5112, 2016<br/>
-  DOI:<a style="color:#444" href="https://doi.org/10.1109/IJCNN.2016.7727873" target="_blank">10.1109/IJCNN.2016.7727873</a>; PDF: 📄<a style="color:#444" href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7727873" type="application/pdf" target="_blank">IEEE</a>
+  DOI:<a style="color:#444" href="https://doi.org/10.1109/IJCNN.2016.7727873" target="_blank">10.1109/IJCNN.2016.7727873</a>; PDF: 📄<a style="color:#444" href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7727873" type="application/pdf" target="_blank">IEEE</a>;   Corresponding Author: <a href="mailto:demetrio.ferro@upf.edu" target="_blank">D. Ferro</a>.
 
   <div style="margin-top: 10px; padding-left: 10px; border-left: 1px dotted #777; color:#999"><i style="font-size:9pt">
   Nearest neighbor search is a common task in computer vision and pattern recognition whose complexity grows with data dimensionality. <br/>
