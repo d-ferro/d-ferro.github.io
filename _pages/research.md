@@ -256,13 +256,13 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
 <table style="border:none !important;">
  <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">2025</h3></td>
- <td style="border:none !important; width:80% !important;"> 1 Verified review for Nature Communications [<a href="https://orcid.org/0000-0003-4969-1415" target="_blank">ORCID</a>].
-  <br/>6 Verified reviews for PLOS Computational Biology [<a href="https://www.webofscience.com/wos/author/record/JCE-8721-2023" target="_blank">Web of Science</a>].
-  <br/>1 Verified review for Qeios [<a href="https://www.webofscience.com/wos/author/record/JCE-8721-2023" target="_blank">Web of Science</a>].
+ <td style="border:none !important; width:80% !important;"> 1 Verified review for <i>Nature Communications</i> [<a href="https://orcid.org/0000-0003-4969-1415" target="_blank">ORCID</a>].
+  <br/>6 Verified reviews for <i>PLOS Computational Biology</i> [<a href="https://www.webofscience.com/wos/author/record/JCE-8721-2023" target="_blank">Web of Science</a>].
+  <br/>1 Verified review for <i>Qeios</i> [<a href="https://www.webofscience.com/wos/author/record/JCE-8721-2023" target="_blank">Web of Science</a>].
  </td>
  </tr><tr>
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">2024</h3></td>
- <td style="border:none !important; width:80% !important;"> 1 Verified review for PLOS Computational Biology [<a href="https://www.webofscience.com/wos/author/record/JCE-8721-2023" target="_blank">Web of Science</a>].
+ <td style="border:none !important; width:80% !important;"> 1 Verified review for <i>PLOS Computational Biology</i> [<a href="https://www.webofscience.com/wos/author/record/JCE-8721-2023" target="_blank">Web of Science</a>].
  </td>
 </tr>
 </table>
