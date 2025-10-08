@@ -136,7 +136,7 @@ DOI:<a style="color:#444" href="https://2023.ccneuro.org/view_paper8951.html?Pap
  <td style="border:none !important;"><a style="color:#444" href="https://doi.org/10.1101/2025.03.03.640771" target="_blank">Accumulation of virtual tokens towards a jackpot reward enhances performance and value encoding in dorsal anterior cingulate cortex</a> <br/>
   <b>Demetrio Ferro</b>, Habiba Azab, Benjamin Y. Hayden and Rubén Moreno-Bote <br/>
   <i>bioRxiv</i>, 2025. - <a href="https://www.researchsquare.com/article/rs-6161777/v1" target="_blank">Under review 📝</a><br/>
-  DOI: <a href="https://doi.org/10.12751/g-node.1kkrw6" target="_blank">10.12751/g-node.1kkrw6</a>; Data and code: <a href="https://10.12751/g-node.1kkrw6" target="_blank">repository</a>; PDF: 📄<a style="color:#444" href="https://doi.org/10.1101/2025.03.03.640771" target="_blank">bioRxiv</a>
+  DOI: <a href="https://doi.org/10.12751/g-node.1kkrw6" target="_blank">10.12751/g-node.1kkrw6</a>; Data and code: <a href="https://10.12751/g-node.1kkrw6" target="_blank">repository</a>; PDF: 📄<a style="color:#444" href="https://doi.org/10.1101/2025.03.03.640771" target="_blank">bioRxiv</a>;   Corresponding Author: <a href="mailto:demetrio.ferro@upf.edu" target="_blank">D. Ferro</a>.
  </td>
 </tr>
  
@@ -146,7 +146,7 @@ DOI:<a style="color:#444" href="https://2023.ccneuro.org/view_paper8951.html?Pap
  <td style="border:none !important;"><a style="color:#444" href="https://search.kg.ebrains.eu/instances/a2dce812-1d4b-4fc5-a69f-96005288c12e" target="_blank">Model of gaze-centered activation and reactivation of value encoding in orbitofrontal cortex</a> <br/>
   <b>Demetrio Ferro</b>, Benjamin Y. Hayden and Rubén Moreno-Bote <br/>
   <i>Ebrains Knowledgegraph</i>, 2023.<br/>
-  DOI: <a href="https://search.kg.ebrains.eu/instances/a2dce812-1d4b-4fc5-a69f-96005288c12e" target="_blank">10.12751/g-node.72yf9s</a>; Data and code: <a href="https://10.12751/g-node.72yf9s" target="_blank">repository</a>
+  DOI: <a href="https://search.kg.ebrains.eu/instances/a2dce812-1d4b-4fc5-a69f-96005288c12e" target="_blank">10.12751/g-node.72yf9s</a>; Data and code: <a href="https://10.12751/g-node.72yf9s" target="_blank">repository</a>;   Corresponding Author: <a href="mailto:demetrio.ferro@upf.edu" target="_blank">D. Ferro</a>.
  </td>
 </tr>
 <tr style="border:none !important;">
@@ -154,7 +154,7 @@ DOI:<a style="color:#444" href="https://2023.ccneuro.org/view_paper8951.html?Pap
  <td style="border:none !important;"><a style="color:#444" href="https://www.biorxiv.org/content/10.1101/2023.04.20.537677v3" target="_blank">Gaze-centered gating and re-activation of value encoding in orbitofrontal cortex</a><br/>
   <b>Demetrio Ferro</b>, Tyler Cash-Padgett, Maya Zhe-Wang, Benjamin Y. Hayden, Rubén Moreno Bote<br/>
   <i>bioRxiv</i>, 2023 <br/>
-  DOI: <a style="color:#444" href="https://doi.org/10.1101/2023.04.20.537677" target="_blank">10.1101/2023.04.20.537677</a>; Data and code: <a style="color:#444" href="https://doi.org/10.12751/g-node.evlnq5" target="_blank">repository</a>; PDF: 📄<a style="color:#444" href="https://www.biorxiv.org/content/10.1101/2023.04.20.537677v3.full.pdf" type="application/pdf"  target="_blank">bioRxiv</a>
+  DOI: <a style="color:#444" href="https://doi.org/10.1101/2023.04.20.537677" target="_blank">10.1101/2023.04.20.537677</a>; Data and code: <a style="color:#444" href="https://doi.org/10.12751/g-node.evlnq5" target="_blank">repository</a>; PDF: 📄<a style="color:#444" href="https://www.biorxiv.org/content/10.1101/2023.04.20.537677v3.full.pdf" type="application/pdf"  target="_blank">bioRxiv</a>;   Corresponding Author: <a href="mailto:demetrio.ferro@upf.edu" target="_blank">D. Ferro</a>.
  </td>
 </tr> 
 <!-- 2021-->
@@ -164,7 +164,7 @@ DOI:<a style="color:#444" href="https://2023.ccneuro.org/view_paper8951.html?Pap
  <td style="border:none !important;"><a style="color:#444" href="https://www.biorxiv.org/content/10.1101/2020.06.09.142190v1">Directed information exchange between cortical layers in macaque V1 and V4 and its modulation by selective attention</a> <br/>
    <b>Demetrio Ferro</b>, Jochem van Kempen, Michael Boyd, Stefano Panzeri, Alexander Thiele<br/>
   <i>bioRxiv</i>, 2020 <br/>
-  DOI: <a style="color:#444" href="https://doi.org/10.1101/2020.06.09.142190">10.1101/2020.06.09.142190</a>; PDF: 📄<a style="color:#444" href="https://www.biorxiv.org/content/10.1101/2020.06.09.142190v1.full.pdf" type="application/pdf" target="_blank">bioRxiv</a>
+  DOI: <a style="color:#444" href="https://doi.org/10.1101/2020.06.09.142190">10.1101/2020.06.09.142190</a>; PDF: 📄<a style="color:#444" href="https://www.biorxiv.org/content/10.1101/2020.06.09.142190v1.full.pdf" type="application/pdf" target="_blank">bioRxiv</a>;   Corresponding Author: <a href="mailto:demetrio.ferro@upf.edu" target="_blank">D. Ferro</a>.
  </td>
 </tr>
  <!-- 2019-->
@@ -172,7 +172,7 @@ DOI:<a style="color:#444" href="https://2023.ccneuro.org/view_paper8951.html?Pap
  <td style="border:none !important; text-align:center !important; vertical-align:top !important"><h3 style="margin-top:0 !important">2019</h3></td>
  <td style="border:none !important;"><a style="color:#444" href="https://hdl.handle.net/11572/246290">Effects of attention on visual processing between cortical layers and cortical areas V1 and V4</a> <br/>
   <b>Demetrio Ferro</b>, <i>University of Trento, Institutional Research Information System (IRIS)</i>, 1-172, 2019<br />
-  DOI:<a style="color:#444" href="https://dx.doi.org/10.15168/11572_246290" target="_blank">10.15168/11572_246290</a>; PDF: 📄<a style="color:#444" href="https://iris.unitn.it/retrieve/e3835195-f568-72ef-e053-3705fe0ad821/DFerro-Thesis-final-updated-reviews-ok.pdf" type="application/pdf" target="_blank">IRIS</a>
+  DOI:<a style="color:#444" href="https://dx.doi.org/10.15168/11572_246290" target="_blank">10.15168/11572_246290</a>; PDF: 📄<a style="color:#444" href="https://iris.unitn.it/retrieve/e3835195-f568-72ef-e053-3705fe0ad821/DFerro-Thesis-final-updated-reviews-ok.pdf" type="application/pdf" target="_blank">IRIS</a>;   Corresponding Author: <a href="mailto:demetrio.ferro@upf.edu" target="_blank">D. Ferro</a>.
  </td>
 </tr>
 </table>
