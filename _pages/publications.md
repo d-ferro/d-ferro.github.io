@@ -41,9 +41,9 @@ author_profile: true
 
   <div style="margin-top: 10px; padding-left: 10px; border-left: 1px dotted #777; color:#999">
   <i style="font-size:9pt">
-    As decision-making agents approach a reward threshold, the choice formation process becomes faster and more accurate. This shift is a clear indication of a context-dependent change in how value is assigned to potential outcomes. <br/>
-    The perceived value of each alternative option is adjusted according to a cumulative token count, where reaching a predefined threshold triggers the reward, akin to nearing a "jackpot" state. <br/>
-    Activity in the dorsal anterior cingulate cortex was found to track this context-sensitive revaluation, providing neural evidence for how decision-making adapts based on proximity to a reward.
+    As decision-making agents approach a reward threshold, the choice formation process becomes faster and more accurate. <br/>
+    This shift is a clear indication of a context-dependent change in how value is assigned to potential outcomes. <br/>
+    Activity in the dorsal anterior cingulate cortex tracks this dynamical evaluation, shaping decision-making based on reward proximity.
   </i>
 </div>
   
