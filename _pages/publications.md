@@ -39,11 +39,13 @@ author_profile: true
  PDF: 📄<a style="color:#444" href="https://2025.ccneuro.org/abstract_pdf/Ferro_2025_Decision-making_reference_point_biases_dorsal_anterior.pdf" type="application/pdf" target="_blank">CCNeuro</a>; 
     Corresponding Author: <a style="font-weight:bold" href="mailto:demetrio.ferro@upf.edu" target="_blank">D. Ferro</a>.
 
-<div style="margin-top: 10px; padding-left: 10px; border-left: 1px dotted #777; color:#999"><i style="font-size:9pt">
-In proximity of a jackpot, subjects perform choices faster and more accurately, reflecting a fundamental shift in their evaluation strategy. <br/>
-The value of alternative choice options is referenced to a cumulative tokens count that leads to jackpot achievement upon reaching a fixed threshold. <br/>
-Neural activity in dorsal anterior cingulate cortex tracked this reference-dependent shift, revealing a neural basis for reward proximity in decision-making.</i></div>
-
+  <div style="margin-top: 10px; padding-left: 10px; border-left: 1px dotted #777; color:#999">
+  <i style="font-size:9pt">
+    As decision-making agents approach a reward threshold, the choice formation process becomes faster and more accurate. This shift is a clear indication of a context-dependent change in how value is assigned to potential outcomes. <br/>
+    The perceived value of each alternative option is adjusted according to a cumulative token count, where reaching a predefined threshold triggers the reward, akin to nearing a "jackpot" state. <br/>
+    Activity in the dorsal anterior cingulate cortex was found to track this context-sensitive revaluation, providing neural evidence for how decision-making adapts based on proximity to a reward.
+  </i>
+</div>
   
  </td>
 </tr>
@@ -137,6 +139,13 @@ DOI:<a style="color:#444" href="https://2023.ccneuro.org/view_paper8951.html?Pap
   <b>Demetrio Ferro</b>, Habiba Azab, Benjamin Y. Hayden and Rubén Moreno-Bote <br/>
   <i>bioRxiv</i>, 2025. - <a href="https://www.researchsquare.com/article/rs-6161777/v1" target="_blank">Under review 📝</a><br/>
   DOI: <a href="https://doi.org/10.12751/g-node.1kkrw6" target="_blank">10.12751/g-node.1kkrw6</a>; Data and code: <a href="https://10.12751/g-node.1kkrw6" target="_blank">repository</a>; PDF: 📄<a style="color:#444" href="https://doi.org/10.1101/2025.03.03.640771" target="_blank">bioRxiv</a>;   Corresponding Author: <a style="font-weight:bold" href="mailto:demetrio.ferro@upf.edu" target="_blank">D. Ferro</a>.
+ 
+
+<div style="margin-top: 10px; padding-left: 10px; border-left: 1px dotted #777; color:#999"><i style="font-size:9pt">
+In proximity of a jackpot, subjects perform choices faster and more accurately, reflecting a fundamental shift in their evaluation strategy. <br/>
+The value of alternative choice options is referenced to a cumulative tokens count that leads to jackpot achievement upon reaching a fixed threshold. <br/>
+Neural activity in dorsal anterior cingulate cortex tracked this reference-dependent shift, revealing a neural basis for reward proximity in decision-making.</i></div>
+ 
  </td>
 </tr>
  
