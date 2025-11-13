@@ -180,7 +180,7 @@ Session 17E: Decision Making, Talk N.65, Room U6-23, Programme P.27<br/>
 
 <blockquote class="twitter-tweet" data-media-max-width="560">
   <p style="font-size:.75em" lang="en" dir="ltr">
-    My interview with <a href="https://www.upf.edu/c/portal/update_language?p_l_id=230627930&redirect=%2Fweb%2Ffocus%2Fnoticies%2F-%2Fasset_publisher%2FqOocsyZZDGHL%2Fcontent%2Fid%2F244381810%2F&languageId=en_US" target="_blank">Universitat Pompeu Fabra</a> gives an in-depth look at my ongoing projects, including my work on visual attention published in <a href="https://doi.org/10.1073/pnas.2022097118" target="_blank">PNAS</a>. Excited to share insights on my future steps in research! <br/>  &mdash; Demetrio Ferro, 7 Apr 2021</p>
+    My interview with <a href="https://www.upf.edu/c/portal/update_language?p_l_id=230627930&redirect=%2Fweb%2Ffocus%2Fnoticies%2F-%2Fasset_publisher%2FqOocsyZZDGHL%2Fcontent%2Fid%2F244381810%2F&languageId=en_US" target="_blank">Universitat Pompeu Fabra</a> gives an in-depth look at my ongoing projects, including my work on visual attention published in <a href="https://doi.org/10.1073/pnas.2022097118" target="_blank">PNAS</a>. Excited to share insights on my future steps in research! <br/>  &mdash; Demetrio Ferro, 23 March 2021</p>
 </blockquote>
 
 </div>
