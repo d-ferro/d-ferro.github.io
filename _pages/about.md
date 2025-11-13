@@ -115,9 +115,6 @@ Driven by a deep interest in understanding the neural basis of complex behavior 
 
 <blockquote class="twitter-tweet"><p style="font-size:.75em" lang="en" dir="ltr">Today I will present my work entitled "Decision-making reference point biases in the dorsal anterior cingulate cortex" in collaboration with Prof. B. Hayden (Baylor College Medicine) at the Conference on "Cognitive, Computational Neuroscience" in Amsterdam, 🇳🇱. <a href="https://2025.ccneuro.org/poster/?id=wkKnULozOB" target="_blank">[abstract]</a> <a href="https://d-ferro.github.io/files/2025CCN___dACC_Poster.pdf" target="_blank">[poster]</a><br/>&mdash; Demetrio Ferro, August 12, 2025</p></blockquote> 
 
-
-<blockquote class="twitter-tweet"><p style="font-size:.75em" lang="en" dir="ltr">I will present my research about attention and cognitive control at the Citizen science And SciEntific reSearch (<a target="_blank" href="https://d-ferro.github.io/files/CASESUPF2024.pdf">CASES</a>) meeting, an <a target="_blank" href="https://eutopia-university.eu/">🇪🇺 EUTOPIA Impact and Dissemination</a> promoting highly transdisciplinary exchange across scientists 🔭, artists 🖼️, and involving schools and citizens 🏘️. Organized by <a target="_blank" href="https://eutopia-university.eu/english-version/sif-post-doctoral-fellowships/sif-3rd-cohort-fellows-ornella-salimbene-university-of-ljubljana">Dr. O. Salimbene</a> (University of Ljubljana) at Universitat Pompeu Fabra in Barcelona, Spain.<br/>&mdash; Demetrio Ferro, July 2, 2025</p></blockquote> 
-
 <blockquote class="twitter-tweet"><p style="font-size:.75em" lang="en" dir="ltr">‪I will be presenting at <a href="https://www.crm.cat/neurochats-seminar/" target="_blank">Neurochats💬</a>! This series of events brings together young neuroscientists based in the metropolitan area of Barcelona, fostering knowledge exchange about each other's work. The event will be on Wednesday May 14th at Campus de la Ciutadella, room 24.S01.
 <br/>&mdash; Demetrio Ferro, May 10, 2025</p></blockquote> 
 
@@ -153,13 +150,16 @@ Session 17E: Decision Making, Talk N.65, Room U6-23, Programme P.27<br/>
 </div>
 
 
-<h3>Media outreach</h3>
+<h3>Public outreach</h3>
 
 <div style="height:220px; overflow:auto">
   <blockquote class="twitter-tweet" data-media-max-width="560">
     <p style="font-size:.75em" lang="en" dir="ltr">
       I’m thrilled to be featured in <a href="https://vincenzomoretti.nova100.ilsole24ore.com/2025/11/05/demetrio-ferro/?refresh_ce=1" target="_blank">Il Sole 24 Ore</a>, where I had the incredible opportunity to discuss my professional mission and vision for the future! Huge thanks to Vincenzo Moretti for the insightful conversation. (<a href="https://d-ferro.github.io/files/ilsole24ore_interview.pdf" target="_blank">Read the English version</a>.)<br/> &mdash; Demetrio Ferro, Nov 8, 2025</p>
   </blockquote>
+
+  <blockquote class="twitter-tweet"><p style="font-size:.75em" lang="en" dir="ltr">I will present my research about attention and cognitive control at the Citizen science And SciEntific reSearch (<a target="_blank" href="https://d-ferro.github.io/files/CASESUPF2024.pdf">CASES</a>) meeting, an <a target="_blank" href="https://eutopia-university.eu/">🇪🇺 EUTOPIA Impact and Dissemination</a> promoting highly transdisciplinary exchange across scientists 🔭, artists 🖼️, and involving schools and citizens 🏘️. Organized by <a target="_blank" href="https://eutopia-university.eu/english-version/sif-post-doctoral-fellowships/sif-3rd-cohort-fellows-ornella-salimbene-university-of-ljubljana">Dr. O. Salimbene</a> (University of Ljubljana) at Universitat Pompeu Fabra in Barcelona, Spain.<br/>&mdash; Demetrio Ferro, July 2, 2025</p></blockquote> 
+
 
   <blockquote class="twitter-tweet" data-media-max-width="560">
     <p style="font-size:.75em" lang="en" dir="ltr">
