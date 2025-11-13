@@ -157,9 +157,30 @@ Session 17E: Decision Making, Talk N.65, Room U6-23, Programme P.27<br/>
 <div style="height:370px; overflow:auto">
 <blockquote class="twitter-tweet" data-media-max-width="560"> <p style="font-size:.75em" lang="en" dir="ltr"> A recent feature on <a href="https://vincenzomoretti.nova100.ilsole24ore.com/2025/11/05/demetrio-ferro/?refresh_ce=1" target="_blank">Il Sole 24 Ore</a> offers insights into my professional mission and vision for the future, based on a conversation with Vincenzo Moretti. (<a href="https://d-ferro.github.io/files/ilsole24ore_interview.pdf" target="_blank">Read the English version</a>.) <br/> &mdash; Demetrio Ferro, Nov 8, 2025 </p></blockquote>
 <blockquote class="twitter-tweet" data-media-max-width="560"> <p style="font-size:.75em" lang="en" dir="ltr"> I was recently interviewed by <a href="https://www.upf.edu/web/enginyeria/inici/-/asset_publisher/nT5ucm2DcHyd/content/un-estudi-de-neurocient%C3%ADfics-d-enginyeria-upf-demostra-com-la-direcci%C3%B3-de-la-mirada-determina-la-presa-de-decisions-a-l-hora-d-escollir-entre-2-o-m%C3%A9s-objectes" target="_blank">Universitat Pompeu Fabra</a> about my work on Gaze-Centered Decision Making, recently published in <a href="https://www.nature.com/articles/s41467-024-50214-2.pdf" target="_blank">Nature Communications</a>. <br/> &mdash; Demetrio Ferro, Sept 23, 2024 </p></blockquote>
-<blockquote class="twitter-tweet" data-media-max-width="560"> <p style="font-size:.75em" lang="en" dir="ltr"> My latest feature on <a href="https://www.eurekalert.org/news-releases/771144" target="_blank">Eurekalert!</a> by the American Association for the Advancement of Science highlights recent breakthroughs from my research. Grateful for the recognition and the continued interest in the field! <br/> &mdash; Demetrio Ferro, 7 Apr 2021 </p></blockquote>
-<blockquote class="twitter-tweet" data-media-max-width="560"> <p style="font-size:.75em" lang="en" dir="ltr"> It was great to be featured on <a href="https://medicalxpress.com/news/2021-04-function-cortical-brain-cells-modulated.html?src_id=alt" target="_blank">Medical Xpress</a>, where we explored the role of attention in modulating cortical brain cells. Exciting times for the neuroscience community! <br/> &mdash; Demetrio Ferro, 7 Apr 2021 </p></blockquote>
-<blockquote class="twitter-tweet" data-media-max-width="560"> <p style="font-size:.75em" lang="en" dir="ltr"> A recent article on <a href="https://bioengineer.org/the-structure-and-function-of-cortical-brain-cells-modulated-by-attention/" target="_blank">Bioengineer.org</a> delves into the latest findings on how attention affects the structure and function of cortical brain cells. Glad to see our research resonating with the community! <br/> &mdash; Demetrio Ferro, 7 Apr 2021 </p></blockquote>
-<blockquote class="twitter-tweet" data-media-max-width="560"> <p style="font-size:.75em" lang="en" dir="ltr"> The latest from <a href="https://www.news-medical.net/news/20210408/Study-shows-how-signal-propagation-circuit-is-modulated-by-attention.aspx" target="_blank">News-Medical Life Sciences</a> covers how attention modulates signal propagation in brain circuits. Thrilled to see this work getting attention! <br/> &mdash; Demetrio Ferro, 7 Apr 2021 </p></blockquote>
-<blockquote class="twitter-tweet" data-media-max-width="560"> <p style="font-size:.75em" lang="en" dir="ltr"> My interview with <a href="https://www.upf.edu/c/portal/update_language?p_l_id=230627930&redirect=%2Fweb%2Ffocus%2Fnoticies%2F-%2Fasset_publisher%2FqOocsyZZDGHL%2Fcontent%2Fid%2F244381810%2F&languageId=en_US" target="_blank">Universitat Pompeu Fabra</a> gives an in-depth look at my ongoing projects. Excited to share insights on the future of my research and the lab's next steps! <br/> &mdash; Demetrio Ferro, 7 Apr 2021 </p></blockquote>
+
+<blockquote class="twitter-tweet" data-media-max-width="560">
+  <p style="font-size:.75em" lang="en" dir="ltr">
+    My latest feature on <a href="https://www.eurekalert.org/news-releases/771144" target="_blank">Eurekalert!</a> by the American Association for the Advancement of Science highlights recent breakthroughs from my research, including my work on visual attention, which was published in <a href="https://doi.org/10.1073/pnas.2022097118" target="_blank">PNAS</a>. Grateful for the recognition and the continued interest in the field! <br/> &mdash; Demetrio Ferro, 7 Apr 2021</p>
+</blockquote>
+
+<blockquote class="twitter-tweet" data-media-max-width="560">
+  <p style="font-size:.75em" lang="en" dir="ltr">
+    It was great to be featured on <a href="https://medicalxpress.com/news/2021-04-function-cortical-brain-cells-modulated.html?src_id=alt" target="_blank">Medical Xpress</a>, where we explored the role of attention in modulating cortical brain cells, a topic closely linked to my recent publication on visual attention in <a href="https://doi.org/10.1073/pnas.2022097118" target="_blank">PNAS</a>. Exciting times for the neuroscience community!<br/>  &mdash; Demetrio Ferro, 7 Apr 2021</p>
+</blockquote>
+
+<blockquote class="twitter-tweet" data-media-max-width="560">
+  <p style="font-size:.75em" lang="en" dir="ltr">
+    A recent article on <a href="https://bioengineer.org/the-structure-and-function-of-cortical-brain-cells-modulated-by-attention/" target="_blank">Bioengineer.org</a> delves into the latest findings on how attention affects the structure and function of cortical brain cells, a concept related to my research on visual attention, published in <a href="https://doi.org/10.1073/pnas.2022097118" target="_blank">PNAS</a>. Glad to see our research resonating with the community!<br/>  &mdash; Demetrio Ferro, 7 Apr 2021 </p>
+</blockquote>
+
+<blockquote class="twitter-tweet" data-media-max-width="560">
+  <p style="font-size:.75em" lang="en" dir="ltr">
+    The latest from <a href="https://www.news-medical.net/news/20210408/Study-shows-how-signal-propagation-circuit-is-modulated-by-attention.aspx" target="_blank">News-Medical Life Sciences</a> covers how attention modulates signal propagation in brain circuits, a process central to my work on visual attention, recently published in <a href="https://doi.org/10.1073/pnas.2022097118" target="_blank">PNAS</a>. Thrilled to see this work getting attention! <br/>  &mdash; Demetrio Ferro, 7 Apr 2021 </p>
+</blockquote>
+
+<blockquote class="twitter-tweet" data-media-max-width="560">
+  <p style="font-size:.75em" lang="en" dir="ltr">
+    My interview with <a href="https://www.upf.edu/c/portal/update_language?p_l_id=230627930&redirect=%2Fweb%2Ffocus%2Fnoticies%2F-%2Fasset_publisher%2FqOocsyZZDGHL%2Fcontent%2Fid%2F244381810%2F&languageId=en_US" target="_blank">Universitat Pompeu Fabra</a> gives an in-depth look at my ongoing projects, including my work on visual attention published in <a href="https://doi.org/10.1073/pnas.2022097118" target="_blank">PNAS</a>. Excited to share insights on my future steps in research! <br/>  &mdash; Demetrio Ferro, 7 Apr 2021</p>
+</blockquote>
+
 </div>
