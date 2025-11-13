@@ -156,7 +156,7 @@ Session 17E: Decision Making, Talk N.65, Room U6-23, Programme P.27<br/>
 <h3>Updates</h3>
 
 <blockquote class="twitter-tweet" data-media-max-width="560"><p style="font-size:.75em" lang="en" dir="ltr">
-My interview at about Gaze-centered Decision Making published in Nature Communications by the <a href="https://www.upf.edu/web/enginyeria/inici/-/asset_publisher/nT5ucm2DcHyd/content/un-estudi-de-neurocient%C3%ADfics-d-enginyeria-upf-demostra-com-la-direcci%C3%B3-de-la-mirada-determina-la-presa-de-decisions-a-l-hora-d-escollir-entre-2-o-m%C3%A9s-objectes/maximized"> Universitat Pompeu Fabra</a>,<br/>
+My interview at about Gaze-centered Decision Making published in <a href="https://www.nature.com/articles/s41467-024-50214-2.pdf" target="_blank">Nature Communications</a> by the <a href="https://www.upf.edu/web/enginyeria/inici/-/asset_publisher/nT5ucm2DcHyd/content/un-estudi-de-neurocient%C3%ADfics-d-enginyeria-upf-demostra-com-la-direcci%C3%B3-de-la-mirada-determina-la-presa-de-decisions-a-l-hora-d-escollir-entre-2-o-m%C3%A9s-objectes" target="_blank"> Universitat Pompeu Fabra</a>,<br/>
   &mdash; Demetrio Ferro, Sept 23, 2024</p></blockquote>
 
  My interview at <a href="https://www.upf.edu/c/portal/update_language?p_l_id=230627930&redirect=%2Fweb%2Ffocus%2Fnoticies%2F-%2Fasset_publisher%2FqOocsyZZDGHL%2Fcontent%2Fid%2F244381810%2F&languageId=en_US" target="_blank">Universitat Pompeu Fabra News</a>,<br/>
