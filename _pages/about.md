@@ -155,8 +155,17 @@ Session 17E: Decision Making, Talk N.65, Room U6-23, Programme P.27<br/>
 
 <h3>Media outreach</h3>
 <div style="height:370px; overflow:auto">
-<blockquote class="twitter-tweet" data-media-max-width="560"> <p style="font-size:.75em" lang="en" dir="ltr"> A recent feature on <a href="https://vincenzomoretti.nova100.ilsole24ore.com/2025/11/05/demetrio-ferro/?refresh_ce=1" target="_blank">Il Sole 24 Ore</a> offers insights into my professional mission and vision for the future, based on a conversation with Vincenzo Moretti. (<a href="https://d-ferro.github.io/files/ilsole24ore_interview.pdf" target="_blank">Read the English version</a>.) <br/> &mdash; Demetrio Ferro, Nov 8, 2025 </p></blockquote>
-<blockquote class="twitter-tweet" data-media-max-width="560"> <p style="font-size:.75em" lang="en" dir="ltr"> I was recently interviewed by <a href="https://www.upf.edu/web/enginyeria/inici/-/asset_publisher/nT5ucm2DcHyd/content/un-estudi-de-neurocient%C3%ADfics-d-enginyeria-upf-demostra-com-la-direcci%C3%B3-de-la-mirada-determina-la-presa-de-decisions-a-l-hora-d-escollir-entre-2-o-m%C3%A9s-objectes" target="_blank">Universitat Pompeu Fabra</a> about my work on Gaze-Centered Decision Making, recently published in <a href="https://www.nature.com/articles/s41467-024-50214-2.pdf" target="_blank">Nature Communications</a>. <br/> &mdash; Demetrio Ferro, Sept 23, 2024 </p></blockquote>
+<div style="height:370px; overflow:auto">
+  <blockquote class="twitter-tweet" data-media-max-width="560">
+    <p style="font-size:.75em" lang="en" dir="ltr">
+      I’m thrilled to be featured in <a href="https://vincenzomoretti.nova100.ilsole24ore.com/2025/11/05/demetrio-ferro/?refresh_ce=1" target="_blank">Il Sole 24 Ore</a>, where I had the incredible opportunity to discuss my professional mission and vision for the future! Huge thanks to Vincenzo Moretti for the insightful conversation. (<a href="https://d-ferro.github.io/files/ilsole24ore_interview.pdf" target="_blank">Read the English version</a>.)<br/> &mdash; Demetrio Ferro, Nov 8, 2025</p>
+  </blockquote>
+
+  <blockquote class="twitter-tweet" data-media-max-width="560">
+    <p style="font-size:.75em" lang="en" dir="ltr">
+      So excited to share that I was recently interviewed by <a href="https://www.upf.edu/web/enginyeria/inici/-/asset_publisher/nT5ucm2DcHyd/content/un-estudi-de-neurocient%C3%ADfics-d-enginyeria-upf-demostra-com-la-direcci%C3%B3-de-la-mirada-determina-la-presa-de-decisions-a-l-hora-d-escollir-entre-2-o-m%C3%A9s-objectes" target="_blank">Universitat Pompeu Fabra</a> about my work on Gaze-Centered Decision Making, recently published in <a href="https://www.nature.com/articles/s41467-024-50214-2.pdf" target="_blank">Nature Communications</a>. Couldn’t be more grateful for the chance to discuss this fascinating research!<br/> &mdash; Demetrio Ferro, Sept 23, 2024 </p>
+  </blockquote>
+
 
 <blockquote class="twitter-tweet" data-media-max-width="560">
   <p style="font-size:.75em" lang="en" dir="ltr">
