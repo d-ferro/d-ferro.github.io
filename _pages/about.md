@@ -109,7 +109,7 @@ Driven by a deep interest in understanding the neural basis of complex behavior 
 
 <h3>Updates</h3>
 
-<div style="height:300px">
+<div style="height:370px; overflow:auto">
 
 <blockquote class="twitter-tweet"><p style="font-size:.75em" lang="en" dir="ltr">Today I will present my work entitled "A closed-loop model for the coordination of gaze control and decision-making" in collaboration with Dr. T. Yang (Shanghai University) at the Conference on "Cognitive, Computational Neuroscience" in Amsterdam, 🇳🇱. <a href="https://2025.ccneuro.org/poster/?id=9vbffMpO6s" target="_blank">[abstract]</a> <a href="https://d-ferro.github.io/files/CCN2025___CompNets_Poster.pdf" target="_blank">[poster]</a><br/>&mdash; Demetrio Ferro, August 15, 2025</p></blockquote> 
 
