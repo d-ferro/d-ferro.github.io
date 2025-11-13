@@ -156,7 +156,7 @@ Session 17E: Decision Making, Talk N.65, Room U6-23, Programme P.27<br/>
 <h3>Media outreach</h3>
 
 <blockquote class="twitter-tweet" data-media-max-width="560"><p style="font-size:.75em" lang="en" dir="ltr">
-Interviewed about my professional mission and my future vision at <a href="https://vincenzomoretti.nova100.ilsole24ore.com/2025/11/05/demetrio-ferro/?refresh_ce=1" target="_blank">Il Sole 24 Ore</a>, based on a spontaneous dialogue with Vincenzo Moretti. (<a href="https://d-ferro.github.io/files/ilsole24ore_interview.pdf" target="_blank">English version</a>).<br/>
+A view in my professional mission and my future vision at <a href="https://vincenzomoretti.nova100.ilsole24ore.com/2025/11/05/demetrio-ferro/?refresh_ce=1" target="_blank">Il Sole 24 Ore</a>, based on a spontaneous dialogue with Vincenzo Moretti. (<a href="https://d-ferro.github.io/files/ilsole24ore_interview.pdf" target="_blank">English version</a>).<br/>
   &mdash; Demetrio Ferro, Sept 23, 2024</p></blockquote>
 
 <blockquote class="twitter-tweet" data-media-max-width="560"><p style="font-size:.75em" lang="en" dir="ltr">
