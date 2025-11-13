@@ -109,6 +109,7 @@ Driven by a deep interest in understanding the neural basis of complex behavior 
 
 <h3>Updates</h3>
 
+<div style="height:300px">
 
 <blockquote class="twitter-tweet"><p style="font-size:.75em" lang="en" dir="ltr">Today I will present my work entitled "A closed-loop model for the coordination of gaze control and decision-making" in collaboration with Dr. T. Yang (Shanghai University) at the Conference on "Cognitive, Computational Neuroscience" in Amsterdam, 🇳🇱. <a href="https://2025.ccneuro.org/poster/?id=9vbffMpO6s" target="_blank">[abstract]</a> <a href="https://d-ferro.github.io/files/CCN2025___CompNets_Poster.pdf" target="_blank">[poster]</a><br/>&mdash; Demetrio Ferro, August 15, 2025</p></blockquote> 
 
@@ -149,6 +150,7 @@ In this work we show that accumulating tokens towards a jackpot enhances decisio
 Session 17E: Decision Making, Talk N.65, Room U6-23, Programme P.27<br/>
   &mdash; Demetrio Ferro, <a href="https://d-ferro.github.io/files/ProgrammeICT2024.pdf#page=14" target="_blank" type="appication/pdf">June 12, 2024</a></p></blockquote>
 
+</div>
 
 <blockquote class="twitter-tweet" data-media-max-width="560"><p style="font-size:.75em" lang="en" dir="ltr">
   My interiew about "The effects of attention in V1 and V4 laminar layers" is on:<br/>
