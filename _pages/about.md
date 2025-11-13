@@ -153,10 +153,14 @@ Session 17E: Decision Making, Talk N.65, Room U6-23, Programme P.27<br/>
 </div>
 
 
-<h3>Updates</h3>
+<h3>Media outreach</h3>
 
 <blockquote class="twitter-tweet" data-media-max-width="560"><p style="font-size:.75em" lang="en" dir="ltr">
-My interview by the <a href="https://www.upf.edu/web/enginyeria/inici/-/asset_publisher/nT5ucm2DcHyd/content/un-estudi-de-neurocient%C3%ADfics-d-enginyeria-upf-demostra-com-la-direcci%C3%B3-de-la-mirada-determina-la-presa-de-decisions-a-l-hora-d-escollir-entre-2-o-m%C3%A9s-objectes" target="_blank"> Universitat Pompeu Fabra</a> about my Gaze-centered Decision Making work recently published in <a href="https://www.nature.com/articles/s41467-024-50214-2.pdf" target="_blank">Nature Communications</a> <br/>
+Interviewed about my professional mission and my future vision at <a href="https://vincenzomoretti.nova100.ilsole24ore.com/2025/11/05/demetrio-ferro/?refresh_ce=1" target="_blank">Il Sole 24 Ore</a>, based on a spontaneous dialogue with Vincenzo Moretti. (<a href="https://d-ferro.github.io/files/ilsole24ore_interview.pdf" target="_blank">English version</a>).<br/>
+  &mdash; Demetrio Ferro, Sept 23, 2024</p></blockquote>
+
+<blockquote class="twitter-tweet" data-media-max-width="560"><p style="font-size:.75em" lang="en" dir="ltr">
+I just got an interview by the <a href="https://www.upf.edu/web/enginyeria/inici/-/asset_publisher/nT5ucm2DcHyd/content/un-estudi-de-neurocient%C3%ADfics-d-enginyeria-upf-demostra-com-la-direcci%C3%B3-de-la-mirada-determina-la-presa-de-decisions-a-l-hora-d-escollir-entre-2-o-m%C3%A9s-objectes" target="_blank"> Universitat Pompeu Fabra</a> about my Gaze-centered Decision Making work recently published in <a href="https://www.nature.com/articles/s41467-024-50214-2.pdf" target="_blank">Nature Communications</a> <br/>
   &mdash; Demetrio Ferro, Sept 23, 2024</p></blockquote>
 
  My interview at <a href="https://www.upf.edu/c/portal/update_language?p_l_id=230627930&redirect=%2Fweb%2Ffocus%2Fnoticies%2F-%2Fasset_publisher%2FqOocsyZZDGHL%2Fcontent%2Fid%2F244381810%2F&languageId=en_US" target="_blank">Universitat Pompeu Fabra News</a>,<br/>
