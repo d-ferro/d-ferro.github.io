@@ -154,8 +154,8 @@ Session 17E: Decision Making, Talk N.65, Room U6-23, Programme P.27<br/>
 
 
 <h3>Media outreach</h3>
-<div style="height:370px; overflow:auto">
-<div style="height:370px; overflow:auto">
+
+<div style="height:220px; overflow:auto">
   <blockquote class="twitter-tweet" data-media-max-width="560">
     <p style="font-size:.75em" lang="en" dir="ltr">
       I’m thrilled to be featured in <a href="https://vincenzomoretti.nova100.ilsole24ore.com/2025/11/05/demetrio-ferro/?refresh_ce=1" target="_blank">Il Sole 24 Ore</a>, where I had the incredible opportunity to discuss my professional mission and vision for the future! Huge thanks to Vincenzo Moretti for the insightful conversation. (<a href="https://d-ferro.github.io/files/ilsole24ore_interview.pdf" target="_blank">Read the English version</a>.)<br/> &mdash; Demetrio Ferro, Nov 8, 2025</p>
