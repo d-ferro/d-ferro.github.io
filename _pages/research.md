@@ -259,7 +259,7 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
  <td style="border:none !important; width:80% !important;"> 10 Abstract reviewed for <a href="https://www.cosyne.org/">Cosyne 2026</a>.
  <br/>1 Verified review for <i>Nature Neuroscience</i> [<a href="https://orcid.org/0000-0003-4969-1415" target="_blank">ORCID</a>].
  <br/>1 Verified review for <i>Nature Communications</i> [<a href="https://orcid.org/0000-0003-4969-1415" target="_blank">ORCID</a>].
- <br/>4 Abstracts reviewed for <a href="https://2025.ccneuro.org" target="_blank">Cognitive, Computational Neuroscience 2025</a>.
+ <br/>3 Abstracts reviewed for <a href="https://2025.ccneuro.org" target="_blank">Cognitive, Computational Neuroscience 2025</a>.
  <br/>6 Verified reviews for <i>PLOS Computational Biology</i> [<a href="https://www.webofscience.com/wos/author/record/JCE-8721-2023" target="_blank">Web of Science</a>].
  <br/>1 Verified review for <i>Qeios</i> [<a href="https://www.webofscience.com/wos/author/record/JCE-8721-2023" target="_blank">Web of Science</a>].
  </td>
