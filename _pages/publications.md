@@ -34,7 +34,7 @@ Neural activity in dorsal anterior cingulate cortex tracked this reference-depen
 <!-- 2025-->
 
  <tr style="border:none !important;">
- <td style="border:none !important; text-align:center !important; vertical-align:top !important"><h3 style="margin-top:0 !important">2025</h3></td>
+ <td style="border:none !important; text-align:center !important; vertical-align:top !important"><h3 style="margin-top:0 !important"></h3></td>
  <td style="border:none !important;"><a style="color:#444" href="https://2025.ccneuro.org" target="_blank">A closed-loop model for the coordination of gaze control and decision-making</a><br/>
  <b>Demetrio Ferro</b>, Tianming Yang, Rubén Moreno Bote<br/>
   <i>Cognitive, Computational Neuroscience (CCN)</i>, 2025; 
