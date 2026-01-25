@@ -17,7 +17,7 @@ author_profile: true
 
 <!-- 2026 -->
 <tr style="border:none !important;">
- <td style="border:none !important; text-align:center !important; vertical-align:top !important"><h3 style="margin-top:0 !important">2025</h3></td>
+ <td style="border:none !important; text-align:center !important; vertical-align:top !important"><h3 style="margin-top:0 !important">2026</h3></td>
  <td style="border:none !important;"><a style="color:#444" href="https://doi.org/10.1101/2025.03.03.640771" target="_blank">Accumulation of virtual tokens towards a jackpot reward enhances performance and value encoding in dorsal anterior cingulate cortex</a> <br/>
   <b>Demetrio Ferro</b>, Habiba Azab, Benjamin Y. Hayden and Rubén Moreno-Bote <br/>
   <i>Nature Communications</i>, 2026. - <a href="https://www.researchsquare.com/article/rs-6161777/v1" target="_blank">In press 🖨️</a><br/>
@@ -34,7 +34,7 @@ Neural activity in dorsal anterior cingulate cortex tracked this reference-depen
 <!-- 2025-->
 
  <tr style="border:none !important;">
- <td style="border:none !important; text-align:center !important; vertical-align:top !important"><h3 style="margin-top:0 !important"></h3></td>
+ <td style="border:none !important; text-align:center !important; vertical-align:top !important"><h3 style="margin-top:0 !important">2025</h3></td>
  <td style="border:none !important;"><a style="color:#444" href="https://2025.ccneuro.org" target="_blank">A closed-loop model for the coordination of gaze control and decision-making</a><br/>
  <b>Demetrio Ferro</b>, Tianming Yang, Rubén Moreno Bote<br/>
   <i>Cognitive, Computational Neuroscience (CCN)</i>, 2025; 
