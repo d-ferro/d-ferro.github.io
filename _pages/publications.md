@@ -165,6 +165,11 @@ Neural activity in dorsal anterior cingulate cortex tracked this reference-depen
  </td>
 </tr>
 
+<tr style="border:none !important;">
+ <td style="border:none !important; text-align:center !important; vertical-align:top !important"><h3 style="margin-top:0 !important"></h3></td>
+ <td style="border:none !important;">
+CASES Progrm. (2025, luglio 2). Book of Abstract in CASES III. Advancing just socioecological transformations through citizen art-science engagement strategies. <a style="color:#444" href="https://doi.org/10.5281/zenodo.17814203" target="_blank">https://doi.org/10.5281/zenodo.17814203</a>
+ </td>
  
 <!-- 2024 -->
 <tr style="border:none !important;">
