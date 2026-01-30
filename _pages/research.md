@@ -53,7 +53,7 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
 
   <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important; vertical-align:top !important"><h3 style="margin-top:0 !important">CRM 2025 <br/>(invited)</h3></td>
- <td style="border:none !important;"><b>D. Ferro</b>, H. Azab, B. Hayden, R. Moreno-Bote, "Accumulation of virtual tokens towards a jackpot reward enhances performance and value encoding in dorsal anterior cingulate cortex",  Centre de Recerca Matematica (<a href="https://crm.cat" target="_blank">CRM</a>), Brain Circuits and Behavior Group (<a href="https://braincircuitsbehavior.org/" target="_blank">BCB</a>), April 2025 (Barcelona, ES 🇪🇸). <a style="color:#444" href="https://www.biorxiv.org/content/10.1101/2025.03.03.640771v3" target="_blank">[abstract]</a> [talk]
+ <td style="border:none !important;"><b>D. Ferro</b>, H. Azab, B. Hayden, R. Moreno-Bote, "Accumulation of virtual tokens towards a jackpot reward enhances performance and value encoding in dorsal anterior cingulate cortex", Invited by <a href="https://www.upf.edu/web/mbc/who-are-we/-/asset_publisher/2GHZv01BC8rP/content/alex-hyafil/maximized" target="_blank">Dr. A Hyafil</a> Centre de Recerca Matematica (<a href="https://crm.cat" target="_blank">CRM</a>), Brain Circuits and Behavior Group (<a href="https://braincircuitsbehavior.org/" target="_blank">BCB</a>), April 2025 (Barcelona, ES 🇪🇸). <a style="color:#444" href="https://www.biorxiv.org/content/10.1101/2025.03.03.640771v3" target="_blank">[abstract]</a> [talk]
 </td>
 </tr>
  <tr style="border:none !important;">
