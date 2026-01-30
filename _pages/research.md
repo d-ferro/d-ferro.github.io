@@ -58,7 +58,7 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
 </tr>
  <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important; vertical-align:top !important"><h3 style="margin-top:0 !important">UvA 2024 <br/>(invited)</h3></td>
- <td style="border:none !important;"><b>D. Ferro</b>, "From attention to intention: how covert and overt gaze behavior implements the selective encoding of reward variables",  Swammerdam Institute for Life Sciences (<a href="https://sils.uva.nl/" target="_blank">SILS</a>), System Cognitive Neuroscience Group (<a href="https://sils.uva.nl/content/research-groups/cognitive-and-systems-neuroscience/cognitive-and-systems-neuroscience.html" target="_blank">SCN</a>) at the Faculty of Science, University van Amsterdam, (<i>UvA</i>), October 2024 (Amsterdam, NL 🇳🇱). <a style="color:#444" href="/files/UvATNC2024Abstract.pdf" type="application/pdf" target="_blank">[abstract]</a> [talk]
+ <td style="border:none !important;"><b>D. Ferro</b>, "From attention to intention: how covert and overt gaze behavior implements the selective encoding of reward variables", Invited by <a href="https://www.uva.nl/en/profile/b/o/c.a.bosmanvittini/c.a.bosmanvittini.html?cb">Dr. C. A. Bosman</a>, Swammerdam Institute for Life Sciences (<a href="https://sils.uva.nl/" target="_blank">SILS</a>), System Cognitive Neuroscience Group (<a href="https://sils.uva.nl/content/research-groups/cognitive-and-systems-neuroscience/cognitive-and-systems-neuroscience.html" target="_blank">SCN</a>) at the Faculty of Science, University van Amsterdam, (<i>UvA</i>), October 2024 (Amsterdam, NL 🇳🇱). <a style="color:#444" href="/files/UvATNC2024Abstract.pdf" type="application/pdf" target="_blank">[abstract]</a> [talk]
 </td>
 </tr>
 <tr style="border:none !important;">
@@ -74,7 +74,7 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
 
  <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important; vertical-align:top !important"><h3 style="margin-top:0 !important">CIMeC 2023<br/>(invited)</h3></td>
- <td style="border:none !important;"><b>D. Ferro</b>, A. Rifé-Mata, T. Cash-Padgett, M. Z. Wang, B. Y. Hayden, R. Moreno-Bote, “The role of gaze for value encoding and recollection in orbitofrontal cortex”, <a href="http://www.bottinilab.com/" target="_blank">Bottini Lab</a>, Centro Interdipartimentale Mente/Cervello (CIMeC), November 2023 (Rovereto, Italy 🇮🇹). <a style="color:#444" href="/files/PosterCCN2023.pdf" type="application/pdf" target="_blank">[abstract]</a>
+ <td style="border:none !important;"><b>D. Ferro</b>, A. Rifé-Mata, T. Cash-Padgett, M. Z. Wang, B. Y. Hayden, R. Moreno-Bote, “The role of gaze for value encoding and recollection in orbitofrontal cortex”, Invited by <a href="http://www.bottinilab.com/" target="_blank">Prof. R. Bottini</a>, Centro Interdipartimentale Mente/Cervello (CIMeC), November 2023 (Rovereto, Italy 🇮🇹). <a style="color:#444" href="/files/PosterCCN2023.pdf" type="application/pdf" target="_blank">[abstract]</a>
 </td>
 </tr>
 
