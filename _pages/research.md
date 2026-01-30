@@ -95,7 +95,7 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
 </tr>
 <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important; vertical-align:top !important"><h3 style="margin-top:0 !important">MSBFIINE 2022<br/>(invited)</h3></td>
- <td style="border:none !important;"><b>D. Ferro</b>, A. Rifé-Mata, T. Cash-Padgett, M. Z. Wang, B. Y. Hayden, R. Moreno-Bote, “Recalling what was there: Eye position in reward gambling and the role of orbito-frontal cortex in encoding the value of visually cued offers”, Multi-Scale Brain Function India-Italy Network of Excellence (<i>MSBFIINE</i>), Dec 2022 (Varenna, IT 🇮🇹). <a style="color:#444" href="/files/ProgrammeMSBFIINE2022.pdf" type="application/pdf" target="_blank">[programme]</a> <a style="color:#444" href="/files/AbstractMSBFIINE2022.pdf" type="application/pdf" target="_blank">[abstract]</a> [talk]
+ <td style="border:none !important;"><b>D. Ferro</b>, A. Rifé-Mata, T. Cash-Padgett, M. Z. Wang, B. Y. Hayden, R. Moreno-Bote, “Recalling what was there: Eye position in reward gambling and the role of orbito-frontal cortex in encoding the value of visually cued offers”, Invited by <a href="https://www.unimi.it/en/ugov/person/giovanni-naldi">Prof. G. Naldi</a>, Multi-Scale Brain Function India-Italy Network of Excellence (<i>MSBFIINE</i>), Dec 2022 (Varenna, IT 🇮🇹). <a style="color:#444" href="/files/ProgrammeMSBFIINE2022.pdf" type="application/pdf" target="_blank">[programme]</a> <a style="color:#444" href="/files/AbstractMSBFIINE2022.pdf" type="application/pdf" target="_blank">[abstract]</a> [talk]
 </td>
 </tr>
 <tr style="border:none !important;">
