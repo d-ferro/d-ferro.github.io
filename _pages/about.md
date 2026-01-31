@@ -17,21 +17,28 @@ redirect_from:
   <!-- Full-width images with number and caption text -->
 
   <div class="mySlides fade">
-    <div class="numbertext">1 / 7</div>
+    <div class="numbertext">1 / 8</div>
     <img src="/images/slideshow/ccn2025-comp-nets.png" style="width:100%;">
     <div class="text">Closed-loop model of gaze and decision coordination.<br/>
     <b><a href="https://d-ferro.github.io/files/Abstract-CCN2025_CompNets.pdf" target="_blank">Ferro et al. <i>CCNeuro</i> 2025.</a></b> </div>
   </div>
 
   <div class="mySlides fade">
-    <div class="numbertext">2 / 7</div>
+    <div class="numbertext">2 / 8</div>
     <img src="/images/slideshow/fig1-sketch.png" style="width:100%;">
-    <div class="text">Gambling task and dorsal Anterior Cingulate Cortex. <br/>
-    <b><a href="https://www.researchsquare.com/article/rs-6161777/v1" target="_blank">Ferro et al. <i>bioRxiv</i> 2025, 📝 in review.</a></b> </div>
+    <div class="text">Gambling task and dorsal Anterior Cingulate Cortex (dACC). <br/>
+    <b><a href="https://www.researchsquare.com/article/rs-6161777/v1" target="_blank">Ferro et al. <i>Nature Communications</i> 2026, in press.</a></b> </div>
+  </div>
+
+  <div class="mySlides fade">
+    <div class="numbertext">3 / 8</div>
+    <img src="/images/slideshow/fig7-gains-losses.png" style="width:100%;">
+    <div class="text">Encoding of subjective values (SV) relative to potential outcomes (gains/losses) in dACC.<br/>
+    <b><a href="https://www.researchsquare.com/article/rs-6161777/v1" target="_blank">Ferro et al. <i>Nature Communications</i> 2026, in press.</a></b> </div>
   </div>
   
   <div class="mySlides fade">
-    <div class="numbertext">3 / 7</div>
+    <div class="numbertext">4 / 8</div>
     <img src="/images/slideshow/Screenshot%202025-07-18%20141059.jpg" style="width:100%">
     <div class="text">Gaze direction and its effect on choice formation. <br/>
       <b><a href="https://doi.org/10.1038/s41467-024-50214-2" target="_blank">Ferro et al. <i>Nature Communications</i> 2024.</a></b>
@@ -39,7 +46,7 @@ redirect_from:
   </div>
   
   <div class="mySlides fade">
-    <div class="numbertext">4 / 7</div>
+    <div class="numbertext">5 / 8</div>
     <img src="/images/slideshow/Screenshot%202025-07-18%20141159.jpg" style="width:100%; ">
     <div class="text">Gaze direction and its effect on behavior. <br/>
     <b><a href="https://doi.org/10.1038/s41467-024-50214-2" target="_blank">Ferro et al. <i>Nature Communications</i> 2024.</a></b>
@@ -47,14 +54,14 @@ redirect_from:
   </div>
 
 <div class="mySlides fade">
-    <div class="numbertext">5 / 7</div>
+    <div class="numbertext">6 / 8</div>
     <img src="/images/slideshow/pnas.2022097118fig00.png" style="width:100%; ">
     <div class="text">Current Source Density, Multi-Unit Activity Latency and signal quality assessment, Graphical User Interface. <br/>
     <b><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2022097118" target="_blank">Ferro et al. <i>PNAS</i> 2021.</a></b></div>
   </div>
   
   <div class="mySlides fade">
-    <div class="numbertext">6 / 7</div>
+    <div class="numbertext">7 / 8</div>
     <img src="/images/slideshow/pnas.2022097118fig05.png" style="width:100%; ">
     <div class="text">Intra- and inter-areal information exchange strength across V1-V4 laminae. <br/>
     <b><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2022097118" target="_blank">Ferro et al. <i>PNAS</i> 2021.</a></b>
@@ -62,7 +69,7 @@ redirect_from:
   </div>
 
   <div class="mySlides fade">
-    <div class="numbertext">7 / 7</div>
+    <div class="numbertext">8 / 8</div>
     <img src="/images/slideshow/pnas.2022097118fig06.png" style="width:100%; ">
     <div class="text">Attentional effects on intra- and inter-areal information exchange across V1-V4 laminae. <br/>
     <b><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2022097118" target="_blank">Ferro et al. <i>PNAS</i> 2021.</a></b></div>
