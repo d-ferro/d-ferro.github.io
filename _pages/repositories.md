@@ -27,14 +27,16 @@ Related to works in progress:
   <a target="_blank" href="https://gin.g-node.org/56Fe/Layer-and-frequency-specific-task-engagement">GIN</a> | <a target="_blank"  href="https://gin.g-node.org/56Fe/Layer-and-frequency-specific-task-engagement">HTTPS</a> | <a target="_blank" href="https://gin.g-node.org/56Fe/Layer-and-frequency-specific-task-engagement">SSH</a> | DOI: <a target="_blank" href="https://doi.gin.g-node.org/10.12751/g-node.sdxr1v/">10.12751/g-node.sdxr1v</a> | <a target="_blank" href="https://gin.g-node.org/56Fe/">@56Fe</a><br>
  </div> 
 
+ 
+
+
+Related to published works:
+
 <a target="_blank" href="https://gin.g-node.org/56Fe/Perceived-wealth-and-difficulty-modulation"><img style="width:80px; float:left; margin-right: 2%; width: 80px; float: left; margin-left:3%; border: .15em solid #EEE; border-radius:.5em;" src="https://gin.g-node.org/repo-avatars/11343"> </a>
  <div style="margin-bottom:3em; margin-top:-8px; font-size:.75em"><a target="_blank" href="https://gin.g-node.org/56Fe/Perceived-wealth-and-difficulty-modulation"><b style="font-size:1em">Perceived-wealth-and-difficulty-modulation</b> <br> </a>
   This repository is about the analysis of behavioral and neural data about perceived wealth and difficulty in decision-making. <br>
   <a target="_blank" href="https://gin.g-node.org/56Fe/Perceived-wealth-and-difficulty-modulation">GIN</a> | <a target="_blank" href="https://gin.g-node.org/56Fe/Perceived-wealth-and-difficulty-modulation">HTTPS</a> | <a target="_blank" href="https://gin.g-node.org/56Fe/Perceived-wealth-and-difficulty-modulation">SSH</a> | DOI: <a target="_blank" href="https://doi.org/10.12751/g-node.1kkrw6">10.12751/g-node.1kkrw6</a> | <a target="_blank" href="https://gin.g-node.org/56Fe/">@56Fe</a> <br><br>
- </div> 
-
-
-Related to published works:
+ </div>
 
 <a target="_blank" href="https://gin.g-node.org/56Fe/Looking-to-cue-sides-and-modulation-of-value-in-OFC"><img style="width:80px; float:left; margin-bottom:20px; margin-right: 2%; width: 80px; float: left; margin-left:3%; border: .15em solid #EEE; border-radius:.5em;" src="https://gin.g-node.org/repo-avatars/9295"> </a>
  <div style="margin-bottom:3em; margin-top:-8px; font-size:.75em"><a target="_blank" href="https://gin.g-node.org/56Fe/Looking-to-cue-sides-and-modulation-of-value-in-OFC"><b style="font-size:1em">Looking-to-cue-sides-and-modulation-of-value-in-OFC</b> <br> </a>
