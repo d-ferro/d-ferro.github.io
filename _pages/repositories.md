@@ -7,7 +7,7 @@ author_profile: true
  
 <h3>GIN G-Node Repositories</h3>
 
-Related to works in progress:
+Related to work in progress:
 
 <a target="_blank" href="https://gin.g-node.org/56Fe/Gaze-to-decision-circuitry"><img style="width:80px; float:left; margin-right: 2%; width: 80px; float: left; margin-left:3%; border: .15em solid #EEE; border-radius:.5em;" src="https://gin.g-node.org/repo-avatars/12269"> </a>
  <div style="margin-bottom:3em; margin-top:-8px; font-size:.75em"><a target="_blank" href="https://gin.g-node.org/56Fe/Gaze-to-decision-circuitry"><b style="font-size:1em">Gaze-to-decision-circuitry</b> <br> </a>
@@ -30,7 +30,7 @@ Related to works in progress:
  
 
 
-Related to published works:
+Related to published work:
 
 <a target="_blank" href="https://gin.g-node.org/56Fe/Perceived-wealth-and-difficulty-modulation"><img style="width:80px; float:left; margin-right: 2%; width: 80px; float: left; margin-left:3%; border: .15em solid #EEE; border-radius:.5em;" src="https://gin.g-node.org/repo-avatars/11343"> </a>
  <div style="margin-bottom:3em; margin-top:-8px; font-size:.75em"><a target="_blank" href="https://gin.g-node.org/56Fe/Perceived-wealth-and-difficulty-modulation"><b style="font-size:1em">Perceived-wealth-and-difficulty-modulation</b> <br> </a>
