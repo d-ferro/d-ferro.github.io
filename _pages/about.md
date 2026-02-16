@@ -78,10 +78,7 @@ redirect_from:
   <!-- Next and previous buttons -->
   <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
   <a class="next" onclick="plusSlides(1)">&#10095;</a>
-</div>
-<br>
-
-<!-- The dots/circles -->
+  <!-- The dots/circles -->
 <div style="text-align:center">
   <span class="dot" onclick="currentSlide(1)"></span>
   <span class="dot" onclick="currentSlide(2)"></span>
@@ -92,6 +89,9 @@ redirect_from:
   <span class="dot" onclick="currentSlide(7)"></span>
   <span class="dot" onclick="currentSlide(8)"></span>
 </div>
+</div>
+
+
 
 
 
