@@ -23,6 +23,20 @@
 <!--<link rel="shortcut icon" href="/images/favicon.ico">-->
 
 <link id="favicon" rel="icon" href="{{ '/images/favicon_light.ico' | relative_url }}" type="image/x-icon">
+<script>
+  const favicon = document.getElementById('favicon');
+  function updateFavicon(e) {
+    if (e.matches) {
+      favicon.href = "{{ '/images/favicon_dark.ico' | relative_url }}";
+    } else {
+      favicon.href = "{{ '/images/favicon_light.ico' | relative_url }}";
+    }
+  }
+  const darkQuery = window.matchMedia('(prefers-color-scheme: dark)');
+  updateFavicon(darkQuery);
+  darkQuery.addEventListener('change', updateFavicon);
+</script>
+
 
 <meta name="msapplication-TileColor" content="#000000">
 <meta name="msapplication-TileImage" content="{{ base_path }}/images/mstile-144x144.png?v=M44lzPylqQ">
