@@ -167,8 +167,7 @@ Neural activity in dorsal anterior cingulate cortex tracked this reference-depen
 
 <tr style="border:none !important;">
  <td style="border:none !important; text-align:center !important; vertical-align:top !important"><h3 style="margin-top:0 !important"></h3></td>
- <td style="border:none !important;"><a href="https://doi.org/10.5281/zenodo.17814203" target="_blank">Citizen science And SciEntific reSearch (CASES III)</a><br/>
-CASES EUTOPIA Impact and Dissemination at Universitat Pompeu Fabra (July 2, 2025). <br/>
+ <td style="border:none !important;"><a href="https://doi.org/10.5281/zenodo.17814203" target="_blank">Citizen Art-Science Engagement Strategies (CASES)</a><br/>EUTOPIA Impact and Dissemination at Universitat Pompeu Fabra (July 2, 2025). <br/>
   Advancing just socioecological transformations through citizen art-science engagement strategies. <br/>
   DOI: <a style="color:#444" href="https://doi.org/10.5281/zenodo.17814203" target="_blank">https://doi.org/10.5281/zenodo.17814203</a>.
  </td>
