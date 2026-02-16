@@ -36,7 +36,7 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
 
   <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">CASES 2025</h3></td>
- <td style="border:none !important;"> CASES (Citizen science And SciEntific reSearch), <a href="https://eutopia-university.eu/" target="_blank">EUTOPIA</a> Impact and Dissemination, July 2025 (Barcelona, ES 🇪🇸). <a style="color:#444" href="/files/CASESUPF2025.pdf" type="application/pdf" target="_blank">[certificate]</a>
+ <td style="border:none !important;"> CASES (Citizen Art-Science Engagement Strategies), <a href="https://eutopia-university.eu/" target="_blank">EUTOPIA</a> Impact and Dissemination, July 2025 (Barcelona, ES 🇪🇸). <a style="color:#444" href="/files/CASESUPF2025.pdf" type="application/pdf" target="_blank">[certificate]</a>
  </td>
 </tr>
 
@@ -172,7 +172,7 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
 </tr>
  <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">CASES 2024</h3></td>
- <td style="border:none !important;"> CASES (Citizen science And SciEntific reSearch), <a href="https://eutopia-university.eu/" target="_blank">EUTOPIA</a> Impact and Dissemination, Sept. 2024 (Barcelona, ES 🇪🇸). <a style="color:#444" href="/files/CASESUPF2024.pdf" type="application/pdf" target="_blank">[certificate]</a>
+ <td style="border:none !important;"> CASES (Citizen Art-Science Engagement Strategies), <a href="https://eutopia-university.eu/" target="_blank">EUTOPIA</a> Impact and Dissemination, Sept. 2024 (Barcelona, ES 🇪🇸). <a style="color:#444" href="/files/CASESUPF2024.pdf" type="application/pdf" target="_blank">[certificate]</a>
  </td>
 </tr>
 <tr style="border:none !important;">
