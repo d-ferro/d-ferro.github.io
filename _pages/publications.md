@@ -20,7 +20,7 @@ author_profile: true
  <td style="border:none !important; text-align:center !important; vertical-align:top !important"><h3 style="margin-top:0 !important">2026</h3></td>
  <td style="border:none !important;"><a style="color:#444" href="https://doi.org/10.1101/2025.03.03.640771" target="_blank">Accumulation of virtual tokens towards a jackpot reward enhances performance and value encoding in dorsal anterior cingulate cortex</a> <br/>
   <b>Demetrio Ferro</b>, Habiba Azab, Benjamin Y. Hayden and Rubén Moreno-Bote <br/>
-  <i>Nature Communications</i>, 2026. - <a href="https://www.researchsquare.com/article/rs-6161777/v1" target="_blank">In press 🖨️</a><br/>
+  <i>Nature Communications</i>, 2026. - <a href="/images/Screenshot from 2026-02-24 18-56-07.png" target="_blank">In press 🖨️</a><br/>
   DOI: <a href="https://doi.org/10.12751/g-node.1kkrw6" target="_blank">10.12751/g-node.1kkrw6</a>; Data and code: <a href="https://10.12751/g-node.1kkrw6" target="_blank">repository</a>; PDF: 📄<a style="color:#444" href="https://doi.org/10.1101/2025.03.03.640771" target="_blank">bioRxiv</a>;   Corresponding Author: <a style="font-weight:bold" href="mailto:demetrio.ferro@upf.edu" target="_blank">D. Ferro</a>.
  
 <div style="margin-top: 10px; padding-left: 10px; border-left: 1px dotted #777; color:#999"><i style="font-size:9pt">
