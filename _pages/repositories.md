@@ -10,6 +10,13 @@ author_profile: true
 Related to work in progress:
 
 <a target="_blank" href="https://gin.g-node.org/56Fe/Gaze-to-decision-circuitry"><img style="width:80px; float:left; margin-right: 2%; width: 80px; float: left; margin-left:3%; border: .15em solid #EEE; border-radius:.5em;" src="https://gin.g-node.org/repo-avatars/12269"> </a>
+ <div style="margin-bottom:3em; margin-top:-8px; font-size:.75em"><a target="_blank" href="https://gin.g-node.org/56Fe/Gaze-to-decision-circuitry"><b style="font-size:1em">Temporal Evidence Weighting</b> <br> </a>
+  This repository is about temporal evidence weighting in perceptual discrimination. During sensory stimulation, agents tend to integrate relevant information by dynamically trading-off primacy- and/or recency-associated weights to commit to a decision report. This code includes routines for data analysis and for neural network models based on synthetic data. <br>
+  <a target="_blank" href="https://gin.g-node.org/56Fe/Gaze-to-decision-circuitry">GIN</a> | <a target="_blank"  href="https://gin.g-node.org/56Fe/Gaze-to-decision-circuitry">HTTPS</a> | <a target="_blank" href="https://gin.g-node.org/56Fe/Gaze-to-decision-circuitry">SSH</a> <!--| DOI: <a target="_blank" href="https://doi.gin.g-node.org/10.12751/g-node.sdxr1v/">10.12751/g-node.sdxr1v</a> -->| <a target="_blank" href="https://gin.g-node.org/56Fe/">@56Fe</a>
+ </div> 
+
+
+<a target="_blank" href="https://gin.g-node.org/56Fe/Gaze-to-decision-circuitry"><img style="width:80px; float:left; margin-right: 2%; width: 80px; float: left; margin-left:3%; border: .15em solid #EEE; border-radius:.5em;" src="https://gin.g-node.org/repo-avatars/12269"> </a>
  <div style="margin-bottom:3em; margin-top:-8px; font-size:.75em"><a target="_blank" href="https://gin.g-node.org/56Fe/Gaze-to-decision-circuitry"><b style="font-size:1em">Gaze-to-decision-circuitry</b> <br> </a>
   This repository is about gaze-centered formation of decision-making biases. The code allows to generate rate models to perform decisions based on two coupled populations of neurons. <br>
   <a target="_blank" href="https://gin.g-node.org/56Fe/Gaze-to-decision-circuitry">GIN</a> | <a target="_blank"  href="https://gin.g-node.org/56Fe/Gaze-to-decision-circuitry">HTTPS</a> | <a target="_blank" href="https://gin.g-node.org/56Fe/Gaze-to-decision-circuitry">SSH</a> <!--| DOI: <a target="_blank" href="https://doi.gin.g-node.org/10.12751/g-node.sdxr1v/">10.12751/g-node.sdxr1v</a> -->| <a target="_blank" href="https://gin.g-node.org/56Fe/">@56Fe</a>
