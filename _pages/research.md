@@ -154,6 +154,11 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
  <td style="border:none !important;">A. Thiele, <b>D. Ferro</b>, M. Boyd and S. Panzeri, “Layer dependent attentional modulation of broad and narrow spiking cells in primate V1”, Annual Meeting of the Society for Neuroscience (<i>SfN</i>), 2017 (Washington, DC, USA 🇺🇸). <a style="color:#444" href="/files/ProgrammeSFN2017.pdf" type="application/pdf" target="_blank">[programme]</a> <a style="color:#444" href="/files/AbstractSFN2017.pdf" type="application/pdf" target="_blank">[abstract]</a> <!-- [poster] -->
  </td>
  </tr>
+<tr style="border:none !important;">
+ <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important; vertical-align:top !important"><h3 style="margin-top:0 !important">SfN 2017</h3></td>
+ <td style="border:none !important;"><b>D. Ferro</b>, V. Gripon and X. Jiang, “Nearest neighbour search using binary neural networks”, International Joint Conference on Neural Networks (<i>IJCNN</i>), IEEE 2016 (Vancouver, Canada 🇨🇦). <a style="color:#444" href="https://ieeexplore.ieee.org/servlet/opac?punumber=7593175" type="application/pdf" target="_blank">[programme]</a> <a style="color:#444" href="https://doi.org/10.1109/IJCNN.2016.7727873" type="application/pdf" target="_blank">[proceedings]</a> <!-- [poster] -->
+ </td>
+ </tr>
 </table>
 <h1> </h1>
 <p style="font-size:1pt"><br/></p>
