@@ -340,7 +340,7 @@ Model of gaze centred activation of value encoding in orbitofrontal cortex [<a h
 
  <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">Prof. C. Berrou<br/>2015</h3></td>
- <td style="border:none !important;"> Development of neural network solutions to the problem of nearest neighbour search in high-dimensional data. The method developed led to ∼95% cost reduction for classificatoin and ∼77% reduction for nearest neighbor query 🇫🇷. 
+ <td style="border:none !important;"> Development of neural network solutions to the problem of nearest neighbour search in high-dimensional data. The method developed led to ∼95% cost reduction for classificatoin and ∼77% reduction for nearest neighbor query. The work was conducted during a six months internship at the Institut Mines-Télécom, Brest, France 🇫🇷. 
 (<a href="https://doi.org/10.1109/IJCNN.2016.7727873" target="_blank">Ferro et al., IJCNN 2016</a>).
  </td>
 </tr> 
