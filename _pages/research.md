@@ -298,12 +298,7 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
 
 <div style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;"><h3 style="margin-top:20px">Collaborations</h3></div>
 <table style="border:none !important;">
- <tr style="border:none !important;">
- <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">Prof. A. Thiele<br/>2017 - 2021</h3></td>
- <td style="border:none !important;"> Analysis of neural data recorded during attention-demanding visual tasks in the lab of <a href="https://www.staff.ncl.ac.uk/alex.thiele/" target="_blank">Prof. A. Thiele</a> at the University of Newcastle, Newcastle, UK 🇬🇧. 
-(<a href="https://www.pnas.org/doi/abs/10.1073/pnas.2022097118" target="_blank">Ferro et al., PNAS 2021</a>).
- </td>
-</tr> 
+
  <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">Prof. B. Hayden<br/>2021 - ongoing</h3></td>
  <td style="border:none !important;"> Analysis of neural data recorded during decision-making tasks in the lab of <a href="https://www.haydenlab.com/" target="_blank">Prof. B. Hayden</a> at the Baylor College Medicine, Houston, TX, USA 🇺🇸. 
@@ -312,12 +307,7 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
  </td>
 </tr>
 
- <tr style="border:none !important;">
- <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">Human Brain Project 2022-2023</h3></td>
- <td style="border:none !important;"> Data-driven and validated multiscale computational models and neuromorphic implementations [<a href="/files/HBPReport2023.pdf" target="_blank">(D17 - SGA3 M42) report</a>].<br/>
-Model of gaze centred activation of value encoding in orbitofrontal cortex [<a href="https://search.kg.ebrains.eu/instances/a2dce812-1d4b-4fc5-a69f-96005288c12e" target="_blank">EBRAINS</a>]. Co-Funded by the European Union 🇪🇺.
- </td>
-</tr>
+
 
  <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">Gaze 2 Decision <br/>2024 - ongoing</h3></td>
@@ -334,9 +324,26 @@ Model of gaze centred activation of value encoding in orbitofrontal cortex [<a h
  </td>
 </tr>
 
+ <tr style="border:none !important;">
+ <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">Human Brain Project 2022-2023</h3></td>
+ <td style="border:none !important;"> Data-driven and validated multiscale computational models and neuromorphic implementations [<a href="/files/HBPReport2023.pdf" target="_blank">(D17 - SGA3 M42) report</a>].<br/>
+Model of gaze centred activation of value encoding in orbitofrontal cortex [<a href="https://search.kg.ebrains.eu/instances/a2dce812-1d4b-4fc5-a69f-96005288c12e" target="_blank">EBRAINS</a>]. Co-Funded by the European Union 🇪🇺.
+ </td>
+</tr>
 
+ <tr style="border:none !important;">
+ <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">Prof. A. Thiele<br/>2017 - 2021</h3></td>
+ <td style="border:none !important;"> Analysis of neural data recorded during attention-demanding visual tasks in the lab of <a href="https://www.staff.ncl.ac.uk/alex.thiele/" target="_blank">Prof. A. Thiele</a> at the University of Newcastle, Newcastle, UK 🇬🇧. 
+(<a href="https://www.pnas.org/doi/abs/10.1073/pnas.2022097118" target="_blank">Ferro et al., PNAS 2021</a>).
+ </td>
+</tr> 
 
-
+ <tr style="border:none !important;">
+ <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">Prof. C. Berrou<br/>2015</h3></td>
+ <td style="border:none !important;"> Development of neural network solutions to the problem of nearest neighbour search in high-dimensional data. The method developed led to ∼95% cost reduction for classificatoin and ∼77% reduction for nearest neighbor query 🇫🇷. 
+(<a href="https://doi.org/10.1109/IJCNN.2016.7727873" target="_blank">Ferro et al., IJCNN 2016</a>).
+ </td>
+</tr> 
 
  
 </table>
