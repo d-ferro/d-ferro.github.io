@@ -16,25 +16,27 @@ redirect_from:
 
   <!-- Full-width images with number and caption text -->
 
-  <div class="mySlides fade">
-    <div class="numbertext">1 / 8</div>
-    <img src="/images/slideshow/ccn2025-comp-nets.png" style="width:100%;">
-    <div class="text">Closed-loop model of gaze and decision coordination.<br/>
-    <b><a href="https://d-ferro.github.io/files/Abstract-CCN2025_CompNets.pdf" target="_blank">Ferro et al. <i>CCNeuro</i> 2025.</a></b> </div>
-  </div>
+
 
   <div class="mySlides fade">
-    <div class="numbertext">2 / 8</div>
+    <div class="numbertext">1 / 8</div>
     <img src="/images/slideshow/fig1-sketch.png" style="width:100%;">
     <div class="text">Gambling task and dorsal Anterior Cingulate Cortex (dACC). <br/>
     <b><a href="https://www.researchsquare.com/article/rs-6161777/v1" target="_blank">Ferro et al. <i>Nature Communications</i> 2026, in press.</a></b> </div>
   </div>
 
   <div class="mySlides fade">
-    <div class="numbertext">3 / 8</div>
+    <div class="numbertext">2 / 8</div>
     <img src="/images/slideshow/fig7-gains-losses.png" style="width:100%;">
     <div class="text">Encoding of subjective values (SV) relative to potential outcomes (gains/losses) in dACC.<br/>
     <b><a href="https://www.researchsquare.com/article/rs-6161777/v1" target="_blank">Ferro et al. <i>Nature Communications</i> 2026, in press.</a></b> </div>
+  </div>
+
+  <div class="mySlides fade">
+    <div class="numbertext">3 / 8</div>
+    <img src="/images/slideshow/ccn2025-comp-nets.png" style="width:100%;">
+    <div class="text">Closed-loop model of gaze and decision coordination.<br/>
+    <b><a href="https://d-ferro.github.io/files/Abstract-CCN2025_CompNets.pdf" target="_blank">Ferro et al. <i>CCNeuro</i> 2025.</a></b> </div>
   </div>
   
   <div class="mySlides fade">
