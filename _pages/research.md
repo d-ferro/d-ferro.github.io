@@ -23,11 +23,6 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
  <td style="border:none !important;">Federation of European Neuroscience Societies (<a href="https://fensforum.org/" target="_blank">FENS</a>) Forum, July 2026 (Barcelona, Spain). <a style="color:#444" href="https://fensforum.org/" type="application/pdf" target="_blank">[upcoming]</a>
  </td>
 </tr>
-  <tr style="border:none !important;">
- <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">SyINAct 2026</h3></td>
- <td style="border:none !important;"> Systems in Action (<a href="https://systems-in-action.umh.es/" target="_blank">SyINAct</a>), March 2026 (Alicante, Spain). <a style="color:#444" href="" type="application/pdf" target="_blank">[upcoming]</a>
- </td>
-</tr>
 </table>
 
 
@@ -35,8 +30,14 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
 <table style="border:none !important;">
 
   <tr style="border:none !important;">
+ <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">SyINAct 2026</h3></td>
+ <td style="border:none !important;"><b>D. Ferro</b>, C. Vivar, A. Levi, A. Huk, K. Wimmer, "Adaptive temporal weighting across behavior and neural network models", Systems in Action (<a href="https://systems-in-action.umh.es/" target="_blank">SyINAct</a>), March 2026 (Alicante, ES 🇪🇸). <a style="color:#444" href="https://d-ferro.github.io/files/Programme_SyInA_2026.pdf" type="application/pdf" target="_blank">[programme]</a>
+ </td>
+</tr>
+
+  <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">CASES 2025</h3></td>
- <td style="border:none !important;"> CASES (Citizen Art-Science Engagement Strategies), <a href="https://eutopia-university.eu/" target="_blank">EUTOPIA</a> Impact and Dissemination, July 2025 (Barcelona, ES 🇪🇸). <a style="color:#444" href="/files/CASESUPF2025.pdf" type="application/pdf" target="_blank">[certificate]</a>
+ <td style="border:none !important;"><b>D. Ferro</b>, CASES (Citizen Art-Science Engagement Strategies), <a href="https://eutopia-university.eu/" target="_blank">EUTOPIA</a> Impact and Dissemination, July 2025 (Barcelona, ES 🇪🇸). <a style="color:#444" href="/files/CASESUPF2025.pdf" type="application/pdf" target="_blank">[certificate]</a>
  </td>
 </tr>
 
