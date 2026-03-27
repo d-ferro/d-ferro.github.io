@@ -55,3 +55,12 @@
 
 @import "slideshow";
 
+.author__urls {
+  position: relative;
+  z-index: 999;
+}
+
+.slideshow-container {
+  position: relative;
+  z-index: 1;
+}
