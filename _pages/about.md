@@ -22,14 +22,14 @@ redirect_from:
     <div class="numbertext">1 / 8</div>
     <a href="https://doi.org/10.1038/s41467-026-70423-1" target="_blank"><img src="/images/slideshow/fig1-sketch.png" style="width:100%;"></a>
     <div class="text">Gambling task and dorsal Anterior Cingulate Cortex (dACC). <br/>
-    <b><a href="https://doi.org/10.1038/s41467-026-70423-1" target="_blank">Ferro et al. <i>Nature Communications</i> 2026, in press.</a></b> </div>
+    <b><a href="https://doi.org/10.1038/s41467-026-70423-1" target="_blank">Ferro et al. <i>Nature Communications</i> 2026.</a></b> </div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">2 / 8</div>
     <a href="https://doi.org/10.1038/s41467-026-70423-1" target="_blank"><img src="/images/slideshow/fig7-gains-losses.png" style="width:100%;"></a>
     <div class="text">Encoding of subjective values (SV) relative to potential outcomes (gains/losses) in dACC.<br/>
-    <b><a href="https://doi.org/10.1038/s41467-026-70423-1" target="_blank">Ferro et al. <i>Nature Communications</i> 2026, in press.</a></b> </div>
+    <b><a href="https://doi.org/10.1038/s41467-026-70423-1" target="_blank">Ferro et al. <i>Nature Communications</i> 2026.</a></b> </div>
   </div>
 
   <div class="mySlides fade">
