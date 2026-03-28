@@ -112,3 +112,8 @@
   from {opacity: .4}
   to {opacity: 1}
 }
+
+
+.slideshow-container a:hover img {
+  box-shadow: none !important;
+}
