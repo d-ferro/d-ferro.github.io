@@ -123,7 +123,7 @@ Driven by a deep interest in understanding the neural basis of complex behavior 
 
 <blockquote class="twitter-tweet"><p style="font-size:.75em" lang="en" dir="ltr"> Very proud to share my most recent work now out in <a href="https://bsky.app/profile/natcomms.nature.com" target="_blank">@natcomms.nature.com</a>! 🧠🔍
 Accumulating virtual rewards enhances both behavioral performances and neural value encoding in the dorsal anterior cingulate cortex, mediated by a dynamic shift in the evaluation reference point. 
-👉📄 <a href="https://doi.org/10.1038/s41467-026-70423-1" target="_blank">https://doi.org/10.1038/s41467-026-70423-1</a>.</a><br/>&mdash; Demetrio Ferro, March 28, 2026</p></blockquote> 
+👉📄 <a href="https://doi.org/10.1038/s41467-026-70423-1" target="_blank">https://doi.org/10.1038/s41467-026-70423-1</a>.<br/>&mdash; Demetrio Ferro, March 28, 2026</p></blockquote> 
 
 <blockquote class="twitter-tweet"><p style="font-size:.75em" lang="en" dir="ltr">Today I will present my work entitled "Adaptive temporal weighting across behavior and neural network models" in collaboration with Prof. A. Huk (UCLA) at the Conference on "Systems In Action" in Alicante, 🇪🇸. <a href="https://d-ferro.github.io/files/Poster-Sy-IN-A-2026.pdf" target="_blank">[poster]</a><br/>&mdash; Demetrio Ferro, March 16, 2026</p></blockquote> 
 
