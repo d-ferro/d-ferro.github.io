@@ -167,6 +167,8 @@ Session 17E: Decision Making, Talk N.65, Room U6-23, Programme P.27<br/>
 <h3>Public outreach</h3>
 
 <div style="height:220px; overflow:auto">
+  <blockquote class="twitter-tweet"><p style="font-size:.75em" lang="en" dir="ltr">Enthusiastic to introduce the wonders of the brain to Primary school students at the <a href="https://scuolaitabarcellona.esteri.it/la-scuola/" target="_blank">Istituto Italiano Statale Comprensivo di Barcellona 🇮🇹</a> through the Citizen Art-Science Engagement Strategies (<a target="_blank" href="https://d-ferro.github.io/files/CASESUPF2024.pdf">CASES</a>) initiative by <a target="_blank" href="https://eutopia-university.eu/">🇪🇺 EUTOPIA Impact and Dissemination</a> programme. Organized by <a target="_blank" href="https://www.polito.it/personale?p=ornella.salimbene">Dr. O. Salimbene</a> (Polytechnic of Turin, Italy) in Barcelona, Spain.<br/>&mdash; Demetrio Ferro, July 2, 2025</p></blockquote> 
+  
   <blockquote class="twitter-tweet" data-media-max-width="560">
     <p style="font-size:.75em" lang="en" dir="ltr">
       I’m thrilled to be featured in <a href="https://vincenzomoretti.nova100.ilsole24ore.com/2025/11/05/demetrio-ferro/?refresh_ce=1" target="_blank">Il Sole 24 Ore 📰</a>, where I had the incredible opportunity to discuss my professional mission and vision for the future 🙌! Huge thanks to Vincenzo Moretti for the insightful conversation. <br/>(<a href="https://d-ferro.github.io/files/ilsole24ore_interview.pdf" target="_blank">link to the English version</a>.)<br/> &mdash; Demetrio Ferro, Nov 8, 2025</p>
