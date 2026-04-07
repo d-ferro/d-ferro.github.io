@@ -25,7 +25,7 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
 </tr>
 
  <tr style="border:none !important;">
- <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important; vertical-align:top !important"><h3 style="margin-top:0 !important">Barccsyn 2022</h3></td>
+ <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important; vertical-align:top !important"><h3 style="margin-top:0 !important">Barccsyn 2026</h3></td>
  <td style="border:none !important;"><b>D. Ferro</b>, C. Vivar, A. Levi, A. Huk, K. Wimmer, “Adaptive temporal weighting across behavior and neral newtork models”, Barcelona Computational, Cognitive and Systems Neuroscience (<i>Barccsyn</i>), May 2026 (Barcelona, ES 🇪🇸). <a style="color:#444" href="https://d-ferro.github.io/files/Poster-Sy-IN-A-2026.pdf" type="application/pdf" target="_blank">[poster]</a>
 </td>
 </tr>
