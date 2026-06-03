@@ -25,7 +25,7 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
 </tr>
 <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">PRUAB 2026<br/>(invited)</h3></td>
- <td style="border:none !important;"><b>D. Ferro</b> “From attention to intention: how covert and overt gaze behavior modulates the encoding of cognitive variables”, Parc de Recerca de la Universitat Autonoma de Barcelona (<a href="https://www.pruab.cat/ca" target="_blank">PRUAB</a>), June 2026 (Barcelona, ES 🇪🇸). <a style="color:#444" href="/files/UAB-2026-2nd-TOUCH-workshop.pdf" type="application/pdf" target="_blank">[programme]</a>
+ <td style="border:none !important;"><b>D. Ferro</b>, “From attention to intention: how covert and overt gaze behavior modulates the encoding of cognitive variables”, Parc de Recerca de la Universitat Autonoma de Barcelona (<a href="https://www.pruab.cat/ca" target="_blank">PRUAB</a>), June 2026 (Barcelona, ES 🇪🇸). <a style="color:#444" href="/files/UAB-2026-2nd-TOUCH-workshop.pdf" type="application/pdf" target="_blank">[programme]</a>
  </td>
 </tr>
 
