@@ -13,7 +13,7 @@ author_profile: true
 
 <p>Peer-reviewed publications</p>
 
-<table style="border:none !important;">
+<table style="border:none !important; margin-top:0 !important; margin-bottom:0 !important">
 
 <!-- 2026 -->
 <tr style="border:none !important;">
@@ -123,7 +123,8 @@ DOI:<a style="color:#444" href="https://2023.ccneuro.org/view_paper8951.html?Pap
  </td>
 </tr>
 </table>
-<table style="border:none !important;">
+<!--------------- ATTENTION: IT SEEMS THAT TABLES WITH MANY ENTRIES GET CROPPED SO WE PILE TWO TABLES, CHECK THAT ABOVE TABLE IS NOT CROPPED ------>
+<table style="border:none !important; margin-top:0 !important; margin-bottom:0 !important">
  <!-- 2016-->
 <tr style="border:none !important;">
  <td style="border:none !important; text-align:center !important; vertical-align:top !important"><h3 style="margin-top:0 !important">2016</h3></td>
