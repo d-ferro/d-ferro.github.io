@@ -23,6 +23,13 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
  <td style="border:none !important;"><b>D. Ferro</b>, C. Vivar, A. Levi, A. Huk, K. Wimmer, “Adaptive temporal weighting across behavior and neral newtork models”, Federation of European Neuroscience Societies (<a href="https://fensforum.org/" target="_blank">FENS</a>) Forum, July 2026 (Barcelona, ES 🇪🇸). <a style="color:#444" href="https://fensforum.org/" type="application/pdf" target="_blank">[upcoming]</a>
  </td>
 </tr>
+
+  <tr style="border:none !important;">
+ <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">FENS 2026</h3></td>
+ <td style="border:none !important;">“From neural circuits to choices: multi-scale dynamics in decision making”, Federation of European Neuroscience Societies (<a href="https://fensforum.org/" target="_blank">FENS</a>) Forum Satellite, July 2026 (Barcelona, ES 🇪🇸). <a style="color:#444" href="https://fensforum.org/" type="application/pdf" target="_blank">[upcoming]</a>
+ </td>
+</tr>
+ 
 <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">PRUAB 2026<br/>(invited)</h3></td>
  <td style="border:none !important;"><b>D. Ferro</b>, “From attention to intention: how covert and overt gaze behavior modulates the encoding of cognitive variables”, Parc de Recerca de la Universitat Autonoma de Barcelona (<a href="https://www.pruab.cat/ca" target="_blank">PRUAB</a>), June 2026 (Barcelona, ES 🇪🇸). <a style="color:#444" href="/files/UAB-2026-2nd-TOUCH-workshop.pdf" type="application/pdf" target="_blank">[programme]</a>
