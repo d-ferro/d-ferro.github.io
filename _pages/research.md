@@ -40,7 +40,7 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
 
 
 <div style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;"><h3 style="margin-top:20px">Talks & Posters</h3></div>
-<table style="border:none !important;">
+<table style="border:none !important; margin-top:0 !important; margin-bottom:0 !important">
  <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important; vertical-align:top !important"><h3 style="margin-top:0 !important">Barccsyn 2026</h3></td>
  <td style="border:none !important;"><b>D. Ferro</b>, C. Vivar, A. Levi, A. Huk, K. Wimmer, “Adaptive temporal weighting across behavior and neral newtork models”, Barcelona Computational, Cognitive and Systems Neuroscience (<i>Barccsyn</i>), May 2026 (Barcelona, ES 🇪🇸). <a style="color:#444" href="https://d-ferro.github.io/files/Poster-Sy-IN-A-2026.pdf" type="application/pdf" target="_blank">[poster]</a>
@@ -54,7 +54,7 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
 </tr>
 </table>
 
-<table style="border:none !important;">
+<table style="border:none !important; margin-top:0 !important; margin-bottom:0 !important">
   <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">SyINAct 2026</h3></td>
  <td style="border:none !important;"><b>D. Ferro</b>, C. Vivar, A. Levi, A. Huk, K. Wimmer, "Adaptive temporal weighting across behavior and neural network models", Systems in Action (<a href="https://systems-in-action.umh.es/" target="_blank">SyINAct</a>), March 2026 (Alicante, ES 🇪🇸). <a style="color:#444" href="https://d-ferro.github.io/files/Programme_SyInA_2026.pdf" type="application/pdf" target="_blank">[programme]</a> <a href="https://d-ferro.github.io/files/Poster-Sy-IN-A-2026.pdf" target="_blank" type="application/pdf">[poster]</a>
