@@ -123,7 +123,7 @@ My research spans multiple spatial and temporal scales, from laminar cortical mi
 </p>
 
 <p style="font-size:.75em">
-More recently, my work has focused on the role of gaze in cognition and decision-making. By combining eye tracking with electrophysiological recordings in non-human primates, I showed that gaze actively gates and reactivates neural representations of reward value and internal goals, revealing that visual sampling is not merely a consequence of decisions but an integral component of cognitive computation.
+More recently, my work has focused on the role of gaze in cognition and decision-making. By combining eye tracking with electrophysiological recordings, I showed that gaze actively gates and reactivates neural representations of reward value and internal goals, revealing that visual sampling is not merely a consequence of decisions but an integral component of cognitive computation.
 </p>
 
 <p style="font-size:.75em">
