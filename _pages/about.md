@@ -130,7 +130,7 @@ My current research integrates theoretical and experimental approaches to unders
 Ultimately, I aim to establish a unified framework explaining how attention, intention, and gaze interact to shape neural computations across cortical circuits. By integrating laminar neurophysiology, computational modeling, eye tracking, and human neural recordings, my research seeks to uncover the principles through which brains transform sensory information and internal goals into adaptive decisions and actions, with major traslational potential for advancing neural diagnostics, neurorehabilitation, neuroprosthetics and brain–computer interface technologies.
 </p>
 
-<h3>Research Network</h3>
+<h3>Collaborations</h3>
 
 <p style="font-size:.75em">
 My research combines theoretical, computational, and experimental neuroscience through collaborations with international laboratories studying attention, reward, gaze control, motor planning, and decision-making, including Prof. A. Huk (UCLA, Los Angeles, CA, USA), Prof. B. Hayden (Baylor College of Medicine, Houston, TX, USA), Prof. T. Yang (NYU-ECNU, Shanghai, China), Prof. A. Thiele (Newcastle University, UK), Prof. S. Grún (Institute for Advanced Simulations, Jülich, Germany), Dr. T. Brochier (Aix-Marseille University, France).
