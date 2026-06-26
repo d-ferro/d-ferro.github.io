@@ -131,11 +131,11 @@ A complementary line of research investigates how motivational states influence 
 </p>
 
 <p style="font-size:.75em">
-Alongside experimental work, I have extensively developed computational models of gaze-dependent decision-making. In collaboration with Prof. Wei Ji Ma Yang and colleagues, I have investigated how active visual sampling interacts with evidence accumulation and choice formation, proposing closed-loop frameworks in which gaze and decision processes continuously influence one another.
+Alongside experimental work, I have extensively developed computational models of gaze-dependent decision-making. I have investigated how active visual sampling interacts with evidence accumulation and choice formation, proposing closed-loop frameworks in which gaze and decision processes continuously influence one another.
 </p>
 
 <p style="font-size:.75em">
-My current research further integrates theoretical and experimental approaches to understand the neural mechanisms of decision formation. In collaboration with theoretical and systems neuroscience groups, including ongoing work with Michael Wimmer and Alex Huk, I study how recurrent cortical dynamics generate choices and temporal weighting of sensory evidence. These efforts build upon attractor-based and recurrent network models of decision-making, extending classical Wong-Wang frameworks toward biologically grounded accounts of flexible decisions in neural circuits.
+My current research further integrates theoretical and experimental approaches to understand the neural mechanisms of decision formation. I study how recurrent cortical dynamics generate choices and temporal weighting of sensory evidence. These efforts build upon attractor-based and recurrent network models of decision-making, extending classical Wong-Wang frameworks toward biologically grounded accounts of flexible decisions in neural circuits.
 </p>
 
 <p style="font-size:.75em">
