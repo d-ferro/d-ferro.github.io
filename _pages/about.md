@@ -139,7 +139,7 @@ My research combines theoretical, computational, and experimental neuroscience t
 <h3>Community & Outreach</h3>
 
 <p style="font-size:.75em">
-Beyond research, I actively contribute to scientific communities through mentoring, teaching, conference organization, and public engagement. I co-organize activities within the Barcelona Computational Cognitive Systems Neuroscience community (<a href="http:barccsyn.org" target="_blank">Barccsyn</a>, contribute to CRM NeuroChats, participate in SENC and SCB initiatives, and engage in citizen science and outreach events including European Researchers' Night, Festa de la Ciència, Pint of Science, and EUTOPIA activities at UPF.
+Beyond research, I actively contribute to scientific communities through mentoring, teaching, conference organization, and public engagement. I co-organize activities within the Barcelona Computational Cognitive Systems Neuroscience community (<a href="http:barccsyn.org" target="_blank">Barccsyn</a>), contribute to local <a href="https://www.crm.cat/neurochats-seminar/">NeuroChats</a>, participate in <a href="https://www.senc.es/en/" target="_blank">SENC</a> and <a href="https://scb.iec.cat/" target="_blank">SCB initiatives, and engage in citizen science and outreach events including European Researchers' Night, Festa de la Ciència, Pint of Science, and Citizen Science activities within the <a href="https://www.upf.edu/web/eutopia/the-alliance" target="_blank">EUTOPIA network</a>.
   
 </p>
 
