@@ -135,7 +135,7 @@ Alongside experimental work, I have extensively developed computational models o
 </p>
 
 <p style="font-size:.75em">
-My current research further integrates theoretical and experimental approaches to understand the neural mechanisms of decision formation. I study how recurrent cortical dynamics generate choices and temporal weighting of sensory evidence. These efforts build upon attractor-based and recurrent network models of decision-making, extending classical Wong-Wang frameworks toward biologically grounded accounts of flexible decisions in neural circuits.
+My current research further integrates theoretical and experimental approaches to understand the neural mechanisms of decision formation. I study how recurrent cortical dynamics generate choices and temporal weighting of sensory evidence. These efforts build upon attractor-based and recurrent network models of decision-making, extending classical frameworks toward biologically grounded accounts of flexible decisions in neural circuits.
 </p>
 
 <p style="font-size:.75em">
@@ -186,11 +186,11 @@ Chinese Academy of Sciences, Shanghai, China. Development of closed-loop computa
 
 <tr style="border:none !important;">
 <td style="border:none !important; width:22%; vertical-align:top; text-align:right; padding-right:3%;">
-<b>S. Grün (IAS) & T. Brochier (AMU)</b><br/>
+<b>S. Grün (IAS), T. Brochier (AMU)</b><br/>
 2024–
 </td>
 <td style="border:none !important;">
-Institute for Advance Simulations, Jülich, Germany and Université Aix-Marseille, France. Neural mechanisms underlying vision-action coordination and motor planning using laminar recordings in non-human primates.
+Institute for Advance Simulations (IAS), Jülich, Germany and Aix-Marseille University (AMU), France. Neural mechanisms underlying vision-action coordination and motor planning using laminar recordings in non-human primates.
 </td>
 </tr>
 
