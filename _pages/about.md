@@ -115,11 +115,11 @@ My long-term goal is to develop unified computational theories of attention, gaz
 </p>
 
 <p style="font-size:.75em">
-During my doctoral work, I developed analytical frameworks to characterize laminar and frequency-specific interactions in the primate visual cortex, revealing how attention selectively modulates laminar communication across cortical circuits. More recently, I showed that gaze actively gates and reactivates value representations in orbitofrontal cortex, revealing that gaze direction actively contributes to internal cognitive computations.
+During my doctoral work, I developed analytical frameworks to characterize laminar and frequency-specific interactions in the primate visual cortex, revealing how attention selectively modulates laminar communication across cortical circuits (<a href="https://doi.org/10.1073/pnas.2022097118" target="_blank">PNAS 2021</a>). More recently, I showed that gaze actively gates and reactivates value representations in orbitofrontal cortex, revealing that gaze direction actively contributes to internal cognitive computations (<a href="https://doi.org/10.1038/s41467-024-50214-2" target="_blank">Nature Communications 2024</a>).
 </p>
 
 <p style="font-size:.75em">
-A complementary line of research investigates how motivational states influence decision processes. Using token-based reward paradigms, I studied how approaching future rewards reshapes value representations and commitment signals in frontal cortex. In parallel, I developed computational models of gaze-dependent decisions, proposing closed-loop frameworks in which active visual sampling and evidence accumulation continuously interact.
+A complementary line of research investigates how motivational states influence decision processes. Using token-based reward paradigms, I studied how approaching future rewards reshapes value representations and commitment signals in frontal cortex (<a href="https://doi.org/10.1038/s41467-026-70423-1" target="_blank"><(a). In parallel, I developed computational models of gaze-dependent decisions, proposing closed-loop frameworks in which active visual sampling and evidence accumulation continuously interact (<a href="https://2025.ccneuro.org/abstract_pdf/Ferro_2025_A_closed-loop_model_coordination_gaze_control.pdf" target="_blank">).
 </p>
 
 <p style="font-size:.75em">
