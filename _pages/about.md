@@ -136,7 +136,7 @@ Ultimately, I aim to establish a unified framework explaining how attention, int
 My research combines theoretical, computational, and experimental neuroscience through collaborations with international laboratories studying attention, reward, gaze control, motor planning, and decision-making, including Prof. A. Huk (UCLA, Los Angeles, CA, USA), Prof. B. Hayden (Baylor College of Medicine, Houston, TX, USA), Prof. T. Yang (NYU-ECNU, Shanghai, China), Prof. A. Thiele (Newcastle University, UK), Prof. S. Grún (Institute for Advanced Simulations, Jülich, Germany), Dr. T. Brochier (Aix-Marseille University, France).
 </p>
 
-<h3>Community Engagement</h3>
+<h3>Engagement</h3>
 
 <p style="font-size:.75em">
 Beyond research, I actively contribute to scientific communities through mentoring, teaching, conference organization, and public engagement. I co-organize activities within the Barcelona Computational Cognitive Systems Neuroscience community (<a href="http:barccsyn.org" target="_blank">Barccsyn</a>), contribute to local <a href="https://www.crm.cat/neurochats-seminar/">NeuroChats</a>, participate in <a href="https://www.senc.es/en/" target="_blank">SENC</a> and <a href="https://scb.iec.cat/" target="_blank">SCB</a> initiatives, and engage in citizen science and outreach events including European Researchers' Night, Festa de la Ciència, Pint of Science, and Citizen Science activities within the <a href="https://www.upf.edu/web/eutopia/the-alliance" target="_blank">EUTOPIA network</a>.
@@ -194,7 +194,7 @@ Session 17E: Decision Making, Talk N.65, Room U6-23, Programme P.27<br/>
 </div>
 
 
-<h3>Public outreach</h3>
+<h3>Outreach</h3>
 
 <div style="height:220px; overflow:auto">
   <blockquote class="twitter-tweet"><p style="font-size:.75em" lang="en" dir="ltr">Enthusiastic to introduce the wonders of the brain to primary school students at the <a href="https://scuolaitabarcellona.esteri.it/la-scuola/" target="_blank">Istituto Italiano Statale Comprensivo di Barcellona 🇮🇹</a> <a href="https://d-ferro.github.io/files/PaMap-IstCompBarc.jpeg">(post on social feed)</a> through the Citizen Art-Science Engagement Strategies (<a target="_blank" href="https://d-ferro.github.io/files/CASESUPF2024.pdf">CASES</a>), <a target="_blank" href="https://eutopia-university.eu/">🇪🇺 EUTOPIA Impact and Dissemination</a> organized by <a target="_blank" href="https://www.polito.it/personale?p=ornella.salimbene">Dr. O. Salimbene</a> (Polytechnic of Turin, Italy) in Barcelona, Spain.<br/>&mdash; Demetrio Ferro, February 27, 2026</p></blockquote> 
