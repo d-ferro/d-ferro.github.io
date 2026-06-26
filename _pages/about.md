@@ -119,7 +119,7 @@ My long-term goal is to develop unified computational theories linking attention
 </p>
 
 <p style="font-size:.75em">
-My research spans multiple spatial and temporal scales, from laminar cortical microcircuits to large-scale neural population dynamics. During my doctoral work, I developed analytical frameworks to characterize frequency- and layer-specific information flow in the primate visual cortex, demonstrating how attention reorganizes communication across cortical circuits. This work established new approaches for studying feedforward and feedback interactions across cortical layers.
+My research spans multiple spatial and temporal scales, from laminar cortical microcircuits to large-scale neural population dynamics. During my doctoral work, I developed analytical frameworks to characterize frequency- and layer-specific information flow in the primate visual cortex, demonstrating how attention modulates laminar communication across cortical circuits. This work established new approaches for studying feedforward and feedback interactions across cortical layers.
 </p>
 
 <p style="font-size:.75em">
