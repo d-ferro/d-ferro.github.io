@@ -127,7 +127,7 @@ My current research integrates theoretical and experimental approaches to unders
 </p>
 
 <p style="font-size:.75em">
-Ultimately, I aim to establish a unified framework explaining how attention, intention, and gaze interact to shape neural computations across cortical circuits. By integrating laminar neurophysiology, computational modeling, eye tracking, and human neural recordings, my research seeks to uncover the principles through which brains transform sensory information and internal goals into adaptive decisions and actions, with major traslational potential for advancing neural diagnostics, neurorehabilitation, and neuroprosthetic and brain–computer interface technologies.
+Ultimately, I aim to establish a unified framework explaining how attention, intention, and gaze interact to shape neural computations across cortical circuits. By integrating laminar neurophysiology, computational modeling, eye tracking, and human neural recordings, my research seeks to uncover the principles through which brains transform sensory information and internal goals into adaptive decisions and actions, with major traslational potential for advancing neural diagnostics, neurorehabilitation, neuroprosthetics and brain–computer interface technologies.
 </p>
 
 <h3>Research Network</h3>
