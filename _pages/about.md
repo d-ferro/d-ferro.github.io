@@ -98,8 +98,6 @@ redirect_from:
 
 
 <h3>Research</h3>
-```html
-<h2>Research</h2>
 
 <p style="font-size:.75em">
 I am a cognitive and computational neuroscientist interested in the neural mechanisms that transform perception into action. My research combines computational modeling, large-scale neural recordings, eye tracking, and information-theoretic analyses to understand how attention, gaze, and internal goals shape cognition and behavior.
@@ -139,9 +137,6 @@ Beyond understanding fundamental principles of neural computation, my work aims 
 <p style="font-size:.75em">
 My research is inherently interdisciplinary and strongly collaborative, bringing together computational neuroscience, systems neuroscience, engineering, and cognitive science to address fundamental questions about how brains generate intelligent behavior.
 </p>
-```
-
-
 
 
 <h3>Updates</h3>
