@@ -146,7 +146,75 @@ Ultimately, I aim to bridge computational theories, neural circuit mechanisms, a
 My work lies at the interface of theoretical neuroscience, systems neuroscience, and cognitive science, with the goal of developing quantitative models that explain how brains transform information into decisions and actions.
 </p>
 
+<h3>Collaborations</h3>
 
+<p style="font-size:.75em">
+My research is highly collaborative and integrates theoretical, computational, and experimental neuroscience across multiple international laboratories. These collaborations provide access to unique datasets and experimental paradigms spanning attention, decision-making, reward, gaze control, and motor planning.
+</p>
+
+<table style="border:none !important;">
+
+<tr style="border:none !important;">
+<td style="border:none !important; width:22%; vertical-align:top; text-align:right; padding-right:3%;">
+<b>A. Huk (UCLA)</b><br/>
+2025–
+</td>
+<td style="border:none !important;">
+Neural mechanisms of perceptual decision-making and evidence accumulation. Analysis of large-scale electrophysiological recordings during dynamic decision tasks.
+</td>
+</tr>
+
+<tr style="border:none !important;">
+<td style="border:none !important; width:22%; vertical-align:top; text-align:right; padding-right:3%;">
+<b>B. Hayden (Baylor)</b><br/>
+2021–
+</td>
+<td style="border:none !important;">
+Gaze-dependent value coding, reward representations, and reference-dependent decision-making in frontal cortex. Resulting work includes publications in <i>Nature Communications</i> and ongoing studies of motivational decision processes.
+</td>
+</tr>
+
+<tr style="border:none !important;">
+<td style="border:none !important; width:22%; vertical-align:top; text-align:right; padding-right:3%;">
+<b>T. Yang (NYU-ECNU)</b><br/>
+2024–
+</td>
+<td style="border:none !important;">
+Development of closed-loop computational models linking gaze control and decision formation, integrating recurrent neural networks with neural recordings.
+</td>
+</tr>
+
+<tr style="border:none !important;">
+<td style="border:none !important; width:22%; vertical-align:top; text-align:right; padding-right:3%;">
+<b>M. Wimmer & A. Huk</b><br/>
+2025–
+</td>
+<td style="border:none !important;">
+Computational models of evidence accumulation and temporal weighting in decision-making, extending attractor-based and recurrent circuit models of cortical decisions.
+</td>
+</tr>
+
+<tr style="border:none !important;">
+<td style="border:none !important; width:22%; vertical-align:top; text-align:right; padding-right:3%;">
+<b>S. Grün & T. Brochier</b><br/>
+2024–
+</td>
+<td style="border:none !important;">
+Neural mechanisms underlying vision-action coordination and motor planning using laminar recordings in non-human primates.
+</td>
+</tr>
+
+<tr style="border:none !important;">
+<td style="border:none !important; width:22%; vertical-align:top; text-align:right; padding-right:3%;">
+<b>A. Thiele</b><br/>
+2017–2021
+</td>
+<td style="border:none !important;">
+Attention, cortical oscillations, and laminar information flow in the primate visual cortex, leading to the development of spectral and laminar frameworks of cortical communication.
+</td>
+</tr>
+
+</table>
 
 
 
