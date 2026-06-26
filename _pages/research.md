@@ -26,7 +26,7 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
 
   <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">FENS 2026</h3></td>
- <td style="border:none !important;">“From neural circuits to choices: multi-scale dynamics in decision making”, A Barccsyn Federation of European Neuroscience Societies (<a href="https://fensforum.org/" target="_blank">FENS</a>) Forum Satellite Event, July 2026 (Barcelona, ES 🇪🇸). <a style="color:#444" href="https://barccsyn.org/meetings/satellite" type="application/pdf" target="_blank">[upcoming]</a>
+ <td style="border:none !important;">“From neural circuits to choices: multi-scale dynamics in decision making”, A Barccsyn Federation of European Neuroscience Societies (<a href="https://fensforum.org/" target="_blank">FENS</a>) Forum Symposium, July 2026 (Barcelona, ES 🇪🇸). <a style="color:#444" href="https://barccsyn.org/meetings/satellite" type="application/pdf" target="_blank">[upcoming]</a>
  </td>
 </tr>
  
