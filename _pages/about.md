@@ -97,18 +97,50 @@ redirect_from:
 
 
 
-<h3>About me</h3>
+<h3>Research</h3>
+```html
+<h2>Research</h2>
 
-<p style="font-size:.75em">I am a cognitive and computational neuroscientist interested in theoretical approaches to brain and cognition. I work in the <a href="https://www.crm.cat/_neuroscience/">Department of Computational and Mathematical Neuroscience</a> at the Centre de Recerca Matematica (<a href="https://www.crm.cat">CRM</a>), and collaborate with the group of Theoretical and Cognitive Neuroscience (<a href="https://www.upf.edu/web/tcn" target="_blank">TCN</a>) at the Center for Brain and Cognition (<a href="https://www.upf.edu/web/cbc" target="_blank">CBC</a>) within the Department of Engineering at the University Pompeu Fabra (<a href="https://www.upf.edu/" target="_blanK">UPF</a>), in Barcelona. </p>
 <p style="font-size:.75em">
-My research investigates how the brain integrates visual attention, decision-making, and reward signals to support adaptive, goal-directed behavior. Specifically, I examine the interplay between attentional selection of visual features and visuospatial patterns linked to motor planning under reward expectations. This work involves the analysis of simultaneous eye-tracking and electrophysiological neural data to dissect how overt visual sampling, selective processing, and reward-related information encoding interact to guide behavior.
+I am a cognitive and computational neuroscientist interested in the neural mechanisms that transform perception into action. My research combines computational modeling, large-scale neural recordings, eye tracking, and information-theoretic analyses to understand how attention, gaze, and internal goals shape cognition and behavior.
 </p>
 
 <p style="font-size:.75em">
-Driven by a deep interest in understanding the neural basis of complex behavior and a passion for scientific and technological innovation, I pursue research at an interdisciplinary level. My work lies at the intersection of experimental neuroscience and computational modeling, addressing both the technological challenges of curating high-dimensional neural data and the theoretical frameworks needed to interpret the functional role of neural interactions in cortical microcircuits.
+I currently work at the
+<a href="https://www.crm.cat/_neuroscience/">Department of Computational and Mathematical Neuroscience</a>
+at the Centre de Recerca Matemàtica
+(<a href="https://www.crm.cat">CRM</a>), and collaborate with the
+<a href="https://www.upf.edu/web/tcn" target="_blank">Theoretical and Cognitive Neuroscience</a>
+group at the
+<a href="https://www.upf.edu/web/cbc" target="_blank">Center for Brain and Cognition</a>
+at Universitat Pompeu Fabra in Barcelona.
 </p>
 
-<p style="font-size:.75em">Beyond my research pursuits, I have a passion for the outdoors. Whether it is swimming regularly, embarking on hiking or climbing adventures, or indulging in some therapeutic gardening, I thrive on connecting with nature. I am also committed to the environmental cause, having actively participated in informative meetings about the climate crisis, contributed to events that promoted sustainable food consumption, and volunteered in clean-up initiatives at natural sites.</p>
+<p style="font-size:.75em">
+My long-term goal is to develop unified computational theories linking attention, gaze, decision-making, and action. I seek to understand how distributed neural circuits selectively encode behaviorally relevant information, how internal goals shape sensory processing, and how these computations ultimately guide adaptive behavior.
+</p>
+
+<p style="font-size:.75em">
+My research spans multiple spatial and temporal scales, from laminar cortical microcircuits to large-scale neural population dynamics. During my doctoral work, I developed analytical frameworks to characterize frequency- and layer-specific information flow in the primate visual cortex, demonstrating how attention reorganizes communication across cortical circuits. This work established new approaches for studying feedforward and feedback interactions across cortical layers.
+</p>
+
+<p style="font-size:.75em">
+More recently, my work has focused on the role of gaze in cognition and decision-making. By combining eye tracking with electrophysiological recordings in non-human primates, I showed that gaze actively gates and reactivates neural representations of reward value and internal goals, revealing that visual sampling is not merely a consequence of decisions but an integral component of cognitive computation.
+</p>
+
+<p style="font-size:.75em">
+My current research integrates computational models, neural population analyses, laminar electrophysiology, and human neurophysiology to investigate how attention and intention interact across sensory, motor, and decision circuits. I am particularly interested in how gaze coordinates neural representations across cortical areas and how these mechanisms can be translated to human executive functions using EEG and eye tracking.
+</p>
+
+<p style="font-size:.75em">
+Beyond understanding fundamental principles of neural computation, my work aims to identify mechanistic biomarkers of executive function with potential applications in cognitive rehabilitation, neurotechnology, and brain-computer interfaces. By bridging theoretical and experimental neuroscience, I seek to develop quantitative models that connect neural circuits, behavior, and cognition across species and levels of organization.
+</p>
+
+<p style="font-size:.75em">
+My research is inherently interdisciplinary and strongly collaborative, bringing together computational neuroscience, systems neuroscience, engineering, and cognitive science to address fundamental questions about how brains generate intelligent behavior.
+</p>
+```
+
 
 
 
