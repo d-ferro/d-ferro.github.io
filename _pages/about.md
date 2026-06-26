@@ -127,13 +127,13 @@ My current research integrates theoretical and experimental approaches to unders
 </p>
 
 <p style="font-size:.75em">
-Ultimately, my work aims to bridge neural circuits, computational theories, and behavior across species and levels of organization. By combining electrophysiology, computational modeling, and human neurophysiology, I seek to identify mechanistic principles of executive function with applications in neurotechnology, clinical diagnostics, cognitive rehabilitation, and brain-computer interfaces.
+Ultimately, I aim to establish a unified framework explaining how attention, intention, and gaze interact to shape neural computations across cortical circuits. By integrating laminar neurophysiology, computational modeling, eye tracking, and human neural recordings, my research seeks to uncover the principles through which brains transform sensory information and internal goals into adaptive decisions and actions, with major traslational potential for advancing neural diagnostics, neurorehabilitation, and neuroprosthetic and brain–computer interface technologies.
 </p>
 
 <h3>Research Network</h3>
 
 <p style="font-size:.75em">
-My research combines theoretical, computational, and experimental neuroscience through collaborations with international laboratories studying attention, reward, gaze control, motor planning, and decision-making, including Prof. A. Huk (UCLA, Los Angele, CA, USA), Prof. B. Hayden (Baylor College of Medicine, Houston, TX, USA), Prof. T. Yang (NYU-ECNU, Shanghai, China), Prof. A. Thiele (Newcastle University, UK), Prof. S. Grún (Institute for Advanced Simulations, Jülich, Germany), Dr. T. Brochier (Aix-Marseille University, France).
+My research combines theoretical, computational, and experimental neuroscience through collaborations with international laboratories studying attention, reward, gaze control, motor planning, and decision-making, including Prof. A. Huk (UCLA, Los Angeles, CA, USA), Prof. B. Hayden (Baylor College of Medicine, Houston, TX, USA), Prof. T. Yang (NYU-ECNU, Shanghai, China), Prof. A. Thiele (Newcastle University, UK), Prof. S. Grún (Institute for Advanced Simulations, Jülich, Germany), Dr. T. Brochier (Aix-Marseille University, France).
 </p>
 
 <h3>Community & Outreach</h3>
