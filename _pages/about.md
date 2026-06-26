@@ -170,7 +170,7 @@ Fuster Laboratory for Cognitive Neuroscience, UCLA, Los Angeles, CA, USA. Neural
 2021–
 </td>
 <td style="border:none !important;">
-Baylor College of Medicine, Houston, TX, USA. Gaze-dependent value coding, reward representations, and reference-dependent decision-making in frontal cortex. Resulting work includes publications in <i>Nature Communications</i> and ongoing studies of motivational decision processes. 
+Baylor College of Medicine, Houston, TX, USA. Gaze-dependent value coding, reward representations, and reference-dependent decision-making in frontal cortex. Resulting work includes publications in <i>Nature Communications</i>. 
 </td>
 </tr>
 
@@ -180,7 +180,7 @@ Baylor College of Medicine, Houston, TX, USA. Gaze-dependent value coding, rewar
 2024–
 </td>
 <td style="border:none !important;">
-Chinese Academy of Sciences, Shanghai, China. Development of closed-loop computational models linking gaze control and decision formation, integrating recurrent neural networks with neural recordings.
+Chinese Academy of Sciences, Shanghai, China. Development of closed-loop computational models linking gaze control and decision formation, integrating network models with neural recordings.
 </td>
 </tr>
 </table>
@@ -192,7 +192,7 @@ Chinese Academy of Sciences, Shanghai, China. Development of closed-loop computa
 2024–
 </td>
 <td style="border:none !important;">
-Institute for Advance Simulations (IAS), Jülich, Germany and Aix-Marseille University (AMU), France. Neural mechanisms underlying vision-action coordination and motor planning using laminar recordings in non-human primates.
+Institute for Advance Simulations (IAS), Jülich, Germany and Aix-Marseille University (AMU), France. Neural mechanisms underlying vision-action coordination and motor planning using laminar recordings.
 </td>
 </tr>
 
