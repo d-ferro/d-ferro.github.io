@@ -339,7 +339,6 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
 
 
 
-<--!
 <div style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;"><h3 style="margin-top:20px">Collaborations</h3></div>
 <table style="border:none !important;">
 
@@ -394,7 +393,7 @@ My contribution consisted in a model of gaze centred activation of value encodin
  <td style="border:none !important;"> Development of neural network solutions to the problem of nearest neighbour search in high-dimensional space. The work was conducted during a six-months internship at the Institut Mines-Télécom, Brest, France 🇫🇷. 
 (<a href="https://doi.org/10.1109/IJCNN.2016.7727873" target="_blank">Ferro et al., IJCNN 2016</a>).
  </td>
-</tr> -->
+</tr> 
 
  
 </table>
