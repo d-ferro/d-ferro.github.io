@@ -133,13 +133,14 @@ Ultimately, my work aims to bridge neural circuits, computational theories, and 
 <h3>Research Network</h3>
 
 <p style="font-size:.75em">
-My research combines theoretical, computational, and experimental neuroscience through collaborations with international laboratories studying attention, reward, gaze control, motor planning, and decision-making, including groups at Baylor College of Medicine, UCLA, NYU-ECNU Shanghai, Forschungszentrum Jülich, Aix-Marseille University, and Newcastle University.
+My research combines theoretical, computational, and experimental neuroscience through collaborations with international laboratories studying attention, reward, gaze control, motor planning, and decision-making, including Prof. A. Huk (UCLA, Los Angele, CA, USA), Prof. B. Hayden (Baylor College of Medicine, Houston, TX, USA), Prof. T. Yang (NYU-ECNU, Shanghai, China), Prof. A. Thiele (Newcastle University, UK), Prof. S. Grún (Institute for Advanced Simulations, Jülich, Germany), Dr. T. Brochier (Aix-Marseille University, France).
 </p>
 
 <h3>Community & Outreach</h3>
 
 <p style="font-size:.75em">
-Beyond research, I actively contribute to scientific communities through mentoring, teaching, conference organization, and public engagement. I co-organize activities within the Barcelona Computational Cognitive Systems Neuroscience community, contribute to CRM NeuroChats, participate in SENC and SCB initiatives, and engage in citizen science and outreach events including European Researchers' Night, Festa de la Ciència, Pint of Science, and EUTOPIA activities at UPF.
+Beyond research, I actively contribute to scientific communities through mentoring, teaching, conference organization, and public engagement. I co-organize activities within the Barcelona Computational Cognitive Systems Neuroscience community (<a href="http:barccsyn.org" target="_blank">Barccsyn</a>, contribute to CRM NeuroChats, participate in SENC and SCB initiatives, and engage in citizen science and outreach events including European Researchers' Night, Festa de la Ciència, Pint of Science, and EUTOPIA activities at UPF.
+  
 </p>
 
 
