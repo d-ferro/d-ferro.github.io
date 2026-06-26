@@ -100,11 +100,11 @@ redirect_from:
 <h3>Research</h3>
 
 <p style="font-size:.75em">
-I am a cognitive and computational neuroscientist interested in the neural mechanisms that transform perception into action. My research combines computational modeling, large-scale neural recordings, eye tracking, and information-theoretic analyses to understand how attention, gaze, and internal goals shape cognition and behavior.
+I am a cognitive and computational neuroscientist interested in how brains transform sensory information, internal goals, and reward expectations into adaptive decisions and actions. My research combines computational modeling, neural population analyses, eye tracking, and electrophysiology to understand the circuit mechanisms that link attention, gaze, valuation, and decision-making.
 </p>
 
 <p style="font-size:.75em">
-I currently work at the
+I currently work in the
 <a href="https://www.crm.cat/_neuroscience/">Department of Computational and Mathematical Neuroscience</a>
 at the Centre de Recerca Matemàtica
 (<a href="https://www.crm.cat">CRM</a>), and collaborate with the
@@ -115,28 +115,43 @@ at Universitat Pompeu Fabra in Barcelona.
 </p>
 
 <p style="font-size:.75em">
-My long-term goal is to develop unified computational theories linking attention, gaze, decision-making, and action. I seek to understand how distributed neural circuits selectively encode behaviorally relevant information, how internal goals shape sensory processing, and how these computations ultimately guide adaptive behavior.
+My long-term goal is to develop unified computational theories of attention, gaze, reward, and decision-making. I am particularly interested in understanding how internal states shape the selective routing of information across brain circuits and how these computations ultimately give rise to flexible, goal-directed behavior.
 </p>
 
 <p style="font-size:.75em">
-My research spans multiple spatial and temporal scales, from laminar cortical microcircuits to large-scale neural population dynamics. During my doctoral work, I developed analytical frameworks to characterize frequency- and layer-specific information flow in the primate visual cortex, demonstrating how attention modulates laminar communication across cortical circuits. This work established new approaches for studying feedforward and feedback interactions across cortical layers.
+During my doctoral work, I investigated how visual attention reorganizes communication across cortical circuits. By developing novel methods to characterize laminar and frequency-specific interactions, I demonstrated how attention selectively modulates information flow within and between visual areas, providing a unified framework linking cortical layers, oscillatory dynamics, and attentional processing.
 </p>
 
 <p style="font-size:.75em">
-More recently, my work has focused on the role of gaze in cognition and decision-making. By combining eye tracking with electrophysiological recordings, I showed that gaze actively gates and reactivates neural representations of reward value and internal goals, revealing that visual sampling is not merely a consequence of decisions but an integral component of cognitive computation.
+More recently, my work has focused on the interaction between gaze, value, and decision-making. By combining eye tracking with neural recordings in non-human primates, I showed that gaze can selectively gate and reactivate value representations in orbitofrontal cortex, even in the absence of visual information. These findings suggest that visual sampling actively participates in internal cognitive computations rather than merely reflecting ongoing decisions.
 </p>
 
 <p style="font-size:.75em">
-My current research integrates computational models, neural population analyses, laminar electrophysiology, and human neurophysiology to investigate how attention and intention interact across sensory, motor, and decision circuits. I am particularly interested in how gaze coordinates neural representations across cortical areas and how these mechanisms can be translated to human executive functions using EEG and eye tracking.
+A complementary line of research investigates how motivational states influence neural computations during sequential decisions. Using token-based reward paradigms, I study how approaching distant rewards alters neural representations and decision processes in frontal cortex. These results indicate that proximity to future rewards dynamically reshapes value encoding, commitment, and behavioral control during goal-directed behavior.
 </p>
 
 <p style="font-size:.75em">
-Beyond understanding fundamental principles of neural computation, my work aims to identify mechanistic biomarkers of executive function with potential applications in cognitive rehabilitation, neurotechnology, and brain-computer interfaces. By bridging theoretical and experimental neuroscience, I seek to develop quantitative models that connect neural circuits, behavior, and cognition across species and levels of organization.
+Alongside experimental work, I have extensively developed computational models of gaze-dependent decision-making. In collaboration with Prof. Wei Ji Ma Yang and colleagues, I have investigated how active visual sampling interacts with evidence accumulation and choice formation, proposing closed-loop frameworks in which gaze and decision processes continuously influence one another.
 </p>
 
 <p style="font-size:.75em">
-My research is inherently interdisciplinary and strongly collaborative, bringing together computational neuroscience, systems neuroscience, engineering, and cognitive science to address fundamental questions about how brains generate intelligent behavior.
+My current research further integrates theoretical and experimental approaches to understand the neural mechanisms of decision formation. In collaboration with theoretical and systems neuroscience groups, including ongoing work with Michael Wimmer and Alex Huk, I study how recurrent cortical dynamics generate choices and temporal weighting of sensory evidence. These efforts build upon attractor-based and recurrent network models of decision-making, extending classical Wong-Wang frameworks toward biologically grounded accounts of flexible decisions in neural circuits.
 </p>
+
+<p style="font-size:.75em">
+Ultimately, I aim to bridge computational theories, neural circuit mechanisms, and behavior across species and levels of organization. By combining electrophysiology, computational modeling, and human neurophysiology, my research seeks to identify mechanistic principles of executive function with potential applications in neurotechnology, cognitive rehabilitation, and brain-computer interfaces.
+</p>
+
+<p style="font-size:.75em">
+My work lies at the interface of theoretical neuroscience, systems neuroscience, and cognitive science, with the goal of developing quantitative models that explain how brains transform information into decisions and actions.
+</p>
+
+
+
+
+
+
+
 
 
 <h3>Updates</h3>
