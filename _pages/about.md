@@ -119,11 +119,11 @@ During my doctoral work, I developed analytical frameworks to characterize lamin
 </p>
 
 <p style="font-size:.75em">
-A complementary line of research investigates how motivational states influence decision processes. Using token-based reward paradigms, I studied how approaching future rewards reshapes value representations and commitment signals in frontal cortex (<a href="https://doi.org/10.1038/s41467-026-70423-1" target="_blank"><(a). In parallel, I developed computational models of gaze-dependent decisions, proposing closed-loop frameworks in which active visual sampling and evidence accumulation continuously interact (<a href="https://2025.ccneuro.org/abstract_pdf/Ferro_2025_A_closed-loop_model_coordination_gaze_control.pdf" target="_blank">).
+A complementary line of research investigates how motivational states influence decision processes. Using token-based reward paradigms, I studied how approaching future rewards reshapes value representations and commitment signals in frontal cortex (<a href="https://doi.org/10.1038/s41467-026-70423-1" target="_blank">Nature Communications 2026</a>). In parallel, I developed computational models of gaze-dependent decisions, proposing closed-loop frameworks in which active visual sampling and evidence accumulation continuously interact (<a href="https://2025.ccneuro.org/abstract_pdf/Ferro_2025_A_closed-loop_model_coordination_gaze_control.pdf" target="_blank">CCNeuro 2025</a>).
 </p>
 
 <p style="font-size:.75em">
-My current research integrates theoretical and experimental approaches to understand the neural mechanisms of decision formation. Through collaborations spanning systems and theoretical neuroscience, I investigate how recurrent cortical dynamics generate choices and temporal weighting of evidence, extending attractor and recurrent network models toward biologically grounded accounts of flexible decision-making.
+My current research integrates theoretical and experimental approaches to understand the neural mechanisms of decision formation. Through collaborations spanning systems and theoretical neuroscience, I investigate how recurrent cortical dynamics generate choices and temporal weighting of evidence, extending attractor and recurrent network models toward biologically grounded accounts of flexible decision-making (<a href="" target="_blank">in preparation</a>).
 </p>
 
 <p style="font-size:.75em">
