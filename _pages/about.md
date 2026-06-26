@@ -100,14 +100,10 @@ redirect_from:
 <h3>Research</h3>
 
 <p style="font-size:.75em">
-I am a cognitive and computational neuroscientist interested in how brains transform sensory information, internal goals, and reward expectations into adaptive decisions and actions. My research combines computational modeling, neural population analyses, eye tracking, and electrophysiology to understand the circuit mechanisms that link attention, gaze, valuation, and decision-making.
-</p>
-
-<p style="font-size:.75em">
-I currently work in the
+I am a cognitive and computational neuroscientist interested in how brains transform sensory information, internal goals, and reward expectations into adaptive decisions and actions. I currently work in the
 <a href="https://www.crm.cat/_neuroscience/">Department of Computational and Mathematical Neuroscience</a>
 at the Centre de Recerca Matemàtica
-(<a href="https://www.crm.cat">CRM</a>), and collaborate with the
+(<a href="https://www.crm.cat">CRM</a>) and collaborate with the
 <a href="https://www.upf.edu/web/tcn" target="_blank">Theoretical and Cognitive Neuroscience</a>
 group at the
 <a href="https://www.upf.edu/web/cbc" target="_blank">Center for Brain and Cognition</a>
@@ -115,98 +111,36 @@ at Universitat Pompeu Fabra in Barcelona.
 </p>
 
 <p style="font-size:.75em">
-My long-term goal is to develop unified computational theories of attention, gaze, reward, and decision-making. I am particularly interested in understanding how internal states shape the selective routing of information across brain circuits and how these computations ultimately give rise to flexible, goal-directed behavior.
+My long-term goal is to develop unified computational theories of attention, gaze, reward, and decision-making. By combining computational modeling, neural population analyses, eye tracking, and electrophysiology, I investigate how internal states shape information flow across brain circuits and give rise to flexible, goal-directed behavior.
 </p>
 
 <p style="font-size:.75em">
-During my doctoral work, I investigated how visual attention reorganizes communication across cortical circuits. By developing novel methods to characterize laminar and frequency-specific interactions, I demonstrated how attention selectively modulates information flow within and between visual areas, providing a unified framework linking cortical layers, oscillatory dynamics, and attentional processing.
+During my doctoral work, I developed analytical frameworks to characterize laminar and frequency-specific interactions in the primate visual cortex, revealing how attention reorganizes communication across cortical circuits. More recently, I showed that gaze actively gates and reactivates value representations in orbitofrontal cortex, demonstrating that visual sampling contributes directly to internal cognitive computations.
 </p>
 
 <p style="font-size:.75em">
-More recently, my work has focused on the interaction between gaze, value, and decision-making. By combining eye tracking with neural recordings in non-human primates, I showed that gaze can selectively gate and reactivate value representations in orbitofrontal cortex, even in the absence of visual information. These findings suggest that visual sampling actively participates in internal cognitive computations rather than merely reflecting ongoing decisions.
+A complementary line of research investigates how motivational states influence decision processes. Using token-based reward paradigms, I study how approaching future rewards reshapes value representations and commitment signals in frontal cortex. In parallel, I develop computational models of gaze-dependent decisions, proposing closed-loop frameworks in which active visual sampling and evidence accumulation continuously interact.
 </p>
 
 <p style="font-size:.75em">
-A complementary line of research investigates how motivational states influence neural computations during sequential decisions. Using token-based reward paradigms, I study how approaching distant rewards alters neural representations and decision processes in frontal cortex. These results indicate that proximity to future rewards dynamically reshapes value encoding, commitment, and behavioral control during goal-directed behavior.
+My current research integrates theoretical and experimental approaches to understand the neural mechanisms of decision formation. Through collaborations spanning systems and theoretical neuroscience, I investigate how recurrent cortical dynamics generate choices and temporal weighting of evidence, extending attractor and recurrent network models toward biologically grounded accounts of flexible decision-making.
 </p>
 
 <p style="font-size:.75em">
-Alongside experimental work, I have extensively developed computational models of gaze-dependent decision-making. I have investigated how active visual sampling interacts with evidence accumulation and choice formation, proposing closed-loop frameworks in which gaze and decision processes continuously influence one another.
+Ultimately, my work aims to bridge neural circuits, computational theories, and behavior across species and levels of organization. By combining electrophysiology, computational modeling, and human neurophysiology, I seek to identify mechanistic principles of executive function with applications in neurotechnology, cognitive rehabilitation, and brain-computer interfaces.
 </p>
+
+<h3>Research Network</h3>
 
 <p style="font-size:.75em">
-My current research further integrates theoretical and experimental approaches to understand the neural mechanisms of decision formation. I study how recurrent cortical dynamics generate choices and temporal weighting of sensory evidence. These efforts build upon attractor-based and recurrent network models of decision-making, extending classical frameworks toward biologically grounded accounts of flexible decisions in neural circuits.
+My research combines theoretical, computational, and experimental neuroscience through collaborations with international laboratories studying attention, reward, gaze control, motor planning, and decision-making, including groups at Baylor College of Medicine, UCLA, NYU-ECNU Shanghai, Forschungszentrum Jülich, Aix-Marseille University, and Newcastle University.
 </p>
+
+<h3>Community & Outreach</h3>
 
 <p style="font-size:.75em">
-Ultimately, I aim to bridge computational theories, neural circuit mechanisms, and behavior across species and levels of organization. By combining electrophysiology, computational modeling, and human neurophysiology, my research seeks to identify mechanistic principles of executive function with potential applications in neurotechnology, cognitive rehabilitation, and brain-computer interfaces.
+Beyond research, I actively contribute to scientific communities through mentoring, teaching, conference organization, and public engagement. I co-organize activities within the Barcelona Computational Cognitive Systems Neuroscience community, contribute to CRM NeuroChats, participate in SENC and SCB initiatives, and engage in citizen science and outreach events including European Researchers' Night, Festa de la Ciència, Pint of Science, and EUTOPIA activities at UPF.
 </p>
-
-<p style="font-size:.75em">
-My work lies at the interface of theoretical neuroscience, systems neuroscience, and cognitive science, with the goal of developing quantitative models that explain how brains transform information into decisions and actions.
-</p>
-
-<h3>Collaborations</h3>
-
-<p style="font-size:.75em">
-My research is highly collaborative and integrates theoretical, computational, and experimental neuroscience across multiple international laboratories. These collaborations provide access to unique datasets and experimental paradigms spanning attention, decision-making, reward, gaze control, and motor planning.
-</p>
-
-<table style="border:none !important;">
-
-<tr style="border:none !important;">
-<td style="border:none !important; width:22%; vertical-align:top; text-align:right; padding-right:3%;">
-<b>A. Huk (UCLA)</b><br/>
-2025–
-</td>
-<td style="border:none !important;">
-Fuster Laboratory for Cognitive Neuroscience, UCLA, Los Angeles, CA, USA. Neural mechanisms of perceptual decision-making and evidence accumulation. Analysis of large-scale electrophysiological recordings during dynamic decision tasks.
-</td>
-</tr>
-
-<tr style="border:none !important;">
-<td style="border:none !important; width:22%; vertical-align:top; text-align:right; padding-right:3%;">
-<b>B. Hayden (BCM)</b><br/>
-2021–
-</td>
-<td style="border:none !important;">
-Baylor College of Medicine, Houston, TX, USA. Gaze-dependent value coding, reward representations, and reference-dependent decision-making in frontal cortex. Resulting work includes publications in <i>Nature Communications</i>. 
-</td>
-</tr>
-
-<tr style="border:none !important;">
-<td style="border:none !important; width:22%; vertical-align:top; text-align:right; padding-right:3%;">
-<b>T. Yang (NYU-ECNU)</b><br/>
-2024–
-</td>
-<td style="border:none !important;">
-Chinese Academy of Sciences, Shanghai, China. Development of closed-loop computational models linking gaze control and decision formation, integrating network models with neural recordings.
-</td>
-</tr>
-</table>
-
-<table style="border:none !important;">
-<tr style="border:none !important;">
-<td style="border:none !important; width:22%; vertical-align:top; text-align:right; padding-right:3%;">
-<b>S. Grün (IAS), T. Brochier (AMU)</b><br/>
-2024–
-</td>
-<td style="border:none !important;">
-Institute for Advance Simulations (IAS), Jülich, Germany and Aix-Marseille University (AMU), France. Neural mechanisms underlying vision-action coordination and motor planning using laminar recordings.
-</td>
-</tr>
-
-<tr style="border:none !important;">
-<td style="border:none !important; width:22%; vertical-align:top; text-align:right; padding-right:3%;">
-<b>A. Thiele (NCL)</b><br/>
-2017–2021
-</td>
-<td style="border:none !important;">
-University of Newcastle, Newcastle, UK. Attention, cortical oscillations, and laminar information flow in the primate visual cortex, leading to the development of spectral and laminar frameworks of cortical communication.
-</td>
-</tr>
-
-</table>
 
 
 
