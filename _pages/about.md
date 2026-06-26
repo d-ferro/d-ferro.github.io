@@ -115,11 +115,11 @@ My long-term goal is to develop unified computational theories of attention, gaz
 </p>
 
 <p style="font-size:.75em">
-During my doctoral work, I developed analytical frameworks to characterize laminar and frequency-specific interactions in the primate visual cortex, revealing how attention reorganizes communication across cortical circuits. More recently, I showed that gaze actively gates and reactivates value representations in orbitofrontal cortex, demonstrating that visual sampling contributes directly to internal cognitive computations.
+During my doctoral work, I developed analytical frameworks to characterize laminar and frequency-specific interactions in the primate visual cortex, revealing how attention selectively modulates laminar communication across cortical circuits. More recently, I showed that gaze actively gates and reactivates value representations in orbitofrontal cortex, revealing that gaze direction actively contributes to internal cognitive computations.
 </p>
 
 <p style="font-size:.75em">
-A complementary line of research investigates how motivational states influence decision processes. Using token-based reward paradigms, I study how approaching future rewards reshapes value representations and commitment signals in frontal cortex. In parallel, I develop computational models of gaze-dependent decisions, proposing closed-loop frameworks in which active visual sampling and evidence accumulation continuously interact.
+A complementary line of research investigates how motivational states influence decision processes. Using token-based reward paradigms, I studied how approaching future rewards reshapes value representations and commitment signals in frontal cortex. In parallel, I developed computational models of gaze-dependent decisions, proposing closed-loop frameworks in which active visual sampling and evidence accumulation continuously interact.
 </p>
 
 <p style="font-size:.75em">
@@ -127,7 +127,7 @@ My current research integrates theoretical and experimental approaches to unders
 </p>
 
 <p style="font-size:.75em">
-Ultimately, my work aims to bridge neural circuits, computational theories, and behavior across species and levels of organization. By combining electrophysiology, computational modeling, and human neurophysiology, I seek to identify mechanistic principles of executive function with applications in neurotechnology, cognitive rehabilitation, and brain-computer interfaces.
+Ultimately, my work aims to bridge neural circuits, computational theories, and behavior across species and levels of organization. By combining electrophysiology, computational modeling, and human neurophysiology, I seek to identify mechanistic principles of executive function with applications in neurotechnology, clinical diagnostics, cognitive rehabilitation, and brain-computer interfaces.
 </p>
 
 <h3>Research Network</h3>
