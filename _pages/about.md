@@ -183,7 +183,9 @@ Baylor College of Medicine, Houston, TX, USA. Gaze-dependent value coding, rewar
 Chinese Academy of Sciences, Shanghai, China. Development of closed-loop computational models linking gaze control and decision formation, integrating recurrent neural networks with neural recordings.
 </td>
 </tr>
+</table>
 
+<table style="border:none !important;">
 <tr style="border:none !important;">
 <td style="border:none !important; width:22%; vertical-align:top; text-align:right; padding-right:3%;">
 <b>S. Grün (IAS), T. Brochier (AMU)</b><br/>
