@@ -51,7 +51,7 @@ author_profile: true
 <table style="border:none !important;">
   <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:4%; vertical-align:top !important"><h3 style="margin-top:0 !important;">TFG BME 2026</h3></td>
- <td style="border:none !important;"><b>Chair of the committee for Bachelor degree theses dissertations</b> (Treballs de fi de Grau, TFG), <br/>Universitat Pompeu Fabra, Biomedical Engineeing Gratudations, <br/>Session: Neuroscience, July 10th 2026 (Barcelona, ES). <a style="color:#444" href="" type="application/pdf" target="_blank">[programme]</a>
+ <td style="border:none !important;"><b>Chair of the committee for Bachelor degree theses dissertations</b> (Treballs de fi de Grau, TFG), <br/>Universitat Pompeu Fabra, Biomedical Engineeing Gratudations, <br/>Session: Neuroscience, July 10th 2026 (Barcelona, ES). <a style="color:#444" href="/files/UPF_BME_Congress-Programme-FINAL-2026.pdf" type="application/pdf" target="_blank">[programme]</a>
  </td>
 </tr>
  <tr style="border:none !important;">
