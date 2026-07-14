@@ -11,6 +11,29 @@ author_profile: true
 <p style="font-size:.75em">For any request or further information contact me at <i>demetrio[dot]ferro[at]upf[dot]edu</i>.</p>
 
 
+
+<p>Forthcoming</p>
+
+<table style="border:none !important; margin-top:0 !important; margin-bottom:0 !important">
+
+<!-- 2026 -->
+<tr style="border:none !important;">
+ <td style="border:none !important; text-align:center !important; vertical-align:top !important"><h3 style="margin-top:0 !important">2026</h3></td>
+ <td style="border:none !important;"><a style="color:#444" href="" target="_blank">Neural Network Dynamics Underlying Flexible Adjustment of Temporal Evidence Weighting in Perceptual Decision-Making</a> <br/>
+  <b>Demetrio Ferro<sup>🖂</sup></b>, Citlalli Vivar, Aaron J Levi, Alexander C Huk and Klaus Wimmer <br/>
+  <i>in preparation</i>, <b></b>:<br/>
+<!--  DOI: <a href="https://doi.org/10.1038/s41467-026-70423-1" target="_blank">10.1038/s41467-026-70423-1</a>; Data and code: <a href="https://10.12751/g-node.1kkrw6" target="_blank">repository</a>, PDF: 🗎<a href="https://www.nature.com/articles/s41467-026-70423-2.pdf" target="_blank">Nat Commun</a>, <a style="color:#444" href="https://doi.org/10.1101/2025.03.03.640771" target="_blank">bioRxiv</a>, <a style="color:#444" href="https://www.researchsquare.com/article/rs-6161777/v1" target="_blank">ResearchSquare</a>;--> <sup>🖂</sup><a style="font-weight:bold" href="mailto:demetrio.ferro@upf.edu" target="_blank">Corresponding Author</a>.
+ 
+<div style="margin-top: 10px; padding-left: 10px; border-left: 1px dotted #777; color:#999"><i style="font-size:9pt">
+In proximity of a jackpot, subjects perform choices faster and more accurately, reflecting a fundamental shift in their evaluation strategy. <br/>
+The value of alternative choice options is referenced to a cumulative tokens count that leads to jackpot achievement upon reaching a fixed threshold. <br/>
+Neural activity in dorsal anterior cingulate cortex tracked this reference-dependent shift, revealing a neural basis for reward proximity in decision-making.</i></div>
+ 
+ </td>
+</tr>
+
+</table>
+
 <p>Peer-reviewed publications</p>
 
 <table style="border:none !important; margin-top:0 !important; margin-bottom:0 !important">
