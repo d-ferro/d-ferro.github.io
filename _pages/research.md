@@ -16,8 +16,23 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
 </div>
 <p style="font-size:1pt"><br/></p>-->
 
+
+
+
 <div style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;"><h3 style="margin-top:20px">Upcoming</h3></div>
 <table style="border:none !important">
+  <tr style="border:none !important;">
+ <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">FENS 2026</h3></td>
+ <td style="border:none !important;"><b>D. Ferro</b>, C. Vivar, A. Levi, A. Huk, K. Wimmer, “Adaptive temporal weighting across behavior and neral newtork models”, Italian Network for Computational and Theoretical Neuroscience (<a href="https://inctn.it/" target="_blank">INCTN</a>) Forum, Sept. 2026 (Trieste, IT 🇮🇹). <a style="color:#444" href="https://fensforum.org/" type="application/pdf" target="_blank">[upcoming]</a>
+ </td>
+</tr>
+
+</table>
+
+
+<div style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;"><h3 style="margin-top:20px">Talks & Posters</h3></div>
+<table style="border:none !important; margin-top:0 !important; margin-bottom:0 !important">
+
   <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">FENS 2026</h3></td>
  <td style="border:none !important;"><b>D. Ferro</b>, C. Vivar, A. Levi, A. Huk, K. Wimmer, “Adaptive temporal weighting across behavior and neral newtork models”, Federation of European Neuroscience Societies (<a href="https://fensforum.org/" target="_blank">FENS</a>) Forum, July 2026 (Barcelona, ES 🇪🇸). <a style="color:#444" href="https://fensforum.org/" type="application/pdf" target="_blank">[upcoming]</a>
@@ -29,13 +44,6 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
  <td style="border:none !important;">“From neural circuits to choices: multi-scale dynamics in decision making”, A Barccsyn Federation of European Neuroscience Societies (<a href="https://fensforum.org/" target="_blank">FENS</a>) Forum Symposium, July 2026 (Barcelona, ES 🇪🇸). <a style="color:#444" href="https://barccsyn.org/meetings/satellite" type="application/pdf" target="_blank">[upcoming]</a>
  </td>
 </tr>
- 
-
-</table>
-
-
-<div style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;"><h3 style="margin-top:20px">Talks & Posters</h3></div>
-<table style="border:none !important; margin-top:0 !important; margin-bottom:0 !important">
 
 <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">PRUAB 2026<br/>(invited)</h3></td>
