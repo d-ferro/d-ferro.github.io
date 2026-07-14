@@ -39,12 +39,6 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
  </td>
 </tr>
 
-  <tr style="border:none !important;">
- <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">FENS 2026</h3></td>
- <td style="border:none !important;">“From neural circuits to choices: multi-scale dynamics in decision making”, A Barccsyn Federation of European Neuroscience Societies (<a href="https://fensforum.org/" target="_blank">FENS</a>) Forum Symposium, July 2026 (Barcelona, ES 🇪🇸). <a style="color:#444" href="https://barccsyn.org/meetings/satellite" type="application/pdf" target="_blank">[programme]</a>
- </td>
-</tr>
-
 <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">PRUAB 2026<br/>(invited)</h3></td>
  <td style="border:none !important;"><b>D. Ferro</b>, “From attention to intention: how covert and overt gaze behavior modulates the encoding of cognitive variables”, Parc de Recerca de la Universitat Autonoma de Barcelona (<a href="https://www.pruab.cat/ca" target="_blank">PRUAB</a>), June 2026 (Barcelona, ES 🇪🇸). <a style="color:#444" href="/files/UAB-2026-2nd-TOUCH-workshop.pdf" type="application/pdf" target="_blank">[programme]</a> <a href="/files/2026_TOUCH.pdf" target="_blank">[certificate]</a>
@@ -204,6 +198,13 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
 
 <div style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;"><h3 style="margin-top:20px">Attended Events</h3></div>
 <table style="border:none !important;">
+
+  <tr style="border:none !important;">
+ <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">FENS 2026</h3></td>
+ <td style="border:none !important;">“From neural circuits to choices: multi-scale dynamics in decision making”, A Barccsyn Federation of European Neuroscience Societies (<a href="https://fensforum.org/" target="_blank">FENS</a>) Forum Symposium, July 2026 (Barcelona, ES 🇪🇸). <a style="color:#444" href="https://barccsyn.org/meetings/satellite" type="application/pdf" target="_blank">[programme]</a>
+ </td>
+</tr>
+
 
  <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">CASES 2026</h3></td>
