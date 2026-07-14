@@ -22,7 +22,7 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
 <div style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;"><h3 style="margin-top:20px">Upcoming</h3></div>
 <table style="border:none !important">
   <tr style="border:none !important;">
- <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">FENS 2026</h3></td>
+ <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">INCTN 2026</h3></td>
  <td style="border:none !important;"><b>D. Ferro</b>, C. Vivar, A. Levi, A. Huk, K. Wimmer, “Adaptive temporal weighting across behavior and neral newtork models”, Italian Network for Computational and Theoretical Neuroscience (<a href="https://inctn.it/" target="_blank">INCTN</a>) at Scuola Internazionale Superiore di Studi Avanzati (<a href="https://sissa.it" target="_blank">SISSA</a>), Sept. 2026 (Trieste, IT 🇮🇹). <a style="color:#444" href="https://inctn.it/" type="application/pdf" target="_blank">[upcoming]</a>
  </td>
 </tr>
