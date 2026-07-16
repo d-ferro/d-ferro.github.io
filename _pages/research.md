@@ -19,7 +19,7 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
 
 
 
-<div style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;"><h3 style="margin-top:20px">Planned</h3></div>
+<div style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;"><h3 style="margin-top:20px">Upcoming</h3></div>
 <table style="border:none !important">
   <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">INCTN 2026</h3></td>
