@@ -24,9 +24,9 @@ author_profile: true
   <i>in preparation</i>,DOI: <a href="" target="_blank">(to appear soon)</a>; Data and code: <a href="https://gin.g-node.org/56Fe" target="_blank">repository</a>, PDF: 🗎<a style="color:#444" href="" target="_blank">(to appear soon)</a>; <sup>🖂</sup><a style="font-weight:bold" href="mailto:demetrio.ferro@upf.edu" target="_blank">Corresponding Author</a>.
  
 <div style="margin-top: 10px; padding-left: 10px; border-left: 1px dotted #777; color:#999"><i style="font-size:9pt">
- The ability to flexibly weigh sensory evidence over time is fundamental to adaptive decision-making. We design a psychophysiologically grounded <br/>
- computational model that captures key behavioral and neural signatures of temporal evidence weighting across sensory and choice circuits, <br/>
- providing a mechanistic framework for how bottom-up sensory input and top-down cognitive signals dynamically interact to support adaptive decision-making.</i></div>
+ Adaptive decisions depend on flexibly weighting sensory evidence as environments change. <br/>
+ We developed a psychophysiologically grounded computational model that reproduces neural and behavioral signatures of temporal evidence weighting, <br/>
+ revealing the circuit mechanisms through which sensory inputs and top-down signals interact.</i></div>
 
  </td>
 </tr>
