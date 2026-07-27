@@ -21,8 +21,7 @@ author_profile: true
  <td style="border:none !important; text-align:center !important; vertical-align:top !important"><h3 style="margin-top:0 !important">2026</h3></td>
  <td style="border:none !important;"><a style="color:#444" href="" target="_blank">Neural Network Dynamics Underlying Flexible Adjustment of Temporal Evidence Weighting in Perceptual Decision-Making</a> <br/>
   <b>Demetrio Ferro<sup>🖂</sup></b>, Citlalli Vivar, Aaron J Levi, Alexander C Huk and Klaus Wimmer <br/>
-  <i>in preparation</i><!--, <b></b>:<br/>
-  DOI: <a href="https://doi.org/10.1038/s41467-026-70423-1" target="_blank">10.1038/s41467-026-70423-1</a>; Data and code: <a href="https://10.12751/g-node.1kkrw6" target="_blank">repository</a>, PDF: 🗎<a href="https://www.nature.com/articles/s41467-026-70423-2.pdf" target="_blank">Nat Commun</a>, <a style="color:#444" href="https://doi.org/10.1101/2025.03.03.640771" target="_blank">bioRxiv</a>, <a style="color:#444" href="https://www.researchsquare.com/article/rs-6161777/v1" target="_blank">ResearchSquare</a>;--> <sup>🖂</sup><a style="font-weight:bold" href="mailto:demetrio.ferro@upf.edu" target="_blank">Corresponding Author</a>.
+  <i>in preparation</i>,DOI: <a href="" target="_blank">(to appear soon)</a>; Data and code: <a href="https://gin.g-node.org/56Fe" target="_blank">repository</a>, PDF: 🗎<a style="color:#444" href="" target="_blank">(to appear soon)</a>; <sup>🖂</sup><a style="font-weight:bold" href="mailto:demetrio.ferro@upf.edu" target="_blank">Corresponding Author</a>.
  
 <div style="margin-top: 10px; padding-left: 10px; border-left: 1px dotted #777; color:#999"><i style="font-size:9pt">
 Temporal evidence weighting is the flexible adaptation to sensory stimuli dynamics to estimate motion coherence in perceptual discrimination tasks.<br/>
