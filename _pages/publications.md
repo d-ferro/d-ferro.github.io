@@ -26,7 +26,7 @@ author_profile: true
 <div style="margin-top: 10px; padding-left: 10px; border-left: 1px dotted #777; color:#999"><i style="font-size:9pt">
  Adaptive decisions depend on flexibly weighting sensory evidence as environments change. <br/>
  We developed a psychophysiologically grounded computational model that reproduces neural and behavioral signatures of temporal evidence weighting, <br/>
- revealing the circuit mechanisms through which sensory inputs and top-down signals interact.</i></div>
+ identifying mechanistic circuit interactions through which sensory inputs and top-down signals dynamically shape decisions.</i></div>
 
  </td>
 </tr>
