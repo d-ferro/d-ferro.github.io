@@ -24,11 +24,11 @@ author_profile: true
   <i>in preparation</i><!--, <b></b>:<br/>
   DOI: <a href="https://doi.org/10.1038/s41467-026-70423-1" target="_blank">10.1038/s41467-026-70423-1</a>; Data and code: <a href="https://10.12751/g-node.1kkrw6" target="_blank">repository</a>, PDF: 🗎<a href="https://www.nature.com/articles/s41467-026-70423-2.pdf" target="_blank">Nat Commun</a>, <a style="color:#444" href="https://doi.org/10.1101/2025.03.03.640771" target="_blank">bioRxiv</a>, <a style="color:#444" href="https://www.researchsquare.com/article/rs-6161777/v1" target="_blank">ResearchSquare</a>;--> <sup>🖂</sup><a style="font-weight:bold" href="mailto:demetrio.ferro@upf.edu" target="_blank">Corresponding Author</a>.
  
-<!--<div style="margin-top: 10px; padding-left: 10px; border-left: 1px dotted #777; color:#999"><i style="font-size:9pt">
-In proximity of a jackpot, subjects perform choices faster and more accurately, reflecting a fundamental shift in their evaluation strategy. <br/>
-The value of alternative choice options is referenced to a cumulative tokens count that leads to jackpot achievement upon reaching a fixed threshold. <br/>
-Neural activity in dorsal anterior cingulate cortex tracked this reference-dependent shift, revealing a neural basis for reward proximity in decision-making.</i></div>-->
- 
+<div style="margin-top: 10px; padding-left: 10px; border-left: 1px dotted #777; color:#999"><i style="font-size:9pt">
+Temporal evidence weighting is the flexible adaptation to sensory stimuli dynamics to estimate motion coherence in perceptual discrimination tasks.<br/>
+This work introduces a psychophysiologically grounded model reproducing key features of neural choice integration and behavioral decision reports<br />
+to provide mechanistic insights into the underlying circuitry and provide a unified framework of dynamic sensory and top-down signal integration.</i></div>
+
  </td>
 </tr>
 
