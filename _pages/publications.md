@@ -24,9 +24,8 @@ author_profile: true
   <i>in preparation</i>,DOI: <a href="" target="_blank">(to appear soon)</a>; Data and code: <a href="https://gin.g-node.org/56Fe" target="_blank">repository</a>, PDF: 🗎<a style="color:#444" href="" target="_blank">(to appear soon)</a>; <sup>🖂</sup><a style="font-weight:bold" href="mailto:demetrio.ferro@upf.edu" target="_blank">Corresponding Author</a>.
  
 <div style="margin-top: 10px; padding-left: 10px; border-left: 1px dotted #777; color:#999"><i style="font-size:9pt">
-Temporal evidence weighting is the flexible adaptation to sensory stimuli dynamics to estimate motion coherence in perceptual discrimination tasks.<br/>
-This work introduces a psychophysiologically grounded model reproducing key features of neural choice integration and behavioral decision reports<br />
-to provide mechanistic insights into the underlying circuitry and provide a unified framework of dynamic sensory and top-down signal integration.</i></div>
+ Perceptual decisions require capturing temporal cues of sensory evidence over time. In this work we propose a psychophysiologically grounded computational model
+ capturing key neural and behavioral signatures of temporal evidence weighting across sensory and choice circuits, providing a mechanistic framework for how sensory and top-down signals dynamically interact to support adaptive decision-making.</i></div>
 
  </td>
 </tr>
