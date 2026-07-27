@@ -26,7 +26,7 @@ author_profile: true
 <div style="margin-top: 10px; padding-left: 10px; border-left: 1px dotted #777; color:#999"><i style="font-size:9pt">
  Perceptual decisions require capturing temporal cues of sensory evidence over time. In this work, we design a psychophysiologically grounded <br/>
  computational model capturing key neural and behavioral signatures of temporal evidence weighting across sensory and choice circuits, <br/>
- providing a mechanistic framework for how sensory and top-down signals dynamically interact to support adaptive decision-making.</i></div>
+ providing a mechanistic framework for how bottom-up and top-down signals dynamically interact to support adaptive decision-making.</i></div>
 
  </td>
 </tr>
