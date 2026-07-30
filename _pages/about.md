@@ -34,7 +34,7 @@ redirect_from:
 
   <div class="mySlides fade">
     <div class="numbertext">1 / 9</div>
-    <!--<a href="" target="_blank"><img src="/images/slideshow/ferro-vivar-2026.png" style="width:100%;"></a>-->
+    <a href="" target="_blank"><img src="/images/slideshow/ferro-vivar-2026.png" style="width:100%;"></a>
     <div class="text">Network model for temporal evidence weighting in perceptual motion discrimination.<br/>
     <b><a href="" target="_blank">(in preparation)</a></b> </div>
   </div>
