@@ -59,7 +59,7 @@ author_profile: true
 
   <img class="zoom"
        src="/images/paper_thumbnails/Ferroetal2024.png"
-       style="position:absolute; left:160px; top:-20px; width:600px; max-width:none; opacity:0; transition:opacity .2s; z-index:1000; pointer-events:none;">
+       style="position:absolute; left:-550px; top:-20px; width:600px; max-width:none; opacity:0; transition:opacity .2s; z-index:1000; pointer-events:none;">
 
   <br/>
   Ferro et al., <i>Nat Commun</i>, 2024
