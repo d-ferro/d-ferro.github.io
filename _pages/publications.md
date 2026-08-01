@@ -17,7 +17,7 @@ author_profile: true
  it should go to the 
  center
 
-<div><img src="/images/paper_thumbnails/Ferroetal2026.png" style="width:80px"></br>
+<div><img src="/images/paper_thumbnails/Ferroetal2026.png" style="width:100px"></br>
 Ferro et al., 2026</div>
 
  
