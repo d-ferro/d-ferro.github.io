@@ -13,17 +13,25 @@ author_profile: true
 <p>Selected</p>
 
 <div style="width:85%; text-align:center">
-<a href="https://www.nature.com/articles/s41467-026-70423-1.pdf" target="_blank"><div style="font-size:.75em; text-align:center; float:left; width:25%"><img src="/images/paper_thumbnails/Ferroetal2026.png" style="width:100px"><br/>
-Ferro et al., 2026</div></a>
+<a href="https://www.nature.com/articles/s41467-026-70423-1.pdf" target="_blank">
+<div style="font-size:.75em; text-align:center; float:left; width:25%"><img src="/images/paper_thumbnails/Ferroetal2026.png" style="width:100px"><br/>
+Ferro et al., 2026
+</div></a>
 
-<a href="https://2025.ccneuro.org/abstract_pdf/Ferro_2025_A_closed-loop_model_coordination_gaze_control.pdf" target="_blank"><div style="font-size:.75em; text-align:center; float:left; width:25%"><img src="/images/paper_thumbnails/Ferroetal2025.png" style="width:100px"><br/>
-Ferro et al., 2025</div>
+<a href="https://2025.ccneuro.org/abstract_pdf/Ferro_2025_A_closed-loop_model_coordination_gaze_control.pdf" target="_blank">
+<div style="font-size:.75em; text-align:center; float:left; width:25%"><img src="/images/paper_thumbnails/Ferroetal2025.png" style="width:100px"><br/>
+Ferro et al., 2025
+</div></a>
 
-<a href="https://www.nature.com/articles/s41467-024-50214-2.pdf" target="_blank"><div style="font-size:.75em; text-align:center; float:left; width:25%"><img src="/images/paper_thumbnails/Ferroetal2024.png" style="width:100px"><br/>
-Ferro et al., 2024</div></a>
+<a href="https://www.nature.com/articles/s41467-024-50214-2.pdf" target="_blank">
+<div style="font-size:.75em; text-align:center; float:left; width:25%"><img src="/images/paper_thumbnails/Ferroetal2024.png" style="width:100px"><br/>
+Ferro et al., 2024
+</div></a>
 
-<a href="https://www.pnas.org/doi/reader/10.1073/pnas.2022097118" target="_blank"><div style="font-size:.75em; text-align:center; float:left; width:25%"><img src="/images/paper_thumbnails/Ferroetal2021.png" style="width:100px"><br/>
-Ferro et al., 2021</div></a>
+<a href="https://www.pnas.org/doi/reader/10.1073/pnas.2022097118" target="_blank">
+<div style="font-size:.75em; text-align:center; float:left; width:25%"><img src="/images/paper_thumbnails/Ferroetal2021.png" style="width:100px"><br/>
+Ferro et al., 2021
+</div></a>
 </div>
 
 <br/>
