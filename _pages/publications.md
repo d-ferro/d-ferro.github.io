@@ -28,7 +28,7 @@ Ferro et al., 2025
 Ferro et al., 2024
 </div></a>
 
-<a href="https://www.pnas.org/doi/reader/10.1073/pnas.2022097118" target="_blank">
+<a href="https://www.pnas.org/doi/pdf/10.1073/pnas.2022097118?download=false" target="_blank">
 <div style="font-size:.75em; text-align:center; float:left; width:25%"><img src="/images/paper_thumbnails/Ferroetal2021.png" style="width:100px"><br/>
 Ferro et al., 2021
 </div></a>
