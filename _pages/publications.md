@@ -19,7 +19,7 @@ author_profile: true
      onmouseover="this.querySelector('.zoom').style.opacity='1';"
      onmouseout="this.querySelector('.zoom').style.opacity='0';">
 
-  <img src="/images/paper_thumbnails/Ferroetal2026.png" style="width:100px">
+  <img src="/images/paper_thumbnails/Ferroetal2026.png" style="width:100px; border:1px solid lightgray">
 
   <img class="zoom"
        src="/images/paper_thumbnails/Ferroetal2026.png"
@@ -37,7 +37,7 @@ author_profile: true
      onmouseover="this.querySelector('.zoom').style.opacity='1';"
      onmouseout="this.querySelector('.zoom').style.opacity='0';">
 
-  <img src="/images/paper_thumbnails/Ferroetal2025.png" style="width:100px">
+  <img src="/images/paper_thumbnails/Ferroetal2025.png" style="width:100px; border:1px solid lightgray">
 
   <img class="zoom"
        src="/images/paper_thumbnails/Ferroetal2025.png"
@@ -55,7 +55,7 @@ author_profile: true
      onmouseover="this.querySelector('.zoom').style.opacity='1';"
      onmouseout="this.querySelector('.zoom').style.opacity='0';">
 
-  <img src="/images/paper_thumbnails/Ferroetal2024.png" style="width:100px">
+  <img src="/images/paper_thumbnails/Ferroetal2024.png" style="width:100px; border:1px solid lightgray">
 
   <img class="zoom"
        src="/images/paper_thumbnails/Ferroetal2024.png"
@@ -73,7 +73,7 @@ author_profile: true
      onmouseover="this.querySelector('.zoom').style.opacity='1';"
      onmouseout="this.querySelector('.zoom').style.opacity='0';">
 
-  <img src="/images/paper_thumbnails/Ferroetal2021.png" style="width:100px">
+  <img src="/images/paper_thumbnails/Ferroetal2021.png" style="width:100px; border:1px solid lightgray">
 
   <img class="zoom"
        src="/images/paper_thumbnails/Ferroetal2021.png"
