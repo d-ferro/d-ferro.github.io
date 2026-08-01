@@ -12,7 +12,6 @@ author_profile: true
 
 <p>Selected</p>
 
-```html
 <div style="width:85%; text-align:center">
 
 <a href="https://www.nature.com/articles/s41467-026-70423-1.pdf" target="_blank">
