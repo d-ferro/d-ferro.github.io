@@ -35,10 +35,9 @@ Ferro et al., 2021
 </div>
 
 <br/>
-<br/>
 
 
-<p>Forthcoming</p>
+<p style="clear:both;">Forthcoming</p>
 
 <table style="border:none !important; margin-top:0 !important; margin-bottom:0 !important">
 
