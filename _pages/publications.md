@@ -16,10 +16,11 @@ author_profile: true
 
 <a href="https://www.nature.com/articles/s41467-026-70423-1.pdf" target="_blank">
 <div style="font-size:.75em; text-align:center; float:left; width:25%; position:relative;"
-     onmouseover="this.querySelector('.zoom').style.opacity='1';"
-     onmouseout="this.querySelector('.zoom').style.opacity='0';">
+     onmouseover="if (window.matchMedia('(hover: hover)').matches) this.querySelector('.zoom').style.opacity='1';"
+     onmouseout="if (window.matchMedia('(hover: hover)').matches) this.querySelector('.zoom').style.opacity='0';">
 
-  <img src="/images/paper_thumbnails/Ferroetal2026.png" style="width:100px; border:1px solid lightgray">
+  <img src="/images/paper_thumbnails/Ferroetal2026.png"
+       style="width:100px; border:1px solid lightgray">
 
   <img class="zoom"
        src="/images/paper_thumbnails/Ferroetal2026.png"
@@ -34,10 +35,11 @@ author_profile: true
 
 <a href="https://2025.ccneuro.org/abstract_pdf/Ferro_2025_A_closed-loop_model_coordination_gaze_control.pdf" target="_blank">
 <div style="font-size:.75em; text-align:center; float:left; width:25%; position:relative;"
-     onmouseover="this.querySelector('.zoom').style.opacity='1';"
-     onmouseout="this.querySelector('.zoom').style.opacity='0';">
+     onmouseover="if (window.matchMedia('(hover: hover)').matches) this.querySelector('.zoom').style.opacity='1';"
+     onmouseout="if (window.matchMedia('(hover: hover)').matches) this.querySelector('.zoom').style.opacity='0';">
 
-  <img src="/images/paper_thumbnails/Ferroetal2025.png" style="width:100px; border:1px solid lightgray">
+  <img src="/images/paper_thumbnails/Ferroetal2025.png"
+       style="width:100px; border:1px solid lightgray">
 
   <img class="zoom"
        src="/images/paper_thumbnails/Ferroetal2025.png"
@@ -52,10 +54,11 @@ author_profile: true
 
 <a href="https://www.nature.com/articles/s41467-024-50214-2.pdf" target="_blank">
 <div style="font-size:.75em; text-align:center; float:left; width:25%; position:relative;"
-     onmouseover="this.querySelector('.zoom').style.opacity='1';"
-     onmouseout="this.querySelector('.zoom').style.opacity='0';">
+     onmouseover="if (window.matchMedia('(hover: hover)').matches) this.querySelector('.zoom').style.opacity='1';"
+     onmouseout="if (window.matchMedia('(hover: hover)').matches) this.querySelector('.zoom').style.opacity='0';">
 
-  <img src="/images/paper_thumbnails/Ferroetal2024.png" style="width:100px; border:1px solid lightgray">
+  <img src="/images/paper_thumbnails/Ferroetal2024.png"
+       style="width:100px; border:1px solid lightgray">
 
   <img class="zoom"
        src="/images/paper_thumbnails/Ferroetal2024.png"
@@ -70,10 +73,11 @@ author_profile: true
 
 <a href="https://www.pnas.org/doi/pdf/10.1073/pnas.2022097118?download=false" target="_blank">
 <div style="font-size:.75em; text-align:center; float:left; width:25%; position:relative;"
-     onmouseover="this.querySelector('.zoom').style.opacity='1';"
-     onmouseout="this.querySelector('.zoom').style.opacity='0';">
+     onmouseover="if (window.matchMedia('(hover: hover)').matches) this.querySelector('.zoom').style.opacity='1';"
+     onmouseout="if (window.matchMedia('(hover: hover)').matches) this.querySelector('.zoom').style.opacity='0';">
 
-  <img src="/images/paper_thumbnails/Ferroetal2021.png" style="width:100px; border:1px solid lightgray">
+  <img src="/images/paper_thumbnails/Ferroetal2021.png"
+       style="width:100px; border:1px solid lightgray">
 
   <img class="zoom"
        src="/images/paper_thumbnails/Ferroetal2021.png"
@@ -86,7 +90,6 @@ author_profile: true
 </a>
 
 </div>
-
 
 <!------------------------------------------------------------------------------------->
 
