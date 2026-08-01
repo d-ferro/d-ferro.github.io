@@ -12,19 +12,18 @@ author_profile: true
 
 <p>Selected</p>
 
-<div style="width:100%; text-align:center">
+<div style="width:85%; text-align:center">
 
-<div style="text-align:center; float:left; width:25%"><img src="/images/paper_thumbnails/Ferroetal2026.png" style="width:100px"><br/>
+<div style="font-size:.75em; text-align:center; float:left; width:25%"><img src="/images/paper_thumbnails/Ferroetal2026.png" style="width:100px"><br/>
 Ferro et al., 2026</div>
 
-<div style="text-align:center; float:left; width:25%"><img src="/images/paper_thumbnails/Ferroetal2025.png" style="width:100px"><br/>
+<div style="font-size:.75em; text-align:center; float:left; width:25%"><img src="/images/paper_thumbnails/Ferroetal2025.png" style="width:100px"><br/>
 Ferro et al., 2025</div>
 
-<div style="text-align:center; float:left; width:25%"><img src="/images/paper_thumbnails/Ferroetal2024.png" style="width:100px"><br/>
+<div style="font-size:.75em; text-align:center; float:left; width:25%"><img src="/images/paper_thumbnails/Ferroetal2024.png" style="width:100px"><br/>
 Ferro et al., 2024</div>
 
-
-<div style="text-align:center; float:left; width:25%"><img src="/images/paper_thumbnails/Ferroetal2021.png" style="width:100px"><br/>
+<div style="font-size:.75em; text-align:center; float:left; width:25%"><img src="/images/paper_thumbnails/Ferroetal2021.png" style="width:100px"><br/>
 Ferro et al., 2021</div>
 
 </div>
