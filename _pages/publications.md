@@ -14,14 +14,14 @@ author_profile: true
 
 <div style="width:100%; text-align:center">
 
-<div style="text-align:center; float:left"><img src="/images/paper_thumbnails/Ferroetal2026.png" style="width:100px"></br>
+<div style="text-align:center; float:left"><img src="/images/paper_thumbnails/Ferroetal2026.png" style="width:100px"><br/>
 Ferro et al., 2026</div>
 
-<div style="text-align:center; float:left"><img src="/images/paper_thumbnails/Ferroetal2026.png" style="width:100px"></br>
+<div style="text-align:center; float:left"><img src="/images/paper_thumbnails/Ferroetal2026.png" style="width:100px"><br/>
 Ferro et al., 2026</div>
 
 
-<div style="text-align:center; float:left"><img src="/images/paper_thumbnails/Ferroetal2026.png" style="width:100px"></br>
+<div style="text-align:center; float:left"><img src="/images/paper_thumbnails/Ferroetal2026.png" style="width:100px"><br/>
 Ferro et al., 2026</div>
 
  
