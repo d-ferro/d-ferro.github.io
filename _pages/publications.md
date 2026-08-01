@@ -18,11 +18,11 @@ author_profile: true
 Ferro et al., 2026</div>
 
 <div style="text-align:center; float:left"><img src="/images/paper_thumbnails/Ferroetal2024.png" style="width:100px"><br/>
-Ferro et al., 2026</div>
+Ferro et al., 2024</div>
 
 
 <div style="text-align:center; float:left"><img src="/images/paper_thumbnails/Ferroetal2021.png" style="width:100px"><br/>
-Ferro et al., 2026</div>
+Ferro et al., 2021</div>
 
  
 </div>
