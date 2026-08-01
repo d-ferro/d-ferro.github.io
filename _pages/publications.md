@@ -13,6 +13,85 @@ author_profile: true
 <p>Selected</p>
 
 <div style="width:85%; text-align:center">
+
+<a href="https://www.nature.com/articles/s41467-026-70423-1.pdf" target="_blank">
+<div style="font-size:.75em; text-align:center; float:left; width:25%; position:relative;"
+     onmouseover="this.querySelector('.zoom').style.opacity='1';"
+     onmouseout="this.querySelector('.zoom').style.opacity='0';">
+
+  <img src="/images/paper_thumbnails/Ferroetal2026.png" style="width:100px">
+
+  <img class="zoom"
+       src="/images/paper_thumbnails/Ferroetal2026.png"
+       style="position:absolute; left:120px; top:-20px; width:350px; opacity:0; transition:opacity .2s; z-index:1000; pointer-events:none;">
+
+  <br/>
+  Ferro et al., <i>Nat Commun</i>, 2026
+
+</div>
+</a>
+
+
+<a href="https://2025.ccneuro.org/abstract_pdf/Ferro_2025_A_closed-loop_model_coordination_gaze_control.pdf" target="_blank">
+<div style="font-size:.75em; text-align:center; float:left; width:25%; position:relative;"
+     onmouseover="this.querySelector('.zoom').style.opacity='1';"
+     onmouseout="this.querySelector('.zoom').style.opacity='0';">
+
+  <img src="/images/paper_thumbnails/Ferroetal2025.png" style="width:100px">
+
+  <img class="zoom"
+       src="/images/paper_thumbnails/Ferroetal2025.png"
+       style="position:absolute; left:120px; top:-20px; width:350px; opacity:0; transition:opacity .2s; z-index:1000; pointer-events:none;">
+
+  <br/>
+  Ferro et al., <i>CCN</i>, 2025
+
+</div>
+</a>
+
+
+<a href="https://www.nature.com/articles/s41467-024-50214-2.pdf" target="_blank">
+<div style="font-size:.75em; text-align:center; float:left; width:25%; position:relative;"
+     onmouseover="this.querySelector('.zoom').style.opacity='1';"
+     onmouseout="this.querySelector('.zoom').style.opacity='0';">
+
+  <img src="/images/paper_thumbnails/Ferroetal2024.png" style="width:100px">
+
+  <img class="zoom"
+       src="/images/paper_thumbnails/Ferroetal2024.png"
+       style="position:absolute; left:120px; top:-20px; width:350px; opacity:0; transition:opacity .2s; z-index:1000; pointer-events:none;">
+
+  <br/>
+  Ferro et al., <i>Nat Commun</i>, 2024
+
+</div>
+</a>
+
+
+<a href="https://www.pnas.org/doi/pdf/10.1073/pnas.2022097118?download=false" target="_blank">
+<div style="font-size:.75em; text-align:center; float:left; width:25%; position:relative;"
+     onmouseover="this.querySelector('.zoom').style.opacity='1';"
+     onmouseout="this.querySelector('.zoom').style.opacity='0';">
+
+  <img src="/images/paper_thumbnails/Ferroetal2021.png" style="width:100px">
+
+  <img class="zoom"
+       src="/images/paper_thumbnails/Ferroetal2021.png"
+       style="position:absolute; left:-370px; top:-20px; width:350px; opacity:0; transition:opacity .2s; z-index:1000; pointer-events:none;">
+
+  <br/>
+  Ferro et al., <i>PNAS</i>, 2021
+
+</div>
+</a>
+
+</div>
+```
+
+
+<!------------------------------------------------------------------------------------->
+
+<div style="width:85%; text-align:center">
 <a href="https://www.nature.com/articles/s41467-026-70423-1.pdf" target="_blank">
 <div style="font-size:.75em; text-align:center; float:left; width:25%"><img src="/images/paper_thumbnails/Ferroetal2026.png" style="width:100px"><br/>
 Ferro et al., <i>Nat Commun</i>, 2026
