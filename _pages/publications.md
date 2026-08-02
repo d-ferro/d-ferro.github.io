@@ -15,16 +15,25 @@ author_profile: true
 <div style="width:85%; text-align:center">
 
 <a href="https://www.nature.com/articles/s41467-026-70423-1.pdf" target="_blank">
-<div style="font-size:.75em; text-align:center; float:left; width:25%; position:relative;"
-     onmouseover="if (window.matchMedia('(hover: hover)').matches) this.querySelector('.zoom').style.opacity='1';"
-     onmouseout="if (window.matchMedia('(hover: hover)').matches) this.querySelector('.zoom').style.opacity='0';">
+<div style="font-size:.75em; text-align:center; float:left; width:25%; position:relative;">
 
   <img src="/images/paper_thumbnails/Ferroetal2026.png"
        style="width:100px; border:1px solid lightgray">
 
-  <img class="zoom"
-       src="/images/paper_thumbnails/Ferroetal2026.png"
-       style="position:absolute; left:160px; top:-20px; width:600px; max-width:none; opacity:0; transition:opacity .2s; z-index:1000; pointer-events:none;">
+  <span onclick="event.preventDefault(); event.stopPropagation(); this.nextElementSibling.style.display='block';"
+        style="position:absolute; left:calc(50% - 48px); top:5px; width:20px; height:20px; 
+               background:white; border:1px solid lightgray; border-radius:50%; 
+               font-size:13px; line-height:20px; cursor:pointer; z-index:10;">
+    🔍
+  </span>
+
+  <div onclick="this.style.display='none';"
+       style="display:none; position:fixed; left:50%; top:50%; transform:translate(-50%,-50%);
+              z-index:10000; background:white; padding:10px; border:1px solid lightgray;
+              box-shadow:0 4px 20px rgba(0,0,0,.25); cursor:pointer;">
+    <img src="/images/paper_thumbnails/Ferroetal2026.png"
+         style="width:600px; max-width:80vw; max-height:90vh; height:auto;">
+  </div>
 
   <br/>
   Ferro et al., <i>Nat Commun</i>, 2026
@@ -34,16 +43,25 @@ author_profile: true
 
 
 <a href="https://2025.ccneuro.org/abstract_pdf/Ferro_2025_A_closed-loop_model_coordination_gaze_control.pdf" target="_blank">
-<div style="font-size:.75em; text-align:center; float:left; width:25%; position:relative;"
-     onmouseover="if (window.matchMedia('(hover: hover)').matches) this.querySelector('.zoom').style.opacity='1';"
-     onmouseout="if (window.matchMedia('(hover: hover)').matches) this.querySelector('.zoom').style.opacity='0';">
+<div style="font-size:.75em; text-align:center; float:left; width:25%; position:relative;">
 
   <img src="/images/paper_thumbnails/Ferroetal2025.png"
        style="width:100px; border:1px solid lightgray">
 
-  <img class="zoom"
-       src="/images/paper_thumbnails/Ferroetal2025.png"
-       style="position:absolute; left:160px; top:-20px; width:600px; max-width:none; opacity:0; transition:opacity .2s; z-index:1000; pointer-events:none;">
+  <span onclick="event.preventDefault(); event.stopPropagation(); this.nextElementSibling.style.display='block';"
+        style="position:absolute; left:calc(50% - 48px); top:5px; width:20px; height:20px;
+               background:white; border:1px solid lightgray; border-radius:50%;
+               font-size:13px; line-height:20px; cursor:pointer; z-index:10;">
+    🔍
+  </span>
+
+  <div onclick="this.style.display='none';"
+       style="display:none; position:fixed; left:50%; top:50%; transform:translate(-50%,-50%);
+              z-index:10000; background:white; padding:10px; border:1px solid lightgray;
+              box-shadow:0 4px 20px rgba(0,0,0,.25); cursor:pointer;">
+    <img src="/images/paper_thumbnails/Ferroetal2025.png"
+         style="width:600px; max-width:80vw; max-height:90vh; height:auto;">
+  </div>
 
   <br/>
   Ferro et al., <i>CCN</i>, 2025
@@ -53,16 +71,25 @@ author_profile: true
 
 
 <a href="https://www.nature.com/articles/s41467-024-50214-2.pdf" target="_blank">
-<div style="font-size:.75em; text-align:center; float:left; width:25%; position:relative;"
-     onmouseover="if (window.matchMedia('(hover: hover)').matches) this.querySelector('.zoom').style.opacity='1';"
-     onmouseout="if (window.matchMedia('(hover: hover)').matches) this.querySelector('.zoom').style.opacity='0';">
+<div style="font-size:.75em; text-align:center; float:left; width:25%; position:relative;">
 
   <img src="/images/paper_thumbnails/Ferroetal2024.png"
        style="width:100px; border:1px solid lightgray">
 
-  <img class="zoom"
-       src="/images/paper_thumbnails/Ferroetal2024.png"
-       style="position:absolute; left:-550px; top:-20px; width:600px; max-width:none; opacity:0; transition:opacity .2s; z-index:1000; pointer-events:none;">
+  <span onclick="event.preventDefault(); event.stopPropagation(); this.nextElementSibling.style.display='block';"
+        style="position:absolute; left:calc(50% - 48px); top:5px; width:20px; height:20px;
+               background:white; border:1px solid lightgray; border-radius:50%;
+               font-size:13px; line-height:20px; cursor:pointer; z-index:10;">
+    🔍
+  </span>
+
+  <div onclick="this.style.display='none';"
+       style="display:none; position:fixed; left:50%; top:50%; transform:translate(-50%,-50%);
+              z-index:10000; background:white; padding:10px; border:1px solid lightgray;
+              box-shadow:0 4px 20px rgba(0,0,0,.25); cursor:pointer;">
+    <img src="/images/paper_thumbnails/Ferroetal2024.png"
+         style="width:600px; max-width:80vw; max-height:90vh; height:auto;">
+  </div>
 
   <br/>
   Ferro et al., <i>Nat Commun</i>, 2024
@@ -72,16 +99,25 @@ author_profile: true
 
 
 <a href="https://www.pnas.org/doi/pdf/10.1073/pnas.2022097118?download=false" target="_blank">
-<div style="font-size:.75em; text-align:center; float:left; width:25%; position:relative;"
-     onmouseover="if (window.matchMedia('(hover: hover)').matches) this.querySelector('.zoom').style.opacity='1';"
-     onmouseout="if (window.matchMedia('(hover: hover)').matches) this.querySelector('.zoom').style.opacity='0';">
+<div style="font-size:.75em; text-align:center; float:left; width:25%; position:relative;">
 
   <img src="/images/paper_thumbnails/Ferroetal2021.png"
        style="width:100px; border:1px solid lightgray">
 
-  <img class="zoom"
-       src="/images/paper_thumbnails/Ferroetal2021.png"
-       style="position:absolute; left:-550px; top:-20px; width:600px; max-width:none; opacity:0; transition:opacity .2s; z-index:1000; pointer-events:none;">
+  <span onclick="event.preventDefault(); event.stopPropagation(); this.nextElementSibling.style.display='block';"
+        style="position:absolute; left:calc(50% - 48px); top:5px; width:20px; height:20px;
+               background:white; border:1px solid lightgray; border-radius:50%;
+               font-size:13px; line-height:20px; cursor:pointer; z-index:10;">
+    🔍
+  </span>
+
+  <div onclick="this.style.display='none';"
+       style="display:none; position:fixed; left:50%; top:50%; transform:translate(-50%,-50%);
+              z-index:10000; background:white; padding:10px; border:1px solid lightgray;
+              box-shadow:0 4px 20px rgba(0,0,0,.25); cursor:pointer;">
+    <img src="/images/paper_thumbnails/Ferroetal2021.png"
+         style="width:600px; max-width:80vw; max-height:90vh; height:auto;">
+  </div>
 
   <br/>
   Ferro et al., <i>PNAS</i>, 2021
