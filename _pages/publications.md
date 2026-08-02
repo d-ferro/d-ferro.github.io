@@ -1271,7 +1271,7 @@ author_profile: true
 <br/>
 
 
-<p style="clear:both; padding-top:30px">Forthcoming</p>
+<p style="clear:both; padding-top:-10px">Forthcoming</p>
 
 <table style="border:none !important; margin-top:0 !important; margin-bottom:0 !important">
 
