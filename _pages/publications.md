@@ -12,7 +12,7 @@ author_profile: true
 
 <p>Selected</p>
 
-```html
+
 <div style="width:85%; text-align:center">
 
 
@@ -85,7 +85,7 @@ author_profile: true
       </span>
 
       <iframe
-        src="https://www.nature.com/articles/s41467-026-70423-1.pdf"
+        src="/files/Ferro-et-al-NatCommun-2026.pdf"
         style="width:100%; height:100%; border:none;">
       </iframe>
 
@@ -168,7 +168,7 @@ author_profile: true
       </span>
 
       <iframe
-        src="https://2025.ccneuro.org/abstract_pdf/Ferro_2025_A_closed-loop_model_coordination_gaze_control.pdf"
+        src="Ferro-et-al-CCN-2025.pdf"
         style="width:100%; height:100%; border:none;">
       </iframe>
 
@@ -251,7 +251,7 @@ author_profile: true
       </span>
 
       <iframe
-        src="https://www.nature.com/articles/s41467-024-50214-2.pdf"
+        src="/files/Ferro-et-al-NatCommun-2024.pdf"
         style="width:100%; height:100%; border:none;">
       </iframe>
 
@@ -334,7 +334,7 @@ author_profile: true
       </span>
 
       <iframe
-        src="https://www.pnas.org/doi/pdf/10.1073/pnas.2022097118?download=false"
+        src="/files/Ferro-et-al-PNAS-2021.pdf"
         style="width:100%; height:100%; border:none;">
       </iframe>
 
@@ -347,7 +347,6 @@ author_profile: true
 </div>
 
 </div>
-```
 
 
 
