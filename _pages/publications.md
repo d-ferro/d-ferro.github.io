@@ -168,7 +168,7 @@ author_profile: true
       </span>
 
       <iframe
-        src="Ferro-et-al-CCN-2025.pdf"
+        src="/files/Ferro-et-al-CCN-2025.pdf"
         style="width:100%; height:100%; border:none;">
       </iframe>
 
