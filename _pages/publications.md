@@ -16,20 +16,15 @@ author_profile: true
 <div style="width:85%; text-align:center">
 
 
-<!-- =========================================================
-     Ferro et al., Nature Communications, 2026
-     ========================================================= -->
-
+<!--
 <div style="font-size:.75em; text-align:center; float:left; width:25%; position:relative;">
 
-  <!-- Thumbnail: entire image opens iframe -->
   <div onclick="document.getElementById('pdf2026').style.display='flex';"
        style="position:relative; display:inline-block; cursor:pointer;">
 
     <img src="/images/paper_thumbnails/Ferroetal2026.png"
          style="width:100px; border:1px solid lightgray; display:block;">
 
-    <!-- Lens -->
     <span style="position:absolute;
                  top:calc(50% - 10px);
                  left:calc(50% - 10px);
@@ -47,7 +42,6 @@ author_profile: true
 
   </div>
 
-  <!-- PDF modal -->
   <div id="pdf2026"
        onclick="this.style.display='none';"
        style="display:none;
@@ -66,7 +60,6 @@ author_profile: true
                 background:white;
                 box-shadow:0 4px 20px rgba(0,0,0,.3);">
 
-      <!-- Close button -->
       <span onclick="document.getElementById('pdf2026').style.display='none';"
             style="position:absolute;
                    right:-10px;
@@ -98,21 +91,14 @@ author_profile: true
 </div>
 
 
-
-<!-- =========================================================
-     Ferro et al., CCN, 2025
-     ========================================================= -->
-
 <div style="font-size:.75em; text-align:center; float:left; width:25%; position:relative;">
 
-  <!-- Thumbnail: entire image opens iframe -->
   <div onclick="document.getElementById('pdf2025').style.display='flex';"
        style="position:relative; display:inline-block; cursor:pointer;">
 
     <img src="/images/paper_thumbnails/Ferroetal2025.png"
          style="width:100px; border:1px solid lightgray; display:block;">
 
-    <!-- Lens -->
     <span style="position:absolute;
                  top:calc(50% - 10px);
                  left:calc(50% - 10px);
@@ -130,7 +116,6 @@ author_profile: true
 
   </div>
 
-  <!-- PDF modal -->
   <div id="pdf2025"
        onclick="this.style.display='none';"
        style="display:none;
@@ -149,7 +134,6 @@ author_profile: true
                 background:white;
                 box-shadow:0 4px 20px rgba(0,0,0,.3);">
 
-      <!-- Close button -->
       <span onclick="document.getElementById('pdf2025').style.display='none';"
             style="position:absolute;
                    right:-10px;
@@ -182,20 +166,14 @@ author_profile: true
 
 
 
-<!-- =========================================================
-     Ferro et al., Nature Communications, 2024
-     ========================================================= -->
-
 <div style="font-size:.75em; text-align:center; float:left; width:25%; position:relative;">
 
-  <!-- Thumbnail: entire image opens iframe -->
   <div onclick="document.getElementById('pdf2024').style.display='flex';"
        style="position:relative; display:inline-block; cursor:pointer;">
 
     <img src="/images/paper_thumbnails/Ferroetal2024.png"
          style="width:100px; border:1px solid lightgray; display:block;">
 
-    <!-- Lens -->
     <span style="position:absolute;
                  top:calc(50% - 10px);
                  left:calc(50% - 10px);
@@ -213,7 +191,6 @@ author_profile: true
 
   </div>
 
-  <!-- PDF modal -->
   <div id="pdf2024"
        onclick="this.style.display='none';"
        style="display:none;
@@ -232,7 +209,6 @@ author_profile: true
                 background:white;
                 box-shadow:0 4px 20px rgba(0,0,0,.3);">
 
-      <!-- Close button -->
       <span onclick="document.getElementById('pdf2024').style.display='none';"
             style="position:absolute;
                    right:-10px;
@@ -265,20 +241,15 @@ author_profile: true
 
 
 
-<!-- =========================================================
-     Ferro et al., PNAS, 2021
-     ========================================================= -->
 
 <div style="font-size:.75em; text-align:center; float:left; width:25%; position:relative;">
 
-  <!-- Thumbnail: entire image opens iframe -->
   <div onclick="document.getElementById('pdf2021').style.display='flex';"
        style="position:relative; display:inline-block; cursor:pointer;">
 
     <img src="/images/paper_thumbnails/Ferroetal2021.png"
          style="width:100px; border:1px solid lightgray; display:block;">
 
-    <!-- Lens -->
     <span style="position:absolute;
                  top:calc(50% - 10px);
                  left:calc(50% - 10px);
@@ -296,7 +267,6 @@ author_profile: true
 
   </div>
 
-  <!-- PDF modal -->
   <div id="pdf2021"
        onclick="this.style.display='none';"
        style="display:none;
@@ -315,7 +285,6 @@ author_profile: true
                 background:white;
                 box-shadow:0 4px 20px rgba(0,0,0,.3);">
 
-      <!-- Close button -->
       <span onclick="document.getElementById('pdf2021').style.display='none';"
             style="position:absolute;
                    right:-10px;
@@ -345,6 +314,517 @@ author_profile: true
   Ferro et al., <i>PNAS</i>, 2021
 
 </div>
+
+</div>
+--->
+
+
+<!------------------------------------------------------------------------------------->
+
+<!-- =========================================================
+     PDF.js library
+     ========================================================= -->
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/4.10.38/pdf.min.mjs"
+        type="module"></script>
+
+
+<div style="width:85%; text-align:center;">
+
+
+<!-- =========================================================
+     Ferro et al., Nature Communications, 2026
+     ========================================================= -->
+
+<div style="font-size:.75em; text-align:center; float:left; width:25%; position:relative;">
+
+  <!-- Thumbnail -->
+  <div onclick="openPDF('pdf2026', 'https://www.nature.com/articles/s41467-026-70423-1.pdf')"
+       style="position:relative; display:inline-block; cursor:pointer;">
+
+    <img src="/images/paper_thumbnails/Ferroetal2026.png"
+         style="width:100px; border:1px solid lightgray; display:block;">
+
+    <!-- Lens -->
+    <span style="position:absolute;
+                 top:calc(50% - 10px);
+                 left:calc(50% - 10px);
+                 width:20px;
+                 height:20px;
+                 background:white;
+                 border:1px solid lightgray;
+                 border-radius:50%;
+                 font-size:12px;
+                 line-height:20px;
+                 text-align:center;
+                 pointer-events:none;">
+      🔍
+    </span>
+
+  </div>
+
+  <br/>
+  Ferro et al., <i>Nat Commun</i>, 2026
+
+</div>
+
+
+
+<!-- =========================================================
+     Ferro et al., CCN, 2025
+     ========================================================= -->
+
+<div style="font-size:.75em; text-align:center; float:left; width:25%; position:relative;">
+
+  <!-- Thumbnail -->
+  <div onclick="openPDF('pdf2025', 'https://2025.ccneuro.org/abstract_pdf/Ferro_2025_A_closed-loop_model_coordination_gaze_control.pdf')"
+       style="position:relative; display:inline-block; cursor:pointer;">
+
+    <img src="/images/paper_thumbnails/Ferroetal2025.png"
+         style="width:100px; border:1px solid lightgray; display:block;">
+
+    <!-- Lens -->
+    <span style="position:absolute;
+                 top:calc(50% - 10px);
+                 left:calc(50% - 10px);
+                 width:20px;
+                 height:20px;
+                 background:white;
+                 border:1px solid lightgray;
+                 border-radius:50%;
+                 font-size:12px;
+                 line-height:20px;
+                 text-align:center;
+                 pointer-events:none;">
+      🔍
+    </span>
+
+  </div>
+
+  <br/>
+  Ferro et al., <i>CCN</i>, 2025
+
+</div>
+
+
+
+<!-- =========================================================
+     Ferro et al., Nature Communications, 2024
+     ========================================================= -->
+
+<div style="font-size:.75em; text-align:center; float:left; width:25%; position:relative;">
+
+  <!-- Thumbnail -->
+  <div onclick="openPDF('pdf2024', 'https://www.nature.com/articles/s41467-024-50214-2.pdf')"
+       style="position:relative; display:inline-block; cursor:pointer;">
+
+    <img src="/images/paper_thumbnails/Ferroetal2024.png"
+         style="width:100px; border:1px solid lightgray; display:block;">
+
+    <!-- Lens -->
+    <span style="position:absolute;
+                 top:calc(50% - 10px);
+                 left:calc(50% - 10px);
+                 width:20px;
+                 height:20px;
+                 background:white;
+                 border:1px solid lightgray;
+                 border-radius:50%;
+                 font-size:12px;
+                 line-height:20px;
+                 text-align:center;
+                 pointer-events:none;">
+      🔍
+    </span>
+
+  </div>
+
+  <br/>
+  Ferro et al., <i>Nat Commun</i>, 2024
+
+</div>
+
+
+
+<!-- =========================================================
+     Ferro et al., PNAS, 2021
+     ========================================================= -->
+
+<div style="font-size:.75em; text-align:center; float:left; width:25%; position:relative;">
+
+  <!-- Thumbnail -->
+  <div onclick="openPDF('pdf2021', 'https://www.pnas.org/doi/pdf/10.1073/pnas.2022097118?download=false')"
+       style="position:relative; display:inline-block; cursor:pointer;">
+
+    <img src="/images/paper_thumbnails/Ferroetal2021.png"
+         style="width:100px; border:1px solid lightgray; display:block;">
+
+    <!-- Lens -->
+    <span style="position:absolute;
+                 top:calc(50% - 10px);
+                 left:calc(50% - 10px);
+                 width:20px;
+                 height:20px;
+                 background:white;
+                 border:1px solid lightgray;
+                 border-radius:50%;
+                 font-size:12px;
+                 line-height:20px;
+                 text-align:center;
+                 pointer-events:none;">
+      🔍
+    </span>
+
+  </div>
+
+  <br/>
+  Ferro et al., <i>PNAS</i>, 2021
+
+</div>
+
+
+
+<!-- =========================================================
+     PDF VIEWER MODAL
+     ========================================================= -->
+
+<div id="pdfViewer"
+     onclick="closePDF()"
+     style="display:none;
+            position:fixed;
+            inset:0;
+            background:rgba(0,0,0,.55);
+            z-index:10000;
+            align-items:center;
+            justify-content:center;
+            padding:20px;
+            box-sizing:border-box;">
+
+  <div onclick="event.stopPropagation();"
+       style="position:relative;
+              width:90%;
+              height:90%;
+              max-width:1200px;
+              background:white;
+              box-shadow:0 4px 25px rgba(0,0,0,.35);
+              display:flex;
+              flex-direction:column;
+              overflow:hidden;">
+
+    <!-- =====================================================
+         TOOLBAR
+         ===================================================== -->
+
+    <div style="height:42px;
+                flex-shrink:0;
+                border-bottom:1px solid #ddd;
+                display:flex;
+                align-items:center;
+                justify-content:center;
+                gap:6px;
+                background:#fafafa;
+                position:relative;">
+
+      <!-- Previous page -->
+      <button onclick="prevPage()"
+              style="cursor:pointer;">
+        ←
+      </button>
+
+      <!-- Page number -->
+      <span style="margin:0 8px;">
+        Page <span id="pageNum">1</span>
+        /
+        <span id="pageCount">?</span>
+      </span>
+
+      <!-- Next page -->
+      <button onclick="nextPage()"
+              style="cursor:pointer;">
+        →
+      </button>
+
+      <!-- Zoom out -->
+      <button onclick="zoomOut()"
+              style="cursor:pointer; margin-left:15px;">
+        −
+      </button>
+
+      <!-- Zoom level -->
+      <span id="zoomLevel"
+            style="min-width:45px; text-align:center;">
+        100%
+      </span>
+
+      <!-- Zoom in -->
+      <button onclick="zoomIn()"
+              style="cursor:pointer;">
+        +
+      </button>
+
+      <!-- Close -->
+      <span onclick="closePDF()"
+            style="position:absolute;
+                   right:10px;
+                   top:7px;
+                   font-size:24px;
+                   line-height:25px;
+                   cursor:pointer;
+                   padding:0 5px;">
+        ×
+      </span>
+
+    </div>
+
+
+    <!-- =====================================================
+         PDF CANVAS AREA
+         ===================================================== -->
+
+    <div id="pdfContainer"
+         style="flex:1;
+                overflow:auto;
+                background:#777;
+                text-align:center;
+                padding:20px;
+                box-sizing:border-box;">
+
+      <canvas id="pdfCanvas"
+              style="background:white;
+                     box-shadow:0 2px 8px rgba(0,0,0,.3);">
+      </canvas>
+
+    </div>
+
+  </div>
+
+</div>
+
+
+
+<!-- =========================================================
+     PDF.js CODE
+     ========================================================= -->
+
+<script type="module">
+
+  import * as pdfjsLib
+    from 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/4.10.38/pdf.min.mjs';
+
+  pdfjsLib.GlobalWorkerOptions.workerSrc =
+    'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/4.10.38/pdf.worker.min.mjs';
+
+
+  let pdfDoc = null;
+  let pageNum = 1;
+  let scale = 1.0;
+  let currentURL = null;
+
+
+  /*
+   * Open PDF
+   */
+
+  window.openPDF = async function(id, url) {
+
+    currentURL = url;
+
+    document.getElementById('pdfViewer').style.display = 'flex';
+
+    pageNum = 1;
+    scale = 1.0;
+
+    document.getElementById('pageNum').textContent = '1';
+    document.getElementById('pageCount').textContent = '?';
+    document.getElementById('zoomLevel').textContent = '100%';
+
+    const canvas = document.getElementById('pdfCanvas');
+    const ctx = canvas.getContext('2d');
+
+    ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+    try {
+
+      pdfDoc = await pdfjsLib.getDocument(url).promise;
+
+      document.getElementById('pageCount').textContent =
+        pdfDoc.numPages;
+
+      renderPage(pageNum);
+
+    } catch (error) {
+
+      console.error(error);
+
+      ctx.font = '16px sans-serif';
+      ctx.fillText(
+        'Unable to load this PDF.',
+        20,
+        40
+      );
+
+    }
+
+  };
+
+
+  /*
+   * Render page
+   */
+
+  async function renderPage(num) {
+
+    if (!pdfDoc) return;
+
+    const page = await pdfDoc.getPage(num);
+
+    const viewport =
+      page.getViewport({ scale: scale });
+
+    const canvas =
+      document.getElementById('pdfCanvas');
+
+    const ctx =
+      canvas.getContext('2d');
+
+    canvas.width = viewport.width;
+    canvas.height = viewport.height;
+
+    await page.render({
+      canvasContext: ctx,
+      viewport: viewport
+    }).promise;
+
+    document.getElementById('pageNum').textContent =
+      num;
+
+    document.getElementById('zoomLevel').textContent =
+      Math.round(scale * 100) + '%';
+
+  }
+
+
+  /*
+   * Previous page
+   */
+
+  window.prevPage = function() {
+
+    if (!pdfDoc || pageNum <= 1) return;
+
+    pageNum--;
+
+    renderPage(pageNum);
+
+  };
+
+
+  /*
+   * Next page
+   */
+
+  window.nextPage = function() {
+
+    if (!pdfDoc || pageNum >= pdfDoc.numPages) return;
+
+    pageNum++;
+
+    renderPage(pageNum);
+
+  };
+
+
+  /*
+   * Zoom in
+   */
+
+  window.zoomIn = function() {
+
+    if (!pdfDoc) return;
+
+    scale += 0.25;
+
+    renderPage(pageNum);
+
+  };
+
+
+  /*
+   * Zoom out
+   */
+
+  window.zoomOut = function() {
+
+    if (!pdfDoc) return;
+
+    scale = Math.max(0.5, scale - 0.25);
+
+    renderPage(pageNum);
+
+  };
+
+
+  /*
+   * Close
+   */
+
+  window.closePDF = function() {
+
+    document.getElementById('pdfViewer').style.display = 'none';
+
+    pdfDoc = null;
+
+    const canvas =
+      document.getElementById('pdfCanvas');
+
+    const ctx =
+      canvas.getContext('2d');
+
+    ctx.clearRect(
+      0,
+      0,
+      canvas.width,
+      canvas.height
+    );
+
+  };
+
+
+  /*
+   * Keyboard controls
+   */
+
+  document.addEventListener('keydown', function(event) {
+
+    const viewer =
+      document.getElementById('pdfViewer');
+
+    if (viewer.style.display !== 'flex') return;
+
+
+    if (event.key === 'Escape') {
+      closePDF();
+    }
+
+    if (event.key === 'ArrowLeft') {
+      prevPage();
+    }
+
+    if (event.key === 'ArrowRight') {
+      nextPage();
+    }
+
+    if (event.key === '+') {
+      zoomIn();
+    }
+
+    if (event.key === '-') {
+      zoomOut();
+    }
+
+  });
+
+</script>
 
 </div>
 
