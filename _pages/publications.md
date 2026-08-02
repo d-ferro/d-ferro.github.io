@@ -20,14 +20,16 @@ author_profile: true
      Ferro et al., Nature Communications, 2026
      ========================================================= -->
 
-<a href="https://www.nature.com/articles/s41467-026-70423-1.pdf" target="_blank">
 <div style="font-size:.75em; text-align:center; float:left; width:25%; position:relative;">
 
-  <img src="/images/paper_thumbnails/Ferroetal2026.png"
-       style="width:100px; border:1px solid lightgray">
+  <!-- Thumbnail = ONLY clickable link to PDF -->
+  <a href="https://www.nature.com/articles/s41467-026-70423-1.pdf" target="_blank">
+    <img src="/images/paper_thumbnails/Ferroetal2026.png"
+         style="width:100px; border:1px solid lightgray;">
+  </a>
 
   <!-- Lens -->
-  <span onclick="event.preventDefault(); event.stopPropagation(); document.getElementById('pdf2026').style.display='flex';"
+  <span onclick="document.getElementById('pdf2026').style.display='flex';"
         style="position:absolute;
                top:calc(50% - 10px);
                left:calc(50% - 10px);
@@ -62,7 +64,7 @@ author_profile: true
                 background:white;
                 box-shadow:0 4px 20px rgba(0,0,0,.3);">
 
-      <!-- Close -->
+      <!-- Close button -->
       <span onclick="document.getElementById('pdf2026').style.display='none';"
             style="position:absolute;
                    right:-10px;
@@ -76,7 +78,7 @@ author_profile: true
                    line-height:23px;
                    text-align:center;
                    cursor:pointer;
-                   z-index:2;">
+                   z-index:10001;">
         ×
       </span>
 
@@ -92,7 +94,6 @@ author_profile: true
   Ferro et al., <i>Nat Commun</i>, 2026
 
 </div>
-</a>
 
 
 
@@ -100,14 +101,17 @@ author_profile: true
      Ferro et al., CCN, 2025
      ========================================================= -->
 
-<a href="https://2025.ccneuro.org/abstract_pdf/Ferro_2025_A_closed-loop_model_coordination_gaze_control.pdf" target="_blank">
 <div style="font-size:.75em; text-align:center; float:left; width:25%; position:relative;">
 
-  <img src="/images/paper_thumbnails/Ferroetal2025.png"
-       style="width:100px; border:1px solid lightgray">
+  <!-- Thumbnail = ONLY clickable link to PDF -->
+  <a href="https://2025.ccneuro.org/abstract_pdf/Ferro_2025_A_closed-loop_model_coordination_gaze_control.pdf"
+     target="_blank">
+    <img src="/images/paper_thumbnails/Ferroetal2025.png"
+         style="width:100px; border:1px solid lightgray;">
+  </a>
 
   <!-- Lens -->
-  <span onclick="event.preventDefault(); event.stopPropagation(); document.getElementById('pdf2025').style.display='flex';"
+  <span onclick="document.getElementById('pdf2025').style.display='flex';"
         style="position:absolute;
                top:calc(50% - 10px);
                left:calc(50% - 10px);
@@ -142,7 +146,7 @@ author_profile: true
                 background:white;
                 box-shadow:0 4px 20px rgba(0,0,0,.3);">
 
-      <!-- Close -->
+      <!-- Close button -->
       <span onclick="document.getElementById('pdf2025').style.display='none';"
             style="position:absolute;
                    right:-10px;
@@ -156,7 +160,7 @@ author_profile: true
                    line-height:23px;
                    text-align:center;
                    cursor:pointer;
-                   z-index:2;">
+                   z-index:10001;">
         ×
       </span>
 
@@ -172,7 +176,6 @@ author_profile: true
   Ferro et al., <i>CCN</i>, 2025
 
 </div>
-</a>
 
 
 
@@ -180,14 +183,16 @@ author_profile: true
      Ferro et al., Nature Communications, 2024
      ========================================================= -->
 
-<a href="https://www.nature.com/articles/s41467-024-50214-2.pdf" target="_blank">
 <div style="font-size:.75em; text-align:center; float:left; width:25%; position:relative;">
 
-  <img src="/images/paper_thumbnails/Ferroetal2024.png"
-       style="width:100px; border:1px solid lightgray">
+  <!-- Thumbnail = ONLY clickable link to PDF -->
+  <a href="https://www.nature.com/articles/s41467-024-50214-2.pdf" target="_blank">
+    <img src="/images/paper_thumbnails/Ferroetal2024.png"
+         style="width:100px; border:1px solid lightgray;">
+  </a>
 
   <!-- Lens -->
-  <span onclick="event.preventDefault(); event.stopPropagation(); document.getElementById('pdf2024').style.display='flex';"
+  <span onclick="document.getElementById('pdf2024').style.display='flex';"
         style="position:absolute;
                top:calc(50% - 10px);
                left:calc(50% - 10px);
@@ -222,7 +227,7 @@ author_profile: true
                 background:white;
                 box-shadow:0 4px 20px rgba(0,0,0,.3);">
 
-      <!-- Close -->
+      <!-- Close button -->
       <span onclick="document.getElementById('pdf2024').style.display='none';"
             style="position:absolute;
                    right:-10px;
@@ -236,7 +241,7 @@ author_profile: true
                    line-height:23px;
                    text-align:center;
                    cursor:pointer;
-                   z-index:2;">
+                   z-index:10001;">
         ×
       </span>
 
@@ -252,7 +257,6 @@ author_profile: true
   Ferro et al., <i>Nat Commun</i>, 2024
 
 </div>
-</a>
 
 
 
@@ -260,14 +264,17 @@ author_profile: true
      Ferro et al., PNAS, 2021
      ========================================================= -->
 
-<a href="https://www.pnas.org/doi/pdf/10.1073/pnas.2022097118?download=false" target="_blank">
 <div style="font-size:.75em; text-align:center; float:left; width:25%; position:relative;">
 
-  <img src="/images/paper_thumbnails/Ferroetal2021.png"
-       style="width:100px; border:1px solid lightgray">
+  <!-- Thumbnail = ONLY clickable link to PDF -->
+  <a href="https://www.pnas.org/doi/pdf/10.1073/pnas.2022097118?download=false"
+     target="_blank">
+    <img src="/images/paper_thumbnails/Ferroetal2021.png"
+         style="width:100px; border:1px solid lightgray;">
+  </a>
 
   <!-- Lens -->
-  <span onclick="event.preventDefault(); event.stopPropagation(); document.getElementById('pdf2021').style.display='flex';"
+  <span onclick="document.getElementById('pdf2021').style.display='flex';"
         style="position:absolute;
                top:calc(50% - 10px);
                left:calc(50% - 10px);
@@ -302,7 +309,7 @@ author_profile: true
                 background:white;
                 box-shadow:0 4px 20px rgba(0,0,0,.3);">
 
-      <!-- Close -->
+      <!-- Close button -->
       <span onclick="document.getElementById('pdf2021').style.display='none';"
             style="position:absolute;
                    right:-10px;
@@ -316,7 +323,7 @@ author_profile: true
                    line-height:23px;
                    text-align:center;
                    cursor:pointer;
-                   z-index:2;">
+                   z-index:10001;">
         ×
       </span>
 
@@ -332,11 +339,8 @@ author_profile: true
   Ferro et al., <i>PNAS</i>, 2021
 
 </div>
-</a>
 
 </div>
-
-
 
 
 <!------------------------------------------------------------------------------------->
