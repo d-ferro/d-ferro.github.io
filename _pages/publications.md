@@ -321,7 +321,6 @@ author_profile: true
 
 <!------------------------------------------------------------------------------------->
 
-
 <!-- =========================================================
      PDF.js
      ========================================================= -->
@@ -346,16 +345,14 @@ author_profile: true
 
   window.openPDF = async function(pdfURL) {
 
-    const viewer = document.getElementById("pdfViewer");
-
-    viewer.style.display = "flex";
+    document.getElementById("pdfViewer").style.display = "flex";
 
     currentPage = 1;
     currentScale = 1.0;
 
     document.getElementById("pdfPage").textContent = "1";
-    document.getElementById("pdfZoom").textContent = "100%";
     document.getElementById("pdfPages").textContent = "...";
+    document.getElementById("pdfZoom").textContent = "100%";
 
     const canvas = document.getElementById("pdfCanvas");
     const context = canvas.getContext("2d");
@@ -375,7 +372,6 @@ author_profile: true
 
       console.error("PDF.js error:", error);
 
-      document.getElementById("pdfPages").textContent = "!";
       context.clearRect(0, 0, canvas.width, canvas.height);
 
       context.font = "16px sans-serif";
@@ -553,190 +549,189 @@ author_profile: true
      PAPERS
      ========================================================= -->
 
-<div style="width:85%; text-align:center;">
+<div style="width:85%;
+            display:flex;
+            align-items:flex-start;
+            text-align:center;">
 
 
-<!-- =========================================================
-     Ferro et al., Nature Communications, 2026
-     ========================================================= -->
+  <!-- =======================================================
+       2026
+       ======================================================= -->
 
-<div style="font-size:.75em;
-            text-align:center;
-            float:left;
-            width:25%;
-            position:relative;">
+  <div style="font-size:.75em;
+              width:25%;
+              text-align:center;
+              position:relative;
+              box-sizing:border-box;">
 
-  <div onclick="openPDF('/files/Ferro-et-al-NatCommun-2026.pdf')"
-       style="position:relative;
-              display:inline-block;
-              cursor:pointer;">
+    <div onclick="openPDF('/files/Ferro-et-al-NatCommun-2026.pdf')"
+         style="position:relative;
+                display:inline-block;
+                cursor:pointer;">
 
-    <img src="/images/paper_thumbnails/Ferroetal2026.png"
-         style="width:100px;
-                border:1px solid lightgray;
-                display:block;">
+      <img src="/images/paper_thumbnails/Ferroetal2026.png"
+           style="width:100px;
+                  border:1px solid lightgray;
+                  display:block;">
 
-    <!-- Lens -->
-    <span style="position:absolute;
-                 top:calc(50% - 10px);
-                 left:calc(50% - 10px);
-                 width:20px;
-                 height:20px;
-                 background:white;
-                 border:1px solid lightgray;
-                 border-radius:50%;
-                 font-size:12px;
-                 line-height:20px;
-                 text-align:center;
-                 pointer-events:none;">
-      🔍
-    </span>
+      <span style="position:absolute;
+                   top:calc(50% - 10px);
+                   left:calc(50% - 10px);
+                   width:20px;
+                   height:20px;
+                   background:white;
+                   border:1px solid lightgray;
+                   border-radius:50%;
+                   font-size:12px;
+                   line-height:20px;
+                   text-align:center;
+                   pointer-events:none;">
+        🔍
+      </span>
 
-  </div>
+    </div>
 
-  <br/>
+    <br/>
 
-  Ferro et al., <i>Nat Commun</i>, 2026
-
-</div>
-
-
-
-<!-- =========================================================
-     Ferro et al., CCN, 2025
-     ========================================================= -->
-
-<div style="font-size:.75em;
-            text-align:center;
-            float:left;
-            width:25%;
-            position:relative;">
-
-  <div onclick="openPDF('/files/Ferro-et-al-CCN-2025.pdf')"
-       style="position:relative;
-              display:inline-block;
-              cursor:pointer;">
-
-    <img src="/images/paper_thumbnails/Ferroetal2025.png"
-         style="width:100px;
-                border:1px solid lightgray;
-                display:block;">
-
-    <!-- Lens -->
-    <span style="position:absolute;
-                 top:calc(50% - 10px);
-                 left:calc(50% - 10px);
-                 width:20px;
-                 height:20px;
-                 background:white;
-                 border:1px solid lightgray;
-                 border-radius:50%;
-                 font-size:12px;
-                 line-height:20px;
-                 text-align:center;
-                 pointer-events:none;">
-      🔍
-    </span>
+    Ferro et al., <i>Nat Commun</i>, 2026
 
   </div>
 
-  <br/>
-
-  Ferro et al., <i>CCN</i>, 2025
-
-</div>
 
 
+  <!-- =======================================================
+       2025
+       ======================================================= -->
 
-<!-- =========================================================
-     Ferro et al., Nature Communications, 2024
-     ========================================================= -->
+  <div style="font-size:.75em;
+              width:25%;
+              text-align:center;
+              position:relative;
+              box-sizing:border-box;">
 
-<div style="font-size:.75em;
-            text-align:center;
-            float:left;
-            width:25%;
-            position:relative;">
+    <div onclick="openPDF('/files/Ferro-et-al-CCN-2025.pdf')"
+         style="position:relative;
+                display:inline-block;
+                cursor:pointer;">
 
-  <div onclick="openPDF('/files/Ferro-et-al-NatCommun-2024.pdf')"
-       style="position:relative;
-              display:inline-block;
-              cursor:pointer;">
+      <img src="/images/paper_thumbnails/Ferroetal2025.png"
+           style="width:100px;
+                  border:1px solid lightgray;
+                  display:block;">
 
-    <img src="/images/paper_thumbnails/Ferroetal2024.png"
-         style="width:100px;
-                border:1px solid lightgray;
-                display:block;">
+      <span style="position:absolute;
+                   top:calc(50% - 10px);
+                   left:calc(50% - 10px);
+                   width:20px;
+                   height:20px;
+                   background:white;
+                   border:1px solid lightgray;
+                   border-radius:50%;
+                   font-size:12px;
+                   line-height:20px;
+                   text-align:center;
+                   pointer-events:none;">
+        🔍
+      </span>
 
-    <!-- Lens -->
-    <span style="position:absolute;
-                 top:calc(50% - 10px);
-                 left:calc(50% - 10px);
-                 width:20px;
-                 height:20px;
-                 background:white;
-                 border:1px solid lightgray;
-                 border-radius:50%;
-                 font-size:12px;
-                 line-height:20px;
-                 text-align:center;
-                 pointer-events:none;">
-      🔍
-    </span>
+    </div>
 
-  </div>
+    <br/>
 
-  <br/>
-
-  Ferro et al., <i>Nat Commun</i>, 2024
-
-</div>
-
-
-
-<!-- =========================================================
-     Ferro et al., PNAS, 2021
-     ========================================================= -->
-
-<div style="font-size:.75em;
-            text-align:center;
-            float:left;
-            width:25%;
-            position:relative;">
-
-  <div onclick="openPDF('/files/Ferro-et-al-PNAS-2021.pdf')"
-       style="position:relative;
-              display:inline-block;
-              cursor:pointer;">
-
-    <img src="/images/paper_thumbnails/Ferroetal2021.png"
-         style="width:100px;
-                border:1px solid lightgray;
-                display:block;">
-
-    <!-- Lens -->
-    <span style="position:absolute;
-                 top:calc(50% - 10px);
-                 left:calc(50% - 10px);
-                 width:20px;
-                 height:20px;
-                 background:white;
-                 border:1px solid lightgray;
-                 border-radius:50%;
-                 font-size:12px;
-                 line-height:20px;
-                 text-align:center;
-                 pointer-events:none;">
-      🔍
-    </span>
+    Ferro et al., <i>CCN</i>, 2025
 
   </div>
 
-  <br/>
 
-  Ferro et al., <i>PNAS</i>, 2021
 
-</div>
+  <!-- =======================================================
+       2024
+       ======================================================= -->
+
+  <div style="font-size:.75em;
+              width:25%;
+              text-align:center;
+              position:relative;
+              box-sizing:border-box;">
+
+    <div onclick="openPDF('/files/Ferro-et-al-NatCommun-2024.pdf')"
+         style="position:relative;
+                display:inline-block;
+                cursor:pointer;">
+
+      <img src="/images/paper_thumbnails/Ferroetal2024.png"
+           style="width:100px;
+                  border:1px solid lightgray;
+                  display:block;">
+
+      <span style="position:absolute;
+                   top:calc(50% - 10px);
+                   left:calc(50% - 10px);
+                   width:20px;
+                   height:20px;
+                   background:white;
+                   border:1px solid lightgray;
+                   border-radius:50%;
+                   font-size:12px;
+                   line-height:20px;
+                   text-align:center;
+                   pointer-events:none;">
+        🔍
+      </span>
+
+    </div>
+
+    <br/>
+
+    Ferro et al., <i>Nat Commun</i>, 2024
+
+  </div>
+
+
+
+  <!-- =======================================================
+       2021
+       ======================================================= -->
+
+  <div style="font-size:.75em;
+              width:25%;
+              text-align:center;
+              position:relative;
+              box-sizing:border-box;">
+
+    <div onclick="openPDF('/files/Ferro-et-al-PNAS-2021.pdf')"
+         style="position:relative;
+                display:inline-block;
+                cursor:pointer;">
+
+      <img src="/images/paper_thumbnails/Ferroetal2021.png"
+           style="width:100px;
+                  border:1px solid lightgray;
+                  display:block;">
+
+      <span style="position:absolute;
+                   top:calc(50% - 10px);
+                   left:calc(50% - 10px);
+                   width:20px;
+                   height:20px;
+                   background:white;
+                   border:1px solid lightgray;
+                   border-radius:50%;
+                   font-size:12px;
+                   line-height:20px;
+                   text-align:center;
+                   pointer-events:none;">
+        🔍
+      </span>
+
+    </div>
+
+    <br/>
+
+    Ferro et al., <i>PNAS</i>, 2021
+
+  </div>
 
 </div>
 
@@ -758,6 +753,7 @@ author_profile: true
             padding:20px;
             box-sizing:border-box;
             margin-top:70px;">
+
 
   <div onclick="event.stopPropagation();"
        style="position:relative;
@@ -785,7 +781,6 @@ author_profile: true
                 gap:6px;
                 position:relative;">
 
-      <!-- Previous page -->
       <button onclick="previousPDFPage()"
               style="cursor:pointer;
                      padding:3px 8px;">
@@ -793,7 +788,6 @@ author_profile: true
       </button>
 
 
-      <!-- Page -->
       <span style="font-size:13px;
                    margin:0 8px;
                    white-space:nowrap;">
@@ -805,7 +799,6 @@ author_profile: true
       </span>
 
 
-      <!-- Next page -->
       <button onclick="nextPDFPage()"
               style="cursor:pointer;
                      padding:3px 8px;">
@@ -813,7 +806,6 @@ author_profile: true
       </button>
 
 
-      <!-- Zoom out -->
       <button onclick="zoomPDFOut()"
               style="cursor:pointer;
                      padding:3px 9px;
@@ -822,7 +814,6 @@ author_profile: true
       </button>
 
 
-      <!-- Zoom -->
       <button onclick="resetPDFZoom()"
               id="pdfZoom"
               style="cursor:pointer;
@@ -834,7 +825,6 @@ author_profile: true
       </button>
 
 
-      <!-- Zoom in -->
       <button onclick="zoomPDFIn()"
               style="cursor:pointer;
                      padding:3px 9px;">
@@ -842,7 +832,6 @@ author_profile: true
       </button>
 
 
-      <!-- Close -->
       <span onclick="closePDF()"
             style="position:absolute;
                    right:10px;
@@ -855,6 +844,7 @@ author_profile: true
       </span>
 
     </div>
+
 
 
     <!-- =====================================================
@@ -880,6 +870,7 @@ author_profile: true
   </div>
 
 </div>
+
 
 
 
