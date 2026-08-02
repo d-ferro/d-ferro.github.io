@@ -16,9 +16,9 @@ author_profile: true
 <div style="width:85%; text-align:center">
 
 
-<!-- =========================
-     Ferro et al., Nat Commun 2026
-     ========================= -->
+<!-- =========================================================
+     Ferro et al., Nature Communications, 2026
+     ========================================================= -->
 
 <a href="https://www.nature.com/articles/s41467-026-70423-1.pdf" target="_blank">
 <div style="font-size:.75em; text-align:center; float:left; width:25%; position:relative;">
@@ -26,60 +26,66 @@ author_profile: true
   <img src="/images/paper_thumbnails/Ferroetal2026.png"
        style="width:100px; border:1px solid lightgray">
 
-  <!-- Zoom button -->
-  <span onclick="event.preventDefault(); event.stopPropagation(); document.getElementById('zoom2026').style.display='flex';"
-        style="position:absolute; left:calc(50% - 48px); top:5px;
-               width:20px; height:20px;
-               background:white; border:1px solid lightgray;
+  <!-- Lens -->
+  <span onclick="event.preventDefault(); event.stopPropagation(); document.getElementById('pdf2026').style.display='flex';"
+        style="position:absolute;
+               top:calc(50% - 10px);
+               left:calc(50% - 10px);
+               width:20px;
+               height:20px;
+               background:white;
+               border:1px solid lightgray;
                border-radius:50%;
-               font-size:12px; line-height:20px;
-               text-align:center; cursor:pointer;
+               font-size:12px;
+               line-height:20px;
+               text-align:center;
+               cursor:pointer;
                z-index:10;">
     🔍
   </span>
 
-  <!-- Zoomed image -->
-  <div id="zoom2026"
+  <!-- PDF modal -->
+  <div id="pdf2026"
        onclick="this.style.display='none';"
        style="display:none;
               position:fixed;
-              left:0; top:0;
-              width:100%; height:100%;
-              align-items:center;
-              justify-content:center;
-              background:rgba(0,0,0,.35);
+              inset:0;
+              background:rgba(0,0,0,.5);
               z-index:10000;
-              cursor:pointer;">
+              align-items:center;
+              justify-content:center;">
 
-    <div style="position:relative; background:white; padding:10px;
-                border:1px solid lightgray;
-                box-shadow:0 4px 20px rgba(0,0,0,.25);">
+    <div onclick="event.stopPropagation();"
+         style="position:relative;
+                width:90%;
+                height:90%;
+                background:white;
+                box-shadow:0 4px 20px rgba(0,0,0,.3);">
 
-      <!-- Close button -->
-      <span onclick="event.stopPropagation(); document.getElementById('zoom2026').style.display='none';"
+      <!-- Close -->
+      <span onclick="document.getElementById('pdf2026').style.display='none';"
             style="position:absolute;
-                   right:5px; top:5px;
-                   width:22px; height:22px;
+                   right:-10px;
+                   top:-10px;
+                   width:25px;
+                   height:25px;
                    background:white;
                    border:1px solid lightgray;
                    border-radius:50%;
-                   font-size:16px;
-                   line-height:20px;
+                   font-size:18px;
+                   line-height:23px;
                    text-align:center;
                    cursor:pointer;
                    z-index:2;">
         ×
       </span>
 
-      <img src="/images/paper_thumbnails/Ferroetal2026.png"
-           onclick="event.stopPropagation();"
-           style="width:600px;
-                  max-width:80vw;
-                  max-height:90vh;
-                  height:auto;
-                  display:block;">
-    </div>
+      <iframe
+        src="https://www.nature.com/articles/s41467-026-70423-1.pdf"
+        style="width:100%; height:100%; border:none;">
+      </iframe>
 
+    </div>
   </div>
 
   <br/>
@@ -90,9 +96,9 @@ author_profile: true
 
 
 
-<!-- =========================
-     Ferro et al., CCN 2025
-     ========================= -->
+<!-- =========================================================
+     Ferro et al., CCN, 2025
+     ========================================================= -->
 
 <a href="https://2025.ccneuro.org/abstract_pdf/Ferro_2025_A_closed-loop_model_coordination_gaze_control.pdf" target="_blank">
 <div style="font-size:.75em; text-align:center; float:left; width:25%; position:relative;">
@@ -100,60 +106,66 @@ author_profile: true
   <img src="/images/paper_thumbnails/Ferroetal2025.png"
        style="width:100px; border:1px solid lightgray">
 
-  <!-- Zoom button -->
-  <span onclick="event.preventDefault(); event.stopPropagation(); document.getElementById('zoom2025').style.display='flex';"
-        style="position:absolute; left:calc(50% - 48px); top:5px;
-               width:20px; height:20px;
-               background:white; border:1px solid lightgray;
+  <!-- Lens -->
+  <span onclick="event.preventDefault(); event.stopPropagation(); document.getElementById('pdf2025').style.display='flex';"
+        style="position:absolute;
+               top:calc(50% - 10px);
+               left:calc(50% - 10px);
+               width:20px;
+               height:20px;
+               background:white;
+               border:1px solid lightgray;
                border-radius:50%;
-               font-size:12px; line-height:20px;
-               text-align:center; cursor:pointer;
+               font-size:12px;
+               line-height:20px;
+               text-align:center;
+               cursor:pointer;
                z-index:10;">
     🔍
   </span>
 
-  <!-- Zoomed image -->
-  <div id="zoom2025"
+  <!-- PDF modal -->
+  <div id="pdf2025"
        onclick="this.style.display='none';"
        style="display:none;
               position:fixed;
-              left:0; top:0;
-              width:100%; height:100%;
-              align-items:center;
-              justify-content:center;
-              background:rgba(0,0,0,.35);
+              inset:0;
+              background:rgba(0,0,0,.5);
               z-index:10000;
-              cursor:pointer;">
+              align-items:center;
+              justify-content:center;">
 
-    <div style="position:relative; background:white; padding:10px;
-                border:1px solid lightgray;
-                box-shadow:0 4px 20px rgba(0,0,0,.25);">
+    <div onclick="event.stopPropagation();"
+         style="position:relative;
+                width:90%;
+                height:90%;
+                background:white;
+                box-shadow:0 4px 20px rgba(0,0,0,.3);">
 
-      <!-- Close button -->
-      <span onclick="event.stopPropagation(); document.getElementById('zoom2025').style.display='none';"
+      <!-- Close -->
+      <span onclick="document.getElementById('pdf2025').style.display='none';"
             style="position:absolute;
-                   right:5px; top:5px;
-                   width:22px; height:22px;
+                   right:-10px;
+                   top:-10px;
+                   width:25px;
+                   height:25px;
                    background:white;
                    border:1px solid lightgray;
                    border-radius:50%;
-                   font-size:16px;
-                   line-height:20px;
+                   font-size:18px;
+                   line-height:23px;
                    text-align:center;
                    cursor:pointer;
                    z-index:2;">
         ×
       </span>
 
-      <img src="/images/paper_thumbnails/Ferroetal2025.png"
-           onclick="event.stopPropagation();"
-           style="width:600px;
-                  max-width:80vw;
-                  max-height:90vh;
-                  height:auto;
-                  display:block;">
-    </div>
+      <iframe
+        src="https://2025.ccneuro.org/abstract_pdf/Ferro_2025_A_closed-loop_model_coordination_gaze_control.pdf"
+        style="width:100%; height:100%; border:none;">
+      </iframe>
 
+    </div>
   </div>
 
   <br/>
@@ -164,9 +176,9 @@ author_profile: true
 
 
 
-<!-- =========================
-     Ferro et al., Nat Commun 2024
-     ========================= -->
+<!-- =========================================================
+     Ferro et al., Nature Communications, 2024
+     ========================================================= -->
 
 <a href="https://www.nature.com/articles/s41467-024-50214-2.pdf" target="_blank">
 <div style="font-size:.75em; text-align:center; float:left; width:25%; position:relative;">
@@ -174,60 +186,66 @@ author_profile: true
   <img src="/images/paper_thumbnails/Ferroetal2024.png"
        style="width:100px; border:1px solid lightgray">
 
-  <!-- Zoom button -->
-  <span onclick="event.preventDefault(); event.stopPropagation(); document.getElementById('zoom2024').style.display='flex';"
-        style="position:absolute; left:calc(50% - 48px); top:5px;
-               width:20px; height:20px;
-               background:white; border:1px solid lightgray;
+  <!-- Lens -->
+  <span onclick="event.preventDefault(); event.stopPropagation(); document.getElementById('pdf2024').style.display='flex';"
+        style="position:absolute;
+               top:calc(50% - 10px);
+               left:calc(50% - 10px);
+               width:20px;
+               height:20px;
+               background:white;
+               border:1px solid lightgray;
                border-radius:50%;
-               font-size:12px; line-height:20px;
-               text-align:center; cursor:pointer;
+               font-size:12px;
+               line-height:20px;
+               text-align:center;
+               cursor:pointer;
                z-index:10;">
     🔍
   </span>
 
-  <!-- Zoomed image -->
-  <div id="zoom2024"
+  <!-- PDF modal -->
+  <div id="pdf2024"
        onclick="this.style.display='none';"
        style="display:none;
               position:fixed;
-              left:0; top:0;
-              width:100%; height:100%;
-              align-items:center;
-              justify-content:center;
-              background:rgba(0,0,0,.35);
+              inset:0;
+              background:rgba(0,0,0,.5);
               z-index:10000;
-              cursor:pointer;">
+              align-items:center;
+              justify-content:center;">
 
-    <div style="position:relative; background:white; padding:10px;
-                border:1px solid lightgray;
-                box-shadow:0 4px 20px rgba(0,0,0,.25);">
+    <div onclick="event.stopPropagation();"
+         style="position:relative;
+                width:90%;
+                height:90%;
+                background:white;
+                box-shadow:0 4px 20px rgba(0,0,0,.3);">
 
-      <!-- Close button -->
-      <span onclick="event.stopPropagation(); document.getElementById('zoom2024').style.display='none';"
+      <!-- Close -->
+      <span onclick="document.getElementById('pdf2024').style.display='none';"
             style="position:absolute;
-                   right:5px; top:5px;
-                   width:22px; height:22px;
+                   right:-10px;
+                   top:-10px;
+                   width:25px;
+                   height:25px;
                    background:white;
                    border:1px solid lightgray;
                    border-radius:50%;
-                   font-size:16px;
-                   line-height:20px;
+                   font-size:18px;
+                   line-height:23px;
                    text-align:center;
                    cursor:pointer;
                    z-index:2;">
         ×
       </span>
 
-      <img src="/images/paper_thumbnails/Ferroetal2024.png"
-           onclick="event.stopPropagation();"
-           style="width:600px;
-                  max-width:80vw;
-                  max-height:90vh;
-                  height:auto;
-                  display:block;">
-    </div>
+      <iframe
+        src="https://www.nature.com/articles/s41467-024-50214-2.pdf"
+        style="width:100%; height:100%; border:none;">
+      </iframe>
 
+    </div>
   </div>
 
   <br/>
@@ -238,9 +256,9 @@ author_profile: true
 
 
 
-<!-- =========================
-     Ferro et al., PNAS 2021
-     ========================= -->
+<!-- =========================================================
+     Ferro et al., PNAS, 2021
+     ========================================================= -->
 
 <a href="https://www.pnas.org/doi/pdf/10.1073/pnas.2022097118?download=false" target="_blank">
 <div style="font-size:.75em; text-align:center; float:left; width:25%; position:relative;">
@@ -248,60 +266,66 @@ author_profile: true
   <img src="/images/paper_thumbnails/Ferroetal2021.png"
        style="width:100px; border:1px solid lightgray">
 
-  <!-- Zoom button -->
-  <span onclick="event.preventDefault(); event.stopPropagation(); document.getElementById('zoom2021').style.display='flex';"
-        style="position:absolute; left:calc(50% - 48px); top:5px;
-               width:20px; height:20px;
-               background:white; border:1px solid lightgray;
+  <!-- Lens -->
+  <span onclick="event.preventDefault(); event.stopPropagation(); document.getElementById('pdf2021').style.display='flex';"
+        style="position:absolute;
+               top:calc(50% - 10px);
+               left:calc(50% - 10px);
+               width:20px;
+               height:20px;
+               background:white;
+               border:1px solid lightgray;
                border-radius:50%;
-               font-size:12px; line-height:20px;
-               text-align:center; cursor:pointer;
+               font-size:12px;
+               line-height:20px;
+               text-align:center;
+               cursor:pointer;
                z-index:10;">
     🔍
   </span>
 
-  <!-- Zoomed image -->
-  <div id="zoom2021"
+  <!-- PDF modal -->
+  <div id="pdf2021"
        onclick="this.style.display='none';"
        style="display:none;
               position:fixed;
-              left:0; top:0;
-              width:100%; height:100%;
-              align-items:center;
-              justify-content:center;
-              background:rgba(0,0,0,.35);
+              inset:0;
+              background:rgba(0,0,0,.5);
               z-index:10000;
-              cursor:pointer;">
+              align-items:center;
+              justify-content:center;">
 
-    <div style="position:relative; background:white; padding:10px;
-                border:1px solid lightgray;
-                box-shadow:0 4px 20px rgba(0,0,0,.25);">
+    <div onclick="event.stopPropagation();"
+         style="position:relative;
+                width:90%;
+                height:90%;
+                background:white;
+                box-shadow:0 4px 20px rgba(0,0,0,.3);">
 
-      <!-- Close button -->
-      <span onclick="event.stopPropagation(); document.getElementById('zoom2021').style.display='none';"
+      <!-- Close -->
+      <span onclick="document.getElementById('pdf2021').style.display='none';"
             style="position:absolute;
-                   right:5px; top:5px;
-                   width:22px; height:22px;
+                   right:-10px;
+                   top:-10px;
+                   width:25px;
+                   height:25px;
                    background:white;
                    border:1px solid lightgray;
                    border-radius:50%;
-                   font-size:16px;
-                   line-height:20px;
+                   font-size:18px;
+                   line-height:23px;
                    text-align:center;
                    cursor:pointer;
                    z-index:2;">
         ×
       </span>
 
-      <img src="/images/paper_thumbnails/Ferroetal2021.png"
-           onclick="event.stopPropagation();"
-           style="width:600px;
-                  max-width:80vw;
-                  max-height:90vh;
-                  height:auto;
-                  display:block;">
-    </div>
+      <iframe
+        src="https://www.pnas.org/doi/pdf/10.1073/pnas.2022097118?download=false"
+        style="width:100%; height:100%; border:none;">
+      </iframe>
 
+    </div>
   </div>
 
   <br/>
@@ -311,10 +335,6 @@ author_profile: true
 </a>
 
 </div>
-
-
-
-
 
 
 
