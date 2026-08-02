@@ -57,7 +57,7 @@ author_profile: true
               z-index:10000;
               align-items:center;
               justify-content:center;
-              margin-top:3%;">
+              margin-top:70px;">
 
     <div onclick="event.stopPropagation();"
          style="position:relative;
@@ -140,7 +140,7 @@ author_profile: true
               z-index:10000;
               align-items:center;
               justify-content:center;
-              margin-top:3%;">
+              margin-top:70px;">
 
     <div onclick="event.stopPropagation();"
          style="position:relative;
@@ -223,7 +223,7 @@ author_profile: true
               z-index:10000;
               align-items:center;
               justify-content:center;
-              margin-top:3%;">
+              margin-top:70px;">
 
     <div onclick="event.stopPropagation();"
          style="position:relative;
