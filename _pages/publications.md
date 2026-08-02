@@ -12,7 +12,13 @@ author_profile: true
 
 <p>Selected</p>
 
+
 <div style="width:85%; text-align:center">
+
+
+<!-- =========================
+     Ferro et al., Nat Commun 2026
+     ========================= -->
 
 <a href="https://www.nature.com/articles/s41467-026-70423-1.pdf" target="_blank">
 <div style="font-size:.75em; text-align:center; float:left; width:25%; position:relative;">
@@ -20,19 +26,60 @@ author_profile: true
   <img src="/images/paper_thumbnails/Ferroetal2026.png"
        style="width:100px; border:1px solid lightgray">
 
-  <span onclick="event.preventDefault(); event.stopPropagation(); this.nextElementSibling.style.display='block';"
-        style="position:absolute; left:calc(50% - 48px); top:5px; width:20px; height:20px; 
-               background:white; border:1px solid lightgray; border-radius:50%; 
-               font-size:13px; line-height:20px; cursor:pointer; z-index:10;">
+  <!-- Zoom button -->
+  <span onclick="event.preventDefault(); event.stopPropagation(); document.getElementById('zoom2026').style.display='flex';"
+        style="position:absolute; left:calc(50% - 48px); top:5px;
+               width:20px; height:20px;
+               background:white; border:1px solid lightgray;
+               border-radius:50%;
+               font-size:12px; line-height:20px;
+               text-align:center; cursor:pointer;
+               z-index:10;">
     🔍
   </span>
 
-  <div onclick="this.style.display='none';"
-       style="display:none; position:fixed; left:50%; top:50%; transform:translate(-50%,-50%);
-              z-index:10000; background:white; padding:10px; border:1px solid lightgray;
-              box-shadow:0 4px 20px rgba(0,0,0,.25); cursor:pointer;">
-    <img src="/images/paper_thumbnails/Ferroetal2026.png"
-         style="width:600px; max-width:80vw; max-height:90vh; height:auto;">
+  <!-- Zoomed image -->
+  <div id="zoom2026"
+       onclick="this.style.display='none';"
+       style="display:none;
+              position:fixed;
+              left:0; top:0;
+              width:100%; height:100%;
+              align-items:center;
+              justify-content:center;
+              background:rgba(0,0,0,.35);
+              z-index:10000;
+              cursor:pointer;">
+
+    <div style="position:relative; background:white; padding:10px;
+                border:1px solid lightgray;
+                box-shadow:0 4px 20px rgba(0,0,0,.25);">
+
+      <!-- Close button -->
+      <span onclick="event.stopPropagation(); document.getElementById('zoom2026').style.display='none';"
+            style="position:absolute;
+                   right:5px; top:5px;
+                   width:22px; height:22px;
+                   background:white;
+                   border:1px solid lightgray;
+                   border-radius:50%;
+                   font-size:16px;
+                   line-height:20px;
+                   text-align:center;
+                   cursor:pointer;
+                   z-index:2;">
+        ×
+      </span>
+
+      <img src="/images/paper_thumbnails/Ferroetal2026.png"
+           onclick="event.stopPropagation();"
+           style="width:600px;
+                  max-width:80vw;
+                  max-height:90vh;
+                  height:auto;
+                  display:block;">
+    </div>
+
   </div>
 
   <br/>
@@ -42,25 +89,71 @@ author_profile: true
 </a>
 
 
+
+<!-- =========================
+     Ferro et al., CCN 2025
+     ========================= -->
+
 <a href="https://2025.ccneuro.org/abstract_pdf/Ferro_2025_A_closed-loop_model_coordination_gaze_control.pdf" target="_blank">
 <div style="font-size:.75em; text-align:center; float:left; width:25%; position:relative;">
 
   <img src="/images/paper_thumbnails/Ferroetal2025.png"
        style="width:100px; border:1px solid lightgray">
 
-  <span onclick="event.preventDefault(); event.stopPropagation(); this.nextElementSibling.style.display='block';"
-        style="position:absolute; left:calc(50% - 48px); top:5px; width:20px; height:20px;
-               background:white; border:1px solid lightgray; border-radius:50%;
-               font-size:13px; line-height:20px; cursor:pointer; z-index:10;">
+  <!-- Zoom button -->
+  <span onclick="event.preventDefault(); event.stopPropagation(); document.getElementById('zoom2025').style.display='flex';"
+        style="position:absolute; left:calc(50% - 48px); top:5px;
+               width:20px; height:20px;
+               background:white; border:1px solid lightgray;
+               border-radius:50%;
+               font-size:12px; line-height:20px;
+               text-align:center; cursor:pointer;
+               z-index:10;">
     🔍
   </span>
 
-  <div onclick="this.style.display='none';"
-       style="display:none; position:fixed; left:50%; top:50%; transform:translate(-50%,-50%);
-              z-index:10000; background:white; padding:10px; border:1px solid lightgray;
-              box-shadow:0 4px 20px rgba(0,0,0,.25); cursor:pointer;">
-    <img src="/images/paper_thumbnails/Ferroetal2025.png"
-         style="width:600px; max-width:80vw; max-height:90vh; height:auto;">
+  <!-- Zoomed image -->
+  <div id="zoom2025"
+       onclick="this.style.display='none';"
+       style="display:none;
+              position:fixed;
+              left:0; top:0;
+              width:100%; height:100%;
+              align-items:center;
+              justify-content:center;
+              background:rgba(0,0,0,.35);
+              z-index:10000;
+              cursor:pointer;">
+
+    <div style="position:relative; background:white; padding:10px;
+                border:1px solid lightgray;
+                box-shadow:0 4px 20px rgba(0,0,0,.25);">
+
+      <!-- Close button -->
+      <span onclick="event.stopPropagation(); document.getElementById('zoom2025').style.display='none';"
+            style="position:absolute;
+                   right:5px; top:5px;
+                   width:22px; height:22px;
+                   background:white;
+                   border:1px solid lightgray;
+                   border-radius:50%;
+                   font-size:16px;
+                   line-height:20px;
+                   text-align:center;
+                   cursor:pointer;
+                   z-index:2;">
+        ×
+      </span>
+
+      <img src="/images/paper_thumbnails/Ferroetal2025.png"
+           onclick="event.stopPropagation();"
+           style="width:600px;
+                  max-width:80vw;
+                  max-height:90vh;
+                  height:auto;
+                  display:block;">
+    </div>
+
   </div>
 
   <br/>
@@ -70,25 +163,71 @@ author_profile: true
 </a>
 
 
+
+<!-- =========================
+     Ferro et al., Nat Commun 2024
+     ========================= -->
+
 <a href="https://www.nature.com/articles/s41467-024-50214-2.pdf" target="_blank">
 <div style="font-size:.75em; text-align:center; float:left; width:25%; position:relative;">
 
   <img src="/images/paper_thumbnails/Ferroetal2024.png"
        style="width:100px; border:1px solid lightgray">
 
-  <span onclick="event.preventDefault(); event.stopPropagation(); this.nextElementSibling.style.display='block';"
-        style="position:absolute; left:calc(50% - 48px); top:5px; width:20px; height:20px;
-               background:white; border:1px solid lightgray; border-radius:50%;
-               font-size:13px; line-height:20px; cursor:pointer; z-index:10;">
+  <!-- Zoom button -->
+  <span onclick="event.preventDefault(); event.stopPropagation(); document.getElementById('zoom2024').style.display='flex';"
+        style="position:absolute; left:calc(50% - 48px); top:5px;
+               width:20px; height:20px;
+               background:white; border:1px solid lightgray;
+               border-radius:50%;
+               font-size:12px; line-height:20px;
+               text-align:center; cursor:pointer;
+               z-index:10;">
     🔍
   </span>
 
-  <div onclick="this.style.display='none';"
-       style="display:none; position:fixed; left:50%; top:50%; transform:translate(-50%,-50%);
-              z-index:10000; background:white; padding:10px; border:1px solid lightgray;
-              box-shadow:0 4px 20px rgba(0,0,0,.25); cursor:pointer;">
-    <img src="/images/paper_thumbnails/Ferroetal2024.png"
-         style="width:600px; max-width:80vw; max-height:90vh; height:auto;">
+  <!-- Zoomed image -->
+  <div id="zoom2024"
+       onclick="this.style.display='none';"
+       style="display:none;
+              position:fixed;
+              left:0; top:0;
+              width:100%; height:100%;
+              align-items:center;
+              justify-content:center;
+              background:rgba(0,0,0,.35);
+              z-index:10000;
+              cursor:pointer;">
+
+    <div style="position:relative; background:white; padding:10px;
+                border:1px solid lightgray;
+                box-shadow:0 4px 20px rgba(0,0,0,.25);">
+
+      <!-- Close button -->
+      <span onclick="event.stopPropagation(); document.getElementById('zoom2024').style.display='none';"
+            style="position:absolute;
+                   right:5px; top:5px;
+                   width:22px; height:22px;
+                   background:white;
+                   border:1px solid lightgray;
+                   border-radius:50%;
+                   font-size:16px;
+                   line-height:20px;
+                   text-align:center;
+                   cursor:pointer;
+                   z-index:2;">
+        ×
+      </span>
+
+      <img src="/images/paper_thumbnails/Ferroetal2024.png"
+           onclick="event.stopPropagation();"
+           style="width:600px;
+                  max-width:80vw;
+                  max-height:90vh;
+                  height:auto;
+                  display:block;">
+    </div>
+
   </div>
 
   <br/>
@@ -98,25 +237,71 @@ author_profile: true
 </a>
 
 
+
+<!-- =========================
+     Ferro et al., PNAS 2021
+     ========================= -->
+
 <a href="https://www.pnas.org/doi/pdf/10.1073/pnas.2022097118?download=false" target="_blank">
 <div style="font-size:.75em; text-align:center; float:left; width:25%; position:relative;">
 
   <img src="/images/paper_thumbnails/Ferroetal2021.png"
        style="width:100px; border:1px solid lightgray">
 
-  <span onclick="event.preventDefault(); event.stopPropagation(); this.nextElementSibling.style.display='block';"
-        style="position:absolute; left:calc(50% - 48px); top:5px; width:20px; height:20px;
-               background:white; border:1px solid lightgray; border-radius:50%;
-               font-size:13px; line-height:20px; cursor:pointer; z-index:10;">
+  <!-- Zoom button -->
+  <span onclick="event.preventDefault(); event.stopPropagation(); document.getElementById('zoom2021').style.display='flex';"
+        style="position:absolute; left:calc(50% - 48px); top:5px;
+               width:20px; height:20px;
+               background:white; border:1px solid lightgray;
+               border-radius:50%;
+               font-size:12px; line-height:20px;
+               text-align:center; cursor:pointer;
+               z-index:10;">
     🔍
   </span>
 
-  <div onclick="this.style.display='none';"
-       style="display:none; position:fixed; left:50%; top:50%; transform:translate(-50%,-50%);
-              z-index:10000; background:white; padding:10px; border:1px solid lightgray;
-              box-shadow:0 4px 20px rgba(0,0,0,.25); cursor:pointer;">
-    <img src="/images/paper_thumbnails/Ferroetal2021.png"
-         style="width:600px; max-width:80vw; max-height:90vh; height:auto;">
+  <!-- Zoomed image -->
+  <div id="zoom2021"
+       onclick="this.style.display='none';"
+       style="display:none;
+              position:fixed;
+              left:0; top:0;
+              width:100%; height:100%;
+              align-items:center;
+              justify-content:center;
+              background:rgba(0,0,0,.35);
+              z-index:10000;
+              cursor:pointer;">
+
+    <div style="position:relative; background:white; padding:10px;
+                border:1px solid lightgray;
+                box-shadow:0 4px 20px rgba(0,0,0,.25);">
+
+      <!-- Close button -->
+      <span onclick="event.stopPropagation(); document.getElementById('zoom2021').style.display='none';"
+            style="position:absolute;
+                   right:5px; top:5px;
+                   width:22px; height:22px;
+                   background:white;
+                   border:1px solid lightgray;
+                   border-radius:50%;
+                   font-size:16px;
+                   line-height:20px;
+                   text-align:center;
+                   cursor:pointer;
+                   z-index:2;">
+        ×
+      </span>
+
+      <img src="/images/paper_thumbnails/Ferroetal2021.png"
+           onclick="event.stopPropagation();"
+           style="width:600px;
+                  max-width:80vw;
+                  max-height:90vh;
+                  height:auto;
+                  display:block;">
+    </div>
+
   </div>
 
   <br/>
@@ -126,6 +311,13 @@ author_profile: true
 </a>
 
 </div>
+
+
+
+
+
+
+
 
 <!------------------------------------------------------------------------------------->
 
