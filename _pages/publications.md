@@ -321,13 +321,237 @@ author_profile: true
 
 <!------------------------------------------------------------------------------------->
 
+
 <!-- =========================================================
-     PDF.js library
+     PDF.js
      ========================================================= -->
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/4.10.38/pdf.min.mjs"
-        type="module"></script>
+<script type="module">
 
+  import * as pdfjsLib
+    from "https://cdnjs.cloudflare.com/ajax/libs/pdf.js/4.10.38/pdf.min.mjs";
+
+  pdfjsLib.GlobalWorkerOptions.workerSrc =
+    "https://cdnjs.cloudflare.com/ajax/libs/pdf.js/4.10.38/pdf.worker.min.mjs";
+
+
+  let pdfDoc = null;
+  let currentPage = 1;
+  let currentScale = 1.0;
+
+
+  /* =========================================================
+     OPEN PDF
+     ========================================================= */
+
+  window.openPDF = async function(pdfURL) {
+
+    const viewer = document.getElementById("pdfViewer");
+
+    viewer.style.display = "flex";
+
+    currentPage = 1;
+    currentScale = 1.0;
+
+    document.getElementById("pdfPage").textContent = "1";
+    document.getElementById("pdfZoom").textContent = "100%";
+    document.getElementById("pdfPages").textContent = "...";
+
+    const canvas = document.getElementById("pdfCanvas");
+    const context = canvas.getContext("2d");
+
+    context.clearRect(0, 0, canvas.width, canvas.height);
+
+    try {
+
+      pdfDoc = await pdfjsLib.getDocument(pdfURL).promise;
+
+      document.getElementById("pdfPages").textContent =
+        pdfDoc.numPages;
+
+      await renderPDFPage(currentPage);
+
+    } catch (error) {
+
+      console.error("PDF.js error:", error);
+
+      document.getElementById("pdfPages").textContent = "!";
+      context.clearRect(0, 0, canvas.width, canvas.height);
+
+      context.font = "16px sans-serif";
+      context.fillText(
+        "Unable to load this PDF.",
+        20,
+        40
+      );
+
+    }
+
+  };
+
+
+  /* =========================================================
+     RENDER PAGE
+     ========================================================= */
+
+  async function renderPDFPage(pageNumber) {
+
+    if (!pdfDoc) return;
+
+    const page = await pdfDoc.getPage(pageNumber);
+
+    const viewport = page.getViewport({
+      scale: currentScale
+    });
+
+    const canvas = document.getElementById("pdfCanvas");
+    const context = canvas.getContext("2d");
+
+    canvas.width = viewport.width;
+    canvas.height = viewport.height;
+
+    await page.render({
+      canvasContext: context,
+      viewport: viewport
+    }).promise;
+
+    document.getElementById("pdfPage").textContent =
+      pageNumber;
+
+    document.getElementById("pdfZoom").textContent =
+      Math.round(currentScale * 100) + "%";
+
+  }
+
+
+  /* =========================================================
+     PAGE NAVIGATION
+     ========================================================= */
+
+  window.previousPDFPage = function() {
+
+    if (!pdfDoc || currentPage <= 1) return;
+
+    currentPage--;
+
+    renderPDFPage(currentPage);
+
+  };
+
+
+  window.nextPDFPage = function() {
+
+    if (!pdfDoc || currentPage >= pdfDoc.numPages) return;
+
+    currentPage++;
+
+    renderPDFPage(currentPage);
+
+  };
+
+
+  /* =========================================================
+     ZOOM
+     ========================================================= */
+
+  window.zoomPDFIn = function() {
+
+    if (!pdfDoc) return;
+
+    currentScale += 0.25;
+
+    renderPDFPage(currentPage);
+
+  };
+
+
+  window.zoomPDFOut = function() {
+
+    if (!pdfDoc) return;
+
+    currentScale = Math.max(
+      0.5,
+      currentScale - 0.25
+    );
+
+    renderPDFPage(currentPage);
+
+  };
+
+
+  window.resetPDFZoom = function() {
+
+    if (!pdfDoc) return;
+
+    currentScale = 1.0;
+
+    renderPDFPage(currentPage);
+
+  };
+
+
+  /* =========================================================
+     CLOSE PDF
+     ========================================================= */
+
+  window.closePDF = function() {
+
+    document.getElementById("pdfViewer").style.display = "none";
+
+    pdfDoc = null;
+
+    const canvas = document.getElementById("pdfCanvas");
+    const context = canvas.getContext("2d");
+
+    context.clearRect(
+      0,
+      0,
+      canvas.width,
+      canvas.height
+    );
+
+  };
+
+
+  /* =========================================================
+     KEYBOARD CONTROLS
+     ========================================================= */
+
+  document.addEventListener("keydown", function(event) {
+
+    const viewer = document.getElementById("pdfViewer");
+
+    if (viewer.style.display !== "flex") return;
+
+    if (event.key === "Escape") {
+      closePDF();
+    }
+
+    if (event.key === "ArrowLeft") {
+      previousPDFPage();
+    }
+
+    if (event.key === "ArrowRight") {
+      nextPDFPage();
+    }
+
+    if (event.key === "+" || event.key === "=") {
+      zoomPDFIn();
+    }
+
+    if (event.key === "-") {
+      zoomPDFOut();
+    }
+
+  });
+
+</script>
+
+
+
+<!-- =========================================================
+     PAPERS
+     ========================================================= -->
 
 <div style="width:85%; text-align:center;">
 
@@ -336,14 +560,21 @@ author_profile: true
      Ferro et al., Nature Communications, 2026
      ========================================================= -->
 
-<div style="font-size:.75em; text-align:center; float:left; width:25%; position:relative;">
+<div style="font-size:.75em;
+            text-align:center;
+            float:left;
+            width:25%;
+            position:relative;">
 
-  <!-- Thumbnail -->
-  <div onclick="openPDF('pdf2026', 'https://www.nature.com/articles/s41467-026-70423-1.pdf')"
-       style="position:relative; display:inline-block; cursor:pointer;">
+  <div onclick="openPDF('/files/Ferro-et-al-NatCommun-2026.pdf')"
+       style="position:relative;
+              display:inline-block;
+              cursor:pointer;">
 
     <img src="/images/paper_thumbnails/Ferroetal2026.png"
-         style="width:100px; border:1px solid lightgray; display:block;">
+         style="width:100px;
+                border:1px solid lightgray;
+                display:block;">
 
     <!-- Lens -->
     <span style="position:absolute;
@@ -364,6 +595,7 @@ author_profile: true
   </div>
 
   <br/>
+
   Ferro et al., <i>Nat Commun</i>, 2026
 
 </div>
@@ -374,14 +606,21 @@ author_profile: true
      Ferro et al., CCN, 2025
      ========================================================= -->
 
-<div style="font-size:.75em; text-align:center; float:left; width:25%; position:relative;">
+<div style="font-size:.75em;
+            text-align:center;
+            float:left;
+            width:25%;
+            position:relative;">
 
-  <!-- Thumbnail -->
-  <div onclick="openPDF('pdf2025', 'https://2025.ccneuro.org/abstract_pdf/Ferro_2025_A_closed-loop_model_coordination_gaze_control.pdf')"
-       style="position:relative; display:inline-block; cursor:pointer;">
+  <div onclick="openPDF('/files/Ferro-et-al-CCN-2025.pdf')"
+       style="position:relative;
+              display:inline-block;
+              cursor:pointer;">
 
     <img src="/images/paper_thumbnails/Ferroetal2025.png"
-         style="width:100px; border:1px solid lightgray; display:block;">
+         style="width:100px;
+                border:1px solid lightgray;
+                display:block;">
 
     <!-- Lens -->
     <span style="position:absolute;
@@ -402,6 +641,7 @@ author_profile: true
   </div>
 
   <br/>
+
   Ferro et al., <i>CCN</i>, 2025
 
 </div>
@@ -412,14 +652,21 @@ author_profile: true
      Ferro et al., Nature Communications, 2024
      ========================================================= -->
 
-<div style="font-size:.75em; text-align:center; float:left; width:25%; position:relative;">
+<div style="font-size:.75em;
+            text-align:center;
+            float:left;
+            width:25%;
+            position:relative;">
 
-  <!-- Thumbnail -->
-  <div onclick="openPDF('pdf2024', 'https://www.nature.com/articles/s41467-024-50214-2.pdf')"
-       style="position:relative; display:inline-block; cursor:pointer;">
+  <div onclick="openPDF('/files/Ferro-et-al-NatCommun-2024.pdf')"
+       style="position:relative;
+              display:inline-block;
+              cursor:pointer;">
 
     <img src="/images/paper_thumbnails/Ferroetal2024.png"
-         style="width:100px; border:1px solid lightgray; display:block;">
+         style="width:100px;
+                border:1px solid lightgray;
+                display:block;">
 
     <!-- Lens -->
     <span style="position:absolute;
@@ -440,6 +687,7 @@ author_profile: true
   </div>
 
   <br/>
+
   Ferro et al., <i>Nat Commun</i>, 2024
 
 </div>
@@ -450,14 +698,21 @@ author_profile: true
      Ferro et al., PNAS, 2021
      ========================================================= -->
 
-<div style="font-size:.75em; text-align:center; float:left; width:25%; position:relative;">
+<div style="font-size:.75em;
+            text-align:center;
+            float:left;
+            width:25%;
+            position:relative;">
 
-  <!-- Thumbnail -->
-  <div onclick="openPDF('pdf2021', 'https://www.pnas.org/doi/pdf/10.1073/pnas.2022097118?download=false')"
-       style="position:relative; display:inline-block; cursor:pointer;">
+  <div onclick="openPDF('/files/Ferro-et-al-PNAS-2021.pdf')"
+       style="position:relative;
+              display:inline-block;
+              cursor:pointer;">
 
     <img src="/images/paper_thumbnails/Ferroetal2021.png"
-         style="width:100px; border:1px solid lightgray; display:block;">
+         style="width:100px;
+                border:1px solid lightgray;
+                display:block;">
 
     <!-- Lens -->
     <span style="position:absolute;
@@ -478,14 +733,17 @@ author_profile: true
   </div>
 
   <br/>
+
   Ferro et al., <i>PNAS</i>, 2021
+
+</div>
 
 </div>
 
 
 
 <!-- =========================================================
-     PDF VIEWER MODAL
+     PDF.js VIEWER
      ========================================================= -->
 
 <div id="pdfViewer"
@@ -498,7 +756,8 @@ author_profile: true
             align-items:center;
             justify-content:center;
             padding:20px;
-            box-sizing:border-box;">
+            box-sizing:border-box;
+            margin-top:70px;">
 
   <div onclick="event.stopPropagation();"
        style="position:relative;
@@ -511,56 +770,77 @@ author_profile: true
               flex-direction:column;
               overflow:hidden;">
 
+
     <!-- =====================================================
          TOOLBAR
          ===================================================== -->
 
-    <div style="height:42px;
+    <div style="height:44px;
                 flex-shrink:0;
-                border-bottom:1px solid #ddd;
+                background:#fafafa;
+                border-bottom:1px solid lightgray;
                 display:flex;
                 align-items:center;
                 justify-content:center;
                 gap:6px;
-                background:#fafafa;
                 position:relative;">
 
       <!-- Previous page -->
-      <button onclick="prevPage()"
-              style="cursor:pointer;">
+      <button onclick="previousPDFPage()"
+              style="cursor:pointer;
+                     padding:3px 8px;">
         ←
       </button>
 
-      <!-- Page number -->
-      <span style="margin:0 8px;">
-        Page <span id="pageNum">1</span>
+
+      <!-- Page -->
+      <span style="font-size:13px;
+                   margin:0 8px;
+                   white-space:nowrap;">
+
+        <span id="pdfPage">1</span>
         /
-        <span id="pageCount">?</span>
+        <span id="pdfPages">...</span>
+
       </span>
 
+
       <!-- Next page -->
-      <button onclick="nextPage()"
-              style="cursor:pointer;">
+      <button onclick="nextPDFPage()"
+              style="cursor:pointer;
+                     padding:3px 8px;">
         →
       </button>
 
+
       <!-- Zoom out -->
-      <button onclick="zoomOut()"
-              style="cursor:pointer; margin-left:15px;">
+      <button onclick="zoomPDFOut()"
+              style="cursor:pointer;
+                     padding:3px 9px;
+                     margin-left:12px;">
         −
       </button>
 
-      <!-- Zoom level -->
-      <span id="zoomLevel"
-            style="min-width:45px; text-align:center;">
+
+      <!-- Zoom -->
+      <button onclick="resetPDFZoom()"
+              id="pdfZoom"
+              style="cursor:pointer;
+                     border:none;
+                     background:transparent;
+                     min-width:48px;
+                     padding:3px;">
         100%
-      </span>
+      </button>
+
 
       <!-- Zoom in -->
-      <button onclick="zoomIn()"
-              style="cursor:pointer;">
+      <button onclick="zoomPDFIn()"
+              style="cursor:pointer;
+                     padding:3px 9px;">
         +
       </button>
+
 
       <!-- Close -->
       <span onclick="closePDF()"
@@ -578,20 +858,21 @@ author_profile: true
 
 
     <!-- =====================================================
-         PDF CANVAS AREA
+         PDF CANVAS
          ===================================================== -->
 
     <div id="pdfContainer"
          style="flex:1;
                 overflow:auto;
                 background:#777;
-                text-align:center;
                 padding:20px;
-                box-sizing:border-box;">
+                box-sizing:border-box;
+                text-align:center;">
 
       <canvas id="pdfCanvas"
               style="background:white;
-                     box-shadow:0 2px 8px rgba(0,0,0,.3);">
+                     box-shadow:0 2px 8px rgba(0,0,0,.3);
+                     max-width:none;">
       </canvas>
 
     </div>
@@ -601,232 +882,6 @@ author_profile: true
 </div>
 
 
-
-<!-- =========================================================
-     PDF.js CODE
-     ========================================================= -->
-
-<script type="module">
-
-  import * as pdfjsLib
-    from 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/4.10.38/pdf.min.mjs';
-
-  pdfjsLib.GlobalWorkerOptions.workerSrc =
-    'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/4.10.38/pdf.worker.min.mjs';
-
-
-  let pdfDoc = null;
-  let pageNum = 1;
-  let scale = 1.0;
-  let currentURL = null;
-
-
-  /*
-   * Open PDF
-   */
-
-  window.openPDF = async function(id, url) {
-
-    currentURL = url;
-
-    document.getElementById('pdfViewer').style.display = 'flex';
-
-    pageNum = 1;
-    scale = 1.0;
-
-    document.getElementById('pageNum').textContent = '1';
-    document.getElementById('pageCount').textContent = '?';
-    document.getElementById('zoomLevel').textContent = '100%';
-
-    const canvas = document.getElementById('pdfCanvas');
-    const ctx = canvas.getContext('2d');
-
-    ctx.clearRect(0, 0, canvas.width, canvas.height);
-
-    try {
-
-      pdfDoc = await pdfjsLib.getDocument(url).promise;
-
-      document.getElementById('pageCount').textContent =
-        pdfDoc.numPages;
-
-      renderPage(pageNum);
-
-    } catch (error) {
-
-      console.error(error);
-
-      ctx.font = '16px sans-serif';
-      ctx.fillText(
-        'Unable to load this PDF.',
-        20,
-        40
-      );
-
-    }
-
-  };
-
-
-  /*
-   * Render page
-   */
-
-  async function renderPage(num) {
-
-    if (!pdfDoc) return;
-
-    const page = await pdfDoc.getPage(num);
-
-    const viewport =
-      page.getViewport({ scale: scale });
-
-    const canvas =
-      document.getElementById('pdfCanvas');
-
-    const ctx =
-      canvas.getContext('2d');
-
-    canvas.width = viewport.width;
-    canvas.height = viewport.height;
-
-    await page.render({
-      canvasContext: ctx,
-      viewport: viewport
-    }).promise;
-
-    document.getElementById('pageNum').textContent =
-      num;
-
-    document.getElementById('zoomLevel').textContent =
-      Math.round(scale * 100) + '%';
-
-  }
-
-
-  /*
-   * Previous page
-   */
-
-  window.prevPage = function() {
-
-    if (!pdfDoc || pageNum <= 1) return;
-
-    pageNum--;
-
-    renderPage(pageNum);
-
-  };
-
-
-  /*
-   * Next page
-   */
-
-  window.nextPage = function() {
-
-    if (!pdfDoc || pageNum >= pdfDoc.numPages) return;
-
-    pageNum++;
-
-    renderPage(pageNum);
-
-  };
-
-
-  /*
-   * Zoom in
-   */
-
-  window.zoomIn = function() {
-
-    if (!pdfDoc) return;
-
-    scale += 0.25;
-
-    renderPage(pageNum);
-
-  };
-
-
-  /*
-   * Zoom out
-   */
-
-  window.zoomOut = function() {
-
-    if (!pdfDoc) return;
-
-    scale = Math.max(0.5, scale - 0.25);
-
-    renderPage(pageNum);
-
-  };
-
-
-  /*
-   * Close
-   */
-
-  window.closePDF = function() {
-
-    document.getElementById('pdfViewer').style.display = 'none';
-
-    pdfDoc = null;
-
-    const canvas =
-      document.getElementById('pdfCanvas');
-
-    const ctx =
-      canvas.getContext('2d');
-
-    ctx.clearRect(
-      0,
-      0,
-      canvas.width,
-      canvas.height
-    );
-
-  };
-
-
-  /*
-   * Keyboard controls
-   */
-
-  document.addEventListener('keydown', function(event) {
-
-    const viewer =
-      document.getElementById('pdfViewer');
-
-    if (viewer.style.display !== 'flex') return;
-
-
-    if (event.key === 'Escape') {
-      closePDF();
-    }
-
-    if (event.key === 'ArrowLeft') {
-      prevPage();
-    }
-
-    if (event.key === 'ArrowRight') {
-      nextPage();
-    }
-
-    if (event.key === '+') {
-      zoomIn();
-    }
-
-    if (event.key === '-') {
-      zoomOut();
-    }
-
-  });
-
-</script>
-
-</div>
 
 
 
