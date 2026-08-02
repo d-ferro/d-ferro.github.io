@@ -12,11 +12,9 @@ author_profile: true
 
 <p>Selected</p>
 
-
+<!---
 <div style="width:85%; text-align:center">
 
-
-<!--
 <div style="font-size:.75em; text-align:center; float:left; width:25%; position:relative;">
 
   <div onclick="document.getElementById('pdf2026').style.display='flex';"
