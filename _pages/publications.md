@@ -321,6 +321,7 @@ author_profile: true
 
 <!------------------------------------------------------------------------------------->
 
+
 <!-- =========================================================
      PDF.js
      ========================================================= -->
@@ -335,8 +336,8 @@ author_profile: true
 
 
   let pdfDoc = null;
-  let currentPage = 1;
   let currentScale = 1.0;
+  let currentPDFURL = null;
 
 
   /* =========================================================
@@ -345,41 +346,74 @@ author_profile: true
 
   window.openPDF = async function(pdfURL) {
 
-    document.getElementById("pdfViewer").style.display = "flex";
+    const viewer = document.getElementById("pdfViewer");
+    const container = document.getElementById("pdfContainer");
 
-    currentPage = 1;
+    viewer.style.display = "flex";
+
+    currentPDFURL = pdfURL;
     currentScale = 1.0;
 
-    document.getElementById("pdfPage").textContent = "1";
-    document.getElementById("pdfPages").textContent = "...";
     document.getElementById("pdfZoom").textContent = "100%";
 
-    const canvas = document.getElementById("pdfCanvas");
-    const context = canvas.getContext("2d");
+    /* Clear previous PDF */
+    container.innerHTML = "";
 
-    context.clearRect(0, 0, canvas.width, canvas.height);
+    /* Loading message */
+    const loading = document.createElement("div");
+
+    loading.id = "pdfLoading";
+
+    loading.style.cssText =
+      "color:white;" +
+      "font-size:14px;" +
+      "padding:30px;";
+
+    loading.textContent = "Loading PDF…";
+
+    container.appendChild(loading);
+
 
     try {
 
       pdfDoc = await pdfjsLib.getDocument(pdfURL).promise;
 
-      document.getElementById("pdfPages").textContent =
-        pdfDoc.numPages;
+      loading.remove();
 
-      await renderPDFPage(currentPage);
+      /*
+       * Render every page
+       */
+
+      for (
+        let pageNumber = 1;
+        pageNumber <= pdfDoc.numPages;
+        pageNumber++
+      ) {
+
+        await renderPDFPage(
+          pageNumber,
+          container
+        );
+
+      }
 
     } catch (error) {
 
       console.error("PDF.js error:", error);
 
-      context.clearRect(0, 0, canvas.width, canvas.height);
+      container.innerHTML = "";
 
-      context.font = "16px sans-serif";
-      context.fillText(
-        "Unable to load this PDF.",
-        20,
-        40
-      );
+      const errorMessage = document.createElement("div");
+
+      errorMessage.style.cssText =
+        "color:white;" +
+        "font-size:14px;" +
+        "padding:30px;";
+
+      errorMessage.textContent =
+        "Unable to load this PDF.";
+
+      container.appendChild(errorMessage);
 
     }
 
@@ -387,12 +421,13 @@ author_profile: true
 
 
   /* =========================================================
-     RENDER PAGE
+     RENDER ONE PAGE
      ========================================================= */
 
-  async function renderPDFPage(pageNumber) {
-
-    if (!pdfDoc) return;
+  async function renderPDFPage(
+    pageNumber,
+    container
+  ) {
 
     const page = await pdfDoc.getPage(pageNumber);
 
@@ -400,111 +435,171 @@ author_profile: true
       scale: currentScale
     });
 
-    const canvas = document.getElementById("pdfCanvas");
-    const context = canvas.getContext("2d");
 
-    canvas.width = viewport.width;
-    canvas.height = viewport.height;
+    /*
+     * Wrapper for each page
+     */
 
-    await page.render({
-      canvasContext: context,
-      viewport: viewport
-    }).promise;
+    const pageWrapper =
+      document.createElement("div");
 
-    document.getElementById("pdfPage").textContent =
+    pageWrapper.className = "pdfPageWrapper";
+
+    pageWrapper.dataset.page =
       pageNumber;
 
-    document.getElementById("pdfZoom").textContent =
-      Math.round(currentScale * 100) + "%";
+    pageWrapper.style.cssText =
+      "display:block;" +
+      "width:max-content;" +
+      "margin:0 auto 20px auto;" +
+      "background:white;" +
+      "box-shadow:0 2px 8px rgba(0,0,0,.3);";
+
+
+    /*
+     * Canvas
+     */
+
+    const canvas =
+      document.createElement("canvas");
+
+    canvas.className = "pdfPageCanvas";
+
+    canvas.width =
+      viewport.width;
+
+    canvas.height =
+      viewport.height;
+
+    canvas.style.display =
+      "block";
+
+
+    pageWrapper.appendChild(canvas);
+
+    container.appendChild(pageWrapper);
+
+
+    /*
+     * Render
+     */
+
+    const context =
+      canvas.getContext("2d");
+
+    await page.render({
+
+      canvasContext: context,
+
+      viewport: viewport
+
+    }).promise;
 
   }
 
 
   /* =========================================================
-     PAGE NAVIGATION
+     RE-RENDER ALL PAGES AFTER ZOOM
      ========================================================= */
 
-  window.previousPDFPage = function() {
+  async function rerenderPDF() {
 
-    if (!pdfDoc || currentPage <= 1) return;
+    if (!pdfDoc) return;
 
-    currentPage--;
+    const container =
+      document.getElementById("pdfContainer");
 
-    renderPDFPage(currentPage);
-
-  };
+    container.innerHTML = "";
 
 
-  window.nextPDFPage = function() {
+    for (
+      let pageNumber = 1;
+      pageNumber <= pdfDoc.numPages;
+      pageNumber++
+    ) {
 
-    if (!pdfDoc || currentPage >= pdfDoc.numPages) return;
+      await renderPDFPage(
+        pageNumber,
+        container
+      );
 
-    currentPage++;
+    }
 
-    renderPDFPage(currentPage);
+  }
+
+
+  /* =========================================================
+     ZOOM IN
+     ========================================================= */
+
+  window.zoomPDFIn = async function() {
+
+    if (!pdfDoc) return;
+
+    currentScale += 0.20;
+
+    document.getElementById("pdfZoom").textContent =
+      Math.round(currentScale * 100) + "%";
+
+    await rerenderPDF();
 
   };
 
 
   /* =========================================================
-     ZOOM
+     ZOOM OUT
      ========================================================= */
 
-  window.zoomPDFIn = function() {
-
-    if (!pdfDoc) return;
-
-    currentScale += 0.25;
-
-    renderPDFPage(currentPage);
-
-  };
-
-
-  window.zoomPDFOut = function() {
+  window.zoomPDFOut = async function() {
 
     if (!pdfDoc) return;
 
     currentScale = Math.max(
       0.5,
-      currentScale - 0.25
+      currentScale - 0.20
     );
 
-    renderPDFPage(currentPage);
+    document.getElementById("pdfZoom").textContent =
+      Math.round(currentScale * 100) + "%";
 
-  };
-
-
-  window.resetPDFZoom = function() {
-
-    if (!pdfDoc) return;
-
-    currentScale = 1.0;
-
-    renderPDFPage(currentPage);
+    await rerenderPDF();
 
   };
 
 
   /* =========================================================
-     CLOSE PDF
+     RESET ZOOM
+     ========================================================= */
+
+  window.resetPDFZoom = async function() {
+
+    if (!pdfDoc) return;
+
+    currentScale = 1.0;
+
+    document.getElementById("pdfZoom").textContent =
+      "100%";
+
+    await rerenderPDF();
+
+  };
+
+
+  /* =========================================================
+     CLOSE
      ========================================================= */
 
   window.closePDF = function() {
 
-    document.getElementById("pdfViewer").style.display = "none";
+    document.getElementById("pdfViewer").style.display =
+      "none";
+
+    document.getElementById("pdfContainer").innerHTML =
+      "";
 
     pdfDoc = null;
 
-    const canvas = document.getElementById("pdfCanvas");
-    const context = canvas.getContext("2d");
-
-    context.clearRect(
-      0,
-      0,
-      canvas.width,
-      canvas.height
-    );
+    currentPDFURL = null;
 
   };
 
@@ -513,33 +608,42 @@ author_profile: true
      KEYBOARD CONTROLS
      ========================================================= */
 
-  document.addEventListener("keydown", function(event) {
+  document.addEventListener(
+    "keydown",
+    function(event) {
 
-    const viewer = document.getElementById("pdfViewer");
+      const viewer =
+        document.getElementById("pdfViewer");
 
-    if (viewer.style.display !== "flex") return;
+      if (viewer.style.display !== "flex")
+        return;
 
-    if (event.key === "Escape") {
-      closePDF();
+
+      if (event.key === "Escape") {
+
+        closePDF();
+
+      }
+
+
+      if (
+        event.key === "+" ||
+        event.key === "="
+      ) {
+
+        zoomPDFIn();
+
+      }
+
+
+      if (event.key === "-") {
+
+        zoomPDFOut();
+
+      }
+
     }
-
-    if (event.key === "ArrowLeft") {
-      previousPDFPage();
-    }
-
-    if (event.key === "ArrowRight") {
-      nextPDFPage();
-    }
-
-    if (event.key === "+" || event.key === "=") {
-      zoomPDFIn();
-    }
-
-    if (event.key === "-") {
-      zoomPDFOut();
-    }
-
-  });
+  );
 
 </script>
 
@@ -781,38 +885,17 @@ author_profile: true
                 gap:6px;
                 position:relative;">
 
-      <button onclick="previousPDFPage()"
-              style="cursor:pointer;
-                     padding:3px 8px;">
-        ←
-      </button>
-
-
-      <span style="font-size:13px;
-                   margin:0 8px;
-                   white-space:nowrap;">
-
-        <span id="pdfPage">1</span>
-        /
-        <span id="pdfPages">...</span>
-
-      </span>
-
-
-      <button onclick="nextPDFPage()"
-              style="cursor:pointer;
-                     padding:3px 8px;">
-        →
-      </button>
-
+      <!-- Zoom out -->
 
       <button onclick="zoomPDFOut()"
               style="cursor:pointer;
-                     padding:3px 9px;
-                     margin-left:12px;">
+                     padding:3px 10px;
+                     font-size:16px;">
         −
       </button>
 
+
+      <!-- Zoom level -->
 
       <button onclick="resetPDFZoom()"
               id="pdfZoom"
@@ -820,17 +903,23 @@ author_profile: true
                      border:none;
                      background:transparent;
                      min-width:48px;
-                     padding:3px;">
+                     padding:3px;
+                     font-size:12px;">
         100%
       </button>
 
 
+      <!-- Zoom in -->
+
       <button onclick="zoomPDFIn()"
               style="cursor:pointer;
-                     padding:3px 9px;">
+                     padding:3px 10px;
+                     font-size:16px;">
         +
       </button>
 
+
+      <!-- Close -->
 
       <span onclick="closePDF()"
             style="position:absolute;
@@ -848,7 +937,7 @@ author_profile: true
 
 
     <!-- =====================================================
-         PDF CANVAS
+         ALL PDF PAGES
          ===================================================== -->
 
     <div id="pdfContainer"
@@ -859,19 +948,11 @@ author_profile: true
                 box-sizing:border-box;
                 text-align:center;">
 
-      <canvas id="pdfCanvas"
-              style="background:white;
-                     box-shadow:0 2px 8px rgba(0,0,0,.3);
-                     max-width:none;">
-      </canvas>
-
     </div>
 
   </div>
 
 </div>
-
-
 
 
 
