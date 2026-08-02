@@ -55,7 +55,7 @@ author_profile: true
               background:rgba(0,0,0,.5);
               z-index:10000;
               align-items:center;
-              justify-content:center;">
+              justify-content:center; margin-top:3%">
 
     <div onclick="event.stopPropagation();"
          style="position:relative;
@@ -137,7 +137,7 @@ author_profile: true
               background:rgba(0,0,0,.5);
               z-index:10000;
               align-items:center;
-              justify-content:center;">
+              justify-content:center; margin-top:3%">
 
     <div onclick="event.stopPropagation();"
          style="position:relative;
@@ -218,7 +218,7 @@ author_profile: true
               background:rgba(0,0,0,.5);
               z-index:10000;
               align-items:center;
-              justify-content:center;">
+              justify-content:center; margin-top:3%">
 
     <div onclick="event.stopPropagation();"
          style="position:relative;
@@ -300,7 +300,7 @@ author_profile: true
               background:rgba(0,0,0,.5);
               z-index:10000;
               align-items:center;
-              justify-content:center;">
+              justify-content:center; margin-top:3%">
 
     <div onclick="event.stopPropagation();"
          style="position:relative;
