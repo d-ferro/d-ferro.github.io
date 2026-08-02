@@ -12,7 +12,7 @@ author_profile: true
 
 <p>Selected</p>
 
-
+```html
 <div style="width:85%; text-align:center">
 
 
@@ -22,29 +22,30 @@ author_profile: true
 
 <div style="font-size:.75em; text-align:center; float:left; width:25%; position:relative;">
 
-  <!-- Thumbnail = ONLY clickable link to PDF -->
-  <a href="https://www.nature.com/articles/s41467-026-70423-1.pdf" target="_blank">
-    <img src="/images/paper_thumbnails/Ferroetal2026.png"
-         style="width:100px; border:1px solid lightgray;">
-  </a>
+  <!-- Thumbnail: entire image opens iframe -->
+  <div onclick="document.getElementById('pdf2026').style.display='flex';"
+       style="position:relative; display:inline-block; cursor:pointer;">
 
-  <!-- Lens -->
-  <span onclick="document.getElementById('pdf2026').style.display='flex';"
-        style="position:absolute;
-               top:calc(50% - 10px);
-               left:calc(50% - 10px);
-               width:20px;
-               height:20px;
-               background:white;
-               border:1px solid lightgray;
-               border-radius:50%;
-               font-size:12px;
-               line-height:20px;
-               text-align:center;
-               cursor:pointer;
-               z-index:10;">
-    🔍
-  </span>
+    <img src="/images/paper_thumbnails/Ferroetal2026.png"
+         style="width:100px; border:1px solid lightgray; display:block;">
+
+    <!-- Lens -->
+    <span style="position:absolute;
+                 top:calc(50% - 10px);
+                 left:calc(50% - 10px);
+                 width:20px;
+                 height:20px;
+                 background:white;
+                 border:1px solid lightgray;
+                 border-radius:50%;
+                 font-size:12px;
+                 line-height:20px;
+                 text-align:center;
+                 pointer-events:none;">
+      🔍
+    </span>
+
+  </div>
 
   <!-- PDF modal -->
   <div id="pdf2026"
@@ -55,7 +56,8 @@ author_profile: true
               background:rgba(0,0,0,.5);
               z-index:10000;
               align-items:center;
-              justify-content:center; margin-top:3%">
+              justify-content:center;
+              margin-top:3%;">
 
     <div onclick="event.stopPropagation();"
          style="position:relative;
@@ -103,30 +105,30 @@ author_profile: true
 
 <div style="font-size:.75em; text-align:center; float:left; width:25%; position:relative;">
 
-  <!-- Thumbnail = ONLY clickable link to PDF -->
-  <a href="https://2025.ccneuro.org/abstract_pdf/Ferro_2025_A_closed-loop_model_coordination_gaze_control.pdf"
-     target="_blank">
-    <img src="/images/paper_thumbnails/Ferroetal2025.png"
-         style="width:100px; border:1px solid lightgray;">
-  </a>
+  <!-- Thumbnail: entire image opens iframe -->
+  <div onclick="document.getElementById('pdf2025').style.display='flex';"
+       style="position:relative; display:inline-block; cursor:pointer;">
 
-  <!-- Lens -->
-  <span onclick="document.getElementById('pdf2025').style.display='flex';"
-        style="position:absolute;
-               top:calc(50% - 10px);
-               left:calc(50% - 10px);
-               width:20px;
-               height:20px;
-               background:white;
-               border:1px solid lightgray;
-               border-radius:50%;
-               font-size:12px;
-               line-height:20px;
-               text-align:center;
-               cursor:pointer;
-               z-index:10;">
-    🔍
-  </span>
+    <img src="/images/paper_thumbnails/Ferroetal2025.png"
+         style="width:100px; border:1px solid lightgray; display:block;">
+
+    <!-- Lens -->
+    <span style="position:absolute;
+                 top:calc(50% - 10px);
+                 left:calc(50% - 10px);
+                 width:20px;
+                 height:20px;
+                 background:white;
+                 border:1px solid lightgray;
+                 border-radius:50%;
+                 font-size:12px;
+                 line-height:20px;
+                 text-align:center;
+                 pointer-events:none;">
+      🔍
+    </span>
+
+  </div>
 
   <!-- PDF modal -->
   <div id="pdf2025"
@@ -137,7 +139,8 @@ author_profile: true
               background:rgba(0,0,0,.5);
               z-index:10000;
               align-items:center;
-              justify-content:center; margin-top:3%">
+              justify-content:center;
+              margin-top:3%;">
 
     <div onclick="event.stopPropagation();"
          style="position:relative;
@@ -185,29 +188,30 @@ author_profile: true
 
 <div style="font-size:.75em; text-align:center; float:left; width:25%; position:relative;">
 
-  <!-- Thumbnail = ONLY clickable link to PDF -->
-  <a href="https://www.nature.com/articles/s41467-024-50214-2.pdf" target="_blank">
-    <img src="/images/paper_thumbnails/Ferroetal2024.png"
-         style="width:100px; border:1px solid lightgray;">
-  </a>
+  <!-- Thumbnail: entire image opens iframe -->
+  <div onclick="document.getElementById('pdf2024').style.display='flex';"
+       style="position:relative; display:inline-block; cursor:pointer;">
 
-  <!-- Lens -->
-  <span onclick="document.getElementById('pdf2024').style.display='flex';"
-        style="position:absolute;
-               top:calc(50% - 10px);
-               left:calc(50% - 10px);
-               width:20px;
-               height:20px;
-               background:white;
-               border:1px solid lightgray;
-               border-radius:50%;
-               font-size:12px;
-               line-height:20px;
-               text-align:center;
-               cursor:pointer;
-               z-index:10;">
-    🔍
-  </span>
+    <img src="/images/paper_thumbnails/Ferroetal2024.png"
+         style="width:100px; border:1px solid lightgray; display:block;">
+
+    <!-- Lens -->
+    <span style="position:absolute;
+                 top:calc(50% - 10px);
+                 left:calc(50% - 10px);
+                 width:20px;
+                 height:20px;
+                 background:white;
+                 border:1px solid lightgray;
+                 border-radius:50%;
+                 font-size:12px;
+                 line-height:20px;
+                 text-align:center;
+                 pointer-events:none;">
+      🔍
+    </span>
+
+  </div>
 
   <!-- PDF modal -->
   <div id="pdf2024"
@@ -218,7 +222,8 @@ author_profile: true
               background:rgba(0,0,0,.5);
               z-index:10000;
               align-items:center;
-              justify-content:center; margin-top:3%">
+              justify-content:center;
+              margin-top:3%;">
 
     <div onclick="event.stopPropagation();"
          style="position:relative;
@@ -266,30 +271,30 @@ author_profile: true
 
 <div style="font-size:.75em; text-align:center; float:left; width:25%; position:relative;">
 
-  <!-- Thumbnail = ONLY clickable link to PDF -->
-  <a href="https://www.pnas.org/doi/pdf/10.1073/pnas.2022097118?download=false"
-     target="_blank">
-    <img src="/images/paper_thumbnails/Ferroetal2021.png"
-         style="width:100px; border:1px solid lightgray;">
-  </a>
+  <!-- Thumbnail: entire image opens iframe -->
+  <div onclick="document.getElementById('pdf2021').style.display='flex';"
+       style="position:relative; display:inline-block; cursor:pointer;">
 
-  <!-- Lens -->
-  <span onclick="document.getElementById('pdf2021').style.display='flex';"
-        style="position:absolute;
-               top:calc(50% - 10px);
-               left:calc(50% - 10px);
-               width:20px;
-               height:20px;
-               background:white;
-               border:1px solid lightgray;
-               border-radius:50%;
-               font-size:12px;
-               line-height:20px;
-               text-align:center;
-               cursor:pointer;
-               z-index:10;">
-    🔍
-  </span>
+    <img src="/images/paper_thumbnails/Ferroetal2021.png"
+         style="width:100px; border:1px solid lightgray; display:block;">
+
+    <!-- Lens -->
+    <span style="position:absolute;
+                 top:calc(50% - 10px);
+                 left:calc(50% - 10px);
+                 width:20px;
+                 height:20px;
+                 background:white;
+                 border:1px solid lightgray;
+                 border-radius:50%;
+                 font-size:12px;
+                 line-height:20px;
+                 text-align:center;
+                 pointer-events:none;">
+      🔍
+    </span>
+
+  </div>
 
   <!-- PDF modal -->
   <div id="pdf2021"
@@ -300,7 +305,8 @@ author_profile: true
               background:rgba(0,0,0,.5);
               z-index:10000;
               align-items:center;
-              justify-content:center; margin-top:3%">
+              justify-content:center;
+              margin-top:3%;">
 
     <div onclick="event.stopPropagation();"
          style="position:relative;
@@ -341,6 +347,9 @@ author_profile: true
 </div>
 
 </div>
+```
+
+
 
 
 <!------------------------------------------------------------------------------------->
