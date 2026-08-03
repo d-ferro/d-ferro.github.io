@@ -107,7 +107,7 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
 
  <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important; vertical-align:top !important"><h3 style="margin-top:0 !important">CIMeC 2023<br/>(invited)</h3></td>
- <td style="border:none !important;"><b>D. Ferro</b>, A. Rifé-Mata, T. Cash-Padgett, M. Z. Wang, B. Y. Hayden, R. Moreno-Bote, “The role of gaze for value encoding and recollection in orbitofrontal cortex”, Invited by <a href="http://www.bottinilab.com/" target="_blank" target="_blank">Prof. R. Bottini</a>, Centro Interdipartimentale Mente/Cervello (CIMeC), November 2023 (Rovereto, Italy 🇮🇹). <a style="color:#444" href="/files/PosterCCN2023.pdf" type="application/pdf" target="_blank">[abstract]</a>
+ <td style="border:none !important;"><b>D. Ferro</b>, A. Rifé-Mata, T. Cash-Padgett, M. Z. Wang, B. Y. Hayden, R. Moreno-Bote, “The role of gaze for value encoding and recollection in orbitofrontal cortex”, Invited by <a href="http://www.bottinilab.com/" target="_blank" target="_blank">Prof. R. Bottini</a>, Centro Interdipartimentale Mente/Cervello (CIMeC), November 2023 (Rovereto, Italy 🇮🇹). <a style="color:#444" href="/files/PosterCCN2023.pdf" type="application/pdf" target="_blank">[abstract]</a> [talk]
 </td>
 </tr>
 
@@ -138,7 +138,7 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
 </tr>
 <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important; vertical-align:top !important"><h3 style="margin-top:0 !important">Cosyne 2022</h3></td>
- <td style="border:none !important;"><b>D. Ferro</b>, A. Rifé-Mata, T. Cash-Padgett, M. Z. Wang, B. Y. Hayden, R. Moreno-Bote, “Imagining what was there: Looking at an absent offer location modulates neural response in orbito-frontal cortex.”, Cosyne, March 2022 (Lisbon and Cascais, PT 🇵🇹). <a style="color:#444" href="/files/ProgrammeCOSYNE2022.pdf" type="application/pdf" target="_blank">[programme]</a> <a style="color:#444" href="/files/PosterCOSYNE2022.pdf" type="application/pdf" target="_blank">[poster]</a> <a href="/files/Ferro_COSYNE%202022_COA.pdf" type="application/pdf" target="_blank">[certificate]</a>
+ <td style="border:none !important;"><b>D. Ferro</b>, A. Rifé-Mata, T. Cash-Padgett, M. Z. Wang, B. Y. Hayden, R. Moreno-Bote, “Imagining what was there: Looking at an absent offer location modulates neural response in orbito-frontal cortex.”, Cosyne, March 2022 (Lisbon and Cascais, PT 🇵🇹). <a style="color:#444" href="/files/ProgrammeCOSYNE2022.pdf" type="application/pdf" target="_blank">[programme]</a> <a href="/files/Ferro_COSYNE%202022_COA.pdf" type="application/pdf" target="_blank">[certificate]</a> <a style="color:#444" href="/files/PosterCOSYNE2022.pdf" type="application/pdf" target="_blank">[poster]</a> 
 </td>
 </tr>
   <tr style="border:none !important;">
@@ -184,12 +184,12 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
 </tr>
 <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important; vertical-align:top !important"><h3 style="margin-top:0 !important">SfN 2017</h3></td>
- <td style="border:none !important;">A. Thiele, <b>D. Ferro</b>, M. Boyd and S. Panzeri, “Layer dependent attentional modulation of broad and narrow spiking cells in primate V1”, Annual Meeting of the Society for Neuroscience (<i>SfN</i>), 2017 (Washington, DC, USA 🇺🇸). <a style="color:#444" href="/files/ProgrammeSFN2017.pdf" type="application/pdf" target="_blank">[programme]</a> <a style="color:#444" href="/files/AbstractSFN2017.pdf" type="application/pdf" target="_blank">[abstract]</a> <!-- [poster] -->
+ <td style="border:none !important;">A. Thiele, <b>D. Ferro</b>, M. Boyd and S. Panzeri, “Layer dependent attentional modulation of broad and narrow spiking cells in primate V1”, Annual Meeting of the Society for Neuroscience (<i>SfN</i>), 2017 (Washington, DC, USA 🇺🇸). <a style="color:#444" href="/files/ProgrammeSFN2017.pdf" type="application/pdf" target="_blank">[programme]</a> <a style="color:#444" href="/files/AbstractSFN2017.pdf" type="application/pdf" target="_blank">[abstract]</a>  [poster] 
  </td>
  </tr>
 <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important; vertical-align:top !important"><h3 style="margin-top:0 !important">IJCNN 2016</h3></td>
- <td style="border:none !important;"><b>D. Ferro</b>, V. Gripon and X. Jiang, “Nearest neighbour search using binary neural networks”, International Joint Conference on Neural Networks (<i>IJCNN</i>), IEEE 2016 (Vancouver, Canada 🇨🇦). <a style="color:#444" href="https://ieeexplore.ieee.org/servlet/opac?punumber=7593175" type="application/pdf" target="_blank">[programme]</a> <a style="color:#444" href="https://doi.org/10.1109/IJCNN.2016.7727873" type="application/pdf" target="_blank">[proceedings]</a> <!-- [poster] -->
+ <td style="border:none !important;"><b>D. Ferro</b>, V. Gripon and X. Jiang, “Nearest neighbour search using binary neural networks”, International Joint Conference on Neural Networks (<i>IJCNN</i>), IEEE 2016 (Vancouver, Canada 🇨🇦). <a style="color:#444" href="https://ieeexplore.ieee.org/servlet/opac?punumber=7593175" type="application/pdf" target="_blank">[programme]</a> <a style="color:#444" href="https://doi.org/10.1109/IJCNN.2016.7727873" type="application/pdf" target="_blank">[proceedings]</a> [poster] 
  </td>
  </tr>
 </table>
