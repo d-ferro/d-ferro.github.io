@@ -340,8 +340,6 @@ redirect_from:
 <div style="
     width:100%;
     height:44px;
-    background:#fafafa;
-    border:1px solid lightgray;
     border-bottom:none;
     box-sizing:border-box;
     display:flex;
@@ -414,7 +412,6 @@ redirect_from:
     width:100%;
     height:90vh;
     overflow:auto;
-    background:#777;
     padding:20px;
     box-sizing:border-box;
     text-align:center;
