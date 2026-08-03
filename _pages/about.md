@@ -20,7 +20,11 @@ group led by <a href="https://www.upf.edu/web/ruben-moreno-bote" target="_blank"
 at Universitat Pompeu Fabra in Barcelona.
 </p>
 
+<h3 style="margin-top:20px;">Highlights</h3>
 
+<p style="font-size:.75em; margin-top:-10px;">
+A visual overview of representative findings from my works. Click any figure to explore the corresponding publication.
+</p>
 
 <!-- Slideshow container -->
 <div class="slideshow-container">
