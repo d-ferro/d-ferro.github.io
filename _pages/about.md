@@ -10,10 +10,10 @@ redirect_from:
 
 
 <p style="font-size:.75em">
-I am a cognitive and computational neuroscientist interested in how brains transform sensory information, internal goals, and reward expectations into adaptive decisions and actions. I currently work in the
-<a href="https://www.crm.cat/_neuroscience/">Computational Neuroscience Unit</a>
-at the Centre de Recerca Matemàtica
-(<a href="https://www.crm.cat">CRM</a>) with <a href="https://sites.google.com/view/wimmerlab" target="_blank">Dr. K. Wimmer</a>, and collaborate with the
+
+  I am a cognitive and computational neuroscientist studying how the brain transforms sensory information, internal goals, and reward expectations into adaptive decisions and actions. My research combines computational modeling, electrophysiology, neural population analyses, and eye tracking to uncover the neural mechanisms underlying attention, decision-making, and cognitive control.
+
+I am currently a postdoctoral researcher in the <a href="https://www.crm.cat/_neuroscience/">Computational Neuroscience Unit</a> at the <a href="https://www.crm.cat">Centre de Recerca Matemàtica</a>, working with <a href="https://sites.google.com/view/wimmerlab" target="_blank">Dr. K. Wimmer</a>, and collaborating with the
 <a href="https://www.upf.edu/web/tcn" target="_blank">Theoretical and Cognitive Neuroscience</a>
 group led by <a href="https://www.upf.edu/web/ruben-moreno-bote" target="_blank">Prof. R. Moreno-Bote</a> at the
 <a href="https://www.upf.edu/web/cbc" target="_blank">Center for Brain and Cognition</a>
