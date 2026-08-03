@@ -35,13 +35,13 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
 
   <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">FENS 2026</h3></td>
- <td style="border:none !important;"><b>D. Ferro</b>, C. Vivar, A. Levi, A. Huk, K. Wimmer, “Adaptive temporal weighting across behavior and neral newtork models”, Federation of European Neuroscience Societies (<a href="https://fensforum.org/" target="_blank">FENS</a>) Forum, July 2026 (Barcelona, ES 🇪🇸). <a style="color:#444" href="https://fensforum.org/scientific-programme/" type="application/pdf" target="_blank">[programme]</a>
+ <td style="border:none !important;"><b>D. Ferro</b>, C. Vivar, A. Levi, A. Huk, K. Wimmer, “Adaptive temporal weighting across behavior and neral newtork models”, Federation of European Neuroscience Societies (<a href="https://fensforum.org/" target="_blank">FENS</a>) Forum, July 2026 (Barcelona, ES 🇪🇸). <a style="color:#444" href="https://fensforum.org/scientific-programme/" type="application/pdf" target="_blank">[programme]</a> [poster]
  </td>
 </tr>
 
 <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">PRUAB 2026<br/>(invited)</h3></td>
- <td style="border:none !important;"><b>D. Ferro</b>, “From attention to intention: how covert and overt gaze behavior modulates the encoding of cognitive variables”, Parc de Recerca de la Universitat Autonoma de Barcelona (<a href="https://www.pruab.cat/ca" target="_blank">PRUAB</a>), June 2026 (Barcelona, ES 🇪🇸). <a style="color:#444" href="/files/UAB-2026-2nd-TOUCH-workshop.pdf" type="application/pdf" target="_blank">[programme]</a> <a href="/files/2026_TOUCH.pdf" target="_blank">[certificate]</a>
+ <td style="border:none !important;"><b>D. Ferro</b>, “From attention to intention: how covert and overt gaze behavior modulates the encoding of cognitive variables”, Parc de Recerca de la Universitat Autonoma de Barcelona (<a href="https://www.pruab.cat/ca" target="_blank">PRUAB</a>), June 2026 (Barcelona, ES 🇪🇸). <a style="color:#444" href="/files/UAB-2026-2nd-TOUCH-workshop.pdf" type="application/pdf" target="_blank">[programme]</a> <a href="/files/2026_TOUCH.pdf" target="_blank">[certificate]</a> [lecture]
  </td>
 </tr>
 
@@ -54,7 +54,7 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
 
   <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">CASES 2026</h3></td>
- <td style="border:none !important;"><b>D. Ferro</b>, "How does our brain work? And why is it so important?" Educational program of the PA-MAP Project at <a href="https://scuolaitabarcellona.esteri.it/la-scuola/" target="_blank">M. Montessori Primary School</a>, CASES (Citizen Art-Science Engagement Strategies), <a href="https://eutopia-university.eu/" target="_blank">EUTOPIA</a> Impact and Dissemination, March 2026 (Barcelona, ES 🇪🇸). <a style="color:#444" href="/files/Cases_2026_pamap_montessori_school.pdf" type="application/pdf" target="_blank">[certificate]</a> 
+ <td style="border:none !important;"><b>D. Ferro</b>, "How does our brain work? And why is it so important?" Educational program of the PA-MAP Project at <a href="https://scuolaitabarcellona.esteri.it/la-scuola/" target="_blank">M. Montessori Primary School</a>, CASES (Citizen Art-Science Engagement Strategies), <a href="https://eutopia-university.eu/" target="_blank">EUTOPIA</a> Impact and Dissemination, March 2026 (Barcelona, ES 🇪🇸). <a style="color:#444" href="/files/Cases_2026_pamap_montessori_school.pdf" type="application/pdf" target="_blank">[certificate]</a>  [lecture]
  </td>
 </tr>
 </table>
@@ -62,14 +62,14 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
 <table style="border:none !important; margin-top:0 !important; margin-bottom:0 !important">
   <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">SyINAct 2026</h3></td>
- <td style="border:none !important;"><b>D. Ferro</b>, C. Vivar, A. Levi, A. Huk, K. Wimmer, "Adaptive temporal weighting across behavior and neural network models", Systems in Action (<a href="https://systems-in-action.umh.es/" target="_blank">SyINAct</a>), March 2026 (Alicante, ES 🇪🇸). <a style="color:#444" href="https://d-ferro.github.io/files/Programme_SyInA_2026.pdf" type="application/pdf" target="_blank">[programme]</a> <a href="https://d-ferro.github.io/files/Poster-Sy-IN-A-2026.pdf" target="_blank" type="application/pdf">[poster]</a>
+ <td style="border:none !important;"><b>D. Ferro</b>, C. Vivar, A. Levi, A. Huk, K. Wimmer, "Adaptive temporal weighting across behavior and neural network models", Systems in Action (<a href="https://systems-in-action.umh.es/" target="_blank">SyINAct</a>), March 2026 (Alicante, ES 🇪🇸). <a style="color:#444" href="https://d-ferro.github.io/files/Programme_SyInA_2026.pdf" type="application/pdf" target="_blank">[programme]</a> <a href="https://d-ferro.github.io/files/Poster-Sy-IN-A-2026.pdf" target="_blank" type="application/pdf">[poster]</a> 
  </td>
 </tr>
 
 
   <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">CASES 2025</h3></td>
- <td style="border:none !important;"><b>D. Ferro</b>, "Visual Attention and Cognitive Control of Intentions", CASES (Citizen Art-Science Engagement Strategies), <a href="https://eutopia-university.eu/" target="_blank">EUTOPIA</a> Impact and Dissemination, July 2025 (Barcelona, ES 🇪🇸). <a style="color:#444" href="/files/CASESUPF2025.pdf" type="application/pdf" target="_blank">[certificate]</a> <a style="color:#444" href="https://zenodo.org/records/17814203" type="application/pdf" target="_blank">[programme]</a>
+ <td style="border:none !important;"><b>D. Ferro</b>, "Visual Attention and Cognitive Control of Intentions", CASES (Citizen Art-Science Engagement Strategies), <a href="https://eutopia-university.eu/" target="_blank">EUTOPIA</a> Impact and Dissemination, July 2025 (Barcelona, ES 🇪🇸). <a style="color:#444" href="/files/CASESUPF2025.pdf" type="application/pdf" target="_blank">[certificate]</a> <a style="color:#444" href="https://zenodo.org/records/17814203" type="application/pdf" target="_blank">[programme]</a> [talk]
  </td>
 </tr>
 
