@@ -347,6 +347,7 @@ redirect_from:
     justify-content:center;
     gap:6px;
     text-align:center;
+    margin-top:-40px;
     ">
 
 
