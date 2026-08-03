@@ -8,6 +8,12 @@ redirect_from:
 ---
 
 
+<iframe
+    src="pdfjs/web/viewer.html?file=../../files/DFerro-CV.pdf#zoom=page-width"
+    style="width:100%;height:90vh;border:none;">
+</iframe>
+
+
 <!-- =========================================================
      PDF.js CV VIEWER
      ========================================================= -->
