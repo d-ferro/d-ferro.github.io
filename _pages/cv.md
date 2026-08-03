@@ -362,7 +362,7 @@ redirect_from:
     gap:6px;
     text-align:center;
     margin-top:-40px;
-    ">
+    ">-->
 
 
   <!-- Zoom out -->
@@ -377,7 +377,7 @@ redirect_from:
 
     −
 
-  </button>
+  </button>-->
 
 
   <!-- Fit to width / zoom level -->
@@ -396,7 +396,7 @@ redirect_from:
 
     Fit
 
-  </button>
+  </button>-->
 
 
   <!-- Zoom in -->
@@ -411,10 +411,10 @@ redirect_from:
 
     +
 
-  </button>
+  </button>-->
 
-</div>
--->
+<!--</div>-->
+
 
 
 <!-- =========================================================
