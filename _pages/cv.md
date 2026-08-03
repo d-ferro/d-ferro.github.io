@@ -221,7 +221,7 @@ redirect_from:
   /* =========================================================
      UPDATE ZOOM LABEL
      ========================================================= */
-
+  /*
   function updateCVZoom() {
 
     document.getElementById(
@@ -232,7 +232,21 @@ redirect_from:
       ) + "%";
 
   }
+  */
 
+  function updateCVZoom() {
+
+  const percentage =
+    Math.round(
+      (cvScale / cvFitScale) * 100
+    );
+
+  document.getElementById(
+    "cvPDFZoom"
+  ).textContent =
+    percentage + "%";
+
+}
 
   /* =========================================================
      ZOOM IN
@@ -412,7 +426,8 @@ redirect_from:
   style="
     width:100%;
     height:auto;
-    overflow:auto;
+    overflow-x:scroll;
+    overflow-y:auto;
     padding:20px;
     box-sizing:border-box;
     text-align:center;
