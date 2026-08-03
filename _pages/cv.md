@@ -151,9 +151,8 @@ redirect_from:
         pageWrapper.style.cssText =
           "width:max-content;" +
           "margin:0 auto 20px auto;" +
-          "background:white;";
-        
-        /* + "box-shadow:0 1px 5px rgba(0,0,0,.18);"; */
+          "background:white;" + 
+          "box-shadow:0 1px 5px rgba(0,0,0,.18);"; 
 
 
         /*
