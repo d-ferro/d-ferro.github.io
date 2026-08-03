@@ -633,7 +633,7 @@ author_profile: true
   /* =========================================================
      UPDATE ZOOM LABEL
      ========================================================= */
-
+/*
   function updateZoomLabel() {
 
     const zoom =
@@ -652,6 +652,27 @@ author_profile: true
       ) + "%";
 
   }
+  */
+
+ function updateZoomLabel() {
+
+  const zoom =
+    document.getElementById(
+      "pdfZoom"
+    );
+
+  if (!zoom)
+    return;
+
+  const relativeZoom =
+    currentScale / fitWidthScale;
+
+  zoom.textContent =
+    Math.round(
+      relativeZoom * 100
+    ) + "%";
+
+}
 
 
 
