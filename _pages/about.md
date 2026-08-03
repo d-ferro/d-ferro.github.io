@@ -22,7 +22,7 @@ at Universitat Pompeu Fabra in Barcelona.
 
 <h3 style="margin-top:20px;">Highlights</h3>
 
-<p style="font-size:.75em; margin-top:-10px;">
+<p style="font-size:.75em; ">
 A visual overview of representative findings from my works. Click any figure to explore the corresponding publication.
 </p>
 
