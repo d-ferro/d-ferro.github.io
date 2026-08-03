@@ -1121,7 +1121,7 @@ author_profile: true
     display:none;
     position:fixed;
     inset:0;
-    background:rgba(0,0,0,.55);
+    background:rgba(0,0,0,.1);
     z-index:10000;
     align-items:center;
     justify-content:center;
@@ -1250,7 +1250,7 @@ author_profile: true
       style="
         flex:1;
         overflow:auto;
-        background:#777;
+        background:#FFF;
         padding:20px;
         box-sizing:border-box;
         text-align:center;
