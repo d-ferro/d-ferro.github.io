@@ -411,7 +411,7 @@ redirect_from:
   id="cvPDFContainer"
   style="
     width:100%;
-    height:90vh;
+    height:auto;
     overflow:auto;
     padding:20px;
     box-sizing:border-box;
