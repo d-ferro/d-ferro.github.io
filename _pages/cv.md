@@ -350,7 +350,7 @@ redirect_from:
 <!-- =========================================================
      CV TOOLBAR
      ========================================================= -->
-<!--
+
 <div style="
     width:100%;
     height:44px;
@@ -362,11 +362,11 @@ redirect_from:
     gap:6px;
     text-align:center;
     margin-top:-40px;
-    ">-->
+    ">
 
 
   <!-- Zoom out -->
-  <!--
+  
   <button
     onclick="zoomCVOut()"
     style="
@@ -377,11 +377,11 @@ redirect_from:
 
     −
 
-  </button>-->
+  </button>
 
 
   <!-- Fit to width / zoom level -->
-  <!--
+  
   <button
     onclick="fitCVWidth()"
     id="cvPDFZoom"
@@ -396,11 +396,10 @@ redirect_from:
 
     Fit
 
-  </button>-->
+  </button>
 
 
   <!-- Zoom in -->
-  <!---
   <button
     onclick="zoomCVIn()"
     style="
@@ -411,9 +410,9 @@ redirect_from:
 
     +
 
-  </button>-->
+  </button>
 
-<!--</div>-->
+</div>
 
 
 
