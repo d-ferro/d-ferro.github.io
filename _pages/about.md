@@ -9,6 +9,17 @@ redirect_from:
 
 
 
+<p style="font-size:.75em">
+I am a cognitive and computational neuroscientist interested in how brains transform sensory information, internal goals, and reward expectations into adaptive decisions and actions. I currently work in the
+<a href="https://www.crm.cat/_neuroscience/">Computational Neuroscience Unit</a>
+at the Centre de Recerca Matemàtica
+(<a href="https://www.crm.cat">CRM</a>) with <a href="https://sites.google.com/view/wimmerlab" target="_blank">Dr. K. Wimmer</a>, and collaborate with the
+<a href="https://www.upf.edu/web/tcn" target="_blank">Theoretical and Cognitive Neuroscience</a>
+group led by <a href="https://www.upf.edu/web/ruben-moreno-bote" target="_blank">Prof. R. Moreno-Bote</a> at the
+<a href="https://www.upf.edu/web/cbc" target="_blank">Center for Brain and Cognition</a>
+at Universitat Pompeu Fabra in Barcelona.
+</p>
+
 
 
 <!-- Slideshow container -->
@@ -106,17 +117,6 @@ redirect_from:
 
 
 <h3>Research</h3>
-
-<p style="font-size:.75em">
-I am a cognitive and computational neuroscientist interested in how brains transform sensory information, internal goals, and reward expectations into adaptive decisions and actions. I currently work in the
-<a href="https://www.crm.cat/_neuroscience/">Computational Neuroscience Unit</a>
-at the Centre de Recerca Matemàtica
-(<a href="https://www.crm.cat">CRM</a>) with <a href="https://sites.google.com/view/wimmerlab" target="_blank">Dr. K. Wimmer</a>, and collaborate with the
-<a href="https://www.upf.edu/web/tcn" target="_blank">Theoretical and Cognitive Neuroscience</a>
-group led by <a href="https://www.upf.edu/web/ruben-moreno-bote" target="_blank">Prof. R. Moreno-Bote</a> at the
-<a href="https://www.upf.edu/web/cbc" target="_blank">Center for Brain and Cognition</a>
-at Universitat Pompeu Fabra in Barcelona.
-</p>
 
 <p style="font-size:.75em">
 My long-term goal is to develop unified computational theories of attention, gaze, reward, and decision-making. By combining computational modeling, neural population analyses, eye tracking, and electrophysiology, I investigate how internal states shape information flow across brain circuits and give rise to flexible, goal-directed behavior.
