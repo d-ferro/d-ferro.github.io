@@ -10,7 +10,7 @@ author_profile: true
 
 <p style="font-size:.75em">For any request or further information contact me at <i>demetrio[dot]ferro[at]upf[dot]edu</i>.</p>
 
-<p>Selected</p>
+<p>Featured</p>
 
 <!---
 <div style="width:85%; text-align:center">
