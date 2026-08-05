@@ -210,7 +210,7 @@ Session 17E: Decision Making, Talk N.65, Room U6-23, Programme P.27<br/>
 
 <h3>Outreach</h3>
 
-<div style="height:220px; overflow:auto">
+<div style="height:280px; overflow:auto">
 
 <blockquote class="twitter-tweet"><p style="font-size:.75em; text-align:justify" lang="en" dir="ltr">Excited to contribute to a <a href="https://d-ferro.github.io/files/CASES_CERTIFICATE_MALGRAT_2026.pdf" target="_blank">CASES (Citizen Art-Science Engagement Strategies)</a> citizen-science event as part of <a href="https://www.eutopia-university.eu/" target="_blank">EUTOPIA</a> Impact and Dissemination! 🌊🔬 Together with school students, we will collect microplastics on the beach and contribute to assessing the environmental status of the coastal ecosystem. <br/>
 Malgrat de Mar, Spain 🇪🇸, as part of the European Project PA-MAP 🇪🇺 in collaboration with Maria Montessori School and the Center for Studies on Planetary Well-being (Universitat Pompeu Fabra).<br/>&mdash; Demetrio Ferro, May 28, 2026</p></blockquote>
