@@ -164,7 +164,7 @@ Beyond research, I actively contribute to scientific communities through mentori
 
 <div style="height:350px; overflow:auto">
 
-<blockquote class="twitter-tweet"><p style="font-size:.75em; text-align:justify" lang="en" dir="ltr">Interested in models of dynamical neural network circuit interactions underlying temporal evidence weighting in decision-making? 🧠⏱️ Come visit my poster, <em>"Adaptive temporal weighting across behavior and neural network models"</em>, at the <a href="https://fensforum.org/" target="_blank">Federation of European Neuroscience Societies (FENS) Forum</a> in Barcelona, 🇪🇸. <br/> Tuesday, July 7, 2026, 02:00 PM–05:30 PM. Poster Session 02 – Cognition and Behavior in Decision-Making, Poster Area.<br/>&mdash; Demetrio Ferro, July 6, 2026</p></blockquote>
+<blockquote class="twitter-tweet"><p style="font-size:.75em; text-align:justify" lang="en" dir="ltr">Interested in models of dynamical neural network circuit interactions underlying temporal evidence weighting in decision-making? 🧠⏱️ Come visit my poster, <em>"Adaptive temporal weighting across behavior and neural network models"</em>, at the <a href="https://fensforum.org/" target="_blank">Federation of European Neuroscience Societies (FENS) Forum</a> in Barcelona, 🇪🇸. <br/> Tuesday, July 7, 2026, 02:00 PM–05:30 PM. Poster Session 02 – Cognition and Behavior in Decision-Making.<br/>&mdash; Demetrio Ferro, July 6, 2026</p></blockquote>
 
 <blockquote class="twitter-tweet"><p style="font-size:.75em; text-align:justify" lang="en" dir="ltr">Excited to share my latest work, now out in <a href="https://bsky.app/profile/natcomms.nature.com" target="_blank">@natcomms.nature.com</a>! 🧠🔍
 Accumulating virtual rewards enhances both decision-making accuracy and neural value encoding in dorsal anterior cingulate cortex by dynamically shifting a goal-dependent internal reference point. 👉📄 <a href="https://doi.org/10.1038/s41467-026-70423-1" target="_blank">https://doi.org/10.1038/s41467-026-70423-1</a>.<br/>&mdash; Demetrio Ferro, <a href="https://bsky.app/profile/d-ferro.bsky.social" target="_blank">March 28, 2026</a></p></blockquote> 
@@ -213,7 +213,7 @@ Session 17E: Decision Making, Talk N.65, Room U6-23, Programme P.27<br/>
 <div style="height:220px; overflow:auto">
 
 <blockquote class="twitter-tweet"><p style="font-size:.75em; text-align:justify" lang="en" dir="ltr">Excited to contribute to a <a href="https://d-ferro.github.io/files/CASES_CERTIFICATE_MALGRAT_2026.pdf" target="_blank">CASES (Citizen Art-Science Engagement Strategies)</a> citizen-science event as part of <a href="https://www.eutopia-university.eu/" target="_blank">EUTOPIA</a> Impact and Dissemination! 🌊🔬 Together with school students, we sampled microplastics on the beach of Malgrat de Mar and contributed to monitoring microplastics and assessing the environmental status of the coastal ecosystem. <br/>
-26–28 May 2026, Malgrat de Mar, Barcelona, Spain 🇪🇸, as part of the European Project PA-MAP in collaboration with Maria Montessori School and the Center for Studies on Planetary Well-being (UPF).<br/>&mdash; Demetrio Ferro, May 28, 2026</p></blockquote>
+26–28 May 2026, Malgrat de Mar, Spain 🇪🇸, as part of the European Project PA-MAP 🇪🇺 in collaboration with Maria Montessori School and the Center for Studies on Planetary Well-being (UPF).<br/>&mdash; Demetrio Ferro, May 28, 2026</p></blockquote>
 
 
   
