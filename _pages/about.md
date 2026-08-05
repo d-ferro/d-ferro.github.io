@@ -162,7 +162,7 @@ Beyond research, I actively contribute to scientific communities through mentori
 
 <h3>Updates</h3>
 
-<div style="height:370px; overflow:auto">
+<div style="height:350px; overflow:auto">
 
 <blockquote class="twitter-tweet"><p style="font-size:.75em" lang="en" dir="ltr">Excited to share my latest work, now out in <a href="https://bsky.app/profile/natcomms.nature.com" target="_blank">@natcomms.nature.com</a>! 🧠🔍
 Accumulating virtual rewards enhances both decision-making accuracy and neural value encoding in dorsal anterior cingulate cortex by dynamically shifting a goal-dependent internal reference point. 👉📄 <a href="https://doi.org/10.1038/s41467-026-70423-1" target="_blank">https://doi.org/10.1038/s41467-026-70423-1</a>.<br/>&mdash; Demetrio Ferro, <a href="https://bsky.app/profile/d-ferro.bsky.social" target="_blank">March 28, 2026</a></p></blockquote> 
