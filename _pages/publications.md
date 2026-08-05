@@ -1180,11 +1180,94 @@ author_profile: true
 
    
    
-   <!-- =====================================================
+<!-- =====================================================
+     PDF TOOLBAR STYLES
+     ===================================================== -->
+
+<style>
+
+  /*
+   * Keep every toolbar control exactly
+   * the same height and vertical alignment.
+   */
+
+  #pdfToolbar button,
+  #pdfToolbar a {
+
+    height:30px;
+
+    box-sizing:border-box;
+
+    display:inline-flex;
+
+    align-items:center;
+
+    justify-content:center;
+
+    vertical-align:middle;
+
+    border:1px solid #ccc;
+
+    border-radius:2px;
+
+    background:#fff;
+
+    color:#333;
+
+    text-decoration:none;
+
+    box-shadow:none;
+
+    outline:none;
+
+  }
+
+
+  /*
+   * Prevent the website's global
+   * hover styling from adding shadows.
+   */
+
+  #pdfToolbar button:hover,
+  #pdfToolbar a:hover,
+  #pdfToolbar a:hover img {
+
+    box-shadow:none !important;
+
+  }
+
+
+  /*
+   * Keep SVG icons from inheriting
+   * unwanted hover effects.
+   */
+
+  #pdfToolbar img {
+
+    box-shadow:none !important;
+
+    filter:none;
+
+  }
+
+
+  #pdfToolbar a:hover {
+
+    text-decoration:none;
+
+  }
+
+</style>
+
+
+
+<!-- =====================================================
      TOOLBAR
      ===================================================== -->
 
-<div style="
+<div
+  id="pdfToolbar"
+  style="
     height:44px;
     flex-shrink:0;
     background:#fafafa;
@@ -1203,14 +1286,10 @@ author_profile: true
   <button
     onclick="zoomPDFOut()"
     style="
-      cursor:pointer;
-      padding:3px 10px;
+      width:42px;
+      padding:0;
       font-size:16px;
-      border:1px solid #ccc;
-      background:#fff;
-      border-radius:2px;
-      box-shadow:none !important;
-      outline:none;
+      cursor:pointer;
       ">
 
     −
@@ -1224,15 +1303,10 @@ author_profile: true
     onclick="fitPDFWidth()"
     id="pdfZoom"
     style="
-      cursor:pointer;
-      padding:3px 10px;
-      min-width:60px;
+      width:60px;
+      padding:0;
       font-size:12px;
-      border:1px solid #ccc;
-      background:#fff;
-      border-radius:2px;
-      box-shadow:none !important;
-      outline:none;
+      cursor:pointer;
       ">
 
     Fit
@@ -1245,14 +1319,10 @@ author_profile: true
   <button
     onclick="zoomPDFIn()"
     style="
-      cursor:pointer;
-      padding:3px 10px;
+      width:42px;
+      padding:0;
       font-size:16px;
-      border:1px solid #ccc;
-      background:#fff;
-      border-radius:2px;
-      box-shadow:none !important;
-      outline:none;
+      cursor:pointer;
       ">
 
     +
@@ -1268,22 +1338,12 @@ author_profile: true
     target="_blank"
     rel="noopener"
     style="
-      display:inline-flex;
-      align-items:center;
-      justify-content:center;
+      padding:0 10px;
       gap:5px;
-      padding:3px 10px;
-      border:1px solid #ccc;
-      background:#fff;
-      border-radius:2px;
-      color:#333;
-      text-decoration:none;
+      margin-left:6px;
       font-size:12px;
       cursor:pointer;
       white-space:nowrap;
-      box-sizing:border-box;
-      box-shadow:none !important;
-      outline:none;
       ">
 
     <img
@@ -1307,22 +1367,11 @@ author_profile: true
     href="#"
     download
     style="
-      display:inline-flex;
-      align-items:center;
-      justify-content:center;
+      padding:0 10px;
       gap:5px;
-      padding:3px 10px;
-      border:1px solid #ccc;
-      background:#fff;
-      border-radius:2px;
-      color:#333;
-      text-decoration:none;
       font-size:12px;
       cursor:pointer;
       white-space:nowrap;
-      box-sizing:border-box;
-      box-shadow:none !important;
-      outline:none;
       ">
 
     <img
@@ -1359,6 +1408,7 @@ author_profile: true
 
 
 </div>
+
 
 
     <!-- =====================================================
