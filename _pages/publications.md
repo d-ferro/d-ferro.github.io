@@ -1365,8 +1365,8 @@ onclick="
   href="#"
   target="_blank"
   rel="noopener"
-  title="Open in new tab"
-  aria-label="Open in new tab"
+  title="Open publication"
+  aria-label="Open publication"
   style="
     width:30px;
     height:30px;
