@@ -1286,7 +1286,7 @@ author_profile: true
   <button
     onclick="zoomPDFOut()"
     style="
-      width:42px;
+      width:30px;
       padding:0;
       font-size:16px;
       cursor:pointer;
@@ -1319,7 +1319,7 @@ author_profile: true
   <button
     onclick="zoomPDFIn()"
     style="
-      width:42px;
+      width:30px;
       padding:0;
       font-size:16px;
       cursor:pointer;
@@ -1329,63 +1329,62 @@ author_profile: true
 
   </button>
 
+<!-- Open in new tab -->
 
-  <!-- Open in new tab -->
+<a
+  id="pdfOpenLink"
+  href="#"
+  target="_blank"
+  rel="noopener"
+  title="Open in new tab"
+  aria-label="Open in new tab"
+  style="
+    width:30px;
+    height:30px;
+    padding:0;
+    margin-left:6px;
+    cursor:pointer;
+    ">
 
-  <a
-    id="pdfOpenLink"
-    href="#"
-    target="_blank"
-    rel="noopener"
+  <img
+    src="/images/newtab.svg"
+    alt=""
     style="
-      padding:0 10px;
-      gap:5px;
-      margin-left:6px;
-      font-size:12px;
-      cursor:pointer;
-      white-space:nowrap;
+      width:16px;
+      height:16px;
+      display:block;
+      box-shadow:none !important;
       ">
 
-    <img
-      src="/images/newtab.svg"
-      alt=""
-      style="
-        width:13px;
-        height:13px;
-        display:block;
-        ">
-
-    Open in new tab
-
-  </a>
+</a>
 
 
-  <!-- Download -->
+<!-- Download -->
 
-  <a
-    id="pdfDownloadLink"
-    href="#"
-    download
+<a
+  id="pdfDownloadLink"
+  href="#"
+  download
+  title="Download"
+  aria-label="Download"
+  style="
+    width:30px;
+    height:30px;
+    padding:0;
+    cursor:pointer;
+    ">
+
+  <img
+    src="/images/dload.svg"
+    alt=""
     style="
-      padding:0 10px;
-      gap:5px;
-      font-size:12px;
-      cursor:pointer;
-      white-space:nowrap;
+      width:16px;
+      height:16px;
+      display:block;
+      box-shadow:none !important;
       ">
 
-    <img
-      src="/images/dload.svg"
-      alt=""
-      style="
-        width:13px;
-        height:13px;
-        display:block;
-        ">
-
-    Download
-
-  </a>
+</a>
 
 
   <!-- Close -->
