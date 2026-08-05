@@ -1293,7 +1293,7 @@ at Universitat Pompeu Fabra in Barcelona.
       <button
         onclick="zoomPDFOut()"
         style="
-          width:42px;
+          width:30px;
           padding:0;
           font-size:16px;
           cursor:pointer;
@@ -1326,7 +1326,7 @@ at Universitat Pompeu Fabra in Barcelona.
       <button
         onclick="zoomPDFIn()"
         style="
-          width:42px;
+          width:30px;
           padding:0;
           font-size:16px;
           cursor:pointer;
