@@ -9,10 +9,10 @@ redirect_from:
 
 
 
-<p style="font-size:.75em">
+<p style="font-size:.75em; text-align:justify">
 
   I am a cognitive and computational neuroscientist studying how the brain transforms sensory information, internal goals, and reward expectations into adaptive decisions and actions. My research combines computational modeling, neurophysiological data analyses, and eye tracking to uncover the neural mechanisms underlying attention, decision-making, and cognitive control.<br/>
-
+<br/>
 I am currently a postdoctoral researcher in the <a href="https://www.crm.cat/_neuroscience/">Computational Neuroscience Unit</a> at the <a href="https://www.crm.cat">Centre de Recerca Matemàtica</a>, working with <a href="https://sites.google.com/view/wimmerlab" target="_blank">Dr. K. Wimmer</a>, and collaborating with the
 <a href="https://www.upf.edu/web/tcn" target="_blank">Theoretical and Cognitive Neuroscience</a>
 group led by <a href="https://www.upf.edu/web/ruben-moreno-bote" target="_blank">Prof. R. Moreno-Bote</a> at the
@@ -122,35 +122,35 @@ A visual overview of representative findings from my works. Click any figure to 
 
 <h3>Research</h3>
 
-<p style="font-size:.75em">
+<p style="font-size:.75em; text-align:justify">
 My long-term goal is to develop unified computational theories of attention, gaze, reward, and decision-making. By combining computational modeling, neural population analyses, eye tracking, and electrophysiology, I investigate how internal states shape information flow across brain circuits and give rise to flexible, goal-directed behavior.
 </p>
 
-<p style="font-size:.75em">
+<p style="font-size:.75em; text-align:justify">
 During my doctoral work, I developed analytical frameworks to characterize laminar and frequency-specific interactions in the primate visual cortex, revealing how attention selectively modulates laminar communication across cortical circuits (<a href="https://doi.org/10.1073/pnas.2022097118" target="_blank">PNAS 2021</a>). More recently, I showed that gaze actively gates and reactivates value representations in orbitofrontal cortex, revealing that gaze direction actively contributes to internal cognitive computations (<a href="https://doi.org/10.1038/s41467-024-50214-2" target="_blank">Nature Communications 2024</a>).
 </p>
 
-<p style="font-size:.75em">
+<p style="font-size:.75em; text-align:justify">
 A complementary line of research investigates how motivational states influence decision processes. Using token-based reward paradigms, I studied how approaching future rewards reshapes value representations and commitment signals in frontal cortex (<a href="https://doi.org/10.1038/s41467-026-70423-1" target="_blank">Nature Communications 2026</a>). In parallel, I developed computational models of gaze-dependent decisions, proposing closed-loop frameworks in which active visual sampling and evidence accumulation continuously interact (<a href="https://2025.ccneuro.org/abstract_pdf/Ferro_2025_A_closed-loop_model_coordination_gaze_control.pdf" target="_blank">CCNeuro 2025</a>).
 </p>
 
-<p style="font-size:.75em">
+<p style="font-size:.75em; text-align:justify">
 My current research integrates theoretical and experimental approaches to understand the neural mechanisms of decision formation. Through collaborations spanning systems and theoretical neuroscience, I investigate how recurrent cortical dynamics generate choices and temporal weighting of evidence, extending attractor and recurrent network models toward biologically grounded accounts of flexible decision-making (<a href="" target="_blank">in preparation</a>).
 </p>
 
-<p style="font-size:.75em">
+<p style="font-size:.75em; text-align:justify">
 Ultimately, I aim to establish a unified framework explaining how attention, intention, and gaze interact to shape neural computations across cortical circuits. By integrating laminar neurophysiology, computational modeling, eye tracking, and human neural recordings, my research seeks to uncover the principles through which brains transform sensory information and internal goals into adaptive decisions and actions, with major traslational potential for advancing neural diagnostics, neurorehabilitation, neuroprosthetics and brain–computer interface technologies.
 </p>
 
 <h3>Collaborations</h3>
 
-<p style="font-size:.75em">
+<p style="font-size:.75em; text-align:justify">
 My research combines theoretical, computational, and experimental neuroscience through collaborations with international laboratories studying attention, reward, gaze control, motor planning, and decision-making, including Prof. <a href="https://stemcell.ucla.edu/member-directory/alex-huk-phd" target="_blank">A. Huk</a> (UCLA, Los Angeles, CA, USA), <a href="https://www.haydenlab.com/" target="_blank">Prof. B. Hayden</a> (Baylor College of Medicine, Houston, TX, USA), <a href="https://www.shanghai-neuroeconomics.org/tianming" target="_blank">Prof. T. Yang</a> (NYU-ECNU, Shanghai, China), <a href="https://www.staff.ncl.ac.uk/alex.thiele/" target="_blank">Prof. A. Thiele</a> (Newcastle University, UK), <a href="https://www.fz-juelich.de/profile/gruen_s" target="_blank">Prof. S. Grün</a> (Institute for Advanced Simulations, Jülich, Germany), <a href="https://int.univ-amu.fr/member/brochier.t" target="_blank">Dr. T. Brochier</a> (Aix-Marseille University, France).
 </p>
 
 <h3>Engagement</h3>
 
-<p style="font-size:.75em">
+<p style="font-size:.75em; text-align:justify">
 Beyond research, I actively contribute to scientific communities through mentoring, teaching, conference organization, and public engagement. I co-organize activities within the Barcelona Computational Cognitive Systems Neuroscience community (<a href="http:barccsyn.org" target="_blank">Barccsyn</a>), contribute to local <a href="https://www.crm.cat/neurochats-seminar/">NeuroChats</a>, participate in <a href="https://www.senc.es/en/" target="_blank">SENC</a> and <a href="https://scb.iec.cat/" target="_blank">SCB</a> initiatives, and engage in citizen science and outreach events including European Researchers' Night, Festa de la Ciència, Pint of Science, and Citizen Science activities within the <a href="https://www.upf.edu/web/eutopia/the-alliance" target="_blank">EUTOPIA network</a>.
 </p>
 
