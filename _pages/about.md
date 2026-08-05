@@ -30,7 +30,7 @@ at Universitat Pompeu Fabra in Barcelona.
 <h3 style="margin-top:20px;">Highlights</h3>
 
 <p style="font-size:.75em;">
-  A visual overview of representative findings from my works.
+  A visual overview of representative works.
   Click any figure or publication below to explore the corresponding PDF.
 </p>
 
