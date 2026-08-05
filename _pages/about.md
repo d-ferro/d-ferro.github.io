@@ -613,8 +613,8 @@ at Universitat Pompeu Fabra in Barcelona.
      OPEN PDF
      ========================================================= */
 
-  window.openPDF = async function(pdfURL) {
-
+window.openPDF = async function(pdfURL, publicationURL) {
+  
     const viewer =
       document.getElementById("pdfViewer");
 
@@ -625,18 +625,21 @@ at Universitat Pompeu Fabra in Barcelona.
     /*
      * Store current PDF URL
      */
-
+  
     currentPDFURL =
       pdfURL;
-
-
+    
+    
     /*
-     * Update external PDF links
+     * Update PDF actions
+     *
+     * Open in new tab → publication webpage
+     * Download → local PDF
      */
-
+    
     document.getElementById("pdfOpenLink").href =
-      pdfURL;
-
+      publicationURL;
+    
     document.getElementById("pdfDownloadLink").href =
       pdfURL;
 
@@ -1107,7 +1110,7 @@ at Universitat Pompeu Fabra in Barcelona.
       const viewer =
         document.getElementById(
           "pdfViewer"
-        );
+        );prevent
 
 
       if (
