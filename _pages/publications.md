@@ -317,9 +317,10 @@ author_profile: true
 --->
 
 
+
 <!------------------------------------------------------------------------------------->
 
-
+```html
 <!-- =========================================================
      PDF.JS PAPER VIEWER
      ========================================================= -->
@@ -351,6 +352,8 @@ author_profile: true
 
   let isRendering = false;
 
+  let currentPDFURL = "";
+
 
 
   /* =========================================================
@@ -364,6 +367,24 @@ author_profile: true
 
     const container =
       document.getElementById("pdfContainer");
+
+
+    /*
+     * Store current PDF URL
+     */
+
+    currentPDFURL = pdfURL;
+
+
+    /*
+     * Update external PDF links
+     */
+
+    document.getElementById("pdfOpenLink").href =
+      pdfURL;
+
+    document.getElementById("pdfDownloadLink").href =
+      pdfURL;
 
 
     /* Open modal */
@@ -633,7 +654,7 @@ author_profile: true
   /* =========================================================
      UPDATE ZOOM LABEL
      ========================================================= */
-/*
+
   function updateZoomLabel() {
 
     const zoom =
@@ -641,38 +662,21 @@ author_profile: true
         "pdfZoom"
       );
 
-
     if (!zoom)
       return;
 
 
+    const relativeZoom =
+      currentScale /
+      fitWidthScale;
+
+
     zoom.textContent =
       Math.round(
-        currentScale * 100
+        relativeZoom * 100
       ) + "%";
 
   }
-  */
-
- function updateZoomLabel() {
-
-  const zoom =
-    document.getElementById(
-      "pdfZoom"
-    );
-
-  if (!zoom)
-    return;
-
-  const relativeZoom =
-    currentScale / fitWidthScale;
-
-  zoom.textContent =
-    Math.round(
-      relativeZoom * 100
-    ) + "%";
-
-}
 
 
 
@@ -799,6 +803,8 @@ author_profile: true
 
 
     pdfDoc = null;
+
+    currentPDFURL = "";
 
   };
 
@@ -1239,6 +1245,47 @@ author_profile: true
       </button>
 
 
+      <!-- Open PDF -->
+
+      <a
+        id="pdfOpenLink"
+        href="#"
+        target="_blank"
+        rel="noopener"
+        style="
+          margin-left:12px;
+          text-decoration:none;
+          color:#333;
+          font-size:12px;
+          cursor:pointer;
+          white-space:nowrap;
+          ">
+
+        ↗ Open PDF
+
+      </a>
+
+
+      <!-- Download PDF -->
+
+      <a
+        id="pdfDownloadLink"
+        href="#"
+        download
+        style="
+          margin-left:4px;
+          text-decoration:none;
+          color:#333;
+          font-size:12px;
+          cursor:pointer;
+          white-space:nowrap;
+          ">
+
+        ↓ Download
+
+      </a>
+
+
       <!-- Close -->
 
       <span
@@ -1283,6 +1330,10 @@ author_profile: true
   </div>
 
 </div>
+```
+
+
+
 
 
 <!------------------------------------------------------------------------------------->
