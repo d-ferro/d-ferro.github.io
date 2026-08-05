@@ -383,7 +383,7 @@ at Universitat Pompeu Fabra in Barcelona.
             openPDF(
               '/files/Ferro-et-al-PNAS-2021.pdf',
               'https://doi.org/10.1073/pnas.2022097118',
-              'https://www.pnas.org/doi/pdf/10.1073/pnas.2022097118?download=true'
+              'https://www.pnas.org/doi/pdf/10.1073/pnas.2022097118?download=false'
               );
           ">
 
@@ -402,7 +402,7 @@ at Universitat Pompeu Fabra in Barcelona.
         openPDF(
           '/files/Ferro-et-al-PNAS-2021.pdf',
           'https://doi.org/10.1073/pnas.2022097118',
-            'https://www.pnas.org/doi/pdf/10.1073/pnas.2022097118?download=true'
+            'https://www.pnas.org/doi/pdf/10.1073/pnas.2022097118?download=false'
         );
       "
       style="
@@ -443,7 +443,7 @@ at Universitat Pompeu Fabra in Barcelona.
             openPDF(
               '/files/Ferro-et-al-PNAS-2021.pdf',
               'https://doi.org/10.1073/pnas.2022097118',
-                'https://www.pnas.org/doi/pdf/10.1073/pnas.2022097118?download=true'
+                'https://www.pnas.org/doi/pdf/10.1073/pnas.2022097118?download=false'
             );
           ">
 
@@ -462,7 +462,7 @@ at Universitat Pompeu Fabra in Barcelona.
         openPDF(
           '/files/Ferro-et-al-PNAS-2021.pdf',
           'https://doi.org/10.1073/pnas.2022097118',
-            'https://www.pnas.org/doi/pdf/10.1073/pnas.2022097118?download=true'
+            'https://www.pnas.org/doi/pdf/10.1073/pnas.2022097118?download=false'
         );
       "
       style="
@@ -503,7 +503,7 @@ at Universitat Pompeu Fabra in Barcelona.
             openPDF(
               '/files/Ferro-et-al-PNAS-2021.pdf',
               'https://doi.org/10.1073/pnas.2022097118',
-                'https://www.pnas.org/doi/pdf/10.1073/pnas.2022097118?download=true'
+                'https://www.pnas.org/doi/pdf/10.1073/pnas.2022097118?download=false'
             );
           ">
 
@@ -522,7 +522,7 @@ at Universitat Pompeu Fabra in Barcelona.
         openPDF(
           '/files/Ferro-et-al-PNAS-2021.pdf',
           'https://doi.org/10.1073/pnas.2022097118',
-            'https://www.pnas.org/doi/pdf/10.1073/pnas.2022097118?download=true'
+            'https://www.pnas.org/doi/pdf/10.1073/pnas.2022097118?download=false'
         );
       "
       style="
