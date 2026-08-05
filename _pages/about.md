@@ -22,7 +22,7 @@ at Universitat Pompeu Fabra in Barcelona.
 
 <!------------------------------------------------------>
 
-
+```html
 <!-- =========================================================
      HIGHLIGHTS
      ========================================================= -->
@@ -33,7 +33,6 @@ at Universitat Pompeu Fabra in Barcelona.
   A visual overview of representative works.
   Click on any of the figures below to explore the corresponding publication.
 </p>
-
 
 
 <!-- =========================================================
@@ -59,12 +58,14 @@ at Universitat Pompeu Fabra in Barcelona.
       <br/>
 
       <b>
-
         <a
           href="#"
           onclick="
             event.preventDefault();
-            openPDF('/files/Ferro-et-al-NatCommun-2026.pdf');
+            openPDF(
+              '/files/Ferro-et-al-NatCommun-2026.pdf',
+              'https://doi.org/10.1038/s41467-026-70423-1'
+            );
           ">
 
           Ferro et al.
@@ -72,16 +73,21 @@ at Universitat Pompeu Fabra in Barcelona.
           2026.
 
         </a>
-
       </b>
 
     </div>
 
+
     <div
-      onclick="openPDF('/files/Ferro-et-al-NatCommun-2026.pdf')"
+      onclick="
+        openPDF(
+          '/files/Ferro-et-al-NatCommun-2026.pdf',
+          'https://doi.org/10.1038/s41467-026-70423-1'
+        );
+      "
       style="
         cursor:pointer;
-        ">
+      ">
 
       <img
         src="/images/slideshow/fig1-sketch.png"
@@ -110,40 +116,42 @@ at Universitat Pompeu Fabra in Barcelona.
       <br/>
 
       <b>
-
         <a
           href="#"
           onclick="
-  event.preventDefault();
-  openPDF(
-    '/files/Ferro-et-al-NatCommun-2026.pdf',
-    'https://doi.org/10.1038/s41467-026-70423-1');">
-
-
+            event.preventDefault();
+            openPDF(
+              '/files/Ferro-et-al-NatCommun-2026.pdf',
+              'https://doi.org/10.1038/s41467-026-70423-1'
+            );
+          ">
 
           Ferro et al.
           <i>Nature Communications</i>
           2026.
 
         </a>
-
       </b>
 
     </div>
 
 
     <div
-      onclick="openPDF('/files/Ferro-et-al-NatCommun-2026.pdf')"
+      onclick="
+        openPDF(
+          '/files/Ferro-et-al-NatCommun-2026.pdf',
+          'https://doi.org/10.1038/s41467-026-70423-1'
+        );
+      "
       style="
         cursor:pointer;
-        ">
+      ">
 
       <img
         src="/images/slideshow/fig7-gains-losses.png"
         style="width:100%;">
 
     </div>
-
 
   </div>
 
@@ -173,11 +181,11 @@ at Universitat Pompeu Fabra in Barcelona.
 
     </div>
 
-    
+
     <div
       style="
         cursor:default;
-        ">
+      ">
 
       <img
         src="/images/slideshow/ferro-vivar-2026.png"
@@ -199,38 +207,42 @@ at Universitat Pompeu Fabra in Barcelona.
       4 / 9
     </div>
 
-
     <div class="text">
 
       Closed-loop model of gaze and decision coordination.
       <br/>
 
       <b>
-
         <a
           href="#"
           onclick="
-  event.preventDefault();
-  openPDF(
-    '/files/Ferro-et-al-CCN-2025.pdf',
-    'https://2025.ccneuro.org/abstract_pdf/Ferro_2025_A_closed-loop_model_coordination_gaze_control.pdf');">
+            event.preventDefault();
+            openPDF(
+              '/files/Ferro-et-al-CCN-2025.pdf',
+              'https://2025.ccneuro.org/abstract_pdf/Ferro_2025_A_closed-loop_model_coordination_gaze_control.pdf'
+            );
+          ">
 
           Ferro et al.
           <i>CCNeuro</i>
           2025.
 
         </a>
-
       </b>
 
     </div>
-    
+
 
     <div
-      onclick="openPDF('/files/Ferro-et-al-CCN-2025.pdf')"
+      onclick="
+        openPDF(
+          '/files/Ferro-et-al-CCN-2025.pdf',
+          'https://2025.ccneuro.org/abstract_pdf/Ferro_2025_A_closed-loop_model_coordination_gaze_control.pdf'
+        );
+      "
       style="
         cursor:pointer;
-        ">
+      ">
 
       <img
         src="/images/slideshow/ccn2025-comp-nets.png"
@@ -252,37 +264,42 @@ at Universitat Pompeu Fabra in Barcelona.
       5 / 9
     </div>
 
-   <div class="text">
+    <div class="text">
 
       Gaze direction and its effect on choice formation.
       <br/>
 
       <b>
-
         <a
           href="#"
-onclick="
-  event.preventDefault();
-  openPDF(
-    '/files/Ferro-et-al-NatCommun-2024.pdf',
-    'https://doi.org/10.1038/s41467-024-50214-2');">
+          onclick="
+            event.preventDefault();
+            openPDF(
+              '/files/Ferro-et-al-NatCommun-2024.pdf',
+              'https://doi.org/10.1038/s41467-024-50214-2'
+            );
+          ">
 
           Ferro et al.
           <i>Nature Communications</i>
           2024.
 
         </a>
-
       </b>
 
     </div>
-    
+
 
     <div
-      onclick="openPDF('/files/Ferro-et-al-NatCommun-2024.pdf')"
+      onclick="
+        openPDF(
+          '/files/Ferro-et-al-NatCommun-2024.pdf',
+          'https://doi.org/10.1038/s41467-024-50214-2'
+        );
+      "
       style="
         cursor:pointer;
-        ">
+      ">
 
       <img
         src="/images/slideshow/Screenshot%202025-07-18%20141059.jpg"
@@ -310,30 +327,36 @@ onclick="
       <br/>
 
       <b>
-
         <a
           href="#"
           onclick="
-  event.preventDefault();
-  openPDF(
-    '/files/Ferro-et-al-NatCommun-2024.pdf',
-    'https://doi.org/10.1038/s41467-024-50214-2');">
+            event.preventDefault();
+            openPDF(
+              '/files/Ferro-et-al-NatCommun-2024.pdf',
+              'https://doi.org/10.1038/s41467-024-50214-2'
+            );
+          ">
 
           Ferro et al.
           <i>Nature Communications</i>
           2024.
 
         </a>
-
       </b>
 
     </div>
 
+
     <div
-      onclick="openPDF('/files/Ferro-et-al-NatCommun-2024.pdf')"
+      onclick="
+        openPDF(
+          '/files/Ferro-et-al-NatCommun-2024.pdf',
+          'https://doi.org/10.1038/s41467-024-50214-2'
+        );
+      "
       style="
         cursor:pointer;
-        ">
+      ">
 
       <img
         src="/images/slideshow/Screenshot%202025-07-18%20141159.jpg"
@@ -355,8 +378,6 @@ onclick="
       7 / 9
     </div>
 
-
-
     <div class="text">
 
       Current Source Density, response latency
@@ -364,32 +385,36 @@ onclick="
       <br/>
 
       <b>
-
         <a
           href="#"
           onclick="
-            onclick="
-  event.preventDefault();
-  openPDF(
-    '/files/Ferro-et-al-PNAS-2021.pdf',
-    'https://doi.org/10.1073/pnas.2022097118'
-  );">
+            event.preventDefault();
+            openPDF(
+              '/files/Ferro-et-al-PNAS-2021.pdf',
+              'https://doi.org/10.1073/pnas.2022097118'
+            );
+          ">
 
           Ferro et al.
           <i>PNAS</i>
           2021.
 
         </a>
-
       </b>
 
     </div>
 
+
     <div
-      onclick="openPDF('/files/Ferro-et-al-PNAS-2021.pdf')"
+      onclick="
+        openPDF(
+          '/files/Ferro-et-al-PNAS-2021.pdf',
+          'https://doi.org/10.1073/pnas.2022097118'
+        );
+      "
       style="
         cursor:pointer;
-        ">
+      ">
 
       <img
         src="/images/slideshow/pnas.2022097118fig00.png"
@@ -411,7 +436,6 @@ onclick="
       8 / 9
     </div>
 
-
     <div class="text">
 
       Intra- and inter-areal information exchange strength
@@ -419,39 +443,42 @@ onclick="
       <br/>
 
       <b>
-
         <a
           href="#"
           onclick="
             event.preventDefault();
-              openPDF(
-    '/files/Ferro-et-al-PNAS-2021.pdf',
-    'https://doi.org/10.1073/pnas.2022097118'
-  );">
+            openPDF(
+              '/files/Ferro-et-al-PNAS-2021.pdf',
+              'https://doi.org/10.1073/pnas.2022097118'
+            );
+          ">
 
           Ferro et al.
           <i>PNAS</i>
           2021.
 
         </a>
-
       </b>
 
     </div>
 
 
     <div
-      onclick="openPDF('/files/Ferro-et-al-PNAS-2021.pdf')"
+      onclick="
+        openPDF(
+          '/files/Ferro-et-al-PNAS-2021.pdf',
+          'https://doi.org/10.1073/pnas.2022097118'
+        );
+      "
       style="
         cursor:pointer;
-        ">
+      ">
 
       <img
         src="/images/slideshow/pnas.2022097118fig05.png"
         style="width:100%;">
 
     </div>
-
 
   </div>
 
@@ -474,38 +501,42 @@ onclick="
       <br/>
 
       <b>
-
         <a
           href="#"
           onclick="
             event.preventDefault();
-              openPDF(
-    '/files/Ferro-et-al-PNAS-2021.pdf',
-    'https://doi.org/10.1073/pnas.2022097118'
-  );">
+            openPDF(
+              '/files/Ferro-et-al-PNAS-2021.pdf',
+              'https://doi.org/10.1073/pnas.2022097118'
+            );
+          ">
 
           Ferro et al.
           <i>PNAS</i>
           2021.
 
         </a>
-
       </b>
 
     </div>
 
+
     <div
-      onclick="openPDF('/files/Ferro-et-al-PNAS-2021.pdf')"
+      onclick="
+        openPDF(
+          '/files/Ferro-et-al-PNAS-2021.pdf',
+          'https://doi.org/10.1073/pnas.2022097118'
+        );
+      "
       style="
         cursor:pointer;
-        ">
+      ">
 
       <img
         src="/images/slideshow/pnas.2022097118fig06.png"
         style="width:100%;">
 
     </div>
-
 
   </div>
 
@@ -518,13 +549,28 @@ onclick="
   <a
     class="prev"
     onclick="plusSlides(-1)">
-    <img src="/images/chevron-left.svg" style="height:20px; width:20px">
+
+    <img
+      src="/images/chevron-left.svg"
+      style="
+        height:20px;
+        width:20px;
+      ">
+
   </a>
+
 
   <a
     class="next"
     onclick="plusSlides(1)">
-    <img src="/images/chevron-right.svg" style="height:20px; width:20px">
+
+    <img
+      src="/images/chevron-right.svg"
+      style="
+        height:20px;
+        width:20px;
+      ">
+
   </a>
 
 
@@ -535,50 +581,15 @@ onclick="
 
   <div style="text-align:center">
 
-    <span
-      class="dot"
-      onclick="currentSlide(1)">
-    </span>
-
-    <span
-      class="dot"
-      onclick="currentSlide(2)">
-    </span>
-
-    <span
-      class="dot"
-      onclick="currentSlide(3)">
-    </span>
-
-    <span
-      class="dot"
-      onclick="currentSlide(4)">
-    </span>
-
-    <span
-      class="dot"
-      onclick="currentSlide(5)">
-    </span>
-
-    <span
-      class="dot"
-      onclick="currentSlide(6)">
-    </span>
-
-    <span
-      class="dot"
-      onclick="currentSlide(7)">
-    </span>
-
-    <span
-      class="dot"
-      onclick="currentSlide(8)">
-    </span>
-
-    <span
-      class="dot"
-      onclick="currentSlide(9)">
-    </span>
+    <span class="dot" onclick="currentSlide(1)"></span>
+    <span class="dot" onclick="currentSlide(2)"></span>
+    <span class="dot" onclick="currentSlide(3)"></span>
+    <span class="dot" onclick="currentSlide(4)"></span>
+    <span class="dot" onclick="currentSlide(5)"></span>
+    <span class="dot" onclick="currentSlide(6)"></span>
+    <span class="dot" onclick="currentSlide(7)"></span>
+    <span class="dot" onclick="currentSlide(8)"></span>
+    <span class="dot" onclick="currentSlide(9)"></span>
 
   </div>
 
@@ -587,12 +598,7 @@ onclick="
 
 
 <!-- =========================================================
-     PDF.JS PAPER VIEWER
-     ========================================================= -->
-
-
-<!-- =========================================================
-     PDF.js LIBRARY
+     PDF.js LIBRARY + VIEWER
      ========================================================= -->
 
 <script type="module">
@@ -603,7 +609,6 @@ onclick="
 
   pdfjsLib.GlobalWorkerOptions.workerSrc =
     "https://cdnjs.cloudflare.com/ajax/libs/pdf.js/4.10.38/pdf.worker.min.mjs";
-
 
 
   /* =========================================================
@@ -626,39 +631,54 @@ onclick="
      OPEN PDF
      ========================================================= */
 
-window.openPDF = async function(pdfURL, publicationURL) {
-  
+  window.openPDF = async function(pdfURL, publicationURL) {
+
     const viewer =
       document.getElementById("pdfViewer");
 
     const container =
       document.getElementById("pdfContainer");
 
+    const openLink =
+      document.getElementById("pdfOpenLink");
+
+    const downloadLink =
+      document.getElementById("pdfDownloadLink");
+
 
     /*
-     * Store current PDF URL
+     * Store current PDF
      */
-  
+
     currentPDFURL =
       pdfURL;
-    
-    
+
+
     /*
-     * Update PDF actions
+     * Update toolbar links
      *
-     * Open in new tab → publication webpage
-     * Download → local PDF
+     * Open button → publication webpage
+     * Download button → PDF
      */
-    
-    document.getElementById("pdfOpenLink").href =
-      publicationURL;
-    
-    document.getElementById("pdfDownloadLink").href =
-      pdfURL;
+
+    if (openLink) {
+
+      openLink.href =
+        publicationURL || pdfURL;
+
+    }
+
+
+    if (downloadLink) {
+
+      downloadLink.href =
+        pdfURL;
+
+    }
 
 
     /*
-     * Open modal
+     * Open viewer
      */
 
     viewer.style.display =
@@ -666,7 +686,7 @@ window.openPDF = async function(pdfURL, publicationURL) {
 
 
     /*
-     * Reset
+     * Reset state
      */
 
     pdfDoc =
@@ -677,7 +697,6 @@ window.openPDF = async function(pdfURL, publicationURL) {
 
     fitWidthScale =
       1.0;
-
 
     container.innerHTML =
       "";
@@ -692,7 +711,7 @@ window.openPDF = async function(pdfURL, publicationURL) {
 
 
     loading.style.cssText =
-      "color:white;" +
+      "color:#333;" +
       "font-size:14px;" +
       "padding:30px;";
 
@@ -727,7 +746,7 @@ window.openPDF = async function(pdfURL, publicationURL) {
 
 
       /*
-       * Calculate fit-to-width scale
+       * Determine fit-to-width scale
        */
 
       const firstPage =
@@ -757,7 +776,7 @@ window.openPDF = async function(pdfURL, publicationURL) {
 
 
       /*
-       * Render ALL pages
+       * Render all pages
        */
 
       await renderAllPages();
@@ -858,10 +877,6 @@ window.openPDF = async function(pdfURL, publicationURL) {
       );
 
 
-    /*
-     * Calculate page size
-     */
-
     const viewport =
       page.getViewport({
         scale:currentScale
@@ -904,18 +919,10 @@ window.openPDF = async function(pdfURL, publicationURL) {
       "block";
 
 
-    /*
-     * Add canvas
-     */
-
     pageWrapper.appendChild(
       canvas
     );
 
-
-    /*
-     * Add page to viewer
-     */
 
     container.appendChild(
       pageWrapper
@@ -923,7 +930,7 @@ window.openPDF = async function(pdfURL, publicationURL) {
 
 
     /*
-     * Render page
+     * Render PDF page
      */
 
     const context =
@@ -1123,7 +1130,7 @@ window.openPDF = async function(pdfURL, publicationURL) {
       const viewer =
         document.getElementById(
           "pdfViewer"
-        );prevent
+        );
 
 
       if (
@@ -1186,7 +1193,7 @@ window.openPDF = async function(pdfURL, publicationURL) {
     padding:20px;
     box-sizing:border-box;
     margin-top:70px;
-    ">
+  ">
 
 
   <!-- =======================================================
@@ -1206,7 +1213,7 @@ window.openPDF = async function(pdfURL, publicationURL) {
       flex-direction:column;
       overflow:hidden;
       text-align:left;
-      ">
+    ">
 
 
     <!-- =====================================================
@@ -1214,11 +1221,6 @@ window.openPDF = async function(pdfURL, publicationURL) {
          ===================================================== -->
 
     <style>
-
-      /*
-       * Same height and basic appearance
-       * for every toolbar control.
-       */
 
       #pdfToolbar button,
       #pdfToolbar a {
@@ -1252,11 +1254,6 @@ window.openPDF = async function(pdfURL, publicationURL) {
       }
 
 
-      /*
-       * Prevent global website hover styles
-       * from adding shadows.
-       */
-
       #pdfToolbar button:hover,
       #pdfToolbar a:hover,
       #pdfToolbar a:hover img {
@@ -1266,11 +1263,13 @@ window.openPDF = async function(pdfURL, publicationURL) {
       }
 
 
-      /*
-       * SVG icons.
-       */
-
       #pdfToolbar img {
+
+        width:16px;
+
+        height:16px;
+
+        display:block;
 
         box-shadow:none !important;
 
@@ -1301,7 +1300,7 @@ window.openPDF = async function(pdfURL, publicationURL) {
         gap:6px;
         position:relative;
         text-align:center;
-        ">
+      ">
 
 
       <!-- Zoom out -->
@@ -1313,7 +1312,7 @@ window.openPDF = async function(pdfURL, publicationURL) {
           padding:0;
           font-size:16px;
           cursor:pointer;
-          ">
+        ">
 
         −
 
@@ -1330,7 +1329,7 @@ window.openPDF = async function(pdfURL, publicationURL) {
           padding:0;
           font-size:12px;
           cursor:pointer;
-          ">
+        ">
 
         Fit
 
@@ -1346,70 +1345,67 @@ window.openPDF = async function(pdfURL, publicationURL) {
           padding:0;
           font-size:16px;
           cursor:pointer;
-          ">
+        ">
 
         +
 
       </button>
 
 
-<!-- Open in new tab -->
+      <!-- Open publication webpage -->
 
-<a
-  id="pdfOpenLink"
-  href="#"
-  target="_blank"
-  rel="noopener"
-  title="Open in new tab"
-  aria-label="Open in new tab"
-  style="
-    width:30px;
-    height:30px;
-    padding:0;
-    margin-left:6px;
-    cursor:pointer;
-    ">
+      <a
+        id="pdfOpenLink"
+        href="#"
+        target="_blank"
+        rel="noopener"
+        title="Open publication"
+        aria-label="Open publication"
+        style="
+          width:30px;
+          height:30px;
+          padding:0;
+          margin-left:6px;
+          cursor:pointer;
+        ">
 
-  <img
-    src="/images/newtab.svg"
-    alt=""
-    style="
-      width:16px;
-      height:16px;
-      display:block;
-      box-shadow:none !important;
-      ">
+        <img
+          src="/images/newtab.svg"
+          alt=""
+          style="
+            width:16px;
+            height:16px;
+            display:block;
+          ">
 
-</a>
+      </a>
 
 
-<!-- Download -->
+      <!-- Download PDF -->
 
-<a
-  id="pdfDownloadLink"
-  href="#"
-  download
-  title="Download"
-  aria-label="Download"
-  style="
-    width:30px;
-    height:30px;
-    padding:0;
-    cursor:pointer;
-    ">
+      <a
+        id="pdfDownloadLink"
+        href="#"
+        download
+        title="Download PDF"
+        aria-label="Download PDF"
+        style="
+          width:30px;
+          height:30px;
+          padding:0;
+          cursor:pointer;
+        ">
 
-  <img
-    src="/images/dload.svg"
-    alt=""
-    style="
-      width:16px;
-      height:16px;
-      display:block;
-      box-shadow:none !important;
-      ">
+        <img
+          src="/images/dload.svg"
+          alt=""
+          style="
+            width:16px;
+            height:16px;
+            display:block;
+          ">
 
-</a>
-
+      </a>
 
 
       <!-- Close -->
@@ -1424,7 +1420,7 @@ window.openPDF = async function(pdfURL, publicationURL) {
           line-height:25px;
           cursor:pointer;
           padding:0 5px;
-          ">
+        ">
 
         ×
 
@@ -1432,7 +1428,6 @@ window.openPDF = async function(pdfURL, publicationURL) {
 
 
     </div>
-
 
 
     <!-- =====================================================
@@ -1448,7 +1443,7 @@ window.openPDF = async function(pdfURL, publicationURL) {
         padding:20px;
         box-sizing:border-box;
         text-align:center;
-        ">
+      ">
 
     </div>
 
@@ -1456,6 +1451,8 @@ window.openPDF = async function(pdfURL, publicationURL) {
   </div>
 
 </div>
+```
+
 
 
 
