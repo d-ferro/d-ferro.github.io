@@ -735,7 +735,7 @@ at Universitat Pompeu Fabra in Barcelona.
 
       pdfDoc =
         await pdfjsLib
-          .getDocument(pdfURL)
+          .getDocument(viewerPDFURL)
           .promise;
 
 
