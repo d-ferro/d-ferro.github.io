@@ -361,7 +361,7 @@ author_profile: true
      OPEN PDF
      ========================================================= */
 
-window.openPDF = async function(pdfURL, publicationURL) {
+window.openPDF = async function(pdfURL, publicationURL, downloadURL) {
  
     const viewer =
       document.getElementById("pdfViewer");
@@ -388,8 +388,8 @@ window.openPDF = async function(pdfURL, publicationURL) {
     document.getElementById("pdfOpenLink").href =
       publicationURL;
     
-    document.getElementById("pdfDownloadLink").href =
-      pdfURL;
+ document.getElementById("pdfDownloadLink").href =
+  downloadURL;
 
     /* Open modal */
 
@@ -898,9 +898,10 @@ window.openPDF = async function(pdfURL, publicationURL) {
       onclick="
         event.preventDefault();
         openPDF(
-          '/files/Ferro-et-al-NatCommun-2026.pdf',
-          'https://doi.org/10.1038/s41467-026-70423-1');"   
-          
+  '/files/Ferro-et-al-NatCommun-2026.pdf',
+  'https://doi.org/10.1038/s41467-026-70423-1',
+  'https://www.nature.com/articles/s41467-026-70423-1.pdf'
+);"         
         style="
         position:relative;
         display:inline-block;
@@ -967,10 +968,11 @@ window.openPDF = async function(pdfURL, publicationURL) {
 
       onclick="
   event.preventDefault();
-  openPDF(
-    '/files/Ferro-et-al-CCN-2025.pdf',
-    'https://2025.ccneuro.org/abstract_pdf/Ferro_2025_A_closed-loop_model_coordination_gaze_control.pdf'
-  );
+openPDF(
+  '/files/Ferro-et-al-CCN-2025.pdf',
+  'https://2025.ccneuro.org/abstract_pdf/Ferro_2025_A_closed-loop_model_coordination_gaze_control.pdf',
+  'https://2025.ccneuro.org/abstract_pdf/Ferro_2025_A_closed-loop_model_coordination_gaze_control.pdf'
+);
 "
 
             style="
@@ -1038,10 +1040,11 @@ window.openPDF = async function(pdfURL, publicationURL) {
     <div
 onclick="
   event.preventDefault();
-  openPDF(
-    '/files/Ferro-et-al-NatCommun-2024.pdf',
-    'https://doi.org/10.1038/s41467-024-50214-2'
-  );
+openPDF(
+  '/files/Ferro-et-al-NatCommun-2024.pdf',
+  'https://doi.org/10.1038/s41467-024-50214-2',
+  'https://www.nature.com/articles/s41467-024-50214-2.pdf'
+);
 "
       
       style="
@@ -1109,10 +1112,11 @@ onclick="
     <div
 onclick="
   event.preventDefault();
-  openPDF(
-    '/files/Ferro-et-al-PNAS-2021.pdf',
-    'https://doi.org/10.1073/pnas.2022097118'
-  );
+openPDF(
+  '/files/Ferro-et-al-PNAS-2021.pdf',
+  'https://doi.org/10.1073/pnas.2022097118',
+  'https://www.pnas.org/doi/pdf/10.1073/pnas.2022097118?download=false'
+);
 "      
             style="
         position:relative;
