@@ -1177,176 +1177,187 @@ author_profile: true
       overflow:hidden;
       text-align:left;
       ">
+```html
+<!-- =====================================================
+     TOOLBAR
+     ===================================================== -->
+
+<div style="
+    height:44px;
+    flex-shrink:0;
+    background:#fafafa;
+    border-bottom:1px solid lightgray;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    gap:6px;
+    position:relative;
+    text-align:center;
+    ">
 
 
-    <!-- =====================================================
-         TOOLBAR
-         ===================================================== -->
+  <!-- Zoom out -->
 
-    <div style="
-        height:44px;
-        flex-shrink:0;
-        background:#fafafa;
-        border-bottom:1px solid lightgray;
-        display:flex;
-        align-items:center;
-        justify-content:center;
-        gap:6px;
-        position:relative;
-        text-align:center;
+  <button
+    onclick="zoomPDFOut()"
+    style="
+      cursor:pointer;
+      padding:3px 10px;
+      font-size:16px;
+      border:1px solid #ccc;
+      background:#fff;
+      border-radius:2px;
+      box-shadow:none !important;
+      outline:none;
+      ">
+
+    −
+
+  </button>
+
+
+  <!-- Zoom -->
+
+  <button
+    onclick="fitPDFWidth()"
+    id="pdfZoom"
+    style="
+      cursor:pointer;
+      padding:3px 10px;
+      min-width:60px;
+      font-size:12px;
+      border:1px solid #ccc;
+      background:#fff;
+      border-radius:2px;
+      box-shadow:none !important;
+      outline:none;
+      ">
+
+    Fit
+
+  </button>
+
+
+  <!-- Zoom in -->
+
+  <button
+    onclick="zoomPDFIn()"
+    style="
+      cursor:pointer;
+      padding:3px 10px;
+      font-size:16px;
+      border:1px solid #ccc;
+      background:#fff;
+      border-radius:2px;
+      box-shadow:none !important;
+      outline:none;
+      ">
+
+    +
+
+  </button>
+
+
+  <!-- Open in new tab -->
+
+  <a
+    id="pdfOpenLink"
+    href="#"
+    target="_blank"
+    rel="noopener"
+    style="
+      display:inline-flex;
+      align-items:center;
+      justify-content:center;
+      gap:5px;
+      padding:3px 10px;
+      border:1px solid #ccc;
+      background:#fff;
+      border-radius:2px;
+      color:#333;
+      text-decoration:none;
+      font-size:12px;
+      cursor:pointer;
+      white-space:nowrap;
+      box-sizing:border-box;
+      box-shadow:none !important;
+      outline:none;
+      ">
+
+    <img
+      src="/images/newtab.svg"
+      alt=""
+      style="
+        width:13px;
+        height:13px;
+        display:block;
         ">
 
+    Open in new tab
 
-      <!-- Zoom out -->
-
-      <button
-        onclick="zoomPDFOut()"
-        style="
-          cursor:pointer;
-          padding:3px 10px;
-          font-size:16px;
-          ">
-
-        −
-
-      </button>
+  </a>
 
 
-      <!-- Zoom -->
+  <!-- Download -->
 
-      <button
-        onclick="fitPDFWidth()"
-        id="pdfZoom"
-        style="
-          cursor:pointer;
-          border:none;
-          background:transparent;
-          min-width:60px;
-          padding:3px;
-          font-size:12px;
-          ">
-
-        Fit
-
-      </button>
-
-
-      <!-- Zoom in -->
-
-      <button
-        onclick="zoomPDFIn()"
-        style="
-          cursor:pointer;
-          padding:3px 10px;
-          font-size:16px;
-          ">
-
-        +
-
-      </button>
-
-
-     ```html
-<!-- Open in new tab -->
-
-<a
-  id="pdfOpenLink"
-  href="#"
-  target="_blank"
-  rel="noopener"
-  style="
-    display:inline-flex;
-    align-items:center;
-    justify-content:center;
-    gap:5px;
-    padding:3px 10px;
-    border:1px solid #ccc;
-    border-radius:2px;
-    background:#fff;
-    color:#333;
-    text-decoration:none;
-    font-size:12px;
-    cursor:pointer;
-    white-space:nowrap;
-    margin-left:12px;
-    box-sizing:border-box;
-    ">
-
-  <img
-    src="/images/newtab.svg"
-    alt=""
+  <a
+    id="pdfDownloadLink"
+    href="#"
+    download
     style="
-      width:13px;
-      height:13px;
-      display:block;
+      display:inline-flex;
+      align-items:center;
+      justify-content:center;
+      gap:5px;
+      padding:3px 10px;
+      border:1px solid #ccc;
+      background:#fff;
+      border-radius:2px;
+      color:#333;
+      text-decoration:none;
+      font-size:12px;
+      cursor:pointer;
+      white-space:nowrap;
+      box-sizing:border-box;
+      box-shadow:none !important;
+      outline:none;
       ">
 
-  Open in new tab
+    <img
+      src="/images/dload.svg"
+      alt=""
+      style="
+        width:13px;
+        height:13px;
+        display:block;
+        ">
 
-</a>
+    Download
+
+  </a>
 
 
-<!-- Download -->
+  <!-- Close -->
 
-<a
-  id="pdfDownloadLink"
-  href="#"
-  download
-  style="
-    display:inline-flex;
-    align-items:center;
-    justify-content:center;
-    gap:5px;
-    padding:3px 10px;
-    border:1px solid #ccc;
-    border-radius:2px;
-    background:#fff;
-    color:#333;
-    text-decoration:none;
-    font-size:12px;
-    cursor:pointer;
-    white-space:nowrap;
-    margin-left:2px;
-    box-sizing:border-box;
-    ">
-
-  <img
-    src="/images/dload.svg"
-    alt=""
+  <span
+    onclick="closePDF()"
     style="
-      width:13px;
-      height:13px;
-      display:block;
+      position:absolute;
+      right:10px;
+      top:7px;
+      font-size:24px;
+      line-height:25px;
+      cursor:pointer;
+      padding:0 5px;
       ">
 
-  Download
+    ×
 
-</a>
+  </span>
+
+
+</div>
 ```
-
-
-      <!-- Close -->
-
-      <span
-        onclick="closePDF()"
-        style="
-          position:absolute;
-          right:10px;
-          top:7px;
-          font-size:24px;
-          line-height:25px;
-          cursor:pointer;
-          padding:0 5px;
-          ">
-
-        ×
-
-      </span>
-
-
-    </div>
-
-
 
     <!-- =====================================================
          PDF PAGES
