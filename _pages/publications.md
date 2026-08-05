@@ -320,6 +320,8 @@ author_profile: true
 
 <!------------------------------------------------------------------------------------->
 
+
+
 <!-- =========================================================
      PDF.JS PAPER VIEWER
      ========================================================= -->
@@ -376,7 +378,7 @@ author_profile: true
 
 
     /*
-     * Update external PDF links
+     * Update PDF links
      */
 
     document.getElementById("pdfOpenLink").href =
@@ -1244,7 +1246,7 @@ author_profile: true
       </button>
 
 
-      <!-- Open PDF -->
+      <!-- Open in new tab -->
 
       <a
         id="pdfOpenLink"
@@ -1253,6 +1255,9 @@ author_profile: true
         rel="noopener"
         style="
           margin-left:12px;
+          display:inline-flex;
+          align-items:center;
+          gap:5px;
           text-decoration:none;
           color:#333;
           font-size:12px;
@@ -1260,19 +1265,31 @@ author_profile: true
           white-space:nowrap;
           ">
 
-        ↗ Open PDF
+        <img
+          src="/images/newtab.svg"
+          alt=""
+          style="
+            width:13px;
+            height:13px;
+            display:block;
+            ">
+
+        Open in new tab
 
       </a>
 
 
-      <!-- Download PDF -->
+      <!-- Download -->
 
       <a
         id="pdfDownloadLink"
         href="#"
         download
         style="
-          margin-left:4px;
+          margin-left:5px;
+          display:inline-flex;
+          align-items:center;
+          gap:5px;
           text-decoration:none;
           color:#333;
           font-size:12px;
@@ -1280,7 +1297,16 @@ author_profile: true
           white-space:nowrap;
           ">
 
-        ↓ Download
+        <img
+          src="/images/dload.svg"
+          alt=""
+          style="
+            width:13px;
+            height:13px;
+            display:block;
+            ">
+
+        Download
 
       </a>
 
@@ -1329,9 +1355,6 @@ author_profile: true
   </div>
 
 </div>
-
-
-
 
 
 
