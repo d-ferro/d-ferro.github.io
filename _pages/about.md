@@ -29,7 +29,7 @@ at Universitat Pompeu Fabra in Barcelona.
 
 <h3 style="margin-top:20px;">Highlights</h3>
 
-<p style="font-size:.75em;">
+<p style="font-size:.75em; margin:0px">
   A visual overview of representative works.
   Click on any of the figures below to explore the corresponding publication.
 </p>
