@@ -1246,69 +1246,83 @@ author_profile: true
       </button>
 
 
-      <!-- Open in new tab -->
+     ```html
+<!-- Open in new tab -->
 
-      <a
-        id="pdfOpenLink"
-        href="#"
-        target="_blank"
-        rel="noopener"
-        style="
-          margin-left:12px;
-          display:inline-flex;
-          align-items:center;
-          gap:5px;
-          text-decoration:none;
-          color:#333;
-          font-size:12px;
-          cursor:pointer;
-          white-space:nowrap;
-          ">
+<a
+  id="pdfOpenLink"
+  href="#"
+  target="_blank"
+  rel="noopener"
+  style="
+    display:inline-flex;
+    align-items:center;
+    justify-content:center;
+    gap:5px;
+    padding:3px 10px;
+    border:1px solid #ccc;
+    border-radius:2px;
+    background:#fff;
+    color:#333;
+    text-decoration:none;
+    font-size:12px;
+    cursor:pointer;
+    white-space:nowrap;
+    margin-left:12px;
+    box-sizing:border-box;
+    ">
 
-        <img
-          src="/images/newtab.svg"
-          alt=""
-          style="
-            width:13px;
-            height:13px;
-            display:block;
-            ">
+  <img
+    src="/images/newtab.svg"
+    alt=""
+    style="
+      width:13px;
+      height:13px;
+      display:block;
+      ">
 
-        Open in new tab
+  Open in new tab
 
-      </a>
+</a>
 
 
-      <!-- Download -->
+<!-- Download -->
 
-      <a
-        id="pdfDownloadLink"
-        href="#"
-        download
-        style="
-          margin-left:5px;
-          display:inline-flex;
-          align-items:center;
-          gap:5px;
-          text-decoration:none;
-          color:#333;
-          font-size:12px;
-          cursor:pointer;
-          white-space:nowrap;
-          ">
+<a
+  id="pdfDownloadLink"
+  href="#"
+  download
+  style="
+    display:inline-flex;
+    align-items:center;
+    justify-content:center;
+    gap:5px;
+    padding:3px 10px;
+    border:1px solid #ccc;
+    border-radius:2px;
+    background:#fff;
+    color:#333;
+    text-decoration:none;
+    font-size:12px;
+    cursor:pointer;
+    white-space:nowrap;
+    margin-left:2px;
+    box-sizing:border-box;
+    ">
 
-        <img
-          src="/images/dload.svg"
-          alt=""
-          style="
-            width:13px;
-            height:13px;
-            display:block;
-            ">
+  <img
+    src="/images/dload.svg"
+    alt=""
+    style="
+      width:13px;
+      height:13px;
+      display:block;
+      ">
 
-        Download
+  Download
 
-      </a>
+</a>
+```
 
 
       <!-- Close -->
