@@ -19,106 +19,1447 @@ group led by <a href="https://www.upf.edu/web/ruben-moreno-bote" target="_blank"
 <a href="https://www.upf.edu/web/cbc" target="_blank">Center for Brain and Cognition</a>
 at Universitat Pompeu Fabra in Barcelona.
 </p>
+<!------------------------------------------------------>
+
+
+
+```html
+<!-- =========================================================
+     HIGHLIGHTS
+     ========================================================= -->
 
 <h3 style="margin-top:20px;">Highlights</h3>
 
-<p style="font-size:.75em; ">
-A visual overview of representative findings from my works. Click any figure to explore the corresponding publication.
+<p style="font-size:.75em;">
+  A visual overview of representative findings from my works.
+  Click any figure or publication below to explore the corresponding PDF.
 </p>
 
-<!-- Slideshow container -->
+
+
+<!-- =========================================================
+     SLIDESHOW
+     ========================================================= -->
+
 <div class="slideshow-container">
 
-  <!-- Full-width images with number and caption text -->
 
-
-
-  <div class="mySlides fade">
-    <div class="numbertext">2 / 9</div>
-    <a href="https://doi.org/10.1038/s41467-026-70423-1" target="_blank"><img src="/images/slideshow/fig1-sketch.png" style="width:100%;"></a>
-    <div class="text">Gambling task and dorsal Anterior Cingulate Cortex (dACC). <br/>
-    <b><a href="https://doi.org/10.1038/s41467-026-70423-1" target="_blank">Ferro et al. <i>Nature Communications</i> 2026.</a></b> </div>
-  </div>
+  <!-- =======================================================
+       2026 — dACC GAMBLING TASK
+       ======================================================= -->
 
   <div class="mySlides fade">
-    <div class="numbertext">3 / 9</div>
-    <a href="https://doi.org/10.1038/s41467-026-70423-1" target="_blank"><img src="/images/slideshow/fig7-gains-losses.png" style="width:100%;"></a>
-    <div class="text">Encoding of subjective values (SV) relative to potential outcomes (gains/losses) in dACC.<br/>
-    <b><a href="https://doi.org/10.1038/s41467-026-70423-1" target="_blank">Ferro et al. <i>Nature Communications</i> 2026.</a></b> </div>
-  </div>
 
-  <div class="mySlides fade">
-    <div class="numbertext">1 / 9</div>
-    <a href="" target="_blank"><img src="/images/slideshow/ferro-vivar-2026.png" style="width:100%;"></a>
-    <div class="text">Network model for temporal evidence weighting in perceptual motion discrimination.<br/>
-    <b><a href="" target="_blank">(in preparation)</a></b> </div>
-  </div>
-
-  <div class="mySlides fade">
-    <div class="numbertext">4 / 9</div>
-    <a href="https://d-ferro.github.io/files/Abstract-CCN2025_CompNets.pdf" target="_blank"><img src="/images/slideshow/ccn2025-comp-nets.png" style="width:100%;"></a>
-    <div class="text">Closed-loop model of gaze and decision coordination.<br/>
-    <b><a href="https://d-ferro.github.io/files/Abstract-CCN2025_CompNets.pdf" target="_blank">Ferro et al. <i>CCNeuro</i> 2025.</a></b> </div>
-  </div>
-  
-  <div class="mySlides fade">
-    <div class="numbertext">5 / 9</div>
-    <a href="https://doi.org/10.1038/s41467-024-50214-2" target="_blank"><img src="/images/slideshow/Screenshot%202025-07-18%20141059.jpg" style="width:100%"></a>
-    <div class="text">Gaze direction and its effect on choice formation. <br/>
-      <b><a href="https://doi.org/10.1038/s41467-024-50214-2" target="_blank">Ferro et al. <i>Nature Communications</i> 2024.</a></b>
+    <div class="numbertext">
+      2 / 9
     </div>
-  </div>
-  
-  <div class="mySlides fade">
-    <div class="numbertext">6 / 9</div>
-    <a href="https://doi.org/10.1038/s41467-024-50214-2" target="_blank"><img src="/images/slideshow/Screenshot%202025-07-18%20141159.jpg" style="width:100%;"></a>
-    <div class="text">Gaze direction and its effect on behavior. <br/>
-    <b><a href="https://doi.org/10.1038/s41467-024-50214-2" target="_blank">Ferro et al. <i>Nature Communications</i> 2024.</a></b>
+
+
+    <div
+      onclick="openPDF('/files/Ferro-et-al-NatCommun-2026.pdf')"
+      style="
+        cursor:pointer;
+        ">
+
+      <img
+        src="/images/slideshow/fig1-sketch.png"
+        style="width:100%;">
+
     </div>
-  </div>
 
-<div class="mySlides fade">
-    <div class="numbertext">7 / 9</div>
-    <a href="https://www.pnas.org/doi/abs/10.1073/pnas.2022097118" target="_blank"><img src="/images/slideshow/pnas.2022097118fig00.png" style="width:100%; "></a>
-    <div class="text">Current Source Density, Multi-Unit Activity Latency and signal quality assessment, Graphical User Interface. <br/>
-    <b><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2022097118" target="_blank">Ferro et al. <i>PNAS</i> 2021.</a></b></div>
-  </div>
-  
-  <div class="mySlides fade">
-    <div class="numbertext">8 / 9</div>
-    <a href="https://www.pnas.org/doi/abs/10.1073/pnas.2022097118" target="_blank"><img src="/images/slideshow/pnas.2022097118fig05.png" style="width:100%;"></a>
-    <div class="text">Intra- and inter-areal information exchange strength across V1-V4 laminae. <br/>
-    <b><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2022097118" target="_blank">Ferro et al. <i>PNAS</i> 2021.</a></b>
+
+    <div class="text">
+
+      Gambling task and dorsal Anterior Cingulate Cortex (dACC).
+      <br/>
+
+      <b>
+
+        <a
+          href="#"
+          onclick="
+            event.preventDefault();
+            openPDF('/files/Ferro-et-al-NatCommun-2026.pdf');
+          ">
+
+          Ferro et al.
+          <i>Nature Communications</i>
+          2026.
+
+        </a>
+
+      </b>
+
     </div>
+
   </div>
+
+
+
+  <!-- =======================================================
+       2026 — dACC GAINS / LOSSES
+       ======================================================= -->
 
   <div class="mySlides fade">
-    <div class="numbertext">9 / 9</div>
-    <a href="https://www.pnas.org/doi/abs/10.1073/pnas.2022097118" target="_blank"><img src="/images/slideshow/pnas.2022097118fig06.png" style="width:100%;"></a>
-    <div class="text">Attentional effects on intra- and inter-areal information exchange across V1-V4 laminae. <br/>
-    <b><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2022097118" target="_blank">Ferro et al. <i>PNAS</i> 2021.</a></b></div>
+
+    <div class="numbertext">
+      3 / 9
+    </div>
+
+
+    <div
+      onclick="openPDF('/files/Ferro-et-al-NatCommun-2026.pdf')"
+      style="
+        cursor:pointer;
+        ">
+
+      <img
+        src="/images/slideshow/fig7-gains-losses.png"
+        style="width:100%;">
+
+    </div>
+
+
+    <div class="text">
+
+      Encoding of subjective values (SV) relative to potential
+      outcomes (gains/losses) in dACC.
+      <br/>
+
+      <b>
+
+        <a
+          href="#"
+          onclick="
+            event.preventDefault();
+            openPDF('/files/Ferro-et-al-NatCommun-2026.pdf');
+          ">
+
+          Ferro et al.
+          <i>Nature Communications</i>
+          2026.
+
+        </a>
+
+      </b>
+
+    </div>
+
   </div>
 
-  <!-- Next and previous buttons -->
-  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-  <a class="next" onclick="plusSlides(1)">&#10095;</a>
-  <!-- The dots/circles -->
-<div style="text-align:center">
-  <span class="dot" onclick="currentSlide(1)"></span>
-  <span class="dot" onclick="currentSlide(2)"></span>
-  <span class="dot" onclick="currentSlide(3)"></span>
-  <span class="dot" onclick="currentSlide(4)"></span>
-  <span class="dot" onclick="currentSlide(5)"></span>
-  <span class="dot" onclick="currentSlide(6)"></span>
-  <span class="dot" onclick="currentSlide(7)"></span>
-  <span class="dot" onclick="currentSlide(8)"></span>
-  <span class="dot" onclick="currentSlide(9)"></span>
+
+
+  <!-- =======================================================
+       2026 — MODEL
+       ======================================================= -->
+
+  <div class="mySlides fade">
+
+    <div class="numbertext">
+      1 / 9
+    </div>
+
+
+    <div
+      style="
+        cursor:default;
+        ">
+
+      <img
+        src="/images/slideshow/ferro-vivar-2026.png"
+        style="width:100%;">
+
+    </div>
+
+
+    <div class="text">
+
+      Network model for temporal evidence weighting in
+      perceptual motion discrimination.
+      <br/>
+
+      <b>
+        <span style="cursor:default;">
+          (in preparation)
+        </span>
+      </b>
+
+    </div>
+
+  </div>
+
+
+
+  <!-- =======================================================
+       2025 — CCN
+       ======================================================= -->
+
+  <div class="mySlides fade">
+
+    <div class="numbertext">
+      4 / 9
+    </div>
+
+
+    <div
+      onclick="openPDF('/files/Ferro-et-al-CCN-2025.pdf')"
+      style="
+        cursor:pointer;
+        ">
+
+      <img
+        src="/images/slideshow/ccn2025-comp-nets.png"
+        style="width:100%;">
+
+    </div>
+
+
+    <div class="text">
+
+      Closed-loop model of gaze and decision coordination.
+      <br/>
+
+      <b>
+
+        <a
+          href="#"
+          onclick="
+            event.preventDefault();
+            openPDF('/files/Ferro-et-al-CCN-2025.pdf');
+          ">
+
+          Ferro et al.
+          <i>CCNeuro</i>
+          2025.
+
+        </a>
+
+      </b>
+
+    </div>
+
+  </div>
+
+
+
+  <!-- =======================================================
+       2024 — GAZE / CHOICE
+       ======================================================= -->
+
+  <div class="mySlides fade">
+
+    <div class="numbertext">
+      5 / 9
+    </div>
+
+
+    <div
+      onclick="openPDF('/files/Ferro-et-al-NatCommun-2024.pdf')"
+      style="
+        cursor:pointer;
+        ">
+
+      <img
+        src="/images/slideshow/Screenshot%202025-07-18%20141059.jpg"
+        style="width:100%;">
+
+    </div>
+
+
+    <div class="text">
+
+      Gaze direction and its effect on choice formation.
+      <br/>
+
+      <b>
+
+        <a
+          href="#"
+          onclick="
+            event.preventDefault();
+            openPDF('/files/Ferro-et-al-NatCommun-2024.pdf');
+          ">
+
+          Ferro et al.
+          <i>Nature Communications</i>
+          2024.
+
+        </a>
+
+      </b>
+
+    </div>
+
+  </div>
+
+
+
+  <!-- =======================================================
+       2024 — GAZE / BEHAVIOR
+       ======================================================= -->
+
+  <div class="mySlides fade">
+
+    <div class="numbertext">
+      6 / 9
+    </div>
+
+
+    <div
+      onclick="openPDF('/files/Ferro-et-al-NatCommun-2024.pdf')"
+      style="
+        cursor:pointer;
+        ">
+
+      <img
+        src="/images/slideshow/Screenshot%202025-07-18%20141159.jpg"
+        style="width:100%;">
+
+    </div>
+
+
+    <div class="text">
+
+      Gaze direction and its effect on behavior.
+      <br/>
+
+      <b>
+
+        <a
+          href="#"
+          onclick="
+            event.preventDefault();
+            openPDF('/files/Ferro-et-al-NatCommun-2024.pdf');
+          ">
+
+          Ferro et al.
+          <i>Nature Communications</i>
+          2024.
+
+        </a>
+
+      </b>
+
+    </div>
+
+  </div>
+
+
+
+  <!-- =======================================================
+       2021 — CSD / MUA / GUI
+       ======================================================= -->
+
+  <div class="mySlides fade">
+
+    <div class="numbertext">
+      7 / 9
+    </div>
+
+
+    <div
+      onclick="openPDF('/files/Ferro-et-al-PNAS-2021.pdf')"
+      style="
+        cursor:pointer;
+        ">
+
+      <img
+        src="/images/slideshow/pnas.2022097118fig00.png"
+        style="width:100%;">
+
+    </div>
+
+
+    <div class="text">
+
+      Current Source Density, Multi-Unit Activity Latency
+      and signal quality assessment, Graphical User Interface.
+      <br/>
+
+      <b>
+
+        <a
+          href="#"
+          onclick="
+            event.preventDefault();
+            openPDF('/files/Ferro-et-al-PNAS-2021.pdf');
+          ">
+
+          Ferro et al.
+          <i>PNAS</i>
+          2021.
+
+        </a>
+
+      </b>
+
+    </div>
+
+  </div>
+
+
+
+  <!-- =======================================================
+       2021 — INFORMATION EXCHANGE
+       ======================================================= -->
+
+  <div class="mySlides fade">
+
+    <div class="numbertext">
+      8 / 9
+    </div>
+
+
+    <div
+      onclick="openPDF('/files/Ferro-et-al-PNAS-2021.pdf')"
+      style="
+        cursor:pointer;
+        ">
+
+      <img
+        src="/images/slideshow/pnas.2022097118fig05.png"
+        style="width:100%;">
+
+    </div>
+
+
+    <div class="text">
+
+      Intra- and inter-areal information exchange strength
+      across V1-V4 laminae.
+      <br/>
+
+      <b>
+
+        <a
+          href="#"
+          onclick="
+            event.preventDefault();
+            openPDF('/files/Ferro-et-al-PNAS-2021.pdf');
+          ">
+
+          Ferro et al.
+          <i>PNAS</i>
+          2021.
+
+        </a>
+
+      </b>
+
+    </div>
+
+  </div>
+
+
+
+  <!-- =======================================================
+       2021 — ATTENTION
+       ======================================================= -->
+
+  <div class="mySlides fade">
+
+    <div class="numbertext">
+      9 / 9
+    </div>
+
+
+    <div
+      onclick="openPDF('/files/Ferro-et-al-PNAS-2021.pdf')"
+      style="
+        cursor:pointer;
+        ">
+
+      <img
+        src="/images/slideshow/pnas.2022097118fig06.png"
+        style="width:100%;">
+
+    </div>
+
+
+    <div class="text">
+
+      Attentional effects on intra- and inter-areal information
+      exchange across V1-V4 laminae.
+      <br/>
+
+      <b>
+
+        <a
+          href="#"
+          onclick="
+            event.preventDefault();
+            openPDF('/files/Ferro-et-al-PNAS-2021.pdf');
+          ">
+
+          Ferro et al.
+          <i>PNAS</i>
+          2021.
+
+        </a>
+
+      </b>
+
+    </div>
+
+  </div>
+
+
+
+  <!-- =======================================================
+       PREVIOUS / NEXT
+       ======================================================= -->
+
+  <a
+    class="prev"
+    onclick="plusSlides(-1)">
+    &#10094;
+  </a>
+
+  <a
+    class="next"
+    onclick="plusSlides(1)">
+    &#10095;
+  </a>
+
+
+
+  <!-- =======================================================
+       DOTS
+       ======================================================= -->
+
+  <div style="text-align:center">
+
+    <span
+      class="dot"
+      onclick="currentSlide(1)">
+    </span>
+
+    <span
+      class="dot"
+      onclick="currentSlide(2)">
+    </span>
+
+    <span
+      class="dot"
+      onclick="currentSlide(3)">
+    </span>
+
+    <span
+      class="dot"
+      onclick="currentSlide(4)">
+    </span>
+
+    <span
+      class="dot"
+      onclick="currentSlide(5)">
+    </span>
+
+    <span
+      class="dot"
+      onclick="currentSlide(6)">
+    </span>
+
+    <span
+      class="dot"
+      onclick="currentSlide(7)">
+    </span>
+
+    <span
+      class="dot"
+      onclick="currentSlide(8)">
+    </span>
+
+    <span
+      class="dot"
+      onclick="currentSlide(9)">
+    </span>
+
+  </div>
+
 </div>
+
+
+
+<!-- =========================================================
+     PDF.JS PAPER VIEWER
+     ========================================================= -->
+
+
+<!-- =========================================================
+     PDF.js LIBRARY
+     ========================================================= -->
+
+<script type="module">
+
+  import * as pdfjsLib
+    from "https://cdnjs.cloudflare.com/ajax/libs/pdf.js/4.10.38/pdf.min.mjs";
+
+
+  pdfjsLib.GlobalWorkerOptions.workerSrc =
+    "https://cdnjs.cloudflare.com/ajax/libs/pdf.js/4.10.38/pdf.worker.min.mjs";
+
+
+
+  /* =========================================================
+     GLOBAL PDF STATE
+     ========================================================= */
+
+  let pdfDoc = null;
+
+  let currentScale = 1.0;
+
+  let fitWidthScale = 1.0;
+
+  let isRendering = false;
+
+  let currentPDFURL = "";
+
+
+
+  /* =========================================================
+     OPEN PDF
+     ========================================================= */
+
+  window.openPDF = async function(pdfURL) {
+
+    const viewer =
+      document.getElementById("pdfViewer");
+
+    const container =
+      document.getElementById("pdfContainer");
+
+
+    /*
+     * Store current PDF URL
+     */
+
+    currentPDFURL =
+      pdfURL;
+
+
+    /*
+     * Update external PDF links
+     */
+
+    document.getElementById("pdfOpenLink").href =
+      pdfURL;
+
+    document.getElementById("pdfDownloadLink").href =
+      pdfURL;
+
+
+    /*
+     * Open modal
+     */
+
+    viewer.style.display =
+      "flex";
+
+
+    /*
+     * Reset
+     */
+
+    pdfDoc =
+      null;
+
+    currentScale =
+      1.0;
+
+    fitWidthScale =
+      1.0;
+
+
+    container.innerHTML =
+      "";
+
+
+    /*
+     * Loading message
+     */
+
+    const loading =
+      document.createElement("div");
+
+
+    loading.style.cssText =
+      "color:white;" +
+      "font-size:14px;" +
+      "padding:30px;";
+
+
+    loading.textContent =
+      "Loading PDF…";
+
+
+    container.appendChild(
+      loading
+    );
+
+
+    try {
+
+      /*
+       * Load PDF
+       */
+
+      pdfDoc =
+        await pdfjsLib
+          .getDocument(pdfURL)
+          .promise;
+
+
+      /*
+       * Remove loading message
+       */
+
+      container.innerHTML =
+        "";
+
+
+      /*
+       * Calculate fit-to-width scale
+       */
+
+      const firstPage =
+        await pdfDoc.getPage(1);
+
+
+      const baseViewport =
+        firstPage.getViewport({
+          scale:1
+        });
+
+
+      const availableWidth =
+        container.clientWidth - 40;
+
+
+      fitWidthScale =
+        availableWidth /
+        baseViewport.width;
+
+
+      currentScale =
+        fitWidthScale;
+
+
+      updateZoomLabel();
+
+
+      /*
+       * Render ALL pages
+       */
+
+      await renderAllPages();
+
+    }
+
+
+    catch (error) {
+
+      console.error(
+        "PDF.js error:",
+        error
+      );
+
+
+      container.innerHTML =
+        '<div style="' +
+        'color:#333;' +
+        'font-size:14px;' +
+        'padding:30px;' +
+        '">' +
+        'Unable to load this PDF.' +
+        '</div>';
+
+    }
+
+  };
+
+
+
+  /* =========================================================
+     RENDER ALL PAGES
+     ========================================================= */
+
+  async function renderAllPages() {
+
+    if (
+      !pdfDoc ||
+      isRendering
+    )
+      return;
+
+
+    isRendering =
+      true;
+
+
+    const container =
+      document.getElementById(
+        "pdfContainer"
+      );
+
+
+    container.innerHTML =
+      "";
+
+
+    try {
+
+      for (
+        let pageNumber = 1;
+        pageNumber <= pdfDoc.numPages;
+        pageNumber++
+      ) {
+
+        await renderPage(
+          pageNumber,
+          container
+        );
+
+      }
+
+    }
+
+    finally {
+
+      isRendering =
+        false;
+
+    }
+
+  }
+
+
+
+  /* =========================================================
+     RENDER SINGLE PAGE
+     ========================================================= */
+
+  async function renderPage(
+    pageNumber,
+    container
+  ) {
+
+    const page =
+      await pdfDoc.getPage(
+        pageNumber
+      );
+
+
+    /*
+     * Calculate page size
+     */
+
+    const viewport =
+      page.getViewport({
+        scale:currentScale
+      });
+
+
+    /*
+     * Page wrapper
+     */
+
+    const pageWrapper =
+      document.createElement("div");
+
+
+    pageWrapper.style.cssText =
+      "display:block;" +
+      "width:max-content;" +
+      "margin:0 auto 20px auto;" +
+      "background:white;" +
+      "box-shadow:0 2px 8px rgba(0,0,0,.3);";
+
+
+    /*
+     * Canvas
+     */
+
+    const canvas =
+      document.createElement("canvas");
+
+
+    canvas.width =
+      viewport.width;
+
+
+    canvas.height =
+      viewport.height;
+
+
+    canvas.style.display =
+      "block";
+
+
+    /*
+     * Add canvas
+     */
+
+    pageWrapper.appendChild(
+      canvas
+    );
+
+
+    /*
+     * Add page to viewer
+     */
+
+    container.appendChild(
+      pageWrapper
+    );
+
+
+    /*
+     * Render page
+     */
+
+    const context =
+      canvas.getContext("2d");
+
+
+    await page.render({
+
+      canvasContext:
+        context,
+
+      viewport:
+        viewport
+
+    }).promise;
+
+  }
+
+
+
+  /* =========================================================
+     UPDATE ZOOM LABEL
+     ========================================================= */
+
+  function updateZoomLabel() {
+
+    const zoom =
+      document.getElementById(
+        "pdfZoom"
+      );
+
+
+    if (!zoom)
+      return;
+
+
+    const relativeZoom =
+      currentScale /
+      fitWidthScale;
+
+
+    zoom.textContent =
+      Math.round(
+        relativeZoom * 100
+      ) + "%";
+
+  }
+
+
+
+  /* =========================================================
+     ZOOM IN
+     ========================================================= */
+
+  window.zoomPDFIn =
+    async function() {
+
+      if (!pdfDoc)
+        return;
+
+
+      currentScale +=
+        0.20;
+
+
+      updateZoomLabel();
+
+
+      await renderAllPages();
+
+    };
+
+
+
+  /* =========================================================
+     ZOOM OUT
+     ========================================================= */
+
+  window.zoomPDFOut =
+    async function() {
+
+      if (!pdfDoc)
+        return;
+
+
+      currentScale =
+        Math.max(
+          0.5,
+          currentScale - 0.20
+        );
+
+
+      updateZoomLabel();
+
+
+      await renderAllPages();
+
+    };
+
+
+
+  /* =========================================================
+     FIT TO WIDTH
+     ========================================================= */
+
+  window.fitPDFWidth =
+    async function() {
+
+      if (!pdfDoc)
+        return;
+
+
+      const container =
+        document.getElementById(
+          "pdfContainer"
+        );
+
+
+      const page =
+        await pdfDoc.getPage(1);
+
+
+      const baseViewport =
+        page.getViewport({
+          scale:1
+        });
+
+
+      const availableWidth =
+        container.clientWidth - 40;
+
+
+      fitWidthScale =
+        availableWidth /
+        baseViewport.width;
+
+
+      currentScale =
+        fitWidthScale;
+
+
+      updateZoomLabel();
+
+
+      await renderAllPages();
+
+    };
+
+
+
+  /* =========================================================
+     CLOSE PDF
+     ========================================================= */
+
+  window.closePDF =
+    function() {
+
+      const viewer =
+        document.getElementById(
+          "pdfViewer"
+        );
+
+
+      const container =
+        document.getElementById(
+          "pdfContainer"
+        );
+
+
+      viewer.style.display =
+        "none";
+
+
+      container.innerHTML =
+        "";
+
+
+      pdfDoc =
+        null;
+
+
+      currentPDFURL =
+        "";
+
+    };
+
+
+
+  /* =========================================================
+     ESCAPE KEY
+     ========================================================= */
+
+  document.addEventListener(
+    "keydown",
+    function(event) {
+
+      const viewer =
+        document.getElementById(
+          "pdfViewer"
+        );
+
+
+      if (
+        viewer.style.display !==
+        "flex"
+      )
+        return;
+
+
+      if (
+        event.key ===
+        "Escape"
+      ) {
+
+        closePDF();
+
+      }
+
+
+      if (
+        event.key === "+" ||
+        event.key === "="
+      ) {
+
+        zoomPDFIn();
+
+      }
+
+
+      if (
+        event.key === "-"
+      ) {
+
+        zoomPDFOut();
+
+      }
+
+    }
+  );
+
+</script>
+
+
+
+<!-- =========================================================
+     PDF VIEWER
+     ========================================================= -->
+
+<div
+  id="pdfViewer"
+  onclick="closePDF()"
+  style="
+    display:none;
+    position:fixed;
+    inset:0;
+    background:rgba(0,0,0,.1);
+    z-index:10000;
+    align-items:center;
+    justify-content:center;
+    padding:20px;
+    box-sizing:border-box;
+    margin-top:70px;
+    ">
+
+
+  <!-- =======================================================
+       PDF WINDOW
+       ======================================================= -->
+
+  <div
+    onclick="event.stopPropagation()"
+    style="
+      position:relative;
+      width:90%;
+      height:90%;
+      max-width:1200px;
+      background:white;
+      box-shadow:0 4px 25px rgba(0,0,0,.35);
+      display:flex;
+      flex-direction:column;
+      overflow:hidden;
+      text-align:left;
+      ">
+
+
+    <!-- =====================================================
+         TOOLBAR
+         ===================================================== -->
+
+    <style>
+
+      /*
+       * Same height and basic appearance
+       * for every toolbar control.
+       */
+
+      #pdfToolbar button,
+      #pdfToolbar a {
+
+        height:30px;
+
+        box-sizing:border-box;
+
+        display:inline-flex;
+
+        align-items:center;
+
+        justify-content:center;
+
+        vertical-align:middle;
+
+        border:1px solid #ccc;
+
+        border-radius:2px;
+
+        background:#fff;
+
+        color:#333;
+
+        text-decoration:none;
+
+        box-shadow:none;
+
+        outline:none;
+
+      }
+
+
+      /*
+       * Prevent global website hover styles
+       * from adding shadows.
+       */
+
+      #pdfToolbar button:hover,
+      #pdfToolbar a:hover,
+      #pdfToolbar a:hover img {
+
+        box-shadow:none !important;
+
+      }
+
+
+      /*
+       * SVG icons.
+       */
+
+      #pdfToolbar img {
+
+        box-shadow:none !important;
+
+        filter:none;
+
+      }
+
+
+      #pdfToolbar a:hover {
+
+        text-decoration:none;
+
+      }
+
+    </style>
+
+
+    <div
+      id="pdfToolbar"
+      style="
+        height:44px;
+        flex-shrink:0;
+        background:#fafafa;
+        border-bottom:1px solid lightgray;
+        display:flex;
+        align-items:center;
+        justify-content:center;
+        gap:6px;
+        position:relative;
+        text-align:center;
+        ">
+
+
+      <!-- Zoom out -->
+
+      <button
+        onclick="zoomPDFOut()"
+        style="
+          width:42px;
+          padding:0;
+          font-size:16px;
+          cursor:pointer;
+          ">
+
+        −
+
+      </button>
+
+
+      <!-- Zoom -->
+
+      <button
+        onclick="fitPDFWidth()"
+        id="pdfZoom"
+        style="
+          width:60px;
+          padding:0;
+          font-size:12px;
+          cursor:pointer;
+          ">
+
+        Fit
+
+      </button>
+
+
+      <!-- Zoom in -->
+
+      <button
+        onclick="zoomPDFIn()"
+        style="
+          width:42px;
+          padding:0;
+          font-size:16px;
+          cursor:pointer;
+          ">
+
+        +
+
+      </button>
+
+
+      <!-- Open in new tab -->
+
+      <a
+        id="pdfOpenLink"
+        href="#"
+        target="_blank"
+        rel="noopener"
+        style="
+          padding:0 10px;
+          gap:5px;
+          margin-left:6px;
+          font-size:12px;
+          cursor:pointer;
+          white-space:nowrap;
+          ">
+
+
+        <img
+          src="/images/newtab.svg"
+          alt=""
+          style="
+            width:13px;
+            height:13px;
+            display:block;
+            ">
+
+
+        Open in new tab
+
+
+      </a>
+
+
+      <!-- Download -->
+
+      <a
+        id="pdfDownloadLink"
+        href="#"
+        download
+        style="
+          padding:0 10px;
+          gap:5px;
+          font-size:12px;
+          cursor:pointer;
+          white-space:nowrap;
+          ">
+
+
+        <img
+          src="/images/dload.svg"
+          alt=""
+          style="
+            width:13px;
+            height:13px;
+            display:block;
+            ">
+
+
+        Download
+
+
+      </a>
+
+
+      <!-- Close -->
+
+      <span
+        onclick="closePDF()"
+        style="
+          position:absolute;
+          right:10px;
+          top:7px;
+          font-size:24px;
+          line-height:25px;
+          cursor:pointer;
+          padding:0 5px;
+          ">
+
+        ×
+
+      </span>
+
+
+    </div>
+
+
+
+    <!-- =====================================================
+         PDF PAGES
+         ===================================================== -->
+
+    <div
+      id="pdfContainer"
+      style="
+        flex:1;
+        overflow:auto;
+        background:#FFF;
+        padding:20px;
+        box-sizing:border-box;
+        text-align:center;
+        ">
+
+    </div>
+
+
+  </div>
+
 </div>
+```
 
 
 
 
+
+
+<!------------------------------------------------------>
 
 <h3>Research</h3>
 
