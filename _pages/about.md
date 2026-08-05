@@ -353,8 +353,8 @@ at Universitat Pompeu Fabra in Barcelona.
 
     <div class="text">
 
-      Current Source Density, Multi-Unit Activity Latency
-      and signal quality assessment, Graphical User Interface.
+      Current Source Density, response latency
+      and signal-to-noise ratio, Graphical User Interface.
       <br/>
 
       <b>
