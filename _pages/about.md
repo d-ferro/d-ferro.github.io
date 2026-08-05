@@ -53,20 +53,6 @@ at Universitat Pompeu Fabra in Barcelona.
       2 / 9
     </div>
 
-
-    <div
-      onclick="openPDF('/files/Ferro-et-al-NatCommun-2026.pdf')"
-      style="
-        cursor:pointer;
-        ">
-
-      <img
-        src="/images/slideshow/fig1-sketch.png"
-        style="width:100%;">
-
-    </div>
-
-
     <div class="text">
 
       Gambling task and dorsal Anterior Cingulate Cortex (dACC).
@@ -91,6 +77,18 @@ at Universitat Pompeu Fabra in Barcelona.
 
     </div>
 
+    <div
+      onclick="openPDF('/files/Ferro-et-al-NatCommun-2026.pdf')"
+      style="
+        cursor:pointer;
+        ">
+
+      <img
+        src="/images/slideshow/fig1-sketch.png"
+        style="width:100%;">
+
+    </div>
+
   </div>
 
 
@@ -104,20 +102,6 @@ at Universitat Pompeu Fabra in Barcelona.
     <div class="numbertext">
       3 / 9
     </div>
-
-
-    <div
-      onclick="openPDF('/files/Ferro-et-al-NatCommun-2026.pdf')"
-      style="
-        cursor:pointer;
-        ">
-
-      <img
-        src="/images/slideshow/fig7-gains-losses.png"
-        style="width:100%;">
-
-    </div>
-
 
     <div class="text">
 
@@ -144,6 +128,20 @@ at Universitat Pompeu Fabra in Barcelona.
 
     </div>
 
+
+    <div
+      onclick="openPDF('/files/Ferro-et-al-NatCommun-2026.pdf')"
+      style="
+        cursor:pointer;
+        ">
+
+      <img
+        src="/images/slideshow/fig7-gains-losses.png"
+        style="width:100%;">
+
+    </div>
+
+
   </div>
 
 
@@ -157,19 +155,6 @@ at Universitat Pompeu Fabra in Barcelona.
     <div class="numbertext">
       1 / 9
     </div>
-
-
-    <div
-      style="
-        cursor:default;
-        ">
-
-      <img
-        src="/images/slideshow/ferro-vivar-2026.png"
-        style="width:100%;">
-
-    </div>
-
 
     <div class="text">
 
@@ -185,6 +170,18 @@ at Universitat Pompeu Fabra in Barcelona.
 
     </div>
 
+    
+    <div
+      style="
+        cursor:default;
+        ">
+
+      <img
+        src="/images/slideshow/ferro-vivar-2026.png"
+        style="width:100%;">
+
+    </div>
+
   </div>
 
 
@@ -197,19 +194,6 @@ at Universitat Pompeu Fabra in Barcelona.
 
     <div class="numbertext">
       4 / 9
-    </div>
-
-
-    <div
-      onclick="openPDF('/files/Ferro-et-al-CCN-2025.pdf')"
-      style="
-        cursor:pointer;
-        ">
-
-      <img
-        src="/images/slideshow/ccn2025-comp-nets.png"
-        style="width:100%;">
-
     </div>
 
 
@@ -236,6 +220,19 @@ at Universitat Pompeu Fabra in Barcelona.
       </b>
 
     </div>
+    
+
+    <div
+      onclick="openPDF('/files/Ferro-et-al-CCN-2025.pdf')"
+      style="
+        cursor:pointer;
+        ">
+
+      <img
+        src="/images/slideshow/ccn2025-comp-nets.png"
+        style="width:100%;">
+
+    </div>
 
   </div>
 
@@ -251,21 +248,7 @@ at Universitat Pompeu Fabra in Barcelona.
       5 / 9
     </div>
 
-
-    <div
-      onclick="openPDF('/files/Ferro-et-al-NatCommun-2024.pdf')"
-      style="
-        cursor:pointer;
-        ">
-
-      <img
-        src="/images/slideshow/Screenshot%202025-07-18%20141059.jpg"
-        style="width:100%;">
-
-    </div>
-
-
-    <div class="text">
+   <div class="text">
 
       Gaze direction and its effect on choice formation.
       <br/>
@@ -288,6 +271,19 @@ at Universitat Pompeu Fabra in Barcelona.
       </b>
 
     </div>
+    
+
+    <div
+      onclick="openPDF('/files/Ferro-et-al-NatCommun-2024.pdf')"
+      style="
+        cursor:pointer;
+        ">
+
+      <img
+        src="/images/slideshow/Screenshot%202025-07-18%20141059.jpg"
+        style="width:100%;">
+
+    </div>
 
   </div>
 
@@ -302,20 +298,6 @@ at Universitat Pompeu Fabra in Barcelona.
     <div class="numbertext">
       6 / 9
     </div>
-
-
-    <div
-      onclick="openPDF('/files/Ferro-et-al-NatCommun-2024.pdf')"
-      style="
-        cursor:pointer;
-        ">
-
-      <img
-        src="/images/slideshow/Screenshot%202025-07-18%20141159.jpg"
-        style="width:100%;">
-
-    </div>
-
 
     <div class="text">
 
@@ -341,6 +323,18 @@ at Universitat Pompeu Fabra in Barcelona.
 
     </div>
 
+    <div
+      onclick="openPDF('/files/Ferro-et-al-NatCommun-2024.pdf')"
+      style="
+        cursor:pointer;
+        ">
+
+      <img
+        src="/images/slideshow/Screenshot%202025-07-18%20141159.jpg"
+        style="width:100%;">
+
+    </div>
+
   </div>
 
 
@@ -355,18 +349,6 @@ at Universitat Pompeu Fabra in Barcelona.
       7 / 9
     </div>
 
-
-    <div
-      onclick="openPDF('/files/Ferro-et-al-PNAS-2021.pdf')"
-      style="
-        cursor:pointer;
-        ">
-
-      <img
-        src="/images/slideshow/pnas.2022097118fig00.png"
-        style="width:100%;">
-
-    </div>
 
 
     <div class="text">
@@ -394,6 +376,18 @@ at Universitat Pompeu Fabra in Barcelona.
 
     </div>
 
+    <div
+      onclick="openPDF('/files/Ferro-et-al-PNAS-2021.pdf')"
+      style="
+        cursor:pointer;
+        ">
+
+      <img
+        src="/images/slideshow/pnas.2022097118fig00.png"
+        style="width:100%;">
+
+    </div>
+
   </div>
 
 
@@ -406,19 +400,6 @@ at Universitat Pompeu Fabra in Barcelona.
 
     <div class="numbertext">
       8 / 9
-    </div>
-
-
-    <div
-      onclick="openPDF('/files/Ferro-et-al-PNAS-2021.pdf')"
-      style="
-        cursor:pointer;
-        ">
-
-      <img
-        src="/images/slideshow/pnas.2022097118fig05.png"
-        style="width:100%;">
-
     </div>
 
 
@@ -447,6 +428,20 @@ at Universitat Pompeu Fabra in Barcelona.
 
     </div>
 
+
+    <div
+      onclick="openPDF('/files/Ferro-et-al-PNAS-2021.pdf')"
+      style="
+        cursor:pointer;
+        ">
+
+      <img
+        src="/images/slideshow/pnas.2022097118fig05.png"
+        style="width:100%;">
+
+    </div>
+
+
   </div>
 
 
@@ -460,20 +455,6 @@ at Universitat Pompeu Fabra in Barcelona.
     <div class="numbertext">
       9 / 9
     </div>
-
-
-    <div
-      onclick="openPDF('/files/Ferro-et-al-PNAS-2021.pdf')"
-      style="
-        cursor:pointer;
-        ">
-
-      <img
-        src="/images/slideshow/pnas.2022097118fig06.png"
-        style="width:100%;">
-
-    </div>
-
 
     <div class="text">
 
@@ -499,6 +480,19 @@ at Universitat Pompeu Fabra in Barcelona.
       </b>
 
     </div>
+
+    <div
+      onclick="openPDF('/files/Ferro-et-al-PNAS-2021.pdf')"
+      style="
+        cursor:pointer;
+        ">
+
+      <img
+        src="/images/slideshow/pnas.2022097118fig06.png"
+        style="width:100%;">
+
+    </div>
+
 
   </div>
 
