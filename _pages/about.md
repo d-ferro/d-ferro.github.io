@@ -114,9 +114,12 @@ at Universitat Pompeu Fabra in Barcelona.
         <a
           href="#"
           onclick="
-            event.preventDefault();
-            openPDF('/files/Ferro-et-al-NatCommun-2026.pdf');
-          ">
+  event.preventDefault();
+  openPDF(
+    '/files/Ferro-et-al-NatCommun-2026.pdf',
+    'https://doi.org/10.1038/s41467-026-70423-1');">
+
+
 
           Ferro et al.
           <i>Nature Communications</i>
@@ -207,9 +210,10 @@ at Universitat Pompeu Fabra in Barcelona.
         <a
           href="#"
           onclick="
-            event.preventDefault();
-            openPDF('/files/Ferro-et-al-CCN-2025.pdf');
-          ">
+  event.preventDefault();
+  openPDF(
+    '/files/Ferro-et-al-CCN-2025.pdf',
+    'https://2025.ccneuro.org/abstract_pdf/Ferro_2025_A_closed-loop_model_coordination_gaze_control.pdf');">
 
           Ferro et al.
           <i>CCNeuro</i>
@@ -257,10 +261,11 @@ at Universitat Pompeu Fabra in Barcelona.
 
         <a
           href="#"
-          onclick="
-            event.preventDefault();
-            openPDF('/files/Ferro-et-al-NatCommun-2024.pdf');
-          ">
+onclick="
+  event.preventDefault();
+  openPDF(
+    '/files/Ferro-et-al-NatCommun-2024.pdf',
+    'https://doi.org/10.1038/s41467-024-50214-2');">
 
           Ferro et al.
           <i>Nature Communications</i>
@@ -309,9 +314,10 @@ at Universitat Pompeu Fabra in Barcelona.
         <a
           href="#"
           onclick="
-            event.preventDefault();
-            openPDF('/files/Ferro-et-al-NatCommun-2024.pdf');
-          ">
+  event.preventDefault();
+  openPDF(
+    '/files/Ferro-et-al-NatCommun-2024.pdf',
+    'https://doi.org/10.1038/s41467-024-50214-2');">
 
           Ferro et al.
           <i>Nature Communications</i>
@@ -362,9 +368,12 @@ at Universitat Pompeu Fabra in Barcelona.
         <a
           href="#"
           onclick="
-            event.preventDefault();
-            openPDF('/files/Ferro-et-al-PNAS-2021.pdf');
-          ">
+            onclick="
+  event.preventDefault();
+  openPDF(
+    '/files/Ferro-et-al-PNAS-2021.pdf',
+    'https://doi.org/10.1073/pnas.2022097118'
+  );">
 
           Ferro et al.
           <i>PNAS</i>
@@ -415,8 +424,10 @@ at Universitat Pompeu Fabra in Barcelona.
           href="#"
           onclick="
             event.preventDefault();
-            openPDF('/files/Ferro-et-al-PNAS-2021.pdf');
-          ">
+              openPDF(
+    '/files/Ferro-et-al-PNAS-2021.pdf',
+    'https://doi.org/10.1073/pnas.2022097118'
+  );">
 
           Ferro et al.
           <i>PNAS</i>
@@ -468,8 +479,10 @@ at Universitat Pompeu Fabra in Barcelona.
           href="#"
           onclick="
             event.preventDefault();
-            openPDF('/files/Ferro-et-al-PNAS-2021.pdf');
-          ">
+              openPDF(
+    '/files/Ferro-et-al-PNAS-2021.pdf',
+    'https://doi.org/10.1073/pnas.2022097118'
+  );">
 
           Ferro et al.
           <i>PNAS</i>
