@@ -505,13 +505,13 @@ at Universitat Pompeu Fabra in Barcelona.
   <a
     class="prev"
     onclick="plusSlides(-1)">
-    &#10094;
+    <img src="/images/left-chevron.svg">
   </a>
 
   <a
     class="next"
     onclick="plusSlides(1)">
-    &#10095;
+    <img src="/images/right-chevroh.svg">
   </a>
 
 
