@@ -62,10 +62,11 @@ at Universitat Pompeu Fabra in Barcelona.
           onclick="
             event.preventDefault();
             openPDF(
-              '/files/Ferro-et-al-NatCommun-2026.pdf',
-              'https://doi.org/10.1038/s41467-026-70423-1'
-            );
-          ">
+  '/files/Ferro-et-al-NatCommun-2026.pdf',
+  'https://doi.org/10.1038/s41467-026-70423-1',
+  'https://www.nature.com/articles/s41467-026-70423-1.pdf');">
+
+          
 
           Ferro et al.
           <i>Nature Communications</i>
@@ -81,9 +82,8 @@ at Universitat Pompeu Fabra in Barcelona.
       onclick="
         openPDF(
           '/files/Ferro-et-al-NatCommun-2026.pdf',
-          'https://doi.org/10.1038/s41467-026-70423-1'
-        );
-      "
+          'https://doi.org/10.1038/s41467-026-70423-1',
+          'https://www.nature.com/articles/s41467-026-70423-1.pdf');"
       style="
         cursor:pointer;
       ">
@@ -120,10 +120,9 @@ at Universitat Pompeu Fabra in Barcelona.
           onclick="
             event.preventDefault();
             openPDF(
-              '/files/Ferro-et-al-NatCommun-2026.pdf',
-              'https://doi.org/10.1038/s41467-026-70423-1'
-            );
-          ">
+  '/files/Ferro-et-al-NatCommun-2026.pdf',
+  'https://doi.org/10.1038/s41467-026-70423-1',
+  'https://www.nature.com/articles/s41467-026-70423-1.pdf');">
 
           Ferro et al.
           <i>Nature Communications</i>
@@ -139,9 +138,8 @@ at Universitat Pompeu Fabra in Barcelona.
       onclick="
         openPDF(
           '/files/Ferro-et-al-NatCommun-2026.pdf',
-          'https://doi.org/10.1038/s41467-026-70423-1'
-        );
-      "
+          'https://doi.org/10.1038/s41467-026-70423-1',
+          'https://www.nature.com/articles/s41467-026-70423-1.pdf');"
       style="
         cursor:pointer;
       ">
@@ -217,10 +215,9 @@ at Universitat Pompeu Fabra in Barcelona.
           onclick="
             event.preventDefault();
             openPDF(
-              '/files/Ferro-et-al-CCN-2025.pdf',
-              'https://2025.ccneuro.org/abstract_pdf/Ferro_2025_A_closed-loop_model_coordination_gaze_control.pdf'
-            );
-          ">
+  '/files/Ferro-et-al-CCN-2025.pdf',
+  'https://2025.ccneuro.org/abstract_pdf/Ferro_2025_A_closed-loop_model_coordination_gaze_control.pdf',
+  'https://2025.ccneuro.org/abstract_pdf/Ferro_2025_A_closed-loop_model_coordination_gaze_control.pdf');">
 
           Ferro et al.
           <i>CCNeuro</i>
@@ -236,9 +233,8 @@ at Universitat Pompeu Fabra in Barcelona.
       onclick="
         openPDF(
           '/files/Ferro-et-al-CCN-2025.pdf',
-          'https://2025.ccneuro.org/abstract_pdf/Ferro_2025_A_closed-loop_model_coordination_gaze_control.pdf'
-        );
-      "
+          'https://2025.ccneuro.org/abstract_pdf/Ferro_2025_A_closed-loop_model_coordination_gaze_control.pdf',
+          'https://2025.ccneuro.org/abstract_pdf/Ferro_2025_A_closed-loop_model_coordination_gaze_control.pdf');"
       style="
         cursor:pointer;
       ">
@@ -274,10 +270,9 @@ at Universitat Pompeu Fabra in Barcelona.
           onclick="
             event.preventDefault();
             openPDF(
-              '/files/Ferro-et-al-NatCommun-2024.pdf',
-              'https://doi.org/10.1038/s41467-024-50214-2'
-            );
-          ">
+  '/files/Ferro-et-al-NatCommun-2024.pdf',
+  'https://doi.org/10.1038/s41467-024-50214-2',
+  'https://www.nature.com/articles/s41467-024-50214-2.pdf');">
 
           Ferro et al.
           <i>Nature Communications</i>
@@ -292,10 +287,9 @@ at Universitat Pompeu Fabra in Barcelona.
     <div
       onclick="
         openPDF(
-          '/files/Ferro-et-al-NatCommun-2024.pdf',
-          'https://doi.org/10.1038/s41467-024-50214-2'
-        );
-      "
+  '/files/Ferro-et-al-NatCommun-2024.pdf',
+  'https://doi.org/10.1038/s41467-024-50214-2',
+  'https://www.nature.com/articles/s41467-024-50214-2.pdf');"
       style="
         cursor:pointer;
       ">
@@ -331,10 +325,9 @@ at Universitat Pompeu Fabra in Barcelona.
           onclick="
             event.preventDefault();
             openPDF(
-              '/files/Ferro-et-al-NatCommun-2024.pdf',
-              'https://doi.org/10.1038/s41467-024-50214-2'
-            );
-          ">
+  '/files/Ferro-et-al-NatCommun-2024.pdf',
+  'https://doi.org/10.1038/s41467-024-50214-2',
+  'https://www.nature.com/articles/s41467-024-50214-2.pdf');">
 
           Ferro et al.
           <i>Nature Communications</i>
@@ -349,10 +342,9 @@ at Universitat Pompeu Fabra in Barcelona.
     <div
       onclick="
         openPDF(
-          '/files/Ferro-et-al-NatCommun-2024.pdf',
-          'https://doi.org/10.1038/s41467-024-50214-2'
-        );
-      "
+  '/files/Ferro-et-al-NatCommun-2024.pdf',
+  'https://doi.org/10.1038/s41467-024-50214-2',
+  'https://www.nature.com/articles/s41467-024-50214-2.pdf');"
       style="
         cursor:pointer;
       ">
@@ -390,8 +382,9 @@ at Universitat Pompeu Fabra in Barcelona.
             event.preventDefault();
             openPDF(
               '/files/Ferro-et-al-PNAS-2021.pdf',
-              'https://doi.org/10.1073/pnas.2022097118'
-            );
+              'https://doi.org/10.1073/pnas.2022097118',
+              'https://www.pnas.org/doi/pdf/10.1073/pnas.2022097118?download=true'
+              );
           ">
 
           Ferro et al.
@@ -408,7 +401,8 @@ at Universitat Pompeu Fabra in Barcelona.
       onclick="
         openPDF(
           '/files/Ferro-et-al-PNAS-2021.pdf',
-          'https://doi.org/10.1073/pnas.2022097118'
+          'https://doi.org/10.1073/pnas.2022097118',
+            'https://www.pnas.org/doi/pdf/10.1073/pnas.2022097118?download=true'
         );
       "
       style="
@@ -448,7 +442,8 @@ at Universitat Pompeu Fabra in Barcelona.
             event.preventDefault();
             openPDF(
               '/files/Ferro-et-al-PNAS-2021.pdf',
-              'https://doi.org/10.1073/pnas.2022097118'
+              'https://doi.org/10.1073/pnas.2022097118',
+                'https://www.pnas.org/doi/pdf/10.1073/pnas.2022097118?download=true'
             );
           ">
 
@@ -466,7 +461,8 @@ at Universitat Pompeu Fabra in Barcelona.
       onclick="
         openPDF(
           '/files/Ferro-et-al-PNAS-2021.pdf',
-          'https://doi.org/10.1073/pnas.2022097118'
+          'https://doi.org/10.1073/pnas.2022097118',
+            'https://www.pnas.org/doi/pdf/10.1073/pnas.2022097118?download=true'
         );
       "
       style="
@@ -506,7 +502,8 @@ at Universitat Pompeu Fabra in Barcelona.
             event.preventDefault();
             openPDF(
               '/files/Ferro-et-al-PNAS-2021.pdf',
-              'https://doi.org/10.1073/pnas.2022097118'
+              'https://doi.org/10.1073/pnas.2022097118',
+                'https://www.pnas.org/doi/pdf/10.1073/pnas.2022097118?download=true'
             );
           ">
 
@@ -524,7 +521,8 @@ at Universitat Pompeu Fabra in Barcelona.
       onclick="
         openPDF(
           '/files/Ferro-et-al-PNAS-2021.pdf',
-          'https://doi.org/10.1073/pnas.2022097118'
+          'https://doi.org/10.1073/pnas.2022097118',
+            'https://www.pnas.org/doi/pdf/10.1073/pnas.2022097118?download=true'
         );
       "
       style="
@@ -630,7 +628,7 @@ at Universitat Pompeu Fabra in Barcelona.
      OPEN PDF
      ========================================================= */
 
-  window.openPDF = async function(pdfURL, publicationURL) {
+  window.openPDF = async function(viewerPDFURL, publicationURL, downloadURL) {
 
     const viewer =
       document.getElementById("pdfViewer");
@@ -649,8 +647,7 @@ at Universitat Pompeu Fabra in Barcelona.
      * Store current PDF
      */
 
-    currentPDFURL =
-      pdfURL;
+    currentPDFURL = viewerPDFURL;
 
 
     /*
@@ -659,21 +656,27 @@ at Universitat Pompeu Fabra in Barcelona.
      * Open button → publication webpage
      * Download button → PDF
      */
+    
+      if (openLink) {
+      
+        openLink.href =
+          publicationURL || viewerPDFURL;
+      
+      }
+      
+      if (downloadLink) {
+      
+        downloadLink.href =
+          downloadURL || viewerPDFURL;
+      
+        /*
+         * Don't force browser download.
+         * Let the publisher handle it.
 
-    if (openLink) {
-
-      openLink.href =
-        publicationURL || pdfURL;
-
-    }
-
-
-    if (downloadLink) {
-
-      downloadLink.href =
-        pdfURL;
-
-    }
+        downloadLink.removeAttribute("download");
+        */
+      
+      }
 
 
     /*
