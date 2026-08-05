@@ -19,11 +19,10 @@ group led by <a href="https://www.upf.edu/web/ruben-moreno-bote" target="_blank"
 <a href="https://www.upf.edu/web/cbc" target="_blank">Center for Brain and Cognition</a>
 at Universitat Pompeu Fabra in Barcelona.
 </p>
+
 <!------------------------------------------------------>
 
 
-
-```html
 <!-- =========================================================
      HIGHLIGHTS
      ========================================================= -->
@@ -1452,9 +1451,6 @@ at Universitat Pompeu Fabra in Barcelona.
   </div>
 
 </div>
-```
-
-
 
 
 
