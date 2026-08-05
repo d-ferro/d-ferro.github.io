@@ -31,7 +31,7 @@ at Universitat Pompeu Fabra in Barcelona.
 
 <p style="font-size:.75em;">
   A visual overview of representative works.
-  Click any figure or publication below to explore the corresponding PDF.
+  Click any figure or publication below to explore the corresponding publication.
 </p>
 
 
