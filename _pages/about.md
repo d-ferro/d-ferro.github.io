@@ -123,7 +123,7 @@ A visual overview of representative findings from my works. Click any figure to 
 <h3>Research</h3>
 
 <p style="font-size:.75em; text-align:justify">
-My long-term goal is to develop unified computational theories of attention, gaze, reward, and decision-making. By combining computational modeling, neural population analyses, eye tracking, and electrophysiology, I investigate how internal states shape information flow across brain circuits and give rise to flexible, goal-directed behavior.
+My research seeks to understand how the brain dynamically transforms sensory evidence and internal goals into adaptive, goal-directed behavior. I develop computational and theoretical models that link neural circuit dynamics with attention, gaze, reward, and decision-making, integrating laminar cortical organization, neural population coding, behavior, eye tracking, and electrophysiological recordings. By connecting these levels of description, I aim to uncover the mechanisms through which internal states continuously reshape the transmission, modulation, integration, and transformation of information across neural circuits, enabling the brain to flexibly adapt its computations to changing behavioral demands.
 </p>
 
 <p style="font-size:.75em; text-align:justify">
