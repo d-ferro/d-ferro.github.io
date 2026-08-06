@@ -934,7 +934,7 @@ window.openPDF = async function(pdfURL, publicationURL, downloadURL) {
           text-align:center;
           pointer-events:none;
           ">
-
+ 
           <img src="/images/lens.svg" style="width:16px; height:16px">
 
       </span>
