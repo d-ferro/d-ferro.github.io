@@ -922,10 +922,10 @@ window.openPDF = async function(pdfURL, publicationURL, downloadURL) {
 
       <span style="
           position:absolute;
-          top:calc(50% - 20px);
-          left:calc(50% - 20px);
-          width:20px;
-          height:20px;
+          top:calc(50% - 15px);
+          left:calc(50% - 15px);
+          width:30px;
+          height:30px;
           background:white;
           border:1px solid lightgray;
           border-radius:50%;
@@ -995,10 +995,10 @@ openPDF(
 
       <span style="
           position:absolute;
-          top:calc(50% - 20px);
-          left:calc(50% - 20px);
-          width:20px;
-          height:20px;
+          top:calc(50% - 15px);
+          left:calc(50% - 15px);
+          width:30px;
+          height:30px;
           background:white;
           border:1px solid lightgray;
           border-radius:50%;
@@ -1067,12 +1067,12 @@ openPDF(
 
       <span style="
           position:absolute;
-          top:calc(50% - 20px);
-          left:calc(50% - 20px);
-          width:20px;
-          height:20px;
+          top:calc(50% - 15px);
+          left:calc(50% - 15px);
+          width:30px;
+          height:30px;
           background:white;
-          border:1px solid lightgray; 
+          border:1px solid lightgray;
           border-radius:50%;
           font-size:50px;
           line-height:20px;
@@ -1138,10 +1138,10 @@ openPDF(
 
       <span style="
           position:absolute;
-          top:calc(50% - 20px);
-          left:calc(50% - 20px);
-          width:20px;
-          height:20px;
+          top:calc(50% - 15px);
+          left:calc(50% - 15px);
+          width:30px;
+          height:30px;
           background:white;
           border:1px solid lightgray;
           border-radius:50%;
@@ -1559,12 +1559,7 @@ Neural activity in dorsal anterior cingulate cortex tracked this reference-depen
  <td style="border:none !important;"><a style="color:#444" href="https://doi.org/10.1038/s41467-024-50214-2" target="_blank">Gaze-centered gating, reactivation, and reevaluation of economic value in orbitofrontal cortex</a> <br/>
 <b>Demetrio Ferro</b><sup>✉️</sup>, Tyler Cash-Padgett, Maya Zhe-Wang, <a style="color:#444" href="https://www.haydenlab.com/" target="_blank">Benjamin Y. Hayden</a>, <a style="color:#444" href="https://www.upf.edu/web/tcn" target="_blank">Rubén Moreno Bote</a><br/>
 <i>Nature Communications</i>, <b>15</b>:6163, 2024 <br/> 
-<span class="citation-count" data-doi="10.1038/s41467-024-50214-2">
-  Citations: <span class="citation-number">--</span>
-</span>
-<br/>
-DOI:
-<a style="color:#444"
+DOI:<a style="color:#444"
    href="https://doi.org/10.1038/s41467-024-50214-2"
    target="_blank">10.1038/s41467-024-50214-2</a>; Data and code: <a style="color:#444" href="https://doi.org/10.12751/g-node.evlnq5">repository</a>; PDF: 📄<a style="color:#444" href="https://www.nature.com/articles/s41467-024-50214-2.pdf" type="application/pdf" target="_blank">NatCommun</a>, <a style="color:#444" href="https://www.biorxiv.org/content/10.1101/2023.04.20.537677v3.full.pdf" type="application/pdf"  target="_blank">bioRxiv</a>, <a href="https://www.researchsquare.com/article/rs-2851867/v1" type="application/pdf"  target="_blank">ResearchSquare</a>;
     <sup>✉️</sup><a style="font-weight:bold" href="mailto:demetrio.ferro@upf.edu" target="_blank">Corresponding Author</a>.
