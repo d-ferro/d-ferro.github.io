@@ -935,7 +935,7 @@ window.openPDF = async function(pdfURL, publicationURL, downloadURL) {
           pointer-events:none;
           ">
 
-        🔍
+          <img src="/files/searchlens.svg" style="width:16px; height:16px">
 
       </span>
 
