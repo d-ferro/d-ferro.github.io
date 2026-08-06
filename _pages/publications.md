@@ -8,7 +8,7 @@ author_profile: true
  
 <p style="font-size:.75em">You can also find my publications on <a style="color:#444" href="https://scholar.google.com/citations?hl=en&user=rb2l4DcAAAAJ&hl=en" target="_blank">Scholar</a>. Here is a list of <a href="/research/" target="_blank">accepted abstracts</a> for international conferences.</p> 
 
-<p style="font-size:.75em">For any request or further information contact me at <i>demetrio[dot]ferro[at]upf[dot]edu</i>.</p>
+<p style="font-size:.75em">For any request or further information contact me at <i>ferrodemetrio[at]gmail[dot]com</i>.</p>
 
 <p>Featured</p>
 
