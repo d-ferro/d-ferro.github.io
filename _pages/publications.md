@@ -935,7 +935,7 @@ window.openPDF = async function(pdfURL, publicationURL, downloadURL) {
           pointer-events:none;
           ">
 
-          <img src="/images/search-lens.svg" style="width:16px; height:16px">
+          <img src="/images/lens.svg" style="width:16px; height:16px">
 
       </span>
 
@@ -1008,7 +1008,7 @@ openPDF(
           pointer-events:none;
           ">
 
-        <img src="/images/search-lens.svg" style="width:16px; height:16px">
+        <img src="/images/lens.svg" style="width:16px; height:16px">
 
       </span>
 
@@ -1080,7 +1080,7 @@ openPDF(
           pointer-events:none;
           ">
 
-                <img src="/images/search-lens.svg" style="width:16px; height:16px">
+                <img src="/images/lens.svg" style="width:16px; height:16px">
 
       </span>
 
@@ -1151,7 +1151,7 @@ openPDF(
           pointer-events:none;
           ">
 
-                <img src="/images/search-lens.svg" style="width:16px; height:16px">
+                <img src="/images/lens.svg" style="width:16px; height:16px">
 
 
       </span>
