@@ -1072,7 +1072,7 @@ openPDF(
           width:20px;
           height:20px;
           background:white;
-          border:1px solid lightgray;
+          border:1px solid lightgray; 
           border-radius:50%;
           font-size:50px;
           line-height:20px;
