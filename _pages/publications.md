@@ -922,14 +922,14 @@ window.openPDF = async function(pdfURL, publicationURL, downloadURL) {
 
       <span style="
           position:absolute;
-          top:calc(50% - 10px);
-          left:calc(50% - 10px);
+          top:calc(50% - 20px);
+          left:calc(50% - 20px);
           width:20px;
           height:20px;
           background:white;
           border:1px solid lightgray;
           border-radius:50%;
-          font-size:12px;
+          font-size:50px;
           line-height:20px;
           text-align:center;
           pointer-events:none;
@@ -995,14 +995,14 @@ openPDF(
 
       <span style="
           position:absolute;
-          top:calc(50% - 10px);
-          left:calc(50% - 10px);
+          top:calc(50% - 20px);
+          left:calc(50% - 20px);
           width:20px;
           height:20px;
           background:white;
           border:1px solid lightgray;
           border-radius:50%;
-          font-size:12px;
+          font-size:50px;
           line-height:20px;
           text-align:center;
           pointer-events:none;
@@ -1067,14 +1067,14 @@ openPDF(
 
       <span style="
           position:absolute;
-          top:calc(50% - 10px);
-          left:calc(50% - 10px);
+          top:calc(50% - 20px);
+          left:calc(50% - 20px);
           width:20px;
           height:20px;
           background:white;
           border:1px solid lightgray;
           border-radius:50%;
-          font-size:12px;
+          font-size:50px;
           line-height:20px;
           text-align:center;
           pointer-events:none;
@@ -1138,14 +1138,14 @@ openPDF(
 
       <span style="
           position:absolute;
-          top:calc(50% - 10px);
-          left:calc(50% - 10px);
+          top:calc(50% - 20px);
+          left:calc(50% - 20px);
           width:20px;
           height:20px;
           background:white;
           border:1px solid lightgray;
           border-radius:50%;
-          font-size:12px;
+          font-size:50px;
           line-height:20px;
           text-align:center;
           pointer-events:none;
