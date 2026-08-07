@@ -1676,7 +1676,7 @@ Neural activity in dorsal anterior cingulate cortex tracked this reference-depen
  <td style="border:none !important;"><a style="color:#444" href="https://www.biorxiv.org/content/10.1101/2023.04.20.537677v3" target="_blank">Gaze-centered gating and re-activation of value encoding in orbitofrontal cortex</a><br/>
   <b>Demetrio Ferro</b><sup>✉️</sup>, Tyler Cash-Padgett, Maya Zhe-Wang, Benjamin Y. Hayden, Rubén Moreno Bote<br/>
   <i>bioRxiv</i>, 2023 <br/>
-  DOI: <a style="color:#444" href="https://doi.org/10.1101/2023.04.20.537677" target="_blank">10.1101/2023.04.20.537677</a>; Data and code: <a style="color:#444" href="https://doi.org/10.12751/g-node.evlnq5" target="_blank">repository</a>; PDF: 📄<a style="color:#444" href="https://www.biorxiv.org/content/10.1101/2023.04.20.537677v3.full.pdf" type="application/pdf"  target="_blank">bioRxiv</a>;   <sup>✉️</sup><a style="font-weight:bold" href="mailto:demetrio.ferro@upf.edu" target="_blank">Corresponding Author</a>.
+  DOI: <a style="color:#444" href="https://doi.org/10.1101/2023.04.20.537677" target="_blank">10.1101/2023.04.20.537677</a>; Data and code: <a style="color:#444" href="https://doi.org/10.12751/g-node.evlnq5" target="_blank">repository</a>; <img src="/images/file.svg" style="width:16px; height:12px"> <a style="color:#444" href="https://www.biorxiv.org/content/10.1101/2023.04.20.537677v3.full.pdf" type="application/pdf"  target="_blank">bioRxiv</a>;   <sup>✉️</sup><a style="font-weight:bold" href="mailto:demetrio.ferro@upf.edu" target="_blank">Corresponding Author</a>.
  </td>
 </tr> 
 <!-- 2021-->
@@ -1686,7 +1686,7 @@ Neural activity in dorsal anterior cingulate cortex tracked this reference-depen
  <td style="border:none !important;"><a style="color:#444" href="https://www.biorxiv.org/content/10.1101/2020.06.09.142190v1">Directed information exchange between cortical layers in macaque V1 and V4 and its modulation by selective attention</a> <br/>
    <b>Demetrio Ferro</b><sup>✉️</sup>, Jochem van Kempen, Michael Boyd, Stefano Panzeri, Alexander Thiele<br/>
   <i>bioRxiv</i>, 2020 <br/>
-  DOI: <a style="color:#444" href="https://doi.org/10.1101/2020.06.09.142190">10.1101/2020.06.09.142190</a>; PDF: 📄<a style="color:#444" href="https://www.biorxiv.org/content/10.1101/2020.06.09.142190v1.full.pdf" type="application/pdf" target="_blank">bioRxiv</a>;   <sup>✉️</sup><a style="font-weight:bold" href="mailto:demetrio.ferro@upf.edu" target="_blank">Corresponding Author</a>.
+  DOI: <a style="color:#444" href="https://doi.org/10.1101/2020.06.09.142190">10.1101/2020.06.09.142190</a>; <img src="/images/file.svg" style="width:16px; height:12px"> <a style="color:#444" href="https://www.biorxiv.org/content/10.1101/2020.06.09.142190v1.full.pdf" type="application/pdf" target="_blank">bioRxiv</a>;   <sup>✉️</sup><a style="font-weight:bold" href="mailto:demetrio.ferro@upf.edu" target="_blank">Corresponding Author</a>.
  </td>
 </tr>
  <!-- 2019-->
@@ -1694,7 +1694,7 @@ Neural activity in dorsal anterior cingulate cortex tracked this reference-depen
  <td style="border:none !important; text-align:center !important; vertical-align:top !important"><h3 style="margin-top:0 !important">2019</h3></td>
  <td style="border:none !important;"><a style="color:#444" href="https://hdl.handle.net/11572/246290">Effects of attention on visual processing between cortical layers and cortical areas V1 and V4</a> <br/>
   <b>Demetrio Ferro</b><sup>✉️</sup>, <i>University of Trento, Institutional Research Information System (IRIS)</i>, 1-172, 2019<br />
-  DOI:<a style="color:#444" href="https://dx.doi.org/10.15168/11572_246290" target="_blank">10.15168/11572_246290</a>; PDF: 📄<a style="color:#444" href="https://iris.unitn.it/retrieve/e3835195-f568-72ef-e053-3705fe0ad821/DFerro-Thesis-final-updated-reviews-ok.pdf" type="application/pdf" target="_blank">IRIS</a>;   <sup>✉️</sup><a style="font-weight:bold" href="mailto:demetrio.ferro@upf.edu" target="_blank">Corresponding Author</a>.
+  DOI:<a style="color:#444" href="https://dx.doi.org/10.15168/11572_246290" target="_blank">10.15168/11572_246290</a>; <img src="/images/file.svg" style="width:16px; height:12px"> <a style="color:#444" href="https://iris.unitn.it/retrieve/e3835195-f568-72ef-e053-3705fe0ad821/DFerro-Thesis-final-updated-reviews-ok.pdf" type="application/pdf" target="_blank">IRIS</a>;   <sup>✉️</sup><a style="font-weight:bold" href="mailto:demetrio.ferro@upf.edu" target="_blank">Corresponding Author</a>.
  </td>
 </tr>
 </table>
