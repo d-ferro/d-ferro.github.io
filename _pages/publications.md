@@ -1484,7 +1484,7 @@ openPDF(
  <td style="border:none !important; text-align:center !important; vertical-align:top !important"><h3 style="margin-top:0 !important">2026</h3></td>
  <td style="border:none !important;"><a style="color:#444" href="" target="_blank">Neural Network Dynamics Underlying Flexible Adjustment of Temporal Evidence Weighting in Perceptual Decision-Making</a> <br/>
   <b>Demetrio Ferro<sup><img src="/images/mail.svg" style="width:16px; height:12px"></sup></b>, Citlalli Vivar, Aaron J Levi, Alexander C Huk and Klaus Wimmer <br/>
-  <i>in preparation</i>, DOI: <a href="" target="_blank">(to appear soon)</a>; Data and code: <a href="https://gin.g-node.org/56Fe" target="_blank">repository</a>, PDF: <img src="/images/file.svg" style="width:16px; height:12px"><a style="color:#444" href="" target="_blank">(to appear soon)</a>; <sup><img src="/images/mail.svg" style="width:16px; height:12px"></sup><a style="font-weight:bold" href="mailto:demetrio.ferro@upf.edu" target="_blank">Corresponding Author</a>.
+  <i>in preparation</i>, DOI: <a href="" target="_blank">(to appear soon)</a>; Data and code: <a href="https://gin.g-node.org/56Fe" target="_blank">repository</a>, <a style="color:#444" href="" target="_blank"><img src="/images/file.svg" style="width:16px; height:12px"> (to appear soon)</a>; <sup><img src="/images/mail.svg" style="width:16px; height:12px"></sup><a style="font-weight:bold" href="mailto:demetrio.ferro@upf.edu" target="_blank">Corresponding Author</a>.
  
 <div style="margin-top: 10px; padding-left: 10px; border-left: 1px dotted #777; color:#999"><i style="font-size:9pt">
  Adaptive perceptual decisions depend highly on flexibly weighting sensory evidence as environmental cues change over time. <br/>
