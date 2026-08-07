@@ -1474,8 +1474,6 @@ openPDF(
 
 <br/>
 
-
-
 <p style="clear:both; margin-top:-40px">Forthcoming</p>
 
 <table style="border:none !important; margin-top:0 !important; margin-bottom:0 !important">
@@ -1486,10 +1484,10 @@ openPDF(
  <td style="border:none !important; text-align:center !important; vertical-align:top !important"><h3 style="margin-top:0 !important">2026</h3></td>
  <td style="border:none !important;">
   <a style="color:#444" href="" target="_blank">Neural Network Dynamics Underlying Flexible Adjustment of Temporal Evidence Weighting in Perceptual Decision-Making</a> <br/>
-  <b>Demetrio Ferro<sup><img src="/images/mail.svg" style="width:16px; height:12px; margin-bottom:.3em"></sup></b>, Citlalli Vivar, Aaron J Levi, Alexander C Huk and Klaus Wimmer <br/>
+  <b>Demetrio Ferro <img src="/images/mail.svg" style="width:16px; height:12px; margin-bottom:.3em"></b>, Citlalli Vivar, Aaron J Levi, Alexander C Huk and Klaus Wimmer <br/>
   <i>in preparation</i>, DOI: <a href="" target="_blank">(to appear soon)</a>; Data and code: <a href="https://gin.g-node.org/56Fe" target="_blank">repository</a>, <img src="/images/file.svg" style="width:16px; height:12px; margin-bottom:.3em"><a style="color:#444" href="" target="_blank">(to appear soon)</a>; <img src="/images/mail.svg" style="width:16px; height:12px; margin-bottom:.3em"><a style="font-weight:bold" href="mailto:demetrio.ferro@upf.edu" target="_blank">Corresponding Author</a>.
 
-  <div style="margin-top: 10px; padding-left: 10px; border-left: 1px dotted #777; color:#999"><i style="font-size:9pt">
+  <div style="margin-top:10px; padding-left:10px; border-left:1px dotted #777; color:#999"><i style="font-size:9pt">
    Adaptive perceptual decisions depend highly on flexibly weighting sensory evidence as environmental cues change over time. <br/>
    We developed a psychophysiologically grounded computational model that reproduces neural and behavioral signatures of temporal evidence weighting, <br/>
    identifying mechanistic circuit interactions through which sensory inputs and top-down signals dynamically shape decisions.</i></div>
@@ -1508,11 +1506,11 @@ openPDF(
  <td style="border:none !important; text-align:center !important; vertical-align:top !important"><h3 style="margin-top:0 !important">2026</h3></td>
  <td style="border:none !important;">
   <a style="color:#444" href="https://doi.org/10.1038/s41467-026-70423-1" target="_blank">Accumulation of virtual tokens towards a jackpot reward enhances performance and value encoding in dorsal anterior cingulate cortex</a> <br/>
-  <b>Demetrio Ferro<sup><img src="/images/mail.svg" style="width:16px; height:12px; margin-bottom:.3em"></sup></b>, Habiba Azab, Benjamin Y. Hayden and Rubén Moreno-Bote <br/>
+  <b>Demetrio Ferro <img src="/images/mail.svg" style="width:16px; height:12px; margin-bottom:.3em"></b>, Habiba Azab, Benjamin Y. Hayden and Rubén Moreno-Bote <br/>
   <i>Nature Communications</i>, <b>17</b>:7554, 2026<br/>
   DOI: <a href="https://doi.org/10.1038/s41467-026-70423-1" target="_blank">10.1038/s41467-026-70423-1</a>; Data and code: <a href="https://10.12751/g-node.1kkrw6" target="_blank">repository</a>, <img src="/images/file.svg" style="width:16px; height:12px; margin-bottom:.3em"><a href="https://www.nature.com/articles/s41467-026-70423-1.pdf" target="_blank">Nat Commun</a>, <a style="color:#444" href="https://doi.org/10.1101/2025.03.03.640771" target="_blank">bioRxiv</a>, <a style="color:#444" href="https://www.researchsquare.com/article/rs-6161777/v1" target="_blank">ResearchSquare</a>; <img src="/images/mail.svg" style="width:16px; height:12px; margin-bottom:.3em"><a style="font-weight:bold" href="mailto:demetrio.ferro@upf.edu" target="_blank">Corresponding Author</a>.
 
-  <div style="margin-top: 10px; padding-left: 10px; border-left: 1px dotted #777; color:#999"><i style="font-size:9pt">
+  <div style="margin-top:10px; padding-left:10px; border-left:1px dotted #777; color:#999"><i style="font-size:9pt">
    In proximity of a jackpot, subjects perform choices faster and more accurately, reflecting a fundamental shift in their evaluation strategy. <br/>
    The value of alternative choice options is referenced to a cumulative tokens count that leads to jackpot achievement upon reaching a fixed threshold. <br/>
    Neural activity in dorsal anterior cingulate cortex tracked this reference-dependent shift, revealing a neural basis for reward proximity in decision-making.</i></div>
@@ -1525,12 +1523,12 @@ openPDF(
  <td style="border:none !important; text-align:center !important; vertical-align:top !important"><h3 style="margin-top:0 !important">2025</h3></td>
  <td style="border:none !important;">
   <a style="color:#444" href="https://2025.ccneuro.org" target="_blank">A closed-loop model for the coordination of gaze control and decision-making</a><br/>
-  <b>Demetrio Ferro<sup><img src="/images/mail.svg" style="width:16px; height:12px; margin-bottom:.3em"></sup></b>, Tianming Yang, Rubén Moreno Bote<br/>
+  <b>Demetrio Ferro <img src="/images/mail.svg" style="width:16px; height:12px; margin-bottom:.3em"></b>, Tianming Yang, Rubén Moreno Bote<br/>
   <i>Cognitive, Computational Neuroscience (CCN)</i>, 2025; 
   <img src="/images/file.svg" style="width:16px; height:12px; margin-bottom:.3em"><a style="color:#444" href="https://2025.ccneuro.org/abstract_pdf/Ferro_2025_A_closed-loop_model_coordination_gaze_control.pdf" type="application/pdf" target="_blank">CCNeuro</a>; 
   <img src="/images/mail.svg" style="width:16px; height:12px; margin-bottom:.3em"><a style="font-weight:bold" href="mailto:demetrio.ferro@upf.edu" target="_blank">Corresponding Author</a>.
 
-  <div style="margin-top: 10px; padding-left: 10px; border-left: 1px dotted #777; color:#999"><i style="font-size:9pt">
+  <div style="margin-top:10px; padding-left:10px; border-left:1px dotted #777; color:#999"><i style="font-size:9pt">
    This work introduces a closed-loop model linking gaze behavior with value-based decision making. <br/>
    Visual input drives competing decision populations, which guide gaze shifts that feed back into the decision process. <br/>
    Simulations capture key behavioral dynamics, offering a framework to study how gaze shapes neural and decision-related activity.</i></div>
@@ -1541,12 +1539,12 @@ openPDF(
  <td style="border:none !important; text-align:center !important; vertical-align:top !important"><h3 style="margin-top:0 !important"></h3></td>
  <td style="border:none !important;">
   <a style="color:#444" href="https://2025.ccneuro.org" target="_blank">Decision-making reference point biases in the dorsal anterior cingulate cortex</a><br/>
-  <b>Demetrio Ferro<sup><img src="/images/mail.svg" style="width:16px; height:12px; margin-bottom:.3em"></sup></b>, Habiba Azab, Benjamin Y. Hayden, Rubén Moreno Bote<br/>
+  <b>Demetrio Ferro <img src="/images/mail.svg" style="width:16px; height:12px; margin-bottom:.3em"></b>, Habiba Azab, Benjamin Y. Hayden, Rubén Moreno Bote<br/>
   <i>Cognitive, Computational Neuroscience (CCN)</i>, 2025; 
   <img src="/images/file.svg" style="width:16px; height:12px; margin-bottom:.3em"><a style="color:#444" href="https://2025.ccneuro.org/abstract_pdf/Ferro_2025_Decision-making_reference_point_biases_dorsal_anterior.pdf" type="application/pdf" target="_blank">CCNeuro</a>; 
   <img src="/images/mail.svg" style="width:16px; height:12px; margin-bottom:.3em"><a style="font-weight:bold" href="mailto:demetrio.ferro@upf.edu" target="_blank">Corresponding Author</a>.
 
-  <div style="margin-top: 10px; padding-left: 10px; border-left: 1px dotted #777; color:#999">
+  <div style="margin-top:10px; padding-left:10px; border-left:1px dotted #777; color:#999">
    <i style="font-size:9pt">
     As decision-making agents approach a reward threshold, the choice formation process becomes faster and more accurate. <br/>
     This shift is a clear indication of a context-dependent change in how value is assigned to potential outcomes. <br/>
@@ -1562,11 +1560,11 @@ openPDF(
  <td style="border:none !important; text-align:center !important; vertical-align:top !important"><h3 style="margin-top:0 !important">2024</h3></td>
  <td style="border:none !important;">
   <a style="color:#444" href="https://doi.org/10.1038/s41467-024-50214-2" target="_blank">Gaze-centered gating, reactivation, and reevaluation of economic value in orbitofrontal cortex</a> <br/>
-  <b>Demetrio Ferro<sup><img src="/images/mail.svg" style="width:16px; height:12px; margin-bottom:.3em"></sup></b>, Tyler Cash-Padgett, Maya Zhe-Wang, <a style="color:#444" href="https://www.haydenlab.com/" target="_blank">Benjamin Y. Hayden</a>, <a style="color:#444" href="https://www.upf.edu/web/tcn" target="_blank">Rubén Moreno Bote</a><br/>
+  <b>Demetrio Ferro <img src="/images/mail.svg" style="width:16px; height:12px; margin-bottom:.3em"></b>, Tyler Cash-Padgett, Maya Zhe-Wang, <a style="color:#444" href="https://www.haydenlab.com/" target="_blank">Benjamin Y. Hayden</a>, <a style="color:#444" href="https://www.upf.edu/web/tcn" target="_blank">Rubén Moreno Bote</a><br/>
   <i>Nature Communications</i>, <b>15</b>:6163, 2024 <br/> 
   DOI: <a style="color:#444" href="https://doi.org/10.1038/s41467-024-50214-2" target="_blank">10.1038/s41467-024-50214-2</a>; Data and code: <a style="color:#444" href="https://doi.org/10.12751/g-node.evlnq5">repository</a>; <img src="/images/file.svg" style="width:16px; height:12px; margin-bottom:.3em"><a style="color:#444" href="https://www.nature.com/articles/s41467-024-50214-2.pdf" type="application/pdf" target="_blank">NatCommun</a>, <a style="color:#444" href="https://www.biorxiv.org/content/10.1101/2023.04.20.537677v3.full.pdf" type="application/pdf" target="_blank">bioRxiv</a>, <a href="https://www.researchsquare.com/article/rs-2851867/v1" type="application/pdf" target="_blank">ResearchSquare</a>; <img src="/images/mail.svg" style="width:16px; height:12px; margin-bottom:.3em"><a style="font-weight:bold" href="mailto:demetrio.ferro@upf.edu" target="_blank">Corresponding Author</a>.
   <br/> 
-  <div style="margin-top: 10px; padding-left: 10px; border-left: 1px dotted #777; color:#999"><i style="font-size:9pt">
+  <div style="margin-top:10px; padding-left:10px; border-left:1px dotted #777; color:#999"><i style="font-size:9pt">
    Gaze behavior strongly influences decision making during economic choices. <br/>
    Looking at the screen locations where options are or were presented activates or reactivates their value encoding in orbitofrontal cortex. <br/>
    This reactivation correlates with upcoming choices, indicating that gaze plays an active role in reevaluating internal representations.</i></div>
@@ -1579,13 +1577,13 @@ openPDF(
  <td style="border:none !important; text-align:center !important; vertical-align:top !important"><h3 style="margin-top:0 !important">2023</h3></td>
  <td style="border:none !important;">
   <a style="color:#444" href="https://2023.ccneuro.org/view_paper8951.html?PaperNum=1122" target="_blank">The role of gaze for value encoding and recollection in orbitofrontal cortex</a><br/>
-  <b>Demetrio Ferro<sup><img src="/images/mail.svg" style="width:16px; height:12px; margin-bottom:.3em"></sup></b>, Anna Rifé Mata, Tyler Cash-Padgett, Maya Zhe-Wang, Benjamin Y. Hayden, Rubén Moreno Bote<br/>
+  <b>Demetrio Ferro <img src="/images/mail.svg" style="width:16px; height:12px; margin-bottom:.3em"></b>, Anna Rifé Mata, Tyler Cash-Padgett, Maya Zhe-Wang, Benjamin Y. Hayden, Rubén Moreno Bote<br/>
   <i>Cognitive, Computational Neuroscience (CCN)</i>, 2023 <br/>
   DOI:<a style="color:#444" href="https://2023.ccneuro.org/view_paper8951.html?PaperNum=1122" target="_blank">10.32470/CCN.2023.1122-0</a>; <img src="/images/file.svg" style="width:16px; height:12px; margin-bottom:.3em"><a style="color:#444" href="https://2023.ccneuro.org/proceedings/0000615.pdf?s=W&pn=1122" type="application/pdf" target="_blank">CCNeuro</a>; <img src="/images/mail.svg" style="width:16px; height:12px; margin-bottom:.3em"><a style="font-weight:bold" href="mailto:demetrio.ferro@upf.edu" target="_blank">Corresponding Author</a>.
 
-  <div style="margin-top: 10px; padding-left: 10px; border-left: 1px dotted #777; color:#999"><i style="font-size:9pt">
-   Gaze is drawn more to valuable options and predicts choice outcomes.  <br/>
-   Orbitofrontal cortex activity enhances the encoding for fixated locations and suppression of alternatives.  <br/>
+  <div style="margin-top:10px; padding-left:10px; border-left:1px dotted #777; color:#999"><i style="font-size:9pt">
+   Gaze is drawn more to valuable options and predicts choice outcomes. <br/>
+   Orbitofrontal cortex activity enhances the encoding for fixated locations and suppression of alternatives. <br/>
    These findings suggest that gaze supports internal deliberation by modulating neural value signals.</i></div>
  </td>
 </tr>
@@ -1596,11 +1594,11 @@ openPDF(
  <td style="border:none !important; text-align:center !important; vertical-align:top !important"><h3 style="margin-top:0 !important">2021</h3></td>
  <td style="border:none !important;">
   <a style="color:#444" href="https://www.pnas.org/doi/abs/10.1073/pnas.2022097118">Directed information exchange between cortical layers in macaque V1 and V4 and its modulation by selective attention</a> <br/>
-  <b>Demetrio Ferro</b>, Jochem van Kempen, Michael Boyd, Stefano Panzeri<sup><img src="/images/mail.svg" style="width:16px; height:12px; margin-bottom:.3em"></sup>, Alexander Thiele<sup><img src="/images/mail.svg" style="width:16px; height:12px; margin-bottom:.3em"></sup><br/>
+  <b>Demetrio Ferro</b>, Jochem van Kempen, Michael Boyd, Stefano Panzeri <img src="/images/mail.svg" style="width:16px; height:12px; margin-bottom:.3em">, Alexander Thiele <img src="/images/mail.svg" style="width:16px; height:12px; margin-bottom:.3em"><br/>
   <i>Proceedings of the National Academy of Sciences (PNAS)</i>, 118 (12), e2022097118, 2021<br/>
   DOI: <a style="color:#444" href="https://doi.org/10.1073/pnas.2022097118" target="_blank">10.1073/pnas.2022097118</a>; Data and code: <a style="color:#444" href="https://gin.g-node.org/56Fe/V1-V4-LFPs-and-Visual-Attention" target="_blank">repository</a>; <img src="/images/file.svg" style="width:16px; height:12px; margin-bottom:.3em"><a style="color:#444" href="https://www.pnas.org/doi/reader/10.1073/pnas.2022097118" type="application/pdf" target="_blank">PNAS</a>, <a style="color:#444" href="https://www.biorxiv.org/content/10.1101/2020.06.09.142190v1.full.pdf" type="application/pdf" target="_blank">bioRxiv</a>; <img src="/images/mail.svg" style="width:16px; height:12px; margin-bottom:.3em">Corresponding Authors.
 
-  <div style="margin-top: 10px; padding-left: 10px; border-left: 1px dotted #777; color:#999"><i style="font-size:9pt">
+  <div style="margin-top:10px; padding-left:10px; border-left:1px dotted #777; color:#999"><i style="font-size:9pt">
    This work maps how visual and attentional information propagate within and between cortical areas V1 and V4 at laminar resolution. <br/>
    Results show interlaminar and interareal circuit motifs, attention-related shift in the gamma-band spectral peak, and increased high-frequency power. <br/>
    Attention reduced local communication within V1 but enhanced both feedforward and feedback signaling across areas, especially in the gamma band.</i></div>
@@ -1619,11 +1617,11 @@ openPDF(
  <td style="border:none !important; text-align:center !important; vertical-align:top !important"><h3 style="margin-top:0 !important">2016</h3></td>
  <td style="border:none !important;">
   <a style="color:#444" href="https://ieeexplore.ieee.org/abstract/document/7727873/">Nearest neighbour search using binary neural networks</a> <br/>
-  <b>Demetrio Ferro<sup><img src="/images/mail.svg" style="width:16px; height:12px; margin-bottom:.3em"></sup></b>, Vincent Gripon, Xiaoran Jiang.<br />
+  <b>Demetrio Ferro <img src="/images/mail.svg" style="width:16px; height:12px; margin-bottom:.3em"></b>, Vincent Gripon, Xiaoran Jiang.<br />
   <i>International Joint Conference on Neural Networks (IJCNN), IEEE</i>, 5106-5112, 2016<br/>
   DOI:<a style="color:#444" href="https://doi.org/10.1109/IJCNN.2016.7727873" target="_blank">10.1109/IJCNN.2016.7727873</a>; <img src="/images/file.svg" style="width:16px; height:12px; margin-bottom:.3em"><a style="color:#444" href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7727873" type="application/pdf" target="_blank">IEEE</a>; <img src="/images/mail.svg" style="width:16px; height:12px; margin-bottom:.3em"><a style="font-weight:bold" href="mailto:demetrio.ferro@upf.edu" target="_blank">Corresponding Author</a>.
 
-  <div style="margin-top: 10px; padding-left: 10px; border-left: 1px dotted #777; color:#999"><i style="font-size:9pt">
+  <div style="margin-top:10px; padding-left:10px; border-left:1px dotted #777; color:#999"><i style="font-size:9pt">
    Nearest neighbor search is a common task in computer vision and pattern recognition whose complexity grows with data dimensionality. <br/>
    The method proposed here combines Product Quantization with neural networks to outperform state-of-the-art methods both in efficiency and scalability, <br/>
    achieving about 95% reduction in classification on MNIST dataset, and 77% reduction in nearest neighbor search on TEXMEX SIFT1M dataset. </i></div>
@@ -1642,7 +1640,7 @@ openPDF(
  <td style="border:none !important; text-align:center !important; vertical-align:top !important"><h3 style="margin-top:0 !important">2025</h3></td>
  <td style="border:none !important;">
   <a style="color:#444" href="https://doi.org/10.1101/2025.03.03.640771" target="_blank">Accumulation of virtual tokens towards a jackpot reward enhances performance and value encoding in dorsal anterior cingulate cortex</a> <br/>
-  <b>Demetrio Ferro<sup><img src="/images/mail.svg" style="width:16px; height:12px; margin-bottom:.3em"></sup></b>, Habiba Azab, Benjamin Y. Hayden and Rubén Moreno-Bote <br/>
+  <b>Demetrio Ferro <img src="/images/mail.svg" style="width:16px; height:12px; margin-bottom:.3em"></b>, Habiba Azab, Benjamin Y. Hayden and Rubén Moreno-Bote <br/>
   <i>bioRxiv</i>, 2025.<br/>
   DOI: <a href="https://doi.org/10.12751/g-node.1kkrw6" target="_blank">10.12751/g-node.1kkrw6</a>; Data and code: <a href="https://10.12751/g-node.1kkrw6" target="_blank">repository</a>; <img src="/images/file.svg" style="width:16px; height:12px; margin-bottom:.3em"><a style="color:#444" href="https://doi.org/10.1101/2025.03.03.640771" target="_blank">bioRxiv</a>; <img src="/images/mail.svg" style="width:16px; height:12px; margin-bottom:.3em"><a style="font-weight:bold" href="mailto:demetrio.ferro@upf.edu" target="_blank">Corresponding Author</a>.
  </td>
@@ -1664,7 +1662,7 @@ openPDF(
  <td style="border:none !important; text-align:center !important; vertical-align:top !important"><h3 style="margin-top:0 !important">2023</h3></td>
  <td style="border:none !important;">
   <a style="color:#444" href="https://search.kg.ebrains.eu/instances/a2dce812-1d4b-4fc5-a69f-96005288c12e" target="_blank">Model of gaze-centered activation and reactivation of value encoding in orbitofrontal cortex</a> <br/>
-  <b>Demetrio Ferro<sup><img src="/images/mail.svg" style="width:16px; height:12px; margin-bottom:.3em"></sup></b>, Benjamin Y. Hayden and Rubén Moreno-Bote <br/>
+  <b>Demetrio Ferro <img src="/images/mail.svg" style="width:16px; height:12px; margin-bottom:.3em"></b>, Benjamin Y. Hayden and Rubén Moreno-Bote <br/>
   <i>Ebrains Knowledgegraph</i>, 2023.<br/>
   DOI: <a href="https://search.kg.ebrains.eu/instances/a2dce812-1d4b-4fc5-a69f-96005288c12e" target="_blank">10.12751/g-node.72yf9s</a>; Data and code: <a href="https://10.12751/g-node.72yf9s" target="_blank">repository</a>; <img src="/images/mail.svg" style="width:16px; height:12px; margin-bottom:.3em"><a style="font-weight:bold" href="mailto:demetrio.ferro@upf.edu" target="_blank">Corresponding Author</a>.
  </td>
@@ -1674,7 +1672,7 @@ openPDF(
  <td style="border:none !important; text-align:center !important; vertical-align:top !important"><h3 style="margin-top:0 !important"></h3></td>
  <td style="border:none !important;">
   <a style="color:#444" href="https://www.biorxiv.org/content/10.1101/2023.04.20.537677v3" target="_blank">Gaze-centered gating and re-activation of value encoding in orbitofrontal cortex</a><br/>
-  <b>Demetrio Ferro<sup><img src="/images/mail.svg" style="width:16px; height:12px; margin-bottom:.3em"></sup></b>, Tyler Cash-Padgett, Maya Zhe-Wang, Benjamin Y. Hayden, Rubén Moreno Bote<br/>
+  <b>Demetrio Ferro <img src="/images/mail.svg" style="width:16px; height:12px; margin-bottom:.3em"></b>, Tyler Cash-Padgett, Maya Zhe-Wang, Benjamin Y. Hayden, Rubén Moreno Bote<br/>
   <i>bioRxiv</i>, 2023 <br/>
   DOI: <a style="color:#444" href="https://doi.org/10.1101/2023.04.20.537677" target="_blank">10.1101/2023.04.20.537677</a>; Data and code: <a style="color:#444" href="https://doi.org/10.12751/g-node.evlnq5" target="_blank">repository</a>; <img src="/images/file.svg" style="width:16px; height:12px; margin-bottom:.3em"><a style="color:#444" href="https://www.biorxiv.org/content/10.1101/2023.04.20.537677v3.full.pdf" type="application/pdf" target="_blank">bioRxiv</a>; <img src="/images/mail.svg" style="width:16px; height:12px; margin-bottom:.3em"><a style="font-weight:bold" href="mailto:demetrio.ferro@upf.edu" target="_blank">Corresponding Author</a>.
  </td>
@@ -1686,7 +1684,7 @@ openPDF(
  <td style="border:none !important; text-align:center !important; vertical-align:top !important"><h3 style="margin-top:0 !important">2020</h3></td>
  <td style="border:none !important;">
   <a style="color:#444" href="https://www.biorxiv.org/content/10.1101/2020.06.09.142190v1">Directed information exchange between cortical layers in macaque V1 and V4 and its modulation by selective attention</a> <br/>
-  <b>Demetrio Ferro<sup><img src="/images/mail.svg" style="width:16px; height:12px; margin-bottom:.3em"></sup></b>, Jochem van Kempen, Michael Boyd, Stefano Panzeri, Alexander Thiele<br/>
+  <b>Demetrio Ferro <img src="/images/mail.svg" style="width:16px; height:12px; margin-bottom:.3em"></b>, Jochem van Kempen, Michael Boyd, Stefano Panzeri, Alexander Thiele<br/>
   <i>bioRxiv</i>, 2020 <br/>
   DOI: <a style="color:#444" href="https://doi.org/10.1101/2020.06.09.142190">10.1101/2020.06.09.142190</a>; <img src="/images/file.svg" style="width:16px; height:12px; margin-bottom:.3em"><a style="color:#444" href="https://www.biorxiv.org/content/10.1101/2020.06.09.142190v1.full.pdf" type="application/pdf" target="_blank">bioRxiv</a>; <img src="/images/mail.svg" style="width:16px; height:12px; margin-bottom:.3em"><a style="font-weight:bold" href="mailto:demetrio.ferro@upf.edu" target="_blank">Corresponding Author</a>.
  </td>
@@ -1698,13 +1696,12 @@ openPDF(
  <td style="border:none !important; text-align:center !important; vertical-align:top !important"><h3 style="margin-top:0 !important">2019</h3></td>
  <td style="border:none !important;">
   <a style="color:#444" href="https://hdl.handle.net/11572/246290">Effects of attention on visual processing between cortical layers and cortical areas V1 and V4</a> <br/>
-  <b>Demetrio Ferro<sup><img src="/images/mail.svg" style="width:16px; height:12px; margin-bottom:.3em"></sup></b>, <i>University of Trento, Institutional Research Information System (IRIS)</i>, 1-172, 2019<br />
+  <b>Demetrio Ferro <img src="/images/mail.svg" style="width:16px; height:12px; margin-bottom:.3em"></b>, <i>University of Trento, Institutional Research Information System (IRIS)</i>, 1-172, 2019<br />
   DOI:<a style="color:#444" href="https://dx.doi.org/10.15168/11572_246290" target="_blank">10.15168/11572_246290</a>; <img src="/images/file.svg" style="width:16px; height:12px; margin-bottom:.3em"><a style="color:#444" href="https://iris.unitn.it/retrieve/e3835195-f568-72ef-e053-3705fe0ad821/DFerro-Thesis-final-updated-reviews-ok.pdf" type="application/pdf" target="_blank">IRIS</a>; <img src="/images/mail.svg" style="width:16px; height:12px; margin-bottom:.3em"><a style="font-weight:bold" href="mailto:demetrio.ferro@upf.edu" target="_blank">Corresponding Author</a>.
  </td>
 </tr>
 
 </table>
-
 
 
 
