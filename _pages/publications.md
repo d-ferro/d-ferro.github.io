@@ -888,7 +888,7 @@ window.openPDF = async function(pdfURL, publicationURL, downloadURL) {
        ======================================================= -->
 
   <div style="
-      width:25%;
+      width:20%;
       text-align:center;
       font-size:.75em;
       box-sizing:border-box;
@@ -959,7 +959,7 @@ window.openPDF = async function(pdfURL, publicationURL, downloadURL) {
        ======================================================= -->
 
   <div style="
-      width:25%;
+      width:20%;
       text-align:center;
       font-size:.75em;
       box-sizing:border-box;
@@ -1028,7 +1028,7 @@ window.openPDF = async function(pdfURL, publicationURL, downloadURL) {
        ======================================================= -->
 
   <div style="
-      width:25%;
+      width:20%;
       text-align:center;
       font-size:.75em;
       box-sizing:border-box;
@@ -1101,7 +1101,7 @@ openPDF(
        ======================================================= -->
 
   <div style="
-      width:25%;
+      width:20%;
       text-align:center;
       font-size:.75em;
       box-sizing:border-box;
@@ -1173,7 +1173,7 @@ openPDF(
        ======================================================= -->
 
   <div style="
-      width:25%;
+      width:20%;
       text-align:center;
       font-size:.75em;
       box-sizing:border-box;
