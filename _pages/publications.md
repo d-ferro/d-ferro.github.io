@@ -883,6 +883,77 @@ window.openPDF = async function(pdfURL, publicationURL, downloadURL) {
     ">
 
 
+      <!-- =======================================================
+       2027
+       ======================================================= -->
+
+  <div style="
+      width:25%;
+      text-align:center;
+      font-size:.75em;
+      box-sizing:border-box;
+      ">
+
+    <div
+      onclick="
+        event.preventDefault();
+        openPDF(
+  '/files/Ferro-et-al-NatCommun-2026.pdf',
+  'https://doi.org/10.1038/s41467-026-70423-1',
+  'https://www.nature.com/articles/s41467-026-70423-1.pdf'
+);"         
+        style="
+        position:relative;
+        display:inline-block;
+        cursor:pointer;
+        ">
+
+
+      <img
+        src="/images/paper_thumbnails/Ferroetal2027.png"
+        style="
+          width:100px;
+          border:1px solid lightgray;
+          display:block;
+          ">
+
+
+      <!-- Lens -->
+
+      <span style="
+          position:absolute;
+          top:calc(50% - 15px);
+          left:calc(50% - 15px);
+          width:30px;
+          height:30px;
+          background:white;
+          border:1px solid lightgray;
+          border-radius:50%;
+          font-size:50px;
+          line-height:20px;
+          text-align:center;
+          pointer-events:none;
+          ">
+ 
+          <img src="/images/lens.svg" style="width:16px; height:16px">
+
+      </span>
+
+    </div>
+
+
+    <br>
+
+    Ferro et al.,
+    <i>bioRxiv</i>,
+    2027
+
+  </div>
+
+
+
+
+
   <!-- =======================================================
        2026
        ======================================================= -->
