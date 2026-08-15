@@ -898,9 +898,9 @@ window.openPDF = async function(pdfURL, publicationURL, downloadURL) {
       onclick="
         event.preventDefault();
         openPDF(
-  '/files/Ferro-et-al-NatCommun-2026.pdf',
-  'https://doi.org/10.1038/s41467-026-70423-1',
-  'https://www.nature.com/articles/s41467-026-70423-1.pdf'
+  '/files/Ferro-et-al-biorxiv-2026.pdf',
+  'https://',
+  'https://.pdf'
 );"         
         style="
         position:relative;
@@ -946,7 +946,7 @@ window.openPDF = async function(pdfURL, publicationURL, downloadURL) {
 
     Ferro et al.,
     <i>bioRxiv</i>,
-    2027
+    2026 <br/> (coming soon)
 
   </div>
 
