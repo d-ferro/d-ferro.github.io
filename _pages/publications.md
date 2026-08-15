@@ -1015,7 +1015,7 @@ window.openPDF = async function(pdfURL, publicationURL, downloadURL) {
 
     <br>
 
-    Ferro et al.,
+    Ferro et al.,<br/>
     <i>Nat Commun</i>,
     2026
 
@@ -1160,7 +1160,7 @@ openPDF(
 
     <br>
 
-    Ferro et al.,
+    Ferro et al.,<br/>
     <i>Nat Commun</i>,
     2024
 
@@ -1232,7 +1232,7 @@ openPDF(
 
     <br>
 
-    Ferro et al.,
+    Ferro et al.,<br/>
     <i>PNAS</i>,
     2021
 
