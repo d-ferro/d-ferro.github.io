@@ -51,13 +51,13 @@ author_profile: true
 <table style="border:none !important;">
    <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:4%; vertical-align:top !important"><h3 style="margin-top:0 !important;">PhD SISSA 2026</h3></td>
- <td style="border:none !important;"><b>Chair of the committee for PhD theses defenses</b>, <br/> International School for Advanced Studies (SISSA), <br/>Session: Neuroscience, Sept 25th 2026 (Trieste, Italy). <a style="color:#444" href="/files/UPF_BME_Congress-Programme-FINAL-2026.pdf" type="application/pdf" target="_blank">[programme]</a>
+ <td style="border:none !important;"><b>Chair of the committee for 2x PhD theses defenses</b>, <br/> International School for Advanced Studies (SISSA), <br/>Session: Neuroscience, Sept 25th 2026 (Trieste, Italy). <a style="color:#444" href="/files/.pdf" type="application/pdf" target="_blank">[programme]</a>
  </td>
 </tr>
 
    <tr style="border:none !important;">
- <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:4%; vertical-align:top !important"><h3 style="margin-top:0 !important;">TFG BME 2026</h3></td>
- <td style="border:none !important;"><b>Chair of the committee for Bachelor degree theses dissertations</b> (Treballs de fi de Grau, TFG), <br/>Universitat Pompeu Fabra, Biomedical Engineeing Gratudations, <br/>Session: Neuroscience, July 10th 2026 (Barcelona, Spain). <a style="color:#444" href="/files/UPF_BME_Congress-Programme-FINAL-2026.pdf" type="application/pdf" target="_blank">[programme]</a>
+ <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:4%; vertical-align:top !important"><h3 style="margin-top:0 !important;">PhD UPF 2026</h3></td>
+ <td style="border:none !important;"><b>Referee for the review of 1x PhD theses defenses</b>, <br/>Universitat Pompeu Fabra, Center for Brain and Cognition, <br/>Session: Neuroscience, Sept. 28th 2026 (Barcelona, Spain). <a style="color:#444" href="/files/.pdf" type="application/pdf" target="_blank">[programme]</a>
  </td>
 </tr>
 
