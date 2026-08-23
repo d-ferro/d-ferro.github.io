@@ -11,7 +11,7 @@ thesis examination committees in neuroscience and biomedical engineering.
 </p>
 
 <div style="width:20%; text-align:right; padding-right:4%">
-  <h3>Student Supervision</h3>
+  <h3>Supervision</h3>
 </div>
 
 <table style="border:none !important;">
@@ -76,7 +76,7 @@ thesis examination committees in neuroscience and biomedical engineering.
   <td style="border:none !important;">
     <b>Scientific Communication: scientific writing, oral presentations, and presentation analysis and delivery.</b><br/>
     Universitat Pompeu Fabra, Biomedical Engineering Degree<br/>
-    2022–2023 (Barcelona, Spain).
+    Academic years 2022–2023 and 2023–2024 (Barcelona, Spain).
     <a style="color:#444" href="/files/ProgramEngBioUPF.pdf" target="_blank" type="application/pdf">[info]</a>
     <a style="color:#444" href="/files/SudyPlanEngBioUPF.pdf#page=3" target="_blank" type="application/pdf">[plan]</a>
   </td>
