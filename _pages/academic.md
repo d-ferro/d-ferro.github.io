@@ -5,13 +5,6 @@ permalink: /academic/
 author_profile: true
 --- 
 
----
-layout: archive
-title: ""
-permalink: /academic/
-author_profile: true
----
-
 <p>
 My academic activities include student supervision, university teaching, and service on
 thesis examination committees in neuroscience and biomedical engineering.
