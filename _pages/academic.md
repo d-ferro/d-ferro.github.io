@@ -86,7 +86,7 @@ thesis examination committees in neuroscience and biomedical engineering.
 
 
 <div style="width:20%; text-align:right; padding-right:4%">
-  <h3>Thesis Examination &amp; Academic Service</h3>
+  <h3>Thesis Committees</h3>
 </div>
 
 <table style="border:none !important;">
