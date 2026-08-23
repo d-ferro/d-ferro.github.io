@@ -75,6 +75,7 @@ thesis examination committees in neuroscience and biomedical engineering.
   </td>
   <td style="border:none !important;">
     <b>Scientific Communication: scientific writing, oral presentations, and presentation analysis and delivery.</b><br/>
+    Source citation, Copyright and licensing principles, open-access publication of data/code repositories.<br/>
     Universitat Pompeu Fabra, Biomedical Engineering Degree<br/>
     Academic years 2022–2023 and 2023–2024 (Barcelona, Spain).
     <a style="color:#444" href="/files/ProgramEngBioUPF.pdf" target="_blank" type="application/pdf">[info]</a>
