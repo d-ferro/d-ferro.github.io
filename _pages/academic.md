@@ -5,7 +5,7 @@ permalink: /academic/
 author_profile: true
 --- 
 
-<p>
+<p style="font-size:.75em">
 My academic activities include student supervision, university teaching, and service on
 thesis examination committees in neuroscience and biomedical engineering.
 </p>
