@@ -28,7 +28,7 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
 </tr>
   <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">CASES 2026</h3></td>
- <td style="border:none !important;"><b>D. Ferro</b> “Attention and intention, how our brain orients our executive functions”,  CASES (Citizen Art-Science Engagement Strategies), <a href="https://eutopia-university.eu/" target="_blank">EUTOPIA</a> Impact and Dissemination, 18th Sept. 2026 (Turin, IT 🇮🇹). <a style="color:#444" href="/files/CASES_2026_Turin.pdf" type="application/pdf" target="_blank">[certificate]</a> 
+ <td style="border:none !important;"><b>D. Ferro</b> “Attention and intention, how our brain orients our executive functions”,  CASES (Citizen Art-Science Engagement Strategies), <a href="https://eutopia-university.eu/" target="_blank">EUTOPIA</a> Impact and Dissemination, 18th Sept. 2026 (Turin, IT 🇮🇹). <a style="color:#444" href="/files/CASES_2026_Turin.pdf" type="application/pdf" target="_blank">[program]</a> 
  </td>
 </tr>
 </table>
