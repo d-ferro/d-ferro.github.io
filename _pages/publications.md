@@ -898,7 +898,7 @@ window.openPDF = async function(pdfURL, publicationURL, downloadURL) {
       onclick="
         event.preventDefault();
         openPDF(
-  '/files/Ferro-et-al-biorxiv-2026.pdf',
+  '/files/FerroVivar-2026-preview.pdf',
   'https://',
   'https://.pdf'
 );"         
@@ -944,7 +944,7 @@ window.openPDF = async function(pdfURL, publicationURL, downloadURL) {
 
     <br>
 
-    Ferro et al.,
+    Ferro, Vivar et al.,
     <i>bioRxiv</i>,
     2026 <br/> (coming soon)
 
