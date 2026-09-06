@@ -1509,6 +1509,9 @@ Beyond research, I actively contribute to scientific communities through mentori
 
 <div style="height:350px; overflow:auto">
 
+<blockquote class="twitter-tweet"><p style="font-size:.75em; text-align:justify" lang="en" dir="ltr">I will be giving a talk at the <a href="https://inctn.it" target="_blank">International Conference on Computational and Theoretical Neuroscience (INCTN)</a> in Trieste, 🇮🇹. I look forward to discussing my work about computational modelling of temporal evidence weighting 🧠📐 in perceptual decision-making. Look forward to meeting colleagues interested in computational and theoretical neuroscience. Please stop by if you are attending!<br/>&mdash; Demetrio Ferro, September 23, 2026</p></blockquote>
+
+
 <blockquote class="twitter-tweet"><p style="font-size:.75em; text-align:justify" lang="en" dir="ltr">Interested in models of dynamical neural network circuit interactions underlying temporal evidence weighting in decision-making? 🧠⏱️ Come visit my poster, <em>"Adaptive temporal weighting across behavior and neural network models"</em>, at the <a href="https://fensforum.org/" target="_blank">Federation of European Neuroscience Societies (FENS) Forum</a> in Barcelona, 🇪🇸. <br/> Tuesday, July 7, 2026, 02:00 PM–05:30 PM. Poster Session 02 – Cognition and Behavior in Decision-Making.<br/>&mdash; Demetrio Ferro, July 6, 2026</p></blockquote>
 
 <blockquote class="twitter-tweet"><p style="font-size:.75em; text-align:justify" lang="en" dir="ltr">Excited to share my latest work, now out in <a href="https://bsky.app/profile/natcomms.nature.com" target="_blank">@natcomms.nature.com</a>! 🧠🔍
@@ -1556,6 +1559,9 @@ Session 17E: Decision Making, Talk N.65, Room U6-23, Programme P.27<br/>
 <h3>Outreach</h3>
 
 <div style="height:280px; overflow:auto">
+
+<blockquote class="twitter-tweet"><p style="font-size:.75em; text-align:justify" lang="en" dir="ltr">Excited to present my work at <a href="https://d-ferro.github.io/files/CASES_2026_Turin.pdf" target="_blank">CASES 2026</a> in Turin, 🇮🇹! 🧠👁️ I will discuss how gaze dynamically orients attentional and intentional drives to shape our cognitive functions. Come join the discussion—participation is free with <a href="https://docs.google.com/forms/d/e/1FAIpQLSc8Pv_Cc5G63DmnfDqxacBVsfRYlcjzjQhMOGSAsRHY5mJ64g/viewform?usp=publish-editor" target="_blank">registration</a>!<br/>&mdash; Demetrio Ferro, September 18, 2026</p></blockquote>
+
 
 <blockquote class="twitter-tweet"><p style="font-size:.75em; text-align:justify" lang="en" dir="ltr">Excited to contribute to a <a href="https://d-ferro.github.io/files/CASES_CERTIFICATE_MALGRAT_2026.pdf" target="_blank">CASES (Citizen Art-Science Engagement Strategies)</a> citizen-science event as part of <a href="https://www.eutopia-university.eu/" target="_blank">EUTOPIA</a> Impact and Dissemination! 🌊🔬 Together with school students, we will collect microplastics on the beach and contribute to assessing the environmental status of the coastal ecosystem. <br/>
 Malgrat de Mar, Spain 🇪🇸, as part of the European Project PA-MAP 🇪🇺 in collaboration with Maria Montessori School and the Center for Studies on Planetary Well-being (Universitat Pompeu Fabra).<br/>&mdash; Demetrio Ferro, May 28, 2026</p></blockquote>
