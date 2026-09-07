@@ -1557,7 +1557,7 @@ openPDF(
 <tr style="border:none !important;">
  <td style="border:none !important; text-align:center !important; vertical-align:top !important"><h3 style="margin-top:0 !important">2026</h3></td>
  <td style="border:none !important;">
-  <a style="color:#444" href="" target="_blank">Neural Network Dynamics Underlying Flexible Adjustment of Temporal Evidence Weighting in Perceptual Decision-Making</a> <br/>
+  <a style="color:#444" href="" target="_blank">Dynamic interactions between sensory and decision-making circuits shape temporal evidence weighting</a> <br/>
   <b>Demetrio Ferro<img src="/images/mail.svg" style="width:16px; height:12px"></b>, Citlalli Vivar, Aaron J Levi, Alexander C Huk and Klaus Wimmer <br/>
   <i>in preparation</i>, DOI: <a href="" target="_blank">(to appear soon)</a>; Data and code: <a href="https://gin.g-node.org/56Fe" target="_blank">repository</a>, <img src="/images/file.svg" style="width:16px; height:12px"><a style="color:#444" href="" target="_blank">(to appear soon)</a>; <img src="/images/mail.svg" style="width:16px; height:12px"><a style="font-weight:bold" href="mailto:demetrio.ferro@upf.edu" target="_blank">Corresponding Author</a>.
 
