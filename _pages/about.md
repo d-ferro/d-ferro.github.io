@@ -1564,6 +1564,11 @@ Session 17E: Decision Making, Talk N.65, Room U6-23, Programme P.27<br/>
 <blockquote class="twitter-tweet"><p style="font-size:.75em; text-align:justify" lang="en" dir="ltr">Excited to present my work at <a href="https://d-ferro.github.io/files/CASES_2026_Turin.pdf" target="_blank">CASES 2026</a> in Turin, 🇮🇹! 🧠👁️ I will discuss how gaze dynamically orients attentional and intentional drives to shape our cognitive functions. Come join the discussion—participation is free with <a href="https://docs.google.com/forms/d/e/1FAIpQLSc8Pv_Cc5G63DmnfDqxacBVsfRYlcjzjQhMOGSAsRHY5mJ64g/viewform?usp=publish-editor" target="_blank">registration</a>!<br/>&mdash; Demetrio Ferro, September 18, 2026</p></blockquote>
 
 
+
+<blockquote class="twitter-tweet"><p style="font-size:.75em; text-align:justify" lang="en" dir="ltr">Our study shows how goal-directed drives reshape value coding in the dorsal anterior cingulate cortex (dACC), promoting faster, more focused, and less risky decisions. 🧠🎯 Thanks to <a href="https://bsky.app/profile/did:plc:palphpxobh7n7h6xvhtljekt" target="_blank">@enginyeria-upf.bsky.social</a> and <a href="https://bsky.app/profile/did:plc:ieplnix3hxwvlpwld2jet6o3" target="_blank">@upf.edu</a> for sharing our work!<br/>&mdash; Demetrio Ferro, September 14, 2026</p></blockquote>
+
+
+
 <blockquote class="twitter-tweet"><p style="font-size:.75em; text-align:justify" lang="en" dir="ltr">Excited to contribute to a <a href="https://d-ferro.github.io/files/CASES_CERTIFICATE_MALGRAT_2026.pdf" target="_blank">CASES (Citizen Art-Science Engagement Strategies)</a> citizen-science event as part of <a href="https://www.eutopia-university.eu/" target="_blank">EUTOPIA</a> Impact and Dissemination! 🌊🔬 Together with school students, we will collect microplastics on the beach and contribute to assessing the environmental status of the coastal ecosystem. <br/>
 Malgrat de Mar, Spain 🇪🇸, as part of the European Project PA-MAP 🇪🇺 in collaboration with Maria Montessori School and the Center for Studies on Planetary Well-being (Universitat Pompeu Fabra).<br/>&mdash; Demetrio Ferro, May 28, 2026</p></blockquote>
 
