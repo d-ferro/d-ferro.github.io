@@ -1565,7 +1565,7 @@ Session 17E: Decision Making, Talk N.65, Room U6-23, Programme P.27<br/>
 
 
 
-<blockquote class="twitter-tweet"><p style="font-size:.75em; text-align:justify" lang="en" dir="ltr">Thanks to <a href="https://bsky.app/profile/did:plc:palphpxobh7n7h6xvhtljekt" target="_blank">@enginyeria-upf.bsky.social</a> and <a href="https://bsky.app/profile/did:plc:ieplnix3hxwvlpwld2jet6o3" target="_blank">@upf.edu</a> for sharing our work in the news! Our study shows how goal-directed drives reshape value coding in the dorsal anterior cingulate cortex (dACC), promoting faster, more focused, and less risky decisions. 🧠🎯 <br/>&mdash; Demetrio Ferro, September 14, 2026</p></blockquote>
+<blockquote class="twitter-tweet"><p style="font-size:.75em; text-align:justify" lang="en" dir="ltr">Thanks to <a href="https://bsky.app/profile/did:plc:palphpxobh7n7h6xvhtljekt" target="_blank">@enginyeria-upf.bsky.social</a> and <a href="https://bsky.app/profile/did:plc:ieplnix3hxwvlpwld2jet6o3" target="_blank">@upf.edu</a> for sharing <a href="https://www.upf.edu/web/enginyeria/home/-/asset_publisher/nT5ucm2DcHyd/content/com-canvia-el-nostre-cervell-quan-tenim-un-objectiu-a-tocar-/maximized" target="_blank">UPF NEWS Enginyeria</a> about our work! Our study shows how goal-directed drives reshape value coding in the dorsal anterior cingulate cortex (dACC), promoting faster, more focused, and less risky decisions. 🧠🎯<br/>&mdash; Demetrio Ferro, September 14, 2026</p></blockquote>
 
 
 
