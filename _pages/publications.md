@@ -1559,7 +1559,7 @@ openPDF(
  <td style="border:none !important;">
   <a style="color:#444" href="" target="_blank">Dynamic interactions between sensory and decision-making circuits shape temporal evidence weighting</a> <br/>
   Citlalli Vivar*, <b>Demetrio Ferro<img src="/images/mail.svg" style="width:16px; height:12px"></b>*, Aaron J Levi, Alexander C Huk and Klaus Wimmer <br/>
-  <i>in preparation</i>, DOI: <a href="" target="_blank">(to appear soon)</a>; Data and code: <a href="https://gin.g-node.org/56Fe" target="_blank">repository</a>, <img src="/images/file.svg" style="width:16px; height:12px"><a style="color:#444" href="" target="_blank">(to appear soon)</a>; <br/><img src="/images/mail.svg" style="width:16px; height:12px"><a style="font-weight:bold" href="mailto:demetrio.ferro@upf.edu" target="_blank">Corresponding Author</a>; <b>*Equal contribuion, random order.</b>
+  <i>in preparation</i>, DOI: <a href="" target="_blank">(to appear soon)</a>; Data and code: <a href="https://gin.g-node.org/56Fe" target="_blank">repository</a>, <img src="/images/file.svg" style="width:16px; height:12px"><a style="color:#444" href="" target="_blank">(to appear soon)</a>; <br/><img src="/images/mail.svg" style="width:16px; height:12px"><a style="font-weight:bold" href="mailto:demetrio.ferro@upf.edu" target="_blank">Corresponding Author</a>; *<b>Equal contribuion, random order.</b>
 
   <div style="margin-top:10px; padding-left:10px; border-left:1px dotted #777; color:#999"><i style="font-size:9pt">
    Adaptive perceptual decisions depend highly on flexibly weighting sensory evidence as environmental cues change over time. <br/>
