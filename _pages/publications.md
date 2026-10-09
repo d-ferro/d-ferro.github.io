@@ -1,4 +1,4 @@
----
+ccn---
 layout: archive
 title: ""
 permalink: /publications/
@@ -158,7 +158,8 @@ author_profile: true
   </div>
 
   <br/>
-  Ferro et al., <i>CCN</i>, 2025
+  Ferro et al.,<br/>
+  <i>CCN</i>, 2025
 
 </div>
 
