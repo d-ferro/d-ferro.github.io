@@ -945,7 +945,7 @@ window.openPDF = async function(pdfURL, publicationURL, downloadURL) {
 
     <br>
 
-    Vivar*, Ferro* et al.,<br/>
+    Vivar*, Ferro*, et al.,<br/>
     <i>bioRxiv</i>, 2026 <br/> (*equal contribution)
 
   </div>
