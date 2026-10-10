@@ -1,4 +1,4 @@
-ccn---
+---
 layout: archive
 title: ""
 permalink: /publications/
