@@ -56,7 +56,6 @@ at Universitat Pompeu Fabra in Barcelona.
       perceptual motion discrimination.
       <br/>
 
-      <b>
         <a
           href="#"
           onclick="
@@ -65,13 +64,13 @@ at Universitat Pompeu Fabra in Barcelona.
   '/files/FerroVivar-2026-preview.pdf',
   'https://d-ferro.github.io/files/FerroVivar-2026-preview.pdf',
   'https://d-ferro.github.io/files/FerroVivar-2026-preview.pdf');">
-
-          Vivar*, Ferro* et al.
+      <b>
+          Vivar</b>*<b>, Ferro</b>* <b>et al.
           <i>bioRxiv</i>
           2026.
+      </b> (* Equal contribution)
 
         </a>
-      </b> (<b>*</b>Equal contribution)
 
     </div>
 
