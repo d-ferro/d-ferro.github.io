@@ -66,12 +66,12 @@ at Universitat Pompeu Fabra in Barcelona.
   'https://d-ferro.github.io/files/FerroVivar-2026-preview.pdf',
   'https://d-ferro.github.io/files/FerroVivar-2026-preview.pdf');">
 
-          Ferro et al.
-          <i>CCNeuro</i>
-          2025.
+          Vivar*, Ferro* et al.
+          <i>bioRxiv</i>
+          2026.
 
         </a>
-      </b>
+      </b> (<b>*</b>Equal contribution)
 
     </div>
 
@@ -1492,7 +1492,7 @@ A complementary line of research investigates how motivational states influence 
 </p>
 
 <p style="font-size:.75em; text-align:justify">
-My current research integrates theoretical and experimental approaches to understand the neural mechanisms of decision formation. Through collaborations spanning systems and theoretical neuroscience, I investigate how recurrent cortical dynamics generate choices and temporal weighting of evidence, extending attractor and recurrent network models toward biologically grounded accounts of flexible decision-making (<a href="" target="_blank">in preparation</a>).
+My current research integrates theoretical and experimental approaches to understand the neural mechanisms of decision formation. Through collaborations spanning systems and theoretical neuroscience, I investigate how recurrent cortical dynamics generate choices and temporal weighting of evidence, extending attractor and recurrent network models toward biologically grounded accounts of flexible decision-making (<a href="https://d-ferro.github.io/files/FerroVivar-2026-preview.pdf" target="_blank">bioRxiv 2026</a>).
 </p>
 
 <p style="font-size:.75em; text-align:justify">
