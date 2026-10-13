@@ -40,6 +40,60 @@ at Universitat Pompeu Fabra in Barcelona.
 
 <div class="slideshow-container">
 
+  <!-- =======================================================
+       2026 — VIVAR-FERRO
+       ======================================================= -->
+
+  <div class="mySlides fade">
+
+    <div class="numbertext">
+      1 / 9
+    </div>
+
+    <div class="text">
+
+      Network model for temporal evidence weighting in
+      perceptual motion discrimination.
+      <br/>
+
+      <b>
+        <a
+          href="#"
+          onclick="
+            event.preventDefault();
+            openPDF(
+  '/files/FerroVivar-2026-preview.pdf',
+  'https://d-ferro.github.io/files/FerroVivar-2026-preview.pdf',
+  'https://d-ferro.github.io/files/FerroVivar-2026-preview.pdf');">
+
+          Ferro et al.
+          <i>CCNeuro</i>
+          2025.
+
+        </a>
+      </b>
+
+    </div>
+
+
+    <div
+      onclick="
+        openPDF(
+          '/files/FerroVivar-2026-preview.pdf',
+          'https://d-ferro.github.io/files/FerroVivar-2026-preview.pdf',
+          'https://d-ferro.github.io/files/FerroVivar-2026-preview.pdf);"
+      style="
+        cursor:pointer;
+      ">
+
+      <img
+        src="/images/slideshow/ferro-vivar-2026.png"
+        style="width:100%;">
+
+    </div>
+
+  </div>
+  
 
   <!-- =======================================================
        2026 — dACC GAMBLING TASK
@@ -153,44 +207,6 @@ at Universitat Pompeu Fabra in Barcelona.
   </div>
 
 
-
-  <!-- =======================================================
-       2026 — MODEL
-       ======================================================= -->
-
-  <div class="mySlides fade">
-
-    <div class="numbertext">
-      1 / 9
-    </div>
-
-    <div class="text">
-
-      Network model for temporal evidence weighting in
-      perceptual motion discrimination.
-      <br/>
-
-      <b>
-        <span style="cursor:default;">
-          (in preparation)
-        </span>
-      </b>
-
-    </div>
-
-
-    <div
-      style="
-        cursor:default;
-      ">
-
-      <img
-        src="/images/slideshow/ferro-vivar-2026.png"
-        style="width:100%;">
-
-    </div>
-
-  </div>
 
 
 
