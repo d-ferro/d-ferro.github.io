@@ -81,7 +81,7 @@ at Universitat Pompeu Fabra in Barcelona.
         openPDF(
           '/files/FerroVivar-2026-preview.pdf',
           'https://d-ferro.github.io/files/FerroVivar-2026-preview.pdf',
-          'https://d-ferro.github.io/files/FerroVivar-2026-preview.pdf);"
+          'https://d-ferro.github.io/files/FerroVivar-2026-preview.pdf');"
       style="
         cursor:pointer;
       ">
@@ -119,8 +119,6 @@ at Universitat Pompeu Fabra in Barcelona.
   '/files/Ferro-et-al-NatCommun-2026.pdf',
   'https://doi.org/10.1038/s41467-026-70423-1',
   'https://www.nature.com/articles/s41467-026-70423-1.pdf');">
-
-          
 
           Ferro et al.
           <i>Nature Communications</i>
