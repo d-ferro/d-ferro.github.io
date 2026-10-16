@@ -900,8 +900,8 @@ window.openPDF = async function(pdfURL, publicationURL, downloadURL) {
         event.preventDefault();
         openPDF(
   '/files/FerroVivar-2026-preview.pdf',
-  'https://',
-  'https://.pdf'
+  'https://doi.org/10.64898/2026.10.09.757813',
+  'https://www.biorxiv.org/content/10.64898/2026.10.09.757813v1.full.pdf'
 );"         
         style="
         position:relative;
