@@ -68,7 +68,7 @@ at Universitat Pompeu Fabra in Barcelona.
           Vivar</b>*<b>, Ferro</b>* <b>et al.
           <i>bioRxiv</i>
           2026.
-      </b> (* Equal contribution)
+      </b> (*equal contribution, random order)
 
         </a>
 
