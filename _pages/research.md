@@ -221,6 +221,12 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
 </tr>
 
  <tr style="border:none !important;">
+ <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">Barccsyn JCs 2025-{{ site.time | date: '%Y' }}</h3></td>
+ <td style="border:none !important;"> <a style="color:#444" href="https://barccsyn.org/jcsysneuro" type="application/pdf" target="_blank">Barccsyn Journal Clubs</a>: periodic meetings with local members at the Hospital Clinic, Dec. 2025 - ongoing (Barcelona, ES 🇪🇸).
+ </td>
+</tr>
+
+ <tr style="border:none !important;">
  <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">IMIM 2025</h3></td>
  <td style="border:none !important;">Instituto Hospital del Mar de Investigaciones Médicas (IMIM), May 2025 (Barcelona, ES 🇪🇸). <a style="color:#444" href="/files/Programa_Christmas_MeetingFIN.pdf" type="application/pdf" target="_blank">[programme]</a>
  </td>
