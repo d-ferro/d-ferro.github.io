@@ -230,7 +230,7 @@ Behavioral and neural effects of perceived wealth and sensory task difficulty.<b
 </tr>
 
  <tr style="border:none !important;">
- <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">XM 2024</h3></td>
+ <td style="border:none !important; text-align:right !important; width:20% !important; padding-right:3% !important;vertical-align:top !important"><h3 style="margin-top:0 !important">IMIM 2024</h3></td>
  <td style="border:none !important;">Instituto Hospital del Mar de Investigaciones Médicas (IMIM), Dec 2024 (Barcelona, ES 🇪🇸). <a style="color:#444" href="/files/Programa_Christmas_Meeting.jpg" type="application/pdf" target="_blank">[programme]</a>
  </td>
 </tr>
